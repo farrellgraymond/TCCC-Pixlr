@@ -16,3 +16,5 @@ I am NOT a medical expert, however, I am trained as an EMR with a full understan
 Я НЕ медичний експерт, але пройшов підготовку спеціаліста швидкої медичної допомоги з повним розумінням методів надання першої допомоги, а також диспетчеризації та організації ресурсів.
 
 For accountability, I am Jason Farrell & may be found on Twitter @farrellgraymond - message me any concerns.
+
+Thank you to #MedicsTogether (@medicstogether), Believe In Ukraine (@Believe_In_Ukr), Kate From Kharkiv (@BohuslavskaKate) plus others for the support & help getting translations correct.
