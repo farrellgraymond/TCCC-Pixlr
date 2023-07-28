@@ -1,5 +1,6 @@
 # TCCC-Pixlr
 TCCC Pixlr Files - Ukraine Translations
+
 A project to translate Tactical Combat Casualty Care skills reference & training materials from English to Ukrainian. 
 Repository of Pixlr graphics files to track updates & translation corrections.
 All skills cards come from, and are the property of, Deployed Medicine - deployedmedicine.com
