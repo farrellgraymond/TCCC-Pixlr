@@ -1,19 +1,19 @@
 # TCCC-Pixlr
 TCCC Pixlr Files - Ukrainian Translations
 
-A project to translate [Tactical Combat Casualty Care](https://en.wikipedia.org/wiki/Tactical_Combat_Casualty_Care) [skills reference & training materials](https://deployedmedicine.com/market/299/category/290) from English to Ukrainian.
+A project to translate [Tactical Combat Casualty Care](https://en.wikipedia.org/wiki/Tactical_Combat_Casualty_Care) [skills reference & training materials](https://deployedmedicine.com/market/299/category/290) from English to Ukrainian.<br/>
 Repository of [Pixlr](https://pixlr.com/) graphics files to track updates & translation corrections.
 
-All skills cards come from, and are the property of, [Deployed Medicine](https://deployedmedicine.com)
+All skills cards come from, and are the property of, [Deployed Medicine](https://deployedmedicine.com)<br/>
 `Усі картки навичок надходять і є власністю [Deployed Medicine](https://deployedmedicine.com)`
 
-I am NOT from Deployed Medicine.
+I am NOT from Deployed Medicine.<br/>
 `Я НЕ з "Deployed Medicine".`
 
-This is not a replacement for proper field medicine training. I am addressing a need for open source training material in the Ukrainian language.
+This is not a replacement for proper field medicine training. I am addressing a need for open source training material in the Ukrainian language.<br/>
 `Це не є заміною для належної медичної підготовки. Я розглядаю потребу у відкритих навчальних матеріалах українською мовою.`
 
-I am NOT a medical expert, however, I am trained as an [EMR](https://en.wikipedia.org/wiki/Emergency_medical_responder) with a full understanding of first responder techniques, plus dispatch and organization of resources.
+I am NOT a medical expert, however, I am trained as an [EMR](https://en.wikipedia.org/wiki/Emergency_medical_responder) with a full understanding of first responder techniques, plus dispatch and organization of resources.<br/>
 `Я НЕ медичний експерт, але пройшов підготовку спеціаліста швидкої медичної допомоги з повним розумінням методів надання першої допомоги, а також диспетчеризації та організації ресурсів.`
 
 For accountability, I am Jason Farrell & may be found on Twitter as [@farrellgraymond](https://twitter.com/farrellgraymond) - message me any concerns.
