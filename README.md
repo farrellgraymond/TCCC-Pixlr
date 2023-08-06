@@ -26,7 +26,7 @@ I am NOT a medical expert, however, I am trained as an [EMR](https://en.wikipedi
 
 For accountability, I am Jason Farrell & may be found on Twitter as [@farrellgraymond](https://twitter.com/farrellgraymond) - message me any concerns.
 
-Thank you to #MedicsTogether ([@medicstogether](https://twitter.com/medicstogether)), Believe In Ukraine ([@Believe_In_Ukr](https://twitter.com/Believe_In_Ukr)), Kate From Kharkiv ([@BohuslavskaKate](https://twitter.com/BohuslavskaKate)) plus others for the support & help getting translations correct.
+Thank you to #MedicsTogether ([@medicstogether](https://twitter.com/medicstogether)), Believe In Ukraine ([@Believe_In_Ukr](https://twitter.com/Believe_In_Ukr)), Aryo ([@SomeGumul](https://twitter.com/SomeGumul)), Kate From Kharkiv ([@BohuslavskaKate](https://twitter.com/BohuslavskaKate)) plus others for the support & guidance with proper translations.
 
 ## How To Contribute
 
