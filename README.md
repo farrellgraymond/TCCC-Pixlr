@@ -41,7 +41,7 @@ In order to contribute, you will want to do the following:
    1. PXZ format, so your source changes are saved (please save non-destructive)
    1. PNG format
    1. PDF format
-1. Submit a pull request to this repository which includes those 3 files, with the PXZ going in the [Pixlr Source Files](Pixlr%20Source%20Files) folder and the PNG and PDF going in the appropriate [TCCC Field Medical Skills Cards](../TCCC Field Medical Skills Cards \(Бойові медичні навички\) ENG - UKR/) subfolder
+1. Submit a pull request to this repository which includes those 3 files, with the PXZ going in the [Pixlr Source Files](Pixlr%20Source%20Files) folder and the PNG and PDF going in the appropriate [TCCC Field Medical Skills Cards](TCCC%20Field%20Medical%20Skills%20Cards%20\(Бойові%20медичні%20навички\)%20ENG%20-%20UKR) subfolder
 
 And that's it!
 
