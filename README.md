@@ -3,7 +3,7 @@ TCCC Skills Cards, Ukrainian Translations in Pixlr File Format
 
 ## Downloading Ukrainian TCCC Skills Cards
 
-You can find them [here on Google Drive](https://drive.google.com/drive/folders/1Y8VYy967E1O4GRbmCfG9vlmLAwvwimfb), or in this repository in the [TCCC Field Medical Skills Cards](TCCC%20Field%20Medical%20Skills%20Cards%20(Бойові%20медичні%20навички)%20ENG%20-%20UKR) folder
+You can find the end-user TCCC Skills cards [here on Google Drive](https://drive.google.com/drive/folders/173vr97nv5Xb3C8Z_sVUHjFA8SXX3cTE6), or in this repository in the [TCCC Field Medical Skills Cards](TCCC%20Field%20Medical%20Skills%20Cards%20(Бойові%20медичні%20навички)%20ENG%20-%20UKR) folder
 
 ## Explanation of project
 
