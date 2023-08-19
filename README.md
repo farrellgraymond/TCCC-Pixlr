@@ -24,8 +24,9 @@ I am NOT a medical expert, however, I am trained as an [EMR](https://en.wikipedi
 
 ## Skills Cards, Formats, and Sizes
 
-| ## | Card Title | Letter | A0 Poster | 1.5m x 1m |
-| --- | --- | --- | --- | --- | --- |
+
+| Num | Card Title | Letter | A0 Poster | 1.5m x 1m |
+| --- | --- | --- | --- | --- |
 | 1 | One-Handed Windlass Tourniquet CUF | [PDF](1.%20One-Handed%20Windlass%20Tourniquet%20CUF%20(джгут%20-%20брашпиль)%20ENG%20-%20UKR/1%20ENG%20One-Handed%20Windlass%20Tourniquet%20PDF.pdf) [PNG](1.%20One-Handed%20Windlass%20Tourniquet%20CUF%20(джгут%20-%20брашпиль)%20ENG%20-%20UKR/1%20ENG%20One-Handed%20Windlass%20Tourniquet%20PNG.png) | | |
 | 1 | джгут - брашпиль | [PDF](1.%20One-Handed%20Windlass%20Tourniquet%20CUF%20(джгут%20-%20брашпиль)%20ENG%20-%20UKR/1%20UKR%20One-Handed%20Windlass%20Tourniquet%20PDF.pdf) [PNG](1.%20One-Handed%20Windlass%20Tourniquet%20CUF%20(джгут%20-%20брашпиль)%20ENG%20-%20UKR/1%20UKR%20One-Handed%20Windlass%20Tourniquet%20PNG.png) | [PDF](A0%20Print%20Poster%20PDF%20UKR%20Translations/1.%20A0%20PDF.pdf) | |
 
