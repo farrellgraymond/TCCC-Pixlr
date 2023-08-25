@@ -24,6 +24,7 @@ I am NOT a medical expert, however, I am trained as an [EMR](https://en.wikipedi
 
 ## Skills Cards, Formats, and Sizes
 
+NOTE: THIS TABLE IS INCOMPLETE! Currently a proof-of-concept, all existing repository cards need to be added to this table as part of a future commit!
 
 | Num | Card Title | Letter | A0 Poster | 1.5m x 1m |
 | --- | --- | --- | --- | --- |
