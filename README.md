@@ -55,3 +55,39 @@ In order to contribute, you will want to do the following:
 And that's it!
 
 Thank you again for helping to make this shared medical resource better!
+
+## Developer notes
+
+This section contains a series of tips and tricks for working with this repository.
+
+### Extracting all translated text fields for all cards
+
+GOOD TO KNOW: Pixlr files (.pxz) are just zipfiles, containing a manifest.json and a bunch of other binaries (fonts, background images, etc) - the manifest.json contains all of the text that has been translated on a given card.
+
+To extract all of the manifests and text translations for all of the Pixlr filesin the repository, use this command (tested on Mac OS X 13.5): [./extract-manifests-and-translations.sh](extract-manifests-and-translations.sh)
+
+This will delete and regenerate all translations in the [translation-manifests](translation-manifests) folder, to make it easier to see in a text manner which changes are in each release of the cards as well as send the text to translators for review and updates.
+
+Output will look like this:
+
+```
+MacBook-Pro:TCCC-Pixlr straxus$ ./extract-manifests-and-translations.sh 
+=== Testing for presence of the jq utility - if this check fails, script will exit. If you need to install jq, please go to https://jqlang.github.io/jq/download/
+jq-1.6
+=== Ensuring directory [translation-manifests] is deleted and recreated...
+=== Phase 1: Extracting all Pixlr file manifests in [Pixlr Source Files]...
+------ Extracting manifest from [1 Pixlr One-Handed Windlass Tourniquet.pxz]...
+------ Extracting manifest from [10 Pixlr Two-Handed Ratchet Tourniquet (TFC).pxz]...
+[...]
+------ Extracting manifest from [8 Pt7 Pixlr Tactical Trauma Assessment Guide.pxz]...
+------ Extracting manifest from [9 Pixlr Two-Handed Windlass Tourniquet (TFC).pxz]...
+=== Phase 1 Manifest extraction complete! Extracted manifests can be found in [translation-manifests/*.manifest.json]
+=== Phase 2: Extracting all translation strings from manifests...
+------ Extracting strings from [translation-manifests/1 Pixlr One-Handed Windlass Tourniquet.pxz.manifest.json]...
+------ Extracting strings from [translation-manifests/10 Pixlr Two-Handed Ratchet Tourniquet (TFC).pxz.manifest.json]...
+[...]
+------ Extracting strings from [translation-manifests/8 Pt7 Pixlr Tactical Trauma Assessment Guide.pxz.manifest.json]...
+------ Extracting strings from [translation-manifests/9 Pixlr Two-Handed Windlass Tourniquet (TFC).pxz.manifest.json]...
+=== Phase 2 Translation string extraction complete! Extracted translation strings can be found in [translation-manifests/*.manifest.json.translation-strings.json]
+MacBook-Pro:TCCC-Pixlr straxus$
+```
