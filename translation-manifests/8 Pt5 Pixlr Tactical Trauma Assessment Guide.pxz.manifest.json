@@ -1,6 +1,6 @@
 {
-  "id": "bd3ba863-c4e6-4243-b2f1-54b0ba70590f",
-  "name": "8 Pt5 ENG Tactical Trauma Assessment Guide PNG(2)",
+  "id": "fe7c4881-bbe7-4204-b848-0f0e39a474cc",
+  "name": "8 Pt5 ENG Tactical Trauma Assessment Guide PNG(2)(2)",
   "type": "document",
   "unit": "pixel",
   "width": 1275,
@@ -20,7 +20,51 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "7c9eab2748c7.png"
+      "content": "1c94b86f40b0.png"
+    },
+    {
+      "name": "Shape 67",
+      "type": "shape",
+      "rect": {
+        "x": 241,
+        "y": 1332,
+        "w": 40,
+        "h": 131,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 66",
+      "type": "shape",
+      "rect": {
+        "x": 195,
+        "y": 1470,
+        "w": 49,
+        "h": 138,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
     },
     {
       "name": "Shape 52",
@@ -400,8 +444,8 @@
       "name": "clipboard",
       "type": "image",
       "rect": {
-        "x": 242,
-        "y": 1242,
+        "x": 250,
+        "y": 1237,
         "w": 27,
         "h": 35,
         "r": 0
@@ -410,7 +454,55 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "2bf8a6694b4e.png"
+      "content": "4fb896e448de.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 250,
+        "y": 1286,
+        "w": 27,
+        "h": 35,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "11828ea14c08.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 250,
+        "y": 1335,
+        "w": 27,
+        "h": 35,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "c378aaa844eb.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 250,
+        "y": 1407,
+        "w": 27,
+        "h": 35,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "f8e38a7f414c.png"
     },
     {
       "name": "Shape 32",
@@ -448,23 +540,173 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "adada6dc4f45.png"
+      "content": "4db1b5624468.png"
     },
     {
-      "name": "Цей розділ, залишений пор..",
-      "type": "text",
+      "name": "clipboard Copy",
+      "type": "image",
       "rect": {
-        "x": 282,
-        "y": 1248,
-        "w": 765,
-        "h": 48,
+        "x": 207,
+        "y": 1495,
+        "w": 22,
+        "h": 24,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Цей розділ, залишений порожнім, пов’язаний із конкретними ліками та дозами. Вони визначаються місцевими процедурами.",
+      "content": "5e9086eb4f62.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 207,
+        "y": 1524,
+        "w": 22,
+        "h": 24,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9cf59a304b99.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 207,
+        "y": 1553,
+        "w": 22,
+        "h": 24,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "be0ab4fa4316.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 296,
+        "y": 1454,
+        "w": 39,
+        "h": 34,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "433585ff49ab.png"
+    },
+    {
+      "name": "Перед введенням опіоїдів ..",
+      "type": "text",
+      "rect": {
+        "x": 250,
+        "y": 1553,
+        "w": 842,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Перед введенням опіоїдів або кетаміну задокументуйте обстеження стану свідомості за допомогою методу AVPU.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Якщо виникло передозуванн..",
+      "type": "text",
+      "rect": {
+        "x": 250,
+        "y": 1524,
+        "w": 874,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо виникло передозування опіоїдними препаратами, слід ввести налоксон.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "При нудоті та блюванні сл..",
+      "type": "text",
+      "rect": {
+        "x": 250,
+        "y": 1495,
+        "w": 759,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "При нудоті та блюванні слід ввести ондансетрон.",
       "format": {
         "size": 20,
         "align": "left",
@@ -485,12 +727,12 @@
       }
     },
     {
-      "name": "Вводити знеболюючі..",
+      "name": "Це дозування можна повтор..",
       "type": "text",
       "rect": {
-        "x": 245,
-        "y": 1209,
-        "w": 237,
+        "x": 332,
+        "y": 1460,
+        "w": 653,
         "h": 28,
         "r": 0
       },
@@ -498,7 +740,177 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Вводити знеболюючі",
+      "content": "Це дозування можна повторювати кожні 20-30 хвилин BM або IH.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Дозування кетаміну: 50-10..",
+      "type": "text",
+      "rect": {
+        "x": 284,
+        "y": 1412,
+        "w": 759,
+        "h": 48,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Дозування кетаміну: 50-100 мг (або 0,5-1 мг/кг) внутрішньом'язово (BM) або інтраназально (IH).",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Кетамін може застосовуват..",
+      "type": "text",
+      "rect": {
+        "x": 282,
+        "y": 1341,
+        "w": 855,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Кетамін може застосовуватися ВВ чи ВК при помірному або сильному болю в поранених, які знаходяться в стані шоку, або мають порушення дихання (у разі сильного болю можна повторювати введення кожні 20 хвилин).",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Оральний трансмукозний фе..",
+      "type": "text",
+      "rect": {
+        "x": 284,
+        "y": 1291,
+        "w": 852,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Оральний трансмукозний фентанілу цитрат (ОТФЦ) застосовується в поранених з легким або помірним болем, якi НЕ мають шоку чи порушень дихання.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Парацетамол та мелоксикам..",
+      "type": "text",
+      "rect": {
+        "x": 284,
+        "y": 1243,
+        "w": 765,
+        "h": 48,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Парацетамол та мелоксикам з Військового набору таблеток для лікування ран - це анальгетики для поранених у свідомості, які можуть ковтати.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Вводити знеболюючі - КАРТ..",
+      "type": "text",
+      "rect": {
+        "x": 245,
+        "y": 1212,
+        "w": 718,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Вводити знеболюючі - КАРТКА 41. Pt1 - Pt6 знеболювальні препарати",
       "format": {
         "size": 20,
         "align": "left",
@@ -1122,7 +1534,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "418bafa64b21.png"
+      "content": "824287fc43c9.png"
     },
     {
       "name": "Лікуйте вторинну травму г..",
@@ -1381,24 +1793,24 @@
       }
     },
     {
-      "name": "Сторінка 5..",
+      "name": "СТОРІНКА 5 з 7 - (5/7)..",
       "type": "text",
       "rect": {
         "x": 573,
-        "y": 139,
-        "w": 224,
-        "h": 51,
+        "y": 147,
+        "w": 405,
+        "h": 42,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Сторінка 5",
+      "content": "СТОРІНКА 5 з 7 - (5/7)",
       "format": {
-        "size": 38,
+        "size": 30,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,

@@ -1,6 +1,6 @@
 {
-  "id": "640a5908-ab78-4985-8b06-d8661860a52d",
-  "name": "8 Pt4 ENG Tactical Trauma Assessment Guide PNG(2)",
+  "id": "0805fbff-b4a2-4927-9453-663762bca1f8",
+  "name": "8 Pt4 ENG Tactical Trauma Assessment Guide PNG(2)(2)",
   "type": "document",
   "unit": "pixel",
   "width": 1275,
@@ -20,7 +20,51 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "5f5daa2849ce.png"
+      "content": "1f0395b243ae.png"
+    },
+    {
+      "name": "Shape 43",
+      "type": "shape",
+      "rect": {
+        "x": 263,
+        "y": 1272,
+        "w": 41,
+        "h": 38,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 41",
+      "type": "shape",
+      "rect": {
+        "x": 263,
+        "y": 1124,
+        "w": 39,
+        "h": 35,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
     },
     {
       "name": "Shape 39",
@@ -243,6 +287,38 @@
       }
     },
     {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 263,
+        "y": 1094,
+        "w": 39,
+        "h": 34,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "e852b9c04eea.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 263,
+        "y": 1258,
+        "w": 39,
+        "h": 34,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "a26ebc014470.png"
+    },
+    {
       "name": "Радіоінформація про еваку..",
       "type": "text",
       "rect": {
@@ -311,20 +387,20 @@
       }
     },
     {
-      "name": "Цей розділ залишається по..",
+      "name": "Введіть препарати крові (..",
       "type": "text",
       "rect": {
         "x": 308,
-        "y": 1270,
+        "y": 1264,
         "w": 868,
-        "h": 48,
+        "h": 88,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Цей розділ залишається порожнім для локальних процедур. Препарати крові показані при низькому радіальному пульсі / зміненому психічному стані.",
+      "content": "Введіть препарати крові (після введення першої одиниці крові введіть 1 грам кальцію), продовжуйте повторну оцiнку до тих пір, доки не з'явиться відчутний пальпаторно пульс на променевiй артерії, доки не покращиться психічний стан або систолічний тиск не стане 100 мм рт.ст. або вище.",
       "format": {
         "size": 20,
         "align": "left",
@@ -345,20 +421,20 @@
       }
     },
     {
-      "name": "Цей розділ залишається по..",
+      "name": "Повільно струминно введіт..",
       "type": "text",
       "rect": {
         "x": 308,
         "y": 1187,
         "w": 838,
-        "h": 48,
+        "h": 68,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Цей розділ залишається порожнім для локальних процедур. Препарати показані при черепно-мозковій травмі - травмі голови.",
+      "content": "Повільно струминно введіть транексамову кислоту через ВВ чи ВК доступ, у тому числі, якщо у пораненого є ознаки або симптоми значноï ЧМТ, або змінений психічний стан у зв'язку з вибуховою або тупою травмою. КАРТКА 37. Pt1 Лікування шоку",
       "format": {
         "size": 20,
         "align": "left",
@@ -383,16 +459,16 @@
       "type": "text",
       "rect": {
         "x": 308,
-        "y": 1123,
+        "y": 1100,
         "w": 821,
-        "h": 28,
+        "h": 48,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Встановіть внутрішньовенну або внутрішньокісткову інфузію. - ENG \"IV' - \"IO\"",
+      "content": "Встановіть внутрішньовенну або внутрішньокісткову інфузію, ВВ чи ВК доступ - ENG \"IV' - \"IO\"",
       "format": {
         "size": 20,
         "align": "left",
@@ -584,7 +660,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ff6ebb164d73.png"
+      "content": "51f990334546.png"
     },
     {
       "name": "ОЦІНЬТЕ кровотечу з місця..",
@@ -634,7 +710,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "2480b09a4b83.png"
+      "content": "3c1fa7b54a61.png"
     },
     {
       "name": "ЛІКУЙТЕ будь-яку непульси..",
@@ -820,7 +896,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "85baba494cf8.png"
+      "content": "c0289544473e.png"
     },
     {
       "name": "ВИКРИТИ будь-які рани та ..",
@@ -897,7 +973,7 @@
         "x": 233,
         "y": 1438,
         "w": 1062,
-        "h": 29,
+        "h": 28,
         "r": 0
       },
       "opacity": 1,
@@ -925,24 +1001,24 @@
       }
     },
     {
-      "name": "Сторінка 4..",
+      "name": "СТОРІНКА 4 з 7 - (4/7)..",
       "type": "text",
       "rect": {
         "x": 576,
-        "y": 144,
-        "w": 209,
-        "h": 51,
+        "y": 155,
+        "w": 344,
+        "h": 42,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Сторінка 4",
+      "content": "СТОРІНКА 4 з 7 - (4/7)",
       "format": {
-        "size": 38,
+        "size": 30,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -1062,9 +1138,9 @@
       "type": "text",
       "rect": {
         "x": 308,
-        "y": 1151,
+        "y": 1140,
         "w": 709,
-        "h": 29,
+        "h": 28,
         "r": 0
       },
       "opacity": 1,
