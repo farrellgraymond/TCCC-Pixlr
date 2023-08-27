@@ -1,0 +1,803 @@
+{
+  "id": "08c1b5ac-16f9-4ca9-b3ac-c283c804da3b",
+  "name": "18 Pt2 ENG Junctional Tourniquet (CRoC) PNG(2)",
+  "type": "document",
+  "unit": "pixel",
+  "width": 1275,
+  "height": 1650,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1275,
+        "h": 1650,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "6b6fbc034a00.png"
+    },
+    {
+      "name": "unnamed-removebg-preview.png Copy",
+      "type": "image",
+      "rect": {
+        "x": 654,
+        "y": -5,
+        "w": 110,
+        "h": 186,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f7e9cba4909.png"
+    },
+    {
+      "name": "CRoC YouTube QR PNG.png Copy",
+      "type": "image",
+      "rect": {
+        "x": 732,
+        "y": 29,
+        "w": 118,
+        "h": 118,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "a86194a64e48.png"
+    },
+    {
+      "name": "Shape 26",
+      "type": "shape",
+      "rect": {
+        "x": 507,
+        "y": 1474,
+        "w": 311,
+        "h": 124,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 25",
+      "type": "shape",
+      "rect": {
+        "x": 122,
+        "y": 1474,
+        "w": 303,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 24",
+      "type": "shape",
+      "rect": {
+        "x": 889,
+        "y": 1024,
+        "w": 314,
+        "h": 154,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 23",
+      "type": "shape",
+      "rect": {
+        "x": 452,
+        "y": 1072,
+        "w": 371,
+        "h": 147,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 22",
+      "type": "shape",
+      "rect": {
+        "x": 506,
+        "y": 1025,
+        "w": 316,
+        "h": 72,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 21",
+      "type": "shape",
+      "rect": {
+        "x": 122,
+        "y": 1024,
+        "w": 298,
+        "h": 122,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 20",
+      "type": "shape",
+      "rect": {
+        "x": 889,
+        "y": 619,
+        "w": 302,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 19",
+      "type": "shape",
+      "rect": {
+        "x": 506,
+        "y": 619,
+        "w": 310,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 18",
+      "type": "shape",
+      "rect": {
+        "x": 69,
+        "y": 667,
+        "w": 361,
+        "h": 102,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 17",
+      "type": "shape",
+      "rect": {
+        "x": 122,
+        "y": 619,
+        "w": 308,
+        "h": 63,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 16",
+      "type": "shape",
+      "rect": {
+        "x": 67,
+        "y": 199,
+        "w": 988,
+        "h": 153,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "type": "text",
+      "rect": {
+        "x": 504,
+        "y": 1475,
+        "w": 360,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ДОКУМЕНТУВАТИ час наклада..",
+      "type": "text",
+      "rect": {
+        "x": 121,
+        "y": 1475,
+        "w": 302,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДОКУМЕНТУВАТИ час накладання джгута на обличчя пораненого.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВАЖЛИВО – часто МОНІТОРУЙ..",
+      "type": "text",
+      "rect": {
+        "x": 861,
+        "y": 1080,
+        "w": 346,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВАЖЛИВО – часто МОНІТОРУЙТЕ пацієнта під час транспортування, щоб переконатися, що пристрій і натискний диск залишаються на місці. Відрегулюйте відповідно, щоб контролювати кровотечу.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Коли кровотеча зупиниться..",
+      "type": "text",
+      "rect": {
+        "x": 888,
+        "y": 1024,
+        "w": 319,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Коли кровотеча зупиниться, прикріпіть кріпильний ремінь.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВАЖЛИВО. Якщо кровотеча н..",
+      "type": "text",
+      "rect": {
+        "x": 504,
+        "y": 1135,
+        "w": 397,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВАЖЛИВО. Якщо кровотеча не зупинилася після 20 обертань, подумайте про зміну положення натискного диска.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Поверніть Т-подібну ручку..",
+      "type": "text",
+      "rect": {
+        "x": 504,
+        "y": 1024,
+        "w": 328,
+        "h": 113,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Поверніть Т-подібну ручку за годинниковою стрілкою, щоб натиснути на бинт. Продовжуйте обертати, поки кровотеча не зупиниться.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Тепер відрегулюйте вертик..",
+      "type": "text",
+      "rect": {
+        "x": 121,
+        "y": 1024,
+        "w": 297,
+        "h": 113,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Тепер відрегулюйте вертикальне плече пристрою так, щоб натискний диск торкався пораненої людини в місці стиснення.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Відрегулюйте вертикальне ..",
+      "type": "text",
+      "rect": {
+        "x": 888,
+        "y": 619,
+        "w": 314,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Відрегулюйте вертикальне плече пристрою та положення над точкою стиснення.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Переконайтесь, що вертика..",
+      "type": "text",
+      "rect": {
+        "x": 504,
+        "y": 619,
+        "w": 310,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переконайтесь, що вертикальна рука торкається пораненого з пораненого боку, близько до місця рани.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА. Якщо можливо, п..",
+      "type": "text",
+      "rect": {
+        "x": 72,
+        "y": 685,
+        "w": 380,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА. Якщо можливо, просуньте нижній пластинчастий ремінь під сідниці жертви для подальшого використання.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Покладіть базову пластину..",
+      "type": "text",
+      "rect": {
+        "x": 121,
+        "y": 619,
+        "w": 302,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Покладіть базову пластину під пораненого, нижче бажаної точки стиснення.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження зі сторінки 1..",
+      "type": "text",
+      "rect": {
+        "x": 72,
+        "y": 293,
+        "w": 1063,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження зі сторінки 1",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Combat Ready Clamp Juncti..",
+      "type": "text",
+      "rect": {
+        "x": 797,
+        "y": 155,
+        "w": 433,
+        "h": 149,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Combat Ready Clamp Junctional Tourniquet - CRoC",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Вузловий турнікет CRoC..",
+      "type": "text",
+      "rect": {
+        "x": 59,
+        "y": 199,
+        "w": 721,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Вузловий турнікет CRoC",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "id": "7e65b7f0-f531-40c1-b9dc-22bf1792bbe1",
+  "name": "33 Pt2 ENG Sternal Intraosseous (FAST1) PNG",
+  "type": "document",
+  "unit": "pixel",
+  "width": 1275,
+  "height": 1650,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1275,
+        "h": 1650,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "723ead5e45db.png"
+    },
+    {
+      "name": "Shape 18",
+      "type": "shape",
+      "rect": {
+        "x": 451,
+        "y": 1028,
+        "w": 363,
+        "h": 59,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 17",
+      "type": "shape",
+      "rect": {
+        "x": 508,
+        "y": 980,
+        "w": 305,
+        "h": 63,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 16",
+      "type": "shape",
+      "rect": {
+        "x": 126,
+        "y": 982,
+        "w": 309,
+        "h": 59,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 15",
+      "type": "shape",
+      "rect": {
+        "x": 894,
+        "y": 567,
+        "w": 308,
+        "h": 95,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 14",
+      "type": "shape",
+      "rect": {
+        "x": 508,
+        "y": 567,
+        "w": 329,
+        "h": 63,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 13",
+      "type": "shape",
+      "rect": {
+        "x": 66,
+        "y": 616,
+        "w": 392,
+        "h": 141,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 12",
+      "type": "shape",
+      "rect": {
+        "x": 122,
+        "y": 567,
+        "w": 321,
+        "h": 86,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 11",
+      "type": "shape",
+      "rect": {
+        "x": 62,
+        "y": 198,
+        "w": 1179,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "type": "text",
+      "rect": {
+        "x": 508,
+        "y": 982,
+        "w": 351,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "За потреби забезпечте рід..",
+      "type": "text",
+      "rect": {
+        "x": 128,
+        "y": 982,
+        "w": 311,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "За потреби забезпечте рідиною або ліками.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Прикріпіть захисний купол..",
+      "type": "text",
+      "rect": {
+        "x": 897,
+        "y": 569,
+        "w": 322,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Прикріпіть захисний купол до цільової накладки та закріпіть скотчем.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Підключіть внутрішньовенн..",
+      "type": "text",
+      "rect": {
+        "x": 508,
+        "y": 569,
+        "w": 307,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Підключіть внутрішньовенну трубку та запустіть потік рідини.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Промийте інфузійну трубку..",
+      "type": "text",
+      "rect": {
+        "x": 78,
+        "y": 686,
+        "w": 508,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Промийте інфузійну трубку 5 мл стерильного розчину для внутрішньовенного введення. Необхідно очистити будь-яку закупорку кістки або тканини.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Під’єднайте шприц і аспір..",
+      "type": "text",
+      "rect": {
+        "x": 122,
+        "y": 569,
+        "w": 313,
+        "h": 113,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Під’єднайте шприц і аспіруйте, щоб переконатися, що голка знаходиться в кістковому мозку – має бути спалах матеріалу з відтінком крові.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження зі сторінки 1..",
+      "type": "text",
+      "rect": {
+        "x": 78,
+        "y": 301,
+        "w": 762,
+        "h": 55,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження зі сторінки 1",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "FAST1 IO - Sternal Intrao..",
+      "type": "text",
+      "rect": {
+        "x": 71,
+        "y": 253,
+        "w": 744,
+        "h": 55,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "FAST1 IO - Sternal Intraosseous",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Стернальний внутрішньокіс..",
+      "type": "text",
+      "rect": {
+        "x": 62,
+        "y": 180,
+        "w": 1063,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Стернальний внутрішньокістковий",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

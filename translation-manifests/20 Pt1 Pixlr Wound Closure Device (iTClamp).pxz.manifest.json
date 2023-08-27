@@ -1,0 +1,1293 @@
+{
+  "id": "c0366526-beee-4654-b359-8a5efdf0b318",
+  "type": "document",
+  "unit": "pixel",
+  "width": 1275,
+  "height": 1650,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1275,
+        "h": 1650,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "8999ab354979.png"
+    },
+    {
+      "name": "Shape 44",
+      "type": "shape",
+      "rect": {
+        "x": 455,
+        "y": 1455,
+        "w": 63,
+        "h": 57,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 42",
+      "type": "shape",
+      "rect": {
+        "x": 386,
+        "y": 1580,
+        "w": 111,
+        "h": 58,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 41",
+      "type": "shape",
+      "rect": {
+        "x": 891,
+        "y": 1457,
+        "w": 308,
+        "h": 104,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 40",
+      "type": "shape",
+      "rect": {
+        "x": 454,
+        "y": 1505,
+        "w": 367,
+        "h": 133,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 39",
+      "type": "shape",
+      "rect": {
+        "x": 507,
+        "y": 1456,
+        "w": 314,
+        "h": 77,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 38",
+      "type": "shape",
+      "rect": {
+        "x": 124,
+        "y": 1458,
+        "w": 307,
+        "h": 103,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 37",
+      "type": "shape",
+      "rect": {
+        "x": 839,
+        "y": 1167,
+        "w": 362,
+        "h": 64,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 36",
+      "type": "shape",
+      "rect": {
+        "x": 891,
+        "y": 1119,
+        "w": 311,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 35",
+      "type": "shape",
+      "rect": {
+        "x": 452,
+        "y": 1168,
+        "w": 386,
+        "h": 75,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 34",
+      "type": "shape",
+      "rect": {
+        "x": 507,
+        "y": 1121,
+        "w": 315,
+        "h": 62,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 33",
+      "type": "shape",
+      "rect": {
+        "x": 123,
+        "y": 1120,
+        "w": 316,
+        "h": 78,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 32",
+      "type": "shape",
+      "rect": {
+        "x": 890,
+        "y": 830,
+        "w": 325,
+        "h": 75,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 31",
+      "type": "shape",
+      "rect": {
+        "x": 507,
+        "y": 829,
+        "w": 325,
+        "h": 75,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 30",
+      "type": "shape",
+      "rect": {
+        "x": 124,
+        "y": 829,
+        "w": 306,
+        "h": 74,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 29",
+      "type": "shape",
+      "rect": {
+        "x": 698,
+        "y": 535,
+        "w": 489,
+        "h": 62,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 28",
+      "type": "shape",
+      "rect": {
+        "x": 123,
+        "y": 534,
+        "w": 509,
+        "h": 79,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 27",
+      "type": "shape",
+      "rect": {
+        "x": 146,
+        "y": 459,
+        "w": 611,
+        "h": 64,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 26",
+      "type": "shape",
+      "rect": {
+        "x": 89,
+        "y": 273,
+        "w": 1097,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#efefef"
+        }
+      }
+    },
+    {
+      "name": "Shape 25",
+      "type": "shape",
+      "rect": {
+        "x": 67,
+        "y": 195,
+        "w": 1049,
+        "h": 61,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 772,
+        "y": 465,
+        "w": 51,
+        "h": 45,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "591fb58e4bc5.png"
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 425,
+        "y": 1456,
+        "w": 51,
+        "h": 51,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "cbfcb7e64967.png"
+    },
+    {
+      "name": "Також можна видалити та з..",
+      "type": "text",
+      "rect": {
+        "x": 441,
+        "y": 1504,
+        "w": 409,
+        "h": 113,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Також можна видалити та змінити положення пристрою, використовувати більше ніж один пристрій або обробити область кровоспинним засобом. Також рекомендується XSTAT.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "УВАГА - НЕ використовуйте..",
+      "type": "text",
+      "rect": {
+        "x": 823,
+        "y": 473,
+        "w": 367,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "УВАГА - НЕ використовуйте біля очей.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "type": "text",
+      "rect": {
+        "x": 889,
+        "y": 1458,
+        "w": 327,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо кровотеча продовжуєт..",
+      "type": "text",
+      "rect": {
+        "x": 476,
+        "y": 1454,
+        "w": 372,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо кровотеча продовжується, закрийте пристрій щільніше.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Переконайтеся, що рана за..",
+      "type": "text",
+      "rect": {
+        "x": 123,
+        "y": 1454,
+        "w": 299,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переконайтеся, що рана закрита, немає відкритих ділянок і кровотеча зупинилася.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Після закриття пристрій а..",
+      "type": "text",
+      "rect": {
+        "x": 889,
+        "y": 1122,
+        "w": 301,
+        "h": 113,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Після закриття пристрій автоматично фіксується на місці. Компресійні планки забезпечують щільне ущільнення.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА. Пломба пристрою..",
+      "type": "text",
+      "rect": {
+        "x": 460,
+        "y": 1193,
+        "w": 404,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА. Пломба пристрою зруйнується під час застосування тиску.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Обережно вставте голки та..",
+      "type": "text",
+      "rect": {
+        "x": 506,
+        "y": 1122,
+        "w": 342,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Обережно вставте голки та закрийте пристрій, стиснувши важелі разом.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Розмістіть голки на відст..",
+      "type": "text",
+      "rect": {
+        "x": 123,
+        "y": 1122,
+        "w": 266,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Розмістіть голки на відстані 1-2 см від краю рани з обох боків.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Вирівняйте голки пристрою..",
+      "type": "text",
+      "rect": {
+        "x": 889,
+        "y": 830,
+        "w": 272,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Вирівняйте голки пристрою для закриття паралельно краям рани.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Зніміть пристрій, піднявш..",
+      "type": "text",
+      "rect": {
+        "x": 506,
+        "y": 830,
+        "w": 306,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Зніміть пристрій, піднявши прямо вгору, уникаючи забруднення.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Обережно відкрийте стерил..",
+      "type": "text",
+      "rect": {
+        "x": 123,
+        "y": 830,
+        "w": 329,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Обережно відкрийте стерильну упаковку, щоб уникнути забруднення.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо можливо, застосовуйт..",
+      "type": "text",
+      "rect": {
+        "x": 701,
+        "y": 538,
+        "w": 408,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо можливо, застосовуйте прямий тиск на джерело найбільш активної кровотечі.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗНАЙДИ джерело найактивні..",
+      "type": "text",
+      "rect": {
+        "x": 123,
+        "y": 538,
+        "w": 419,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗНАЙДИ джерело найактивнішої кровотечі. Можливо, доведеться зняти одяг або обладнання.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Розгляньте можливість вик..",
+      "type": "text",
+      "rect": {
+        "x": 149,
+        "y": 462,
+        "w": 564,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "За бажанням поверх пристр..",
+      "type": "text",
+      "rect": {
+        "x": 391,
+        "y": 369,
+        "w": 820,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "За бажанням поверх пристрою можна накласти додаткові компресійні пов’язки та обгортку. Це захистить пристрій і може створити додатковий тиск на рану.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "3. Остаточна перев'язка р..",
+      "type": "text",
+      "rect": {
+        "x": 96,
+        "y": 369,
+        "w": 303,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3. Остаточна перев'язка рани -",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Апарат можна використовув..",
+      "type": "text",
+      "rect": {
+        "x": 322,
+        "y": 332,
+        "w": 775,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Апарат можна використовувати на ранах, оброблених кровоспинними засобами.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "2. Кровоспинні засоби -..",
+      "type": "text",
+      "rect": {
+        "x": 96,
+        "y": 329,
+        "w": 1063,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2. Кровоспинні засоби -",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Перед застосуванням прист..",
+      "type": "text",
+      "rect": {
+        "x": 269,
+        "y": 303,
+        "w": 552,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Перед застосуванням пристрою можна запакувати рану.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "1. Упаковка ран -..",
+      "type": "text",
+      "rect": {
+        "x": 96,
+        "y": 300,
+        "w": 186,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1. Упаковка ран -",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА. Кровоспинний за..",
+      "type": "text",
+      "rect": {
+        "x": 88,
+        "y": 274,
+        "w": 1062,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА. Кровоспинний зажим mоже використовуватися в поєднанні з іншими засобами контролю кровотечі.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "iTClamp - гемостатичного ..",
+      "type": "text",
+      "rect": {
+        "x": 60,
+        "y": 192,
+        "w": 1062,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "iTClamp - гемостатичного затискача ",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

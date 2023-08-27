@@ -1,0 +1,958 @@
+{
+  "id": "880a1733-8fee-48ce-ae1a-7295cbaeae69",
+  "name": "49 Pt5 ENG Pulse Assessment PNG(2)",
+  "type": "document",
+  "unit": "pixel",
+  "width": 1275,
+  "height": 1650,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1275,
+        "h": 1650,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "ceb3bb4746de.png"
+    },
+    {
+      "name": "Shape 34",
+      "type": "shape",
+      "rect": {
+        "x": 73,
+        "y": 1557,
+        "w": 361,
+        "h": 61,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 33",
+      "type": "shape",
+      "rect": {
+        "x": 125,
+        "y": 1509,
+        "w": 311,
+        "h": 77,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 32",
+      "type": "shape",
+      "rect": {
+        "x": 72,
+        "y": 1107,
+        "w": 1135,
+        "h": 146,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 31",
+      "type": "shape",
+      "rect": {
+        "x": 893,
+        "y": 1039,
+        "w": 317,
+        "h": 93,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 30",
+      "type": "shape",
+      "rect": {
+        "x": 508,
+        "y": 1039,
+        "w": 312,
+        "h": 88,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 29",
+      "type": "shape",
+      "rect": {
+        "x": 69,
+        "y": 1086,
+        "w": 377,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 28",
+      "type": "shape",
+      "rect": {
+        "x": 123,
+        "y": 1038,
+        "w": 319,
+        "h": 75,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 27",
+      "type": "shape",
+      "rect": {
+        "x": 448,
+        "y": 647,
+        "w": 374,
+        "h": 84,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 26",
+      "type": "shape",
+      "rect": {
+        "x": 64,
+        "y": 725,
+        "w": 1005,
+        "h": 66,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 25",
+      "type": "shape",
+      "rect": {
+        "x": 837,
+        "y": 646,
+        "w": 356,
+        "h": 66,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 24",
+      "type": "shape",
+      "rect": {
+        "x": 893,
+        "y": 598,
+        "w": 296,
+        "h": 87,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 22",
+      "type": "shape",
+      "rect": {
+        "x": 508,
+        "y": 596,
+        "w": 312,
+        "h": 118,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 21",
+      "type": "shape",
+      "rect": {
+        "x": 121,
+        "y": 597,
+        "w": 311,
+        "h": 124,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 20",
+      "type": "shape",
+      "rect": {
+        "x": 149,
+        "y": 283,
+        "w": 627,
+        "h": 64,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 19",
+      "type": "shape",
+      "rect": {
+        "x": 65,
+        "y": 190,
+        "w": 1128,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "КРОК 4 ПРИМІТКА. Повинна ..",
+      "type": "text",
+      "rect": {
+        "x": 82,
+        "y": 737,
+        "w": 1046,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КРОК 4 ПРИМІТКА. Повинна відчуватися м'яка западина. Якщо ви не можете намацати пульс, трохи посуньтеся вбік, щоб спробувати більш м’яку ділянку.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "type": "text",
+      "rect": {
+        "x": 124,
+        "y": 1510,
+        "w": 311,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Помножте отримане число н..",
+      "type": "text",
+      "rect": {
+        "x": 895,
+        "y": 1039,
+        "w": 311,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Помножте отримане число на 4, і це буде частота пульсу пораненого за хвилину.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 15",
+      "type": "shape",
+      "rect": {
+        "x": 992,
+        "y": 891,
+        "w": 48,
+        "h": 21,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "СЕКУНД..",
+      "type": "text",
+      "rect": {
+        "x": 971,
+        "y": 890,
+        "w": 91,
+        "h": 23,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СЕКУНД",
+      "format": {
+        "size": 16,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Використовуйте таймер і П..",
+      "type": "text",
+      "rect": {
+        "x": 508,
+        "y": 1039,
+        "w": 320,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Використовуйте таймер і ПІДРАХУВАЙТЕ кількість імпульсів за 15 секунд.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "КРОК 5 ПРИМІТКА. Якщо все..",
+      "type": "text",
+      "rect": {
+        "x": 81,
+        "y": 1170,
+        "w": 724,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КРОК 5 ПРИМІТКА. Якщо все ще важко відчути пульс, проведіть пальцями вгору по зв’язці до місця з’єднання з щиколоткою. Повторіть спробу там.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "КРОК 5 ПРИМІТКА. Якщо вам..",
+      "type": "text",
+      "rect": {
+        "x": 79,
+        "y": 1120,
+        "w": 656,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КРОК 5 ПРИМІТКА. Якщо вам важко промацати пульс, натискайте трохи сильніше, не завдавайте болю потерпілому.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Натисніть пальцями на пор..",
+      "type": "text",
+      "rect": {
+        "x": 124,
+        "y": 1039,
+        "w": 332,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Натисніть пальцями на порожнину, щоб відчути артерію.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Розмістіть пальці біля су..",
+      "type": "text",
+      "rect": {
+        "x": 895,
+        "y": 598,
+        "w": 285,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Розмістіть пальці біля сухожилля, яке утворює арку, що тягнеться від великого пальця ноги.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Верхня частина стопи поте..",
+      "type": "text",
+      "rect": {
+        "x": 508,
+        "y": 598,
+        "w": 312,
+        "h": 113,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Верхня частина стопи потерпілого повинна бути спрямована вгору. У цьому положенні шукайте піднесений звід стопи.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Вирівняйте середній і вка..",
+      "type": "text",
+      "rect": {
+        "x": 124,
+        "y": 651,
+        "w": 314,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Вирівняйте середній і вказівний пальці. Використовуйте домінуючу руку.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Зніміть черевик і носок п..",
+      "type": "text",
+      "rect": {
+        "x": 124,
+        "y": 595,
+        "w": 332,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Зніміть черевик і носок пораненого.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СТОРІНКА 5 з 6 - (5/6)..",
+      "type": "text",
+      "rect": {
+        "x": 875,
+        "y": 288,
+        "w": 334,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СТОРІНКА 5 з 6 - (5/6)",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Розгляньте можливість вик..",
+      "type": "text",
+      "rect": {
+        "x": 151,
+        "y": 288,
+        "w": 584,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "DORSALIS PEDIS..",
+      "type": "text",
+      "rect": {
+        "x": 73,
+        "y": 241,
+        "w": 354,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "DORSALIS PEDIS",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Верхня артерія стопи..",
+      "type": "text",
+      "rect": {
+        "x": 65,
+        "y": 172,
+        "w": 1063,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Верхня артерія стопи",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}
