@@ -1,0 +1,1254 @@
+{
+  "id": "1eb2a421-0c18-4da0-bf4a-86216d7e0530",
+  "name": "37 Pt5 Ua Shock Management - Fluid Resuscitation PNG(4)",
+  "type": "document",
+  "unit": "pixel",
+  "width": 1125,
+  "height": 1624,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1125,
+        "h": 1624,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "99fb95c44fe1.png"
+    },
+    {
+      "name": "Ця інформація не повинна ..",
+      "type": "text",
+      "rect": {
+        "x": 108,
+        "y": 1271,
+        "w": 502,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Ця інформація не повинна використовуватися для введення цих ліків будь-де, крім надання допомоги пораненим у бойових умовах (на полі бою або в бойових/тактичних умовах).",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Shape 43",
+      "type": "shape",
+      "rect": {
+        "x": 92,
+        "y": 1111,
+        "w": 807,
+        "h": 143,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 41",
+      "type": "shape",
+      "rect": {
+        "x": 313,
+        "y": 818,
+        "w": 507,
+        "h": 132,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#f2f2f2"
+        }
+      }
+    },
+    {
+      "name": "Shape 40",
+      "type": "shape",
+      "rect": {
+        "x": 313,
+        "y": 647,
+        "w": 503,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#f2f2f2"
+        }
+      }
+    },
+    {
+      "name": "Shape 39",
+      "type": "shape",
+      "rect": {
+        "x": 316,
+        "y": 573,
+        "w": 129,
+        "h": 40,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#f2f2f2"
+        }
+      }
+    },
+    {
+      "name": "Shape 38",
+      "type": "shape",
+      "rect": {
+        "x": 313,
+        "y": 526,
+        "w": 114,
+        "h": 31,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#f2f2f2"
+        }
+      }
+    },
+    {
+      "name": "Shape 37",
+      "type": "shape",
+      "rect": {
+        "x": 99,
+        "y": 969,
+        "w": 170,
+        "h": 78,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#779641"
+        }
+      }
+    },
+    {
+      "name": "Shape 36",
+      "type": "shape",
+      "rect": {
+        "x": 99,
+        "y": 820,
+        "w": 165,
+        "h": 57,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#779641"
+        }
+      }
+    },
+    {
+      "name": "Shape 35",
+      "type": "shape",
+      "rect": {
+        "x": 99,
+        "y": 647,
+        "w": 195,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#779641"
+        }
+      }
+    },
+    {
+      "name": "Shape 34",
+      "type": "shape",
+      "rect": {
+        "x": 99,
+        "y": 575,
+        "w": 153,
+        "h": 52,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#779641"
+        }
+      }
+    },
+    {
+      "name": "Shape 33",
+      "type": "shape",
+      "rect": {
+        "x": 101,
+        "y": 527,
+        "w": 171,
+        "h": 30,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#779641"
+        }
+      }
+    },
+    {
+      "name": "Shape 32",
+      "type": "shape",
+      "rect": {
+        "x": 88,
+        "y": 476,
+        "w": 930,
+        "h": 38,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Використання у випадку ви..",
+      "type": "text",
+      "rect": {
+        "x": 92,
+        "y": 483,
+        "w": 900,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Використання у випадку виникнення анафілактичної реакції на переливання препаратів крові. ",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 30",
+      "type": "shape",
+      "rect": {
+        "x": 87,
+        "y": 381,
+        "w": 955,
+        "h": 77,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#779641"
+        }
+      }
+    },
+    {
+      "name": "Shape 29",
+      "type": "shape",
+      "rect": {
+        "x": 55,
+        "y": 171,
+        "w": 908,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 816,
+        "y": 959,
+        "w": 52,
+        "h": 146,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "8b81b64842d5.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 866,
+        "y": 959,
+        "w": 52,
+        "h": 146,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3dd7bbef4f11.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 918,
+        "y": 959,
+        "w": 52,
+        "h": 146,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "f11ea1d9446f.png"
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 969,
+        "y": 957,
+        "w": 28,
+        "h": 150,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "50c98a174051.png"
+    },
+    {
+      "name": "Shape 27",
+      "type": "shape",
+      "rect": {
+        "x": 311,
+        "y": 966,
+        "w": 663,
+        "h": 133,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#f2f2f2"
+        }
+      }
+    },
+    {
+      "name": "СТОРІНКА 5 з 5 - (5/5)..",
+      "type": "text",
+      "rect": {
+        "x": 726,
+        "y": 171,
+        "w": 378,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СТОРІНКА 5 з 5 - (5/5)",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "При застосуванні з саліци..",
+      "type": "text",
+      "rect": {
+        "x": 317,
+        "y": 965,
+        "w": 674,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "При застосуванні з саліцилатами та іншими нестероїдними протизапальними засобами підвищується ризик шлунково-кишкових кровотеч. Одночасне застосування з сольовими діуретиками може поглибити гіпокаліємію. Дія метилпреднізолону знижується при одночасному застосуванні з барбітуратами, рифампіцином і фенітоїном, оскільки ці препарати прискорюють його метаболізм.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Затримка натрію та рідини..",
+      "type": "text",
+      "rect": {
+        "x": 320,
+        "y": 821,
+        "w": 485,
+        "h": 113,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Затримка натрію та рідини в організмі, виснаження запасів калію, гіперглікемія, підвищення показників функцій печінки, м’язова слабкість, порушення потовиділення, панкреатит, езофагіт, кропив’янка або інші алергічні реакції.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Системні грибкові інфекці..",
+      "type": "text",
+      "rect": {
+        "x": 317,
+        "y": 647,
+        "w": 485,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Системні грибкові інфекції та відома\nгіперчутливість (попередня алергічна реакція); під\nчас вагітності – застосування лише у випадках,\nколи потенційна користь від препарату переважає\nнад потенційним ризиком, якщо альтернатива є\nгіршою",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВВ або ВК. ..",
+      "type": "text",
+      "rect": {
+        "x": 317,
+        "y": 575,
+        "w": 138,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВВ або ВК. ",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "10-40 мг. ..",
+      "type": "text",
+      "rect": {
+        "x": 317,
+        "y": 528,
+        "w": 126,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "10-40 мг. ",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Введіть BEB або ВК 10-40 ..",
+      "type": "text",
+      "rect": {
+        "x": 92,
+        "y": 1174,
+        "w": 783,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Введіть BEB або ВК 10-40 мг метилпреднізолону після першого введення адреналіну та димедролу при лікуванні анафілактичної реакції внаслідок переливання М препаратів крові.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ ..",
+      "type": "text",
+      "rect": {
+        "x": 92,
+        "y": 1149,
+        "w": 642,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ:",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#779641"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Негайно/ 1-2 хв/ 1 год...",
+      "type": "text",
+      "rect": {
+        "x": 411,
+        "y": 1117,
+        "w": 257,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Негайно/ 1-2 хв/ 1 год.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОЧАТОКЛИК / ТРИВАЛІСТЬ Д..",
+      "type": "text",
+      "rect": {
+        "x": 92,
+        "y": 1117,
+        "w": 343,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОЧАТОКЛИК / ТРИВАЛІСТЬ ДІЇ:",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#779641"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ..",
+      "type": "text",
+      "rect": {
+        "x": 100,
+        "y": 969,
+        "w": 156,
+        "h": 79,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ:",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПОТЕНЦІЙНІ ПОБІЧНІ ДІЇ:..",
+      "type": "text",
+      "rect": {
+        "x": 97,
+        "y": 821,
+        "w": 142,
+        "h": 54,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОТЕНЦІЙНІ ПОБІЧНІ ДІЇ:",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРОТИПОКАЗИ:..",
+      "type": "text",
+      "rect": {
+        "x": 100,
+        "y": 647,
+        "w": 178,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРОТИПОКАЗИ:",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ШЛЯХ(И) ВВЕДЕННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 100,
+        "y": 575,
+        "w": 181,
+        "h": 54,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ШЛЯХ(И) ВВЕДЕННЯ:",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ДОЗУВАННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 100,
+        "y": 528,
+        "w": 146,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДОЗУВАННЯ:",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Використовується бойовими..",
+      "type": "text",
+      "rect": {
+        "x": 802,
+        "y": 374,
+        "w": 241,
+        "h": 79,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Використовується бойовими TCCC CMC - бойовий медик.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Кортикостероїд (протизапа..",
+      "type": "text",
+      "rect": {
+        "x": 92,
+        "y": 424,
+        "w": 424,
+        "h": 29,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Кортикостероїд (протизапальний препарат)",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "МЕТИЛПРЕДНІЗОЛОН..",
+      "type": "text",
+      "rect": {
+        "x": 88,
+        "y": 382,
+        "w": 373,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "МЕТИЛПРЕДНІЗОЛОН",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ВАЖЛИВО - У цьому посібни..",
+      "type": "text",
+      "rect": {
+        "x": 116,
+        "y": 307,
+        "w": 893,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВАЖЛИВО - У цьому посібнику з фармакології TCCC надається інформація про використання лікарських засобів виключно на основі Рекомендацій TCCC.",
+      "format": {
+        "size": 20,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Лікування шоку /\nРідинна ..",
+      "type": "text",
+      "rect": {
+        "x": 50,
+        "y": 155,
+        "w": 639,
+        "h": 152,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Лікування шоку /\nРідинна ресусцитація",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}
