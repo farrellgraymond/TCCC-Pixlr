@@ -21,7 +21,6 @@ rm "${TMP_FILENAME}"
 echo "------ Last modified date string calculated as: [${LASTMOD_STR}]"
 
 LASTMOD_CONTENT="${REPO_URL}            LAST UPDATED: ${LASTMOD_STR}"
-QUOTED_URL='"'${REPO_URL}'"'
 
 # Create our last-updated text element 
 LASTMOD_JSON="{
@@ -77,15 +76,10 @@ unzip -p "${PXZ_FILENAME}" ${MANIFEST_FILENAME} | jq "del(.stack[] | select(.typ
 # we would always see diffs in all zipfiles because the manifest timestamp always changes
 touch -t 202308232323.23 ${MANIFEST_FILENAME}
 
-#unzip -p "${PXZ_FILENAME}" ${MANIFEST_FILENAME} | jq "( .stack[] | select(.type==\"text\") | select(.content | startswith(\"${REPO_URL}\"))) |= ${LASTMOD_JSON}" > after.json
-
-
 echo "------ Adding updated manifest to [${PXZ_FILENAME}]..."
 # Now that we have our updated manifest, push it back into the zipfile - we have to do it this way,
 # since the zip command requires the filename to be present in order to update it (no stdin tricks)
 zip "${PXZ_FILENAME}" ${MANIFEST_FILENAME}
 rm ${MANIFEST_FILENAME}
-
-#unzip -p "$PXZ_FILENAME" manifest.json | jq . > "../${MANIFEST_DIR}/${filename}.manifest.json"
 
 echo "=== Last-modified [${LASTMOD_STR}] update for [${PXZ_FILENAME}] complete!"
