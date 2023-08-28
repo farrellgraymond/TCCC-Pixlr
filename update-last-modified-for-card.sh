@@ -58,9 +58,6 @@ LASTMOD_JSON="{
       }
     }"
 
-#echo "${LASTMOD_JSON}"
-
-
 echo "------ Extracting old manifest and updating with detected last-modified time..."
 # Extract the manifest file we plan to update from the source file, and pump it straight through jq
 # to insert or update our last-modified time before echoing it out as a file
