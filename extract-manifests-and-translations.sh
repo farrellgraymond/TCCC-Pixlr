@@ -5,9 +5,6 @@ MANIFEST_DIR="translation-manifests"
 PIXLR_FILES_DIR="Pixlr Source Files"
 XARGS_SH_CMD="unzip -p '{}' manifest.json | jq . | tee '../${MANIFEST_DIR}/{}.manifest.json'"
 
-echo "=== Testing for presence of the jq utility - if this check fails, script will exit. If you need to install jq, please go to https://jqlang.github.io/jq/download/"
-jq --version
-
 echo "=== Ensuring directory [${MANIFEST_DIR}] is deleted and recreated..."
 rm -rf ${MANIFEST_DIR}
 mkdir -p ${MANIFEST_DIR}
