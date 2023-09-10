@@ -61,6 +61,10 @@ Thank you again for helping to make this shared medical resource better!
 
 This section contains a series of tips and tricks for working with this repository.
 
+### TL;DR
+
+Run [./run-all-updates.sh](run-all-updates.sh) on every PR, and as often as possible to do all automated updates to cards and repository metadata. It runs all of the commands listed below automatically.
+
 ### Extracting all translated text fields for all cards
 
 GOOD TO KNOW: Pixlr files (.pxz) are just zipfiles, containing a manifest.json and a bunch of other binaries (fonts, background images, etc) - the manifest.json contains all of the text that has been translated on a given card.
@@ -92,3 +96,18 @@ jq-1.6
 === Phase 2 Translation string extraction complete! Extracted translation strings can be found in [translation-manifests/*.manifest.json.translation-strings.json]
 MacBook-Pro:TCCC-Pixlr straxus$
 ```
+
+### Updating last-modified time on all cards
+
+GOOD TO KNOW: Pixlr files (.pxz) are just zipfiles, containing a manifest.json and a bunch of other binaries (fonts, background images, etc) - we can directly update the manifest.json to make the card's last-modified timestamp at the bottom reflect the latest change in the repository
+
+To update all of the last-modified timestampes for all of the Pixlr filesin the repository, use this command (tested on Mac OS X 13.5): 
+```
+find Pixlr\ Source\ Files -print0 |  xargs -n 1 -0 ./update-last-modified-for-card.sh
+```
+
+This uses the [./update-last-modified-for-card.sh](update-last-modified-for-card.sh) script on each individual Pixlr file to do a single update.
+
+This will add the last-modified block if it does not yet exist, and otherwise will find the last-modified block and update it with the latest timestamp if appropriate.
+
+PLEASE NOTE that the command is stable (rerunning it will only show diffs if there is an actual change) - that means it's safe to run often without fear of generating too much noise in repository changes.

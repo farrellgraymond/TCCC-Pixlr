@@ -1423,6 +1423,40 @@
           "value": "#000000"
         }
       }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 73,
+        "y": 1610,
+        "w": 800,
+        "h": 23,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr            LAST UPDATED: 2023-07-30T16:01:21Z [0105d4d]",
+      "format": {
+        "size": 16,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
     }
   ]
 }
