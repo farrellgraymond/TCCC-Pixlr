@@ -2,7 +2,6 @@
 
 PXZ_FILENAME="$1"
 REPO_URL="https://github.com/farrellgraymond/TCCC-Pixlr"
-TMP_FILENAME="pxz.gitdatehash.deleteme.tmp"
 MANIFEST_FILENAME="manifest.json"
 
 echo "=== Updating last modified date for [${PXZ_FILENAME}]..."
@@ -10,17 +9,10 @@ echo "=== Updating last modified date for [${PXZ_FILENAME}]..."
 echo "------ Verifying [${PXZ_FILENAME}] is a zipfile, script will exit if it is not..."
 unzip -t "${PXZ_FILENAME}" > /dev/null 2>&1
 
-# Emit the git last-updated timestamp and hashcode to a tempfile - I would prefer to just capture
-# it in an env var, however attempting to do so was causing the $PXZ_FILENAME's unicode characters
-# to get mangled in such a way that git log no longer found the correct file, so emitting it to a
-# tempfile in this manner seemed the only workable option as of initial implementation
-TZ=UTC0 git log -n 1 --date=format-local:'%Y-%m-%dT%H:%M:%SZ' --pretty=format:'%ad [%h]' -- "${PXZ_FILENAME}" > "${TMP_FILENAME}"
-
-LASTMOD_STR="$(cat ${TMP_FILENAME})"
-rm "${TMP_FILENAME}"
+LASTMOD_STR=`date -u '+%Y-%m-%dT%H:%M:%SZ'`
 echo "------ Last modified date string calculated as: [${LASTMOD_STR}]"
 
-LASTMOD_CONTENT="${REPO_URL}            LAST UPDATED: ${LASTMOD_STR}"
+LASTMOD_CONTENT="${REPO_URL}                     LAST UPDATED: ${LASTMOD_STR}"
 
 # Create our last-updated text element 
 LASTMOD_JSON="{

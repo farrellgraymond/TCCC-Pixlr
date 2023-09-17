@@ -1,0 +1,25 @@
+#!/bin/bash
+#
+# Called by "git commit" with no arguments.  The hook should
+# exit with non-zero status after issuing an appropriate message if
+# it wants to stop the commit.
+
+echo "*** RUNNING GIT PRECOMMIT HOOK ***"
+
+FILE_LIST=`git diff-index --cached --name-only HEAD -z | grep -z -e "\.pxz$"`
+pwd
+
+echo "--- Processing all staged commit files looking for .pxz files needing last-modified updates"
+
+# Only apply last-updated timestamp to Pixlr files which are actually staged with changes,
+# don't apply changes universally to all Pixlr files in the repo
+while IFS= read -r -d $'\0' file; do
+    echo "Updated staged Pixlr file [$file]"
+    ./update-last-modified-for-card.sh "$file"
+    git add "$file"
+done < <(git diff-index --cached --name-only -z HEAD | grep -z -e "\.pxz$")
+
+# Update all translations and add them into our commit automatically since they
+# are generated files
+./extract-manifests-and-translations.sh
+git add "translation-manifests/*"

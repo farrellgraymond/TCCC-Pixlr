@@ -13,10 +13,10 @@ fi
 
 echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-echo "# BUILD STEP 1 - UPDATE ALL LAST MODIFIED TIMES IN PIXLR CARDS"
+echo "# BUILD STEP 1 - UPDATE ALL LAST MODIFIED TIMES IN MODIFIED PIXLR CARDS"
 echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-find Pixlr\ Source\ Files -print0 |  xargs -n 1 -0 ./update-last-modified-for-card.sh
+git diff-index --name-only HEAD -z | grep -z -e "\.pxz$" |  xargs -n 1 -0 ./update-last-modified-for-card.sh
 
 # Second, extract all manifests and translation data
 
