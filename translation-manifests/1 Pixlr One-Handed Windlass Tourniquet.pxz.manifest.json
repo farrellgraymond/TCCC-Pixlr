@@ -1,6 +1,6 @@
 {
-  "id": "22cd2490-29fa-4523-b7b4-8e5c24b2a6f4",
-  "name": "One Handed Windlass Tourniquet PNG(5)(2)",
+  "id": "271de921-5d2d-42de-87ae-298a73c18bd3",
+  "name": "One Handed Windlass Tourniquet PNG(5)(2)(5)",
   "type": "document",
   "unit": "pixel",
   "width": 1275,
@@ -20,7 +20,67 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "5b7c8c3a42a7.png"
+      "content": "b513b02d4b71.png"
+    },
+    {
+      "name": "Shape 39",
+      "type": "shape",
+      "rect": {
+        "x": 453,
+        "y": 922,
+        "w": 65,
+        "h": 51,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 37",
+      "type": "shape",
+      "rect": {
+        "x": 455,
+        "y": 622,
+        "w": 61,
+        "h": 65,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 421,
+        "y": 625,
+        "w": 49,
+        "h": 49,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "d01f85f045bf.png"
     },
     {
       "name": "Shape 31",
@@ -167,12 +227,12 @@
       }
     },
     {
-      "name": "Якщо іншої великої кровот..",
+      "name": "Якщо відсутні ознаки інши..",
       "type": "text",
       "rect": {
-        "x": 122,
-        "y": 1554,
-        "w": 362,
+        "x": 125,
+        "y": 1552,
+        "w": 400,
         "h": 52,
         "r": 0
       },
@@ -180,9 +240,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо іншої великої кровотечі немає, ПЕРЕМІСТИТЬСЯ В УКРИТТЯ.",
+      "content": "Якщо відсутні ознаки інших масивних кровотеч, ПЕРЕМІСТІТЬСЯ В УКРИТТЯ.",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -199,6 +259,22 @@
           "value": "#000000"
         }
       }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 404,
+        "y": 1308,
+        "w": 468,
+        "h": 14,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "8e1991d34d84.png"
     },
     {
       "name": "Shape 29",
@@ -223,7 +299,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА. НЕ документуйте..",
+      "name": "ПРИМІТКА: Не документуйте..",
       "type": "text",
       "rect": {
         "x": 847,
@@ -236,7 +312,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. НЕ документуйте час накладення джгута до етапу польової медицини.",
+      "content": "ПРИМІТКА: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
       "format": {
         "size": 20,
         "align": "left",
@@ -288,12 +364,12 @@
       }
     },
     {
-      "name": "ЗАКРІПНІТЬ запобіжний рем..",
+      "name": "ЗАКРІПІТЬ усе фіксуючою с..",
       "type": "text",
       "rect": {
-        "x": 898,
-        "y": 1250,
-        "w": 341,
+        "x": 894,
+        "y": 1249,
+        "w": 297,
         "h": 48,
         "r": 0
       },
@@ -301,9 +377,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗАКРІПНІТЬ запобіжний ремінь брашпиля.",
+      "content": "ЗАКРІПІТЬ усе фіксуючою стрічкою.",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -344,22 +420,22 @@
       }
     },
     {
-      "name": "Проведіть липучку навколо..",
+      "name": "Проведіть самоклеючу стрі..",
       "type": "text",
       "rect": {
-        "x": 512,
-        "y": 1250,
+        "x": 508,
+        "y": 1247,
         "w": 304,
-        "h": 48,
+        "h": 68,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Проведіть липучку навколо стрижня та між затискачами.",
+      "content": "Проведіть самоклеючу стрічку навколо воротка та між фіксуючими скобами.",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -378,22 +454,22 @@
       }
     },
     {
-      "name": "ЗАфіксуйте стрижень брашп..",
+      "name": "Закріпіть вороток за допо..",
       "type": "text",
       "rect": {
         "x": 122,
-        "y": 1250,
+        "y": 1247,
         "w": 316,
-        "h": 68,
+        "h": 48,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗАфіксуйте стрижень брашпиля за допомогою затискача брашпиля.",
+      "content": "Закріпіть вороток за допомогою фіксатора.",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -434,11 +510,11 @@
       }
     },
     {
-      "name": "КРУТИТЬ стрижень, поки кр..",
+      "name": "Закручуйте вороток до тих..",
       "type": "text",
       "rect": {
         "x": 892,
-        "y": 925,
+        "y": 923,
         "w": 306,
         "h": 88,
         "r": 0
@@ -447,9 +523,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРУТИТЬ стрижень, поки кровотеча не зупиниться. ВИКОНАЙТЕ кроки 1-5 менш ніж за 1 хвилину.",
+      "content": "Закручуйте вороток до тих пір, поки кровотеча не зупиниться (кроки 1-5 слід виконати менш, ніж за 1 хв).",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -490,11 +566,11 @@
       }
     },
     {
-      "name": "Поверніть липучку назад н..",
+      "name": "Зафіксуйте самоклеючу стр..",
       "type": "text",
       "rect": {
-        "x": 510,
-        "y": 927,
+        "x": 522,
+        "y": 923,
         "w": 304,
         "h": 88,
         "r": 0
@@ -503,9 +579,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Поверніть липучку назад на себе навколо кінцівки, але НЕ на затискачах стрижня брашпиля.",
+      "content": "Зафіксуйте самоклеючу стрічку по всій довжині навколо кінцівки, але не над скобами, які фіксують вороток.",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -546,12 +622,28 @@
       }
     },
     {
-      "name": "ПЕРЕКОНАЙТЕСЯ, ЧИ ВСЯ сла..",
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 473,
+        "y": 922,
+        "w": 49,
+        "h": 49,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "5bfc8db14f3f.png"
+    },
+    {
+      "name": "Перед затягуванням турнік..",
       "type": "text",
       "rect": {
-        "x": 122,
-        "y": 927,
-        "w": 338,
+        "x": 121,
+        "y": 923,
+        "w": 349,
         "h": 88,
         "r": 0
       },
@@ -559,9 +651,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕКОНАЙТЕСЯ, ЧИ ВСЯ слабина джгута знята, перш ніж знову покласти липучку на підкладку.",
+      "content": "Перед затягуванням турнікета та закручуванням воротка переконайтеся, що стрічка протягнута крізь пряжку без провисань.",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -624,11 +716,11 @@
       }
     },
     {
-      "name": "РОЗТАШУЙТЕ джгут над місц..",
+      "name": "Розмістіть турнікет над м..",
       "type": "text",
       "rect": {
-        "x": 892,
-        "y": 628,
+        "x": 889,
+        "y": 625,
         "w": 306,
         "h": 68,
         "r": 0
@@ -637,9 +729,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "РОЗТАШУЙТЕ джгут над місцем кровотечі, високо на кінцівці, поверх одягу.",
+      "content": "Розмістіть турнікет над місцем кровотечі, високо на кінцівці поверх одягу/уніформи.",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -680,12 +772,12 @@
       }
     },
     {
-      "name": "ВСТАВТЕ поранену кінцівку..",
+      "name": "Просуньте поранену кінців..",
       "type": "text",
       "rect": {
-        "x": 510,
-        "y": 628,
-        "w": 304,
+        "x": 470,
+        "y": 625,
+        "w": 364,
         "h": 68,
         "r": 0
       },
@@ -693,9 +785,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВСТАВТЕ поранену кінцівку через петлю самоклеїться стрічки.",
+      "content": "Просуньте поранену кінцівку крізь петлю, яку утворює самоклеюча стрічка (турнікет у вигляді замкнутої петлі).",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -736,22 +828,22 @@
       }
     },
     {
-      "name": "ЗНЯТИ джгут із набору або..",
+      "name": "Дістаньте турнікет з такт..",
       "type": "text",
       "rect": {
-        "x": 129,
-        "y": 628,
+        "x": 122,
+        "y": 625,
         "w": 302,
-        "h": 48,
+        "h": 68,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗНЯТИ джгут із набору або сумки для транспортування.",
+      "content": "Дістаньте турнікет з тактичної індивідуальної аптечки (JFAK) та/або підсумка.",
       "format": {
-        "size": 20,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -814,52 +906,18 @@
       }
     },
     {
-      "name": "Догляд під вогнем..",
-      "type": "text",
-      "rect": {
-        "x": 67,
-        "y": 328,
-        "w": 613,
-        "h": 82,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Догляд під вогнем",
-      "format": {
-        "size": 60,
-        "align": "left",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
       "name": "Лікуйте лише негайно небе..",
       "type": "text",
       "rect": {
-        "x": 609,
-        "y": 344,
-        "w": 603,
-        "h": 48,
+        "x": 790,
+        "y": 329,
+        "w": 419,
+        "h": 68,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
-      "visible": true,
+      "visible": false,
       "link": "",
       "content": "Лікуйте лише негайно небезпечні для життя рани. Решта допомоги призначена для етапу тактичної польової медицини.",
       "format": {
@@ -891,22 +949,56 @@
       }
     },
     {
-      "name": "Одноручне застосування дж..",
+      "name": "НАКЛАДАННЯ ТУРНІКЕТА З ВО..",
       "type": "text",
       "rect": {
-        "x": 59,
-        "y": 181,
-        "w": 1180,
-        "h": 154,
+        "x": 66,
+        "y": 197,
+        "w": 1143,
+        "h": 130,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Одноручне застосування джгута - брашпиль (Windlass)",
+      "content": "НАКЛАДАННЯ ТУРНІКЕТА З ВОРОТКОМ І ПРЯЖКОЮ ОДНІЄЮ РУКОЮ",
       "format": {
-        "size": 60,
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(ДОПОМОГА ПІД ВОГНЕМ, CUF..",
+      "type": "text",
+      "rect": {
+        "x": 83,
+        "y": 342,
+        "w": 681,
+        "h": 55,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(ДОПОМОГА ПІД ВОГНЕМ, CUF)",
+      "format": {
+        "size": 40,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -938,7 +1030,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "bbff9b274e17.png"
+      "content": "1e1e8ca74259.png"
     },
     {
       "name": "unnamed-removebg-preview.png Copy",
@@ -954,7 +1046,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "3892942746b0.png"
+      "content": "65d0a1064fac.png"
     },
     {
       "name": "LAST UPDATED",
@@ -970,7 +1062,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:32:56Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:53:09Z",
       "format": {
         "size": 16,
         "align": "left",
