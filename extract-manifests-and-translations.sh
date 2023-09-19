@@ -5,9 +5,11 @@ MANIFEST_DIR="translation-manifests"
 PIXLR_FILES_DIR="Pixlr Source Files"
 XARGS_SH_CMD="unzip -p '{}' manifest.json | jq . | tee '../${MANIFEST_DIR}/{}.manifest.json'"
 
-echo "=== Ensuring directory [${MANIFEST_DIR}] is deleted and recreated..."
-rm -rf ${MANIFEST_DIR}
-mkdir -p ${MANIFEST_DIR}
+# This ended up being a bad idea when the manifests folder started being used
+# for other files and purposes, and those files disappeared unexpectedly :/
+#echo "=== Ensuring directory [${MANIFEST_DIR}] is deleted and recreated..."
+#rm -rf ${MANIFEST_DIR}
+#mkdir -p ${MANIFEST_DIR}
 
 echo "=== Phase 1: Extracting all Pixlr file manifests in [${PIXLR_FILES_DIR}]..."
 pushd "${PIXLR_FILES_DIR}" >/dev/null
