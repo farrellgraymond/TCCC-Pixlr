@@ -3,8 +3,8 @@
   "name": "32 ENG Pelvic Compression Device (PCD) PNG(2)(2)",
   "type": "document",
   "unit": "pixel",
-  "width": 1275,
-  "height": 1650,
+  "width": 5100,
+  "height": 6600,
   "stack": [
     {
       "name": "Background",
@@ -12,8 +12,8 @@
       "rect": {
         "x": 0,
         "y": 0,
-        "w": 1275,
-        "h": 1650,
+        "w": 5100,
+        "h": 6600,
         "r": 0
       },
       "opacity": 1,
@@ -23,431 +23,13 @@
       "content": "fa4ab4c94014.png"
     },
     {
-      "name": "Shape 42",
-      "type": "shape",
-      "rect": {
-        "x": 839,
-        "y": 1514,
-        "w": 364,
-        "h": 60,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 41",
-      "type": "shape",
-      "rect": {
-        "x": 895,
-        "y": 1466,
-        "w": 308,
-        "h": 66,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 40",
-      "type": "shape",
-      "rect": {
-        "x": 62,
-        "y": 1515,
-        "w": 761,
-        "h": 114,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 39",
-      "type": "shape",
-      "rect": {
-        "x": 125,
-        "y": 1466,
-        "w": 699,
-        "h": 85,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 38",
-      "type": "shape",
-      "rect": {
-        "x": 892,
-        "y": 1112,
-        "w": 308,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 37",
-      "type": "shape",
-      "rect": {
-        "x": 453,
-        "y": 1159,
-        "w": 392,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 36",
-      "type": "shape",
-      "rect": {
-        "x": 507,
-        "y": 1112,
-        "w": 321,
-        "h": 75,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 35",
-      "type": "shape",
-      "rect": {
-        "x": 67,
-        "y": 1159,
-        "w": 373,
-        "h": 93,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 34",
-      "type": "shape",
-      "rect": {
-        "x": 122,
-        "y": 1112,
-        "w": 318,
-        "h": 71,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 868,
-        "y": 859,
-        "w": 376,
-        "h": 58,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 126,
-        "y": 859,
-        "w": 672,
-        "h": 54,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 867,
-        "y": 546,
-        "w": 336,
-        "h": 59,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 830,
-        "y": 594,
-        "w": 387,
-        "h": 71,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 509,
-        "y": 545,
-        "w": 302,
-        "h": 71,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 70,
-        "y": 595,
-        "w": 631,
-        "h": 68,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 124,
-        "y": 546,
-        "w": 301,
-        "h": 62,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 642,
-        "y": 273,
-        "w": 510,
-        "h": 58,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 140,
-        "y": 276,
-        "w": 478,
-        "h": 78,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 71,
-        "y": 204,
-        "w": 1140,
-        "h": 68,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "ДОКУМЕНТУЙТЕ травму та лі..",
       "type": "text",
       "rect": {
-        "x": 898,
-        "y": 1467,
-        "w": 362,
-        "h": 88,
+        "x": 3592,
+        "y": 5868,
+        "w": 1448,
+        "h": 352,
         "r": 0
       },
       "opacity": 1,
@@ -456,7 +38,7 @@
       "link": "",
       "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -478,10 +60,10 @@
       "name": "Примітка. Якщо є ознаки ш..",
       "type": "text",
       "rect": {
-        "x": 127,
-        "y": 1538,
-        "w": 732,
-        "h": 48,
+        "x": 508,
+        "y": 6152,
+        "w": 2928,
+        "h": 192,
         "r": 0
       },
       "opacity": 1,
@@ -490,7 +72,7 @@
       "link": "",
       "content": "Примітка. Якщо є ознаки шоку/внутрішньої кровотечі, змініть положення шини, щоб знерухомити таз, якщо це дозволяє тактична ситуація.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -521,10 +103,10 @@
       "name": "Спостерігайте за поранени..",
       "type": "text",
       "rect": {
-        "x": 127,
-        "y": 1467,
-        "w": 702,
-        "h": 68,
+        "x": 508,
+        "y": 5868,
+        "w": 2808,
+        "h": 272,
         "r": 0
       },
       "opacity": 1,
@@ -533,7 +115,7 @@
       "link": "",
       "content": "Спостерігайте за пораненим на наявність кровотечі, спостерігаючи за ознаками шоку (змінений психічний стан без травми голови та/або слабкий радіальний пульс). Внутрішньої кровотечі не видно.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -555,10 +137,10 @@
       "name": "Зв'яжіть верхню частину н..",
       "type": "text",
       "rect": {
-        "x": 893,
-        "y": 1113,
-        "w": 325,
-        "h": 88,
+        "x": 3572,
+        "y": 4452,
+        "w": 1300,
+        "h": 352,
         "r": 0
       },
       "opacity": 1,
@@ -567,7 +149,7 @@
       "link": "",
       "content": "Зв'яжіть верхню частину ніг пораненого разом, щоб мінімалізувати зовнішню ротацію стегон",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -589,10 +171,10 @@
       "name": "Примітка. Коли ремені зак..",
       "type": "text",
       "rect": {
-        "x": 470,
-        "y": 1181,
-        "w": 376,
-        "h": 68,
+        "x": 1880,
+        "y": 4724,
+        "w": 1504,
+        "h": 272,
         "r": 0
       },
       "opacity": 1,
@@ -601,7 +183,7 @@
       "link": "",
       "content": "Примітка. Коли ремені закріплені, може відбутися другий клацання, це нормально.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -632,10 +214,10 @@
       "name": "Підтримуйте натяг і прити..",
       "type": "text",
       "rect": {
-        "x": 508,
-        "y": 1113,
-        "w": 331,
-        "h": 68,
+        "x": 2032,
+        "y": 4452,
+        "w": 1324,
+        "h": 272,
         "r": 0
       },
       "opacity": 1,
@@ -644,7 +226,7 @@
       "link": "",
       "content": "Підтримуйте натяг і притисніть ремені до поверхні Шина для іммобілізації таза щоб закріпити.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -666,10 +248,10 @@
       "name": "Примітка. Навіть при прав..",
       "type": "text",
       "rect": {
-        "x": 79,
-        "y": 1202,
-        "w": 364,
-        "h": 48,
+        "x": 316,
+        "y": 4808,
+        "w": 1456,
+        "h": 192,
         "r": 0
       },
       "opacity": 1,
@@ -678,7 +260,7 @@
       "link": "",
       "content": "Примітка. Навіть при правильному накладенні пряжка не завжди клацає.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -709,10 +291,10 @@
       "name": "Потягніть обидва ремені в..",
       "type": "text",
       "rect": {
-        "x": 124,
-        "y": 1113,
-        "w": 319,
-        "h": 88,
+        "x": 496,
+        "y": 4452,
+        "w": 1276,
+        "h": 352,
         "r": 0
       },
       "opacity": 1,
@@ -721,7 +303,7 @@
       "link": "",
       "content": "Потягніть обидва ремені в протилежних напрямках, доки не почуєте та не відчуєте фіксацію пряжки.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -743,10 +325,10 @@
       "name": "Shape 15",
       "type": "shape",
       "rect": {
-        "x": 836,
-        "y": 858,
-        "w": 62,
-        "h": 59,
+        "x": 3344,
+        "y": 3432,
+        "w": 248,
+        "h": 236,
         "r": 0
       },
       "opacity": 1,
@@ -765,10 +347,10 @@
       "name": "clipboard",
       "type": "image",
       "rect": {
-        "x": 815,
-        "y": 860,
-        "w": 47,
-        "h": 47,
+        "x": 3260,
+        "y": 3440,
+        "w": 188,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
@@ -781,10 +363,10 @@
       "name": "Пропустіть ремінь через п..",
       "type": "text",
       "rect": {
-        "x": 868,
-        "y": 857,
-        "w": 429,
-        "h": 48,
+        "x": 3472,
+        "y": 3428,
+        "w": 1716,
+        "h": 192,
         "r": 0
       },
       "opacity": 1,
@@ -793,7 +375,7 @@
       "link": "",
       "content": "Пропустіть ремінь через пряжку та протягніть, усуньте будь-яку слабину.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -815,10 +397,10 @@
       "name": "Розмістіть Шина для іммоб..",
       "type": "text",
       "rect": {
-        "x": 127,
-        "y": 860,
-        "w": 570,
-        "h": 48,
+        "x": 508,
+        "y": 3440,
+        "w": 2280,
+        "h": 192,
         "r": 0
       },
       "opacity": 1,
@@ -827,7 +409,7 @@
       "link": "",
       "content": "Розмістіть Шина для іммобілізації таза позаду ніг і підніміть його до рівня верхньої зовнішньої стегнової кістки.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -849,10 +431,10 @@
       "name": "Shape 11",
       "type": "shape",
       "rect": {
-        "x": 837,
-        "y": 543,
-        "w": 61,
-        "h": 55,
+        "x": 3348,
+        "y": 2172,
+        "w": 244,
+        "h": 220,
         "r": 0
       },
       "opacity": 1,
@@ -871,10 +453,10 @@
       "name": "clipboard",
       "type": "image",
       "rect": {
-        "x": 813,
-        "y": 544,
-        "w": 52,
-        "h": 50,
+        "x": 3252,
+        "y": 2176,
+        "w": 208,
+        "h": 200,
         "r": 0
       },
       "opacity": 1,
@@ -887,10 +469,10 @@
       "name": "ШУКАЙТЕ, чи немає деформа..",
       "type": "text",
       "rect": {
-        "x": 865,
-        "y": 547,
-        "w": 355,
-        "h": 108,
+        "x": 3460,
+        "y": 2188,
+        "w": 1420,
+        "h": 432,
         "r": 0
       },
       "opacity": 1,
@@ -899,7 +481,7 @@
       "link": "",
       "content": "ШУКАЙТЕ, чи немає деформацій, синців, саден, проколів, опіків, рваних ран. ВАЖЛИВО, обережно ПОМАЦАТИ на предмет болючості, нестійкості, крепітації.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -921,10 +503,10 @@
       "name": "Якщо можливо, направте по..",
       "type": "text",
       "rect": {
-        "x": 102,
-        "y": 613,
-        "w": 408,
-        "h": 48,
+        "x": 408,
+        "y": 2452,
+        "w": 1632,
+        "h": 192,
         "r": 0
       },
       "opacity": 1,
@@ -933,7 +515,7 @@
       "link": "",
       "content": "Якщо можливо, направте помічника стабілізувати зону вручну.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -964,10 +546,10 @@
       "name": "Почніть із пораненого на ..",
       "type": "text",
       "rect": {
-        "x": 510,
-        "y": 547,
-        "w": 285,
-        "h": 68,
+        "x": 2040,
+        "y": 2188,
+        "w": 1140,
+        "h": 272,
         "r": 0
       },
       "opacity": 1,
@@ -976,7 +558,7 @@
       "link": "",
       "content": "Почніть із пораненого на спині, не завдаючи подальших травм.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -998,10 +580,10 @@
       "name": "Спорожніть кишені поранен..",
       "type": "text",
       "rect": {
-        "x": 127,
-        "y": 547,
-        "w": 304,
-        "h": 68,
+        "x": 508,
+        "y": 2188,
+        "w": 1216,
+        "h": 272,
         "r": 0
       },
       "opacity": 1,
@@ -1010,7 +592,7 @@
       "link": "",
       "content": "Спорожніть кишені пораненого та вийміть усі предмети навколо талії.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1032,10 +614,10 @@
       "name": "Важливо. Використання Шин..",
       "type": "text",
       "rect": {
-        "x": 649,
-        "y": 304,
-        "w": 508,
-        "h": 48,
+        "x": 2596,
+        "y": 1216,
+        "w": 2032,
+        "h": 192,
         "r": 0
       },
       "opacity": 1,
@@ -1044,7 +626,7 @@
       "link": "",
       "content": "Важливо. Використання Шина для іммобілізації таза не перешкоджає використанню Bузловий турнікет.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1075,10 +657,10 @@
       "name": "Розгляньте можливість вик..",
       "type": "text",
       "rect": {
-        "x": 148,
-        "y": 283,
-        "w": 448,
-        "h": 68,
+        "x": 592,
+        "y": 1132,
+        "w": 1792,
+        "h": 272,
         "r": 0
       },
       "opacity": 1,
@@ -1087,7 +669,7 @@
       "link": "",
       "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1118,10 +700,10 @@
       "name": "Pelvic Compression Device..",
       "type": "text",
       "rect": {
-        "x": 953,
-        "y": 159,
-        "w": 263,
-        "h": 149,
+        "x": 3812,
+        "y": 636,
+        "w": 1052,
+        "h": 596,
         "r": 0
       },
       "opacity": 1,
@@ -1130,7 +712,7 @@
       "link": "",
       "content": "Pelvic Compression Device (PCD)",
       "format": {
-        "size": 40,
+        "size": 160,
         "align": "left",
         "bold": false,
         "italic": false,
@@ -1152,10 +734,10 @@
       "name": "Шина для іммобілізації та..",
       "type": "text",
       "rect": {
-        "x": 63,
-        "y": 192,
-        "w": 812,
-        "h": 83,
+        "x": 252,
+        "y": 768,
+        "w": 3248,
+        "h": 332,
         "r": 0
       },
       "opacity": 1,
@@ -1164,7 +746,7 @@
       "link": "",
       "content": "Шина для іммобілізації таза",
       "format": {
-        "size": 60,
+        "size": 240,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1196,7 +778,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:00Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-19T14:45:30Z",
       "format": {
         "size": 16,
         "align": "left",
