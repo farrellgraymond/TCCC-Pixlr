@@ -19,10 +19,10 @@ LASTMOD_JSON="{
       \"name\": \"LAST UPDATED\",
       \"type\": \"text\",
       \"rect\": {
-        \"x\": 73,
-        \"y\": 1610,
-        \"w\": 800,
-        \"h\": 23,
+        \"x\": 292,
+        \"y\": 6440,
+        \"w\": 3200,
+        \"h\": 92,
         \"r\": 0
       },
       \"opacity\": 1,
@@ -31,7 +31,7 @@ LASTMOD_JSON="{
       \"link\": \"\",
       \"content\": \"${LASTMOD_CONTENT}\",
       \"format\": {
-        \"size\": 16,
+        \"size\": 64,
         \"align\": \"left\",
         \"bold\": true,
         \"italic\": false,
