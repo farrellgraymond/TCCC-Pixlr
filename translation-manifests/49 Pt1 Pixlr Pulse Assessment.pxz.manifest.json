@@ -3,8 +3,8 @@
   "name": "49 Pt1 ENG Pulse Assessment PNG(2)",
   "type": "document",
   "unit": "pixel",
-  "width": 1275,
-  "height": 1650,
+  "width": 5100,
+  "height": 6600,
   "stack": [
     {
       "name": "Background",
@@ -12,8 +12,8 @@
       "rect": {
         "x": 0,
         "y": 0,
-        "w": 1275,
-        "h": 1650,
+        "w": 5100,
+        "h": 6600,
         "r": 0
       },
       "opacity": 1,
@@ -26,10 +26,10 @@
       "name": "Shape 18",
       "type": "shape",
       "rect": {
-        "x": 911,
-        "y": 1131,
-        "w": 220,
-        "h": 67,
+        "x": 3644,
+        "y": 4524,
+        "w": 880,
+        "h": 268,
         "r": 0
       },
       "opacity": 1,
@@ -48,10 +48,10 @@
       "name": "Shape 17",
       "type": "shape",
       "rect": {
-        "x": 56,
-        "y": 1142,
-        "w": 372,
-        "h": 87,
+        "x": 224,
+        "y": 4568,
+        "w": 1488,
+        "h": 348,
         "r": 0
       },
       "opacity": 1,
@@ -70,10 +70,10 @@
       "name": "Shape 16",
       "type": "shape",
       "rect": {
-        "x": 891,
-        "y": 681,
-        "w": 269,
-        "h": 37,
+        "x": 3564,
+        "y": 2724,
+        "w": 1076,
+        "h": 148,
         "r": 0
       },
       "opacity": 1,
@@ -92,10 +92,10 @@
       "name": "Shape 15",
       "type": "shape",
       "rect": {
-        "x": 90,
-        "y": 484,
-        "w": 349,
-        "h": 43,
+        "x": 360,
+        "y": 1936,
+        "w": 1396,
+        "h": 172,
         "r": 0
       },
       "opacity": 1,
@@ -114,10 +114,10 @@
       "name": "Shape 14",
       "type": "shape",
       "rect": {
-        "x": 890,
-        "y": 272,
-        "w": 269,
-        "h": 38,
+        "x": 3560,
+        "y": 1088,
+        "w": 1076,
+        "h": 152,
         "r": 0
       },
       "opacity": 1,
@@ -136,10 +136,10 @@
       "name": "Shape 13",
       "type": "shape",
       "rect": {
-        "x": 65,
-        "y": 200,
-        "w": 637,
-        "h": 104,
+        "x": 260,
+        "y": 800,
+        "w": 2548,
+        "h": 416,
         "r": 0
       },
       "opacity": 1,
@@ -158,10 +158,10 @@
       "name": "СТОРІНКА 1 з 6 - (1/6)..",
       "type": "text",
       "rect": {
-        "x": 865,
-        "y": 200,
-        "w": 334,
-        "h": 42,
+        "x": 3460,
+        "y": 800,
+        "w": 1336,
+        "h": 168,
         "r": 0
       },
       "opacity": 1,
@@ -170,7 +170,7 @@
       "link": "",
       "content": "СТОРІНКА 1 з 6 - (1/6)",
       "format": {
-        "size": 30,
+        "size": 120,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -192,10 +192,10 @@
       "name": "продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 845,
-        "y": 1555,
-        "w": 373,
-        "h": 29,
+        "x": 3380,
+        "y": 6220,
+        "w": 1492,
+        "h": 116,
         "r": 0
       },
       "opacity": 1,
@@ -204,7 +204,7 @@
       "link": "",
       "content": "продовження на наступній сторінці...",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -226,10 +226,10 @@
       "name": "(POSTERIOR TIBIAL)..",
       "type": "text",
       "rect": {
-        "x": 906,
-        "y": 1171,
-        "w": 238,
-        "h": 29,
+        "x": 3624,
+        "y": 4684,
+        "w": 952,
+        "h": 116,
         "r": 0
       },
       "opacity": 1,
@@ -238,7 +238,7 @@
       "link": "",
       "content": "(POSTERIOR TIBIAL)",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "center",
         "bold": true,
         "italic": false,
@@ -260,10 +260,10 @@
       "name": "ЗАДНЯ ГОМІЛКОВА АРТЕРІЯ..",
       "type": "text",
       "rect": {
-        "x": 831,
-        "y": 1093,
-        "w": 388,
-        "h": 78,
+        "x": 3324,
+        "y": 4372,
+        "w": 1552,
+        "h": 312,
         "r": 0
       },
       "opacity": 1,
@@ -272,7 +272,7 @@
       "link": "",
       "content": "ЗАДНЯ ГОМІЛКОВА АРТЕРІЯ",
       "format": {
-        "size": 30,
+        "size": 120,
         "align": "center",
         "bold": true,
         "italic": false,
@@ -294,10 +294,10 @@
       "name": "(DORSALIS PEDIS)..",
       "type": "text",
       "rect": {
-        "x": 145,
-        "y": 1200,
-        "w": 189,
-        "h": 29,
+        "x": 580,
+        "y": 4800,
+        "w": 756,
+        "h": 116,
         "r": 0
       },
       "opacity": 1,
@@ -306,7 +306,7 @@
       "link": "",
       "content": "(DORSALIS PEDIS)",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "center",
         "bold": true,
         "italic": false,
@@ -328,10 +328,10 @@
       "name": "АРТЕРІЯ ВЕРХУ СТОПИ..",
       "type": "text",
       "rect": {
-        "x": 50,
-        "y": 1158,
-        "w": 385,
-        "h": 42,
+        "x": 200,
+        "y": 4632,
+        "w": 1540,
+        "h": 168,
         "r": 0
       },
       "opacity": 1,
@@ -340,7 +340,7 @@
       "link": "",
       "content": "АРТЕРІЯ ВЕРХУ СТОПИ",
       "format": {
-        "size": 30,
+        "size": 120,
         "align": "center",
         "bold": true,
         "italic": false,
@@ -362,10 +362,10 @@
       "name": "СТЕГНОВА АРТЕРІЯ..",
       "type": "text",
       "rect": {
-        "x": 874,
-        "y": 681,
-        "w": 315,
-        "h": 42,
+        "x": 3496,
+        "y": 2724,
+        "w": 1260,
+        "h": 168,
         "r": 0
       },
       "opacity": 1,
@@ -374,7 +374,7 @@
       "link": "",
       "content": "СТЕГНОВА АРТЕРІЯ",
       "format": {
-        "size": 30,
+        "size": 120,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -396,10 +396,10 @@
       "name": "ПРОМЕНЕВА АРТЕРІЯ..",
       "type": "text",
       "rect": {
-        "x": 80,
-        "y": 485,
-        "w": 355,
-        "h": 42,
+        "x": 320,
+        "y": 1940,
+        "w": 1420,
+        "h": 168,
         "r": 0
       },
       "opacity": 1,
@@ -408,7 +408,7 @@
       "link": "",
       "content": "ПРОМЕНЕВА АРТЕРІЯ",
       "format": {
-        "size": 30,
+        "size": 120,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -430,10 +430,10 @@
       "name": "СОННА АРТЕРІЯ..",
       "type": "text",
       "rect": {
-        "x": 892,
-        "y": 273,
-        "w": 265,
-        "h": 42,
+        "x": 3568,
+        "y": 1092,
+        "w": 1060,
+        "h": 168,
         "r": 0
       },
       "opacity": 1,
@@ -442,7 +442,7 @@
       "link": "",
       "content": "СОННА АРТЕРІЯ",
       "format": {
-        "size": 30,
+        "size": 120,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -464,10 +464,10 @@
       "name": "Методика вимірювання пуль..",
       "type": "text",
       "rect": {
-        "x": 80,
-        "y": 282,
-        "w": 437,
-        "h": 149,
+        "x": 320,
+        "y": 1128,
+        "w": 1748,
+        "h": 596,
         "r": 0
       },
       "opacity": 1,
@@ -476,7 +476,7 @@
       "link": "",
       "content": "Методика вимірювання пульсу на різних артеріях",
       "format": {
-        "size": 40,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -498,10 +498,10 @@
       "name": "Оцінка пульсу..",
       "type": "text",
       "rect": {
-        "x": 65,
-        "y": 191,
-        "w": 437,
-        "h": 82,
+        "x": 260,
+        "y": 764,
+        "w": 1748,
+        "h": 328,
         "r": 0
       },
       "opacity": 1,
@@ -510,7 +510,7 @@
       "link": "",
       "content": "Оцінка пульсу",
       "format": {
-        "size": 60,
+        "size": 240,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -532,10 +532,10 @@
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
-        "x": 73,
-        "y": 1610,
-        "w": 800,
-        "h": 23,
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
         "r": 0
       },
       "opacity": 1,
@@ -544,7 +544,7 @@
       "link": "",
       "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:02Z",
       "format": {
-        "size": 16,
+        "size": 64,
         "align": "left",
         "bold": true,
         "italic": false,
