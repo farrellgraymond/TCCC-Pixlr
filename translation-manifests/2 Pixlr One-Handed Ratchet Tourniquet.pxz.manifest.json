@@ -1,6 +1,6 @@
 {
   "id": "93b22f84-cb23-4ebf-ada9-01ae122ab7d4",
-  "name": "One Handed Ratchet Tourniquet PNG(3)(2)",
+  "name": "One Handed Ratchet Tourniquet PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -21,50 +21,6 @@
       "visible": true,
       "link": "",
       "content": "abe4920540cc.png"
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 3540,
-        "y": 3788,
-        "w": 164,
-        "h": 72,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 276,
-        "y": 756,
-        "w": 3516,
-        "h": 860,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
     },
     {
       "name": "(ДОПОМОГА ПІД ВОГНЕМ, CUF..",
@@ -101,28 +57,6 @@
       }
     },
     {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 5484,
-        "w": 1472,
-        "h": 276,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "Якщо відсутні ознаки інши..",
       "type": "text",
       "rect": {
@@ -153,28 +87,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 276,
-        "y": 5712,
-        "w": 1612,
-        "h": 672,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -265,28 +177,6 @@
       }
     },
     {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 5480,
-        "w": 1136,
-        "h": 228,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "Зафіксуйте зубчастий меха..",
       "type": "text",
       "rect": {
@@ -317,28 +207,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 3552,
-        "y": 4012,
-        "w": 1332,
-        "h": 596,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -377,28 +245,6 @@
       }
     },
     {
-      "name": "Shape 16",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 4000,
-        "w": 1240,
-        "h": 292,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "Затягніть ремінь турнікет..",
       "type": "text",
       "rect": {
@@ -429,28 +275,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 15",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 4012,
-        "w": 1340,
-        "h": 440,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -489,28 +313,6 @@
       }
     },
     {
-      "name": "Shape 14",
-      "type": "shape",
-      "rect": {
-        "x": 3564,
-        "y": 2624,
-        "w": 1232,
-        "h": 400,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "Розмістіть турнікет над м..",
       "type": "text",
       "rect": {
@@ -541,28 +343,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 13",
-      "type": "shape",
-      "rect": {
-        "x": 2036,
-        "y": 2624,
-        "w": 1224,
-        "h": 332,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -631,28 +411,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 12",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 2624,
-        "w": 1228,
-        "h": 244,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -774,14 +532,14 @@
         "x": 292,
         "y": 6440,
         "w": 3200,
-        "h": 89,
+        "h": 92,
         "r": 0
       },
       "opacity": 1,
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:32:58Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-25T22:14:35Z",
       "format": {
         "size": 64,
         "align": "left",
