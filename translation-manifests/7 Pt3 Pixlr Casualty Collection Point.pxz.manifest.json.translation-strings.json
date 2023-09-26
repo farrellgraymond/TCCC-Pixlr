@@ -1,82 +1,86 @@
 [
   {
-    "content": "важкий (IV)",
+    "content": "Очікувальні поранені",
     "fillValue": "#000000"
   },
   {
-    "content": "незначні рани (III)",
+    "content": "Легкі поранені",
     "fillValue": "#000000"
   },
   {
-    "content": "Затримка транспорту (II)",
+    "content": "Відтерміновані поранені",
     "fillValue": "#000000"
   },
   {
-    "content": "негайно (I)",
+    "content": "Термінові поранені",
     "fillValue": "#000000"
   },
   {
-    "content": "Загинув у бою",
+    "content": "Морг для вбитих у бою",
     "fillValue": "#000000"
   },
   {
-    "content": "Рутина",
-    "fillValue": "#ffffff"
-  },
-  {
-    "content": "Рутина",
-    "fillValue": "#ffffff"
-  },
-  {
-    "content": "Пріоритет",
-    "fillValue": "#ffffff"
-  },
-  {
-    "content": "Терміново",
-    "fillValue": "#ffffff"
-  },
-  {
-    "content": "Медичне приладдя",
+    "content": "Медичні запаси",
     "fillValue": "#000000"
   },
   {
-    "content": "Вхід / Вихід",
+    "content": "ТОЧКА ВХОДУ/ВИХОДУ",
     "fillValue": "#000000"
   },
   {
-    "content": "зона сортування",
+    "content": "СОРТУВАННЯ",
     "fillValue": "#bb3335"
   },
   {
-    "content": "Поранені готові до транспортування",
+    "content": "Вибуття поранених ",
     "fillValue": "#000000"
   },
   {
-    "content": "Надходять поранені",
+    "content": "Надходження поранених",
     "fillValue": "#bb3335"
   },
   {
-    "content": "будинок - Авіаційний ангар / Гімназія",
+    "content": "Будівля – Відкритий ангар",
     "fillValue": "#000000"
   },
   {
-    "content": "Зона збору поранених -",
+    "content": "Пункт збору поранених: ",
     "fillValue": "#ffffff"
   },
   {
-    "content": "Примітка. Схема може змінюватися залежно від процедур підрозділу, місії, тактичної ситуації чи місцевості.",
+    "content": "Ця діаграма IV категорії світло-зелена",
+    "fillValue": "#bbb4a5"
+  },
+  {
+    "content": "ЗВИЧАЙНА ",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "ЗВИЧАЙНА ",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "ПРІОРИТЕТНА",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "НЕВІДКЛАДНА",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Продовження",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ПРИМІТКА: План організації Пункту збору поранених може змінюватися в залежності від стандартних операційних процедур (СОП) підрозділу, бойового завдання, тактичної ситуації, рельєфу місцевості тощо.",
     "fillValue": "#f00505"
   },
   {
-    "content": "Продовження зі сторінки 2",
+    "content": "ПУНКТ ЗБОРУ ПОРАНЕНИХ",
     "fillValue": "#000000"
   },
   {
-    "content": "Зона збору поранених",
-    "fillValue": "#000000"
-  },
-  {
-    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:03Z",
+    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-26T18:20:56Z",
     "fillValue": "#000000"
   }
 ]
