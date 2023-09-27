@@ -1,5 +1,5 @@
 {
-  "id": "272de460-301b-48bc-846e-b5e15d77436c",
+  "id": "0e52552a-2d2e-4b73-b37e-f35a56457336",
   "name": "5 Pt5 One-Person Drag Carry PNG",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,50 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "d01c82e84bb7.png"
+      "content": "4aa299ff4486.png"
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1490,
+        "w": 2148,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
     },
     {
       "name": "Будьте опорою для поранен..",
@@ -159,20 +202,20 @@
       }
     },
     {
-      "name": "ПРИМІТКА: Цей метод може ..",
+      "name": "__________ Цей метод може..",
       "type": "text",
       "rect": {
         "x": 292,
         "y": 1490,
         "w": 2304,
-        "h": 179,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Цей метод може використовуватися лише для ПРИТОМНИХ поранених.",
+      "content": "__________ Цей метод може використовуватися лише для ПРИТОМНИХ поранених.",
       "format": {
         "size": 76,
         "align": "left",
@@ -180,7 +223,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -188,16 +231,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
@@ -205,10 +239,10 @@
       "name": "ПЕРЕНЕСЕННЯ МЕТОДОМ ПІДТР..",
       "type": "text",
       "rect": {
-        "x": 268,
-        "y": 1228,
+        "x": 292,
+        "y": 1254,
         "w": 2749,
-        "h": 160,
+        "h": 166,
         "r": 0
       },
       "opacity": 1,
@@ -242,7 +276,7 @@
         "x": 244,
         "y": 799,
         "w": 3062,
-        "h": 405,
+        "h": 455,
         "r": 0
       },
       "opacity": 1,
@@ -251,7 +285,7 @@
       "link": "",
       "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
       "format": {
-        "size": 160,
+        "size": 180,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -283,7 +317,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-26T02:12:26Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:07:54Z",
       "format": {
         "size": 64,
         "align": "left",

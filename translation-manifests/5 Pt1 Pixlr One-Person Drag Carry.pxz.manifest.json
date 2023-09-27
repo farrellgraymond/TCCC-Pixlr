@@ -1,5 +1,5 @@
 {
-  "id": "34d1a63a-0278-488d-8819-f8a3adf6bb7d",
+  "id": "6f63be92-ec53-46cd-a63f-e321732cbdda",
   "name": "5 P1 One-Person Drag Carry PNG",
   "type": "document",
   "unit": "pixel",
@@ -20,23 +20,23 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "2e4e82ab4fe9.png"
+      "content": "919daa6947ef.png"
     },
     {
-      "name": "ПРИМІТКА: Під час тренува..",
+      "name": "ПРИМІТКА :..",
       "type": "text",
       "rect": {
-        "x": 490,
-        "y": 6054,
-        "w": 2679,
-        "h": 179,
+        "x": 292,
+        "y": 1574,
+        "w": 2747,
+        "h": 100,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Під час тренувань як рятівник, так і постраждалий можуть травмуватись; завжди пам’ятайте про безпеку.",
+      "content": "ПРИМІТКА :",
       "format": {
         "size": 76,
         "align": "left",
@@ -44,7 +44,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -62,6 +62,169 @@
           "punch": false,
           "distance": 0,
           "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2069,
+        "w": 2747,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 500,
+        "y": 3407,
+        "w": 3481,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 490,
+        "y": 6054,
+        "w": 3760,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "__________ Під час тренув..",
+      "type": "text",
+      "rect": {
+        "x": 490,
+        "y": 6054,
+        "w": 2679,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Під час тренувань як рятівник, так і постраждалий можуть травмуватись; завжди пам’ятайте про безпеку.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
         }
       }
     },
@@ -100,20 +263,20 @@
       }
     },
     {
-      "name": "ПРИМІТКА: Деякі бронежиле..",
+      "name": "__________ Деякі бронежил..",
       "type": "text",
       "rect": {
         "x": 500,
         "y": 3407,
         "w": 3414,
-        "h": 179,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Деякі бронежилети оснащені спеціальною стропою для перетягування. Важливо, щоб обладнання було надійно закріплене та зафіксоване на пораненому.",
+      "content": "__________ Деякі бронежилети оснащені спеціальною стропою для перетягування. Важливо, щоб обладнання було надійно закріплене та зафіксоване на пораненому.",
       "format": {
         "size": 76,
         "align": "left",
@@ -121,7 +284,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -129,16 +292,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
@@ -177,7 +331,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА: Використовуйте ..",
+      "name": "__________ Використовуйте..",
       "type": "text",
       "rect": {
         "x": 292,
@@ -190,7 +344,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Використовуйте лише тоді, коли ворожий вогонь не залишає рятувальнику інших варіантів.",
+      "content": "__________ Використовуйте лише тоді, коли ворожий вогонь не залишає рятувальнику інших варіантів.",
       "format": {
         "size": 76,
         "align": "left",
@@ -206,21 +360,12 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ПРИМІТКА: Перетягування, ..",
+      "name": "__________ Перетягування,..",
       "type": "text",
       "rect": {
         "x": 292,
@@ -233,7 +378,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Перетягування, тримаючи за спорядження, може бути використане для переміщення постраждалого в укриття або безпечне місце та не є ефективним для довших відстаней, оскільки збільшується ймовірність отримання постраждалим додаткових травм.",
+      "content": "__________ Перетягування, тримаючи за спорядження, може бути використане для переміщення постраждалого в укриття або безпечне місце та не є ефективним для довших відстаней, оскільки збільшується ймовірність отримання постраждалим додаткових травм.",
       "format": {
         "size": 76,
         "align": "left",
@@ -249,16 +394,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
@@ -267,7 +403,7 @@
       "type": "text",
       "rect": {
         "x": 292,
-        "y": 1173,
+        "y": 1227,
         "w": 1911,
         "h": 308,
         "r": 0
@@ -300,10 +436,10 @@
       "name": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ..",
       "type": "text",
       "rect": {
-        "x": 252,
-        "y": 768,
-        "w": 2773,
-        "h": 405,
+        "x": 260,
+        "y": 755,
+        "w": 4159,
+        "h": 455,
         "r": 0
       },
       "opacity": 1,
@@ -312,7 +448,7 @@
       "link": "",
       "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
       "format": {
-        "size": 160,
+        "size": 180,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -344,7 +480,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-26T02:12:25Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:07:53Z",
       "format": {
         "size": 64,
         "align": "left",

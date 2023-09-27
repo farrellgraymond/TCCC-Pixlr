@@ -1,5 +1,5 @@
 {
-  "id": "c18f6470-c6ab-4c7b-a676-d42060901381",
+  "id": "ae801a9e-82a3-4720-b9ff-9e33eefb04af",
   "name": "5 Pt3 One-Person Drag Carry PNG",
   "type": "document",
   "unit": "pixel",
@@ -20,23 +20,23 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "95dda0114c6e.png"
+      "content": "790f8b0f43ff.png"
     },
     {
-      "name": "ПРИМІТКА: Постраждалий зн..",
+      "name": "ПРИМІТКА :..",
       "type": "text",
       "rect": {
-        "x": 488,
-        "y": 6042,
-        "w": 1336,
-        "h": 253,
+        "x": 292,
+        "y": 1723,
+        "w": 2148,
+        "h": 100,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Постраждалий знаходиться в напівсидячому положенні.",
+      "content": "ПРИМІТКА :",
       "format": {
         "size": 76,
         "align": "left",
@@ -44,7 +44,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -66,20 +66,20 @@
       }
     },
     {
-      "name": "ПРИМІТКА: Якщо пораненого..",
+      "name": "ПРИМІТКА :..",
       "type": "text",
       "rect": {
-        "x": 2027,
-        "y": 6042,
-        "w": 2253,
-        "h": 179,
+        "x": 3564,
+        "y": 3297,
+        "w": 1378,
+        "h": 100,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Якщо пораненого потрібно перемістити по сходах вгору, скористайтеся тим же методом.",
+      "content": "ПРИМІТКА :",
       "format": {
         "size": 76,
         "align": "left",
@@ -87,7 +87,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -105,6 +105,160 @@
           "punch": false,
           "distance": 0,
           "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 2024,
+        "y": 6042,
+        "w": 1378,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 488,
+        "y": 6042,
+        "w": 1378,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "__________ Постраждалий з..",
+      "type": "text",
+      "rect": {
+        "x": 488,
+        "y": 6042,
+        "w": 1336,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Постраждалий знаходиться в напівсидячому положенні.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Якщо пораненог..",
+      "type": "text",
+      "rect": {
+        "x": 2027,
+        "y": 6042,
+        "w": 2253,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Якщо пораненого потрібно перемістити по сходах вгору, скористайтеся тим же методом.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
         }
       }
     },
@@ -279,20 +433,20 @@
       }
     },
     {
-      "name": "ПРИМІТКА: Ви можете звест..",
+      "name": "__________ Ви можете звес..",
       "type": "text",
       "rect": {
         "x": 3564,
         "y": 3297,
         "w": 1256,
-        "h": 327,
+        "h": 354,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Ви можете звести свої лікті разом, щоб голова потерпілого спиралася на обидва ваші передпліччя.",
+      "content": "__________ Ви можете звести свої лікті разом, щоб голова потерпілого спиралася на обидва ваші передпліччя.",
       "format": {
         "size": 76,
         "align": "left",
@@ -300,7 +454,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -308,34 +462,25 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ПРИМІТКА: Перетягування, ..",
+      "name": "__________ Перетягування,..",
       "type": "text",
       "rect": {
-        "x": 379,
-        "y": 1582,
+        "x": 292,
+        "y": 1723,
         "w": 1928,
-        "h": 253,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Перетягування, тримаючи під пахвами, ефективне під час переміщення пораненого вверх або вниз по сходах або на короткі відстані",
+      "content": "__________ Перетягування, тримаючи під пахвами, ефективне під час переміщення пораненого вверх або вниз по сходах або на короткі відстані",
       "format": {
         "size": 76,
         "align": "left",
@@ -343,7 +488,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -351,16 +496,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
@@ -368,10 +504,10 @@
       "name": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ..",
       "type": "text",
       "rect": {
-        "x": 252,
-        "y": 744,
-        "w": 2897,
-        "h": 405,
+        "x": 244,
+        "y": 766,
+        "w": 5034,
+        "h": 455,
         "r": 0
       },
       "opacity": 1,
@@ -380,7 +516,7 @@
       "link": "",
       "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
       "format": {
-        "size": 160,
+        "size": 180,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -402,10 +538,10 @@
       "name": "ПЕРЕТЯГУВАННЯ, ТРИМАЮЧИ П..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 1149,
-        "w": 1940,
-        "h": 297,
+        "x": 244,
+        "y": 1262,
+        "w": 2595,
+        "h": 308,
         "r": 0
       },
       "opacity": 1,
@@ -446,7 +582,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-26T02:12:25Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:07:54Z",
       "format": {
         "size": 64,
         "align": "left",
