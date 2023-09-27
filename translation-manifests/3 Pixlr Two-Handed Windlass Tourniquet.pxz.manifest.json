@@ -1,5 +1,5 @@
 {
-  "id": "017f11fa-6ae9-47d9-81f4-8cb6ec36ceac",
+  "id": "239f4f30-7c12-41aa-87cc-e60b8e456167",
   "name": "3 Two-Handed Windlass Tourniquet PNG",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,50 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "7e07909d484d.png"
+      "content": "c757bc444920.png"
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 308,
+        "y": 6264,
+        "w": 484,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
     },
     {
       "name": "Shape 47",
@@ -73,7 +116,7 @@
         "x": 3317,
         "y": 3619,
         "w": 287,
-        "h": 100,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -107,7 +150,7 @@
         "x": 1783,
         "y": 3619,
         "w": 287,
-        "h": 100,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -170,7 +213,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "b503bdbd4769.png"
+      "content": "a1839943432a.png"
     },
     {
       "name": "clipboard",
@@ -186,7 +229,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "89648a074b76.png"
+      "content": "b79fb8a54d50.png"
     },
     {
       "name": "АБО..",
@@ -195,7 +238,7 @@
         "x": 3212,
         "y": 1848,
         "w": 236,
-        "h": 140,
+        "h": 138,
         "r": 0
       },
       "opacity": 1,
@@ -238,7 +281,7 @@
         "x": 2024,
         "y": 6060,
         "w": 1704,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
@@ -266,20 +309,20 @@
       }
     },
     {
-      "name": "ПРИМІТКА: Не документуйте..",
+      "name": "__________ Не документуйт..",
       "type": "text",
       "rect": {
         "x": 308,
         "y": 6260,
         "w": 3316,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
-      "locked": false,
+      "locked": true,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+      "content": "__________ Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
       "format": {
         "size": 76,
         "align": "left",
@@ -295,16 +338,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
@@ -315,7 +349,7 @@
         "x": 488,
         "y": 6060,
         "w": 1216,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
@@ -349,7 +383,7 @@
         "x": 3572,
         "y": 4900,
         "w": 1164,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
@@ -383,7 +417,7 @@
         "x": 2032,
         "y": 4896,
         "w": 1128,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
@@ -446,7 +480,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "b32eb3c64037.png"
+      "content": "2aba97a24ea2.png"
     },
     {
       "name": "ХВИЛИНА..",
@@ -455,7 +489,7 @@
         "x": 412,
         "y": 4560,
         "w": 296,
-        "h": 64,
+        "h": 65,
         "r": 0
       },
       "opacity": 1,
@@ -489,7 +523,7 @@
         "x": 500,
         "y": 4784,
         "w": 1232,
-        "h": 352,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
@@ -523,7 +557,7 @@
         "x": 3572,
         "y": 3572,
         "w": 1252,
-        "h": 352,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
@@ -557,7 +591,7 @@
         "x": 2032,
         "y": 3572,
         "w": 1224,
-        "h": 432,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
@@ -591,7 +625,7 @@
         "x": 500,
         "y": 3572,
         "w": 1140,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
@@ -632,7 +666,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "1549b8064af1.png"
+      "content": "8a7ea76c4d7f.png"
     },
     {
       "name": "Обгорніть ремінь навколо ..",
@@ -641,7 +675,7 @@
         "x": 3372,
         "y": 2332,
         "w": 1364,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
@@ -675,7 +709,7 @@
         "x": 1996,
         "y": 2332,
         "w": 1172,
-        "h": 352,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
@@ -709,7 +743,7 @@
         "x": 500,
         "y": 2412,
         "w": 1188,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
@@ -743,7 +777,7 @@
         "x": 232,
         "y": 744,
         "w": 4364,
-        "h": 520,
+        "h": 507,
         "r": 0
       },
       "opacity": 1,
@@ -777,7 +811,7 @@
         "x": 3204,
         "y": 1260,
         "w": 1620,
-        "h": 272,
+        "h": 264,
         "r": 0
       },
       "opacity": 1,
@@ -820,7 +854,7 @@
         "x": 272,
         "y": 1244,
         "w": 2644,
-        "h": 220,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
@@ -861,7 +895,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "65e5b0c4473e.png"
+      "content": "489888b548a6.png"
     },
     {
       "name": "unnamed-removebg-preview.png Copy",
@@ -877,7 +911,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "93cab54442ed.png"
+      "content": "8c83a58d4074.png"
     },
     {
       "name": "Shape 2",
@@ -930,7 +964,7 @@
         "x": 3119,
         "y": 2374,
         "w": 287,
-        "h": 100,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -964,7 +998,7 @@
         "x": 1751,
         "y": 2374,
         "w": 287,
-        "h": 100,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -1005,7 +1039,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T01:13:46Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T21:46:31Z",
       "format": {
         "size": 64,
         "align": "left",
