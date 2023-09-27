@@ -1,5 +1,5 @@
 {
-  "id": "1e2feea6-df52-49a1-a959-c5fd49664243",
+  "id": "9cdd6b59-94c2-4f6e-badb-f02b2b2643b3",
   "name": "7 Pt2 Casualty Collection Point PNG",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "1afbbe5e427b.png"
+      "content": "7b96a5e34439.png"
     },
     {
       "name": "Shape 53",
@@ -895,9 +895,9 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": true,
+      "visible": false,
       "link": "",
-      "content": "0b4e93c9404f.png"
+      "content": "83ccab264993.png"
     },
     {
       "name": "Shape 69",
@@ -925,10 +925,10 @@
       "name": "ПУНКТ ЗБОРУ ПОРАНЕНИХ..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 914,
-        "w": 2660,
-        "h": 218,
+        "x": 292,
+        "y": 859,
+        "w": 3312,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
@@ -937,7 +937,7 @@
       "link": "",
       "content": "ПУНКТ ЗБОРУ ПОРАНЕНИХ",
       "format": {
-        "size": 160,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -993,10 +993,10 @@
       "name": "Продовження..",
       "type": "text",
       "rect": {
-        "x": 292,
+        "x": 372,
         "y": 1132,
         "w": 4252,
-        "h": 160,
+        "h": 166,
         "r": 0
       },
       "opacity": 1,
@@ -1509,7 +1509,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": true,
+      "visible": false,
       "link": "",
       "content": "Ця діаграма IV категорії світло-зелена",
       "format": {
@@ -1597,7 +1597,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-26T18:20:56Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:13:13Z",
       "format": {
         "size": 64,
         "align": "left",

@@ -1,5 +1,5 @@
 {
-  "id": "b486141b-c844-4744-b359-50733ec40cf2",
+  "id": "16c9a93d-80ce-496c-b242-2240591836b2",
   "name": "7 Pt1 Casualty Collection Point PNG",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,50 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "38b7aa9249be.png"
+      "content": "a90aa71f4f80.png"
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 374,
+        "y": 1071,
+        "w": 4575,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
     },
     {
       "name": "Shape 83",
@@ -1484,20 +1527,20 @@
       }
     },
     {
-      "name": "ПРИМІТКА: План організаці..",
+      "name": "__________ План організац..",
       "type": "text",
       "rect": {
-        "x": 324,
-        "y": 1005,
-        "w": 2607,
-        "h": 253,
+        "x": 374,
+        "y": 1071,
+        "w": 4151,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: План організації Пункту збору поранених може змінюватися в залежності від стандартних операційних процедур (СОП) підрозділу, бойового завдання, тактичної ситуації, рельєфу місцевості тощо.",
+      "content": "__________ План організації Пункту збору поранених може змінюватися в залежності від стандартних операційних процедур (СОП) підрозділу, бойового завдання, тактичної ситуації, рельєфу місцевості тощо.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1505,7 +1548,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1513,16 +1556,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
@@ -1531,9 +1565,9 @@
       "type": "text",
       "rect": {
         "x": 292,
-        "y": 764,
-        "w": 2724,
-        "h": 218,
+        "y": 768,
+        "w": 3308,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
@@ -1542,7 +1576,7 @@
       "link": "",
       "content": "ПУНКТ ЗБОРУ ПОРАНЕНИХ",
       "format": {
-        "size": 160,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1572,9 +1606,9 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": true,
+      "visible": false,
       "link": "",
-      "content": "76899f2d4b36.png"
+      "content": "88ea9c984162.png"
     },
     {
       "name": "Ця діаграма IV категорії ..",
@@ -1588,7 +1622,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": true,
+      "visible": false,
       "link": "",
       "content": "Ця діаграма IV категорії світло-зелена",
       "format": {
@@ -1633,7 +1667,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-26T18:20:56Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:13:13Z",
       "format": {
         "size": 64,
         "align": "left",
