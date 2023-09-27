@@ -1,6 +1,6 @@
 {
-  "id": "4eaf1483-51a1-4310-b97d-9665a81c89b2",
-  "name": "One Handed Windlass Tourniquet PNG",
+  "id": "7b366595-4ecc-4df8-87d8-04e1e3ed6142",
+  "name": "One Handed Windlass Tourniquet PNG(5)(2)(5)(1)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,63 +20,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "c579a7e248ca.png"
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 303,
-        "y": 3716,
-        "w": 161,
-        "h": 149,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#423e3b"
-        }
-      }
-    },
-    {
-      "name": "04.1..",
-      "type": "text",
-      "rect": {
-        "x": 49,
-        "y": 3741,
-        "w": 678,
-        "h": 110,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "04.1",
-      "format": {
-        "size": 80,
-        "align": "center",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
+      "content": "c320bf004845.png"
     },
     {
       "name": "Shape 39",
@@ -136,7 +80,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "5ddb9bf84bee.png"
+      "content": "277b9b864c27.png"
     },
     {
       "name": "ХВИЛИНА..",
@@ -207,22 +151,22 @@
       }
     },
     {
-      "name": "ПРИМІТКА: Не документуйте..",
+      "name": "ПРИМІТКА :..",
       "type": "text",
       "rect": {
         "x": 3388,
         "y": 5236,
         "w": 1436,
-        "h": 298,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+      "content": "ПРИМІТКА :",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -246,6 +190,40 @@
           "punch": false,
           "distance": 0,
           "direction": 305
+        }
+      }
+    },
+    {
+      "name": "__________ Не документуйт..",
+      "type": "text",
+      "rect": {
+        "x": 3388,
+        "y": 5236,
+        "w": 1436,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
         }
       }
     },
@@ -433,63 +411,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "0161aa1147ce.png"
-    },
-    {
-      "name": "Shape 24 Copy",
-      "type": "shape",
-      "rect": {
-        "x": 1911,
-        "y": 3712,
-        "w": 161,
-        "h": 149,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#423e3b"
-        }
-      }
-    },
-    {
-      "name": "04.2..",
-      "type": "text",
-      "rect": {
-        "x": 1722,
-        "y": 3743,
-        "w": 540,
-        "h": 106,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "04.2",
-      "format": {
-        "size": 80,
-        "align": "center",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
+      "content": "67c9b4f946a0.png"
     },
     {
       "name": "Перед затягуванням турнік..",
@@ -628,6 +550,49 @@
       }
     },
     {
+      "name": "Лікуйте лише негайно небе..",
+      "type": "text",
+      "rect": {
+        "x": 3160,
+        "y": 1316,
+        "w": 1676,
+        "h": 264,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "content": "Лікуйте лише негайно небезпечні для життя рани. Решта допомоги призначена для етапу тактичної польової медицини.",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
       "name": "НАКЛАДАННЯ ТУРНІКЕТА З ВО..",
       "type": "text",
       "rect": {
@@ -709,7 +674,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "13bab8094373.png"
+      "content": "d35f81d24702.png"
     },
     {
       "name": "unnamed-removebg-preview.png Copy",
@@ -725,7 +690,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "86b0983a4226.png"
+      "content": "3f00b70b4743.png"
     },
     {
       "name": "LAST UPDATED",
@@ -741,7 +706,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T00:36:31Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T21:48:57Z",
       "format": {
         "size": 64,
         "align": "left",
