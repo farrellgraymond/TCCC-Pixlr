@@ -1,5 +1,5 @@
 {
-  "id": "4df1dd5f-c92b-4801-bd10-e02e3116e639",
+  "id": "6abdb203-fd71-4f0d-a847-bbc03687f09d",
   "name": "4 Two-Handed Ratchet Tourniquet PNG",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,50 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "27068eab4513.png"
+      "content": "b94998c44387.png"
+    },
+    {
+      "name": "Примітка :..",
+      "type": "text",
+      "rect": {
+        "x": 442,
+        "y": 5613,
+        "w": 2218,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Примітка :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
     },
     {
       "name": "Shape 32",
@@ -79,7 +122,7 @@
       }
     },
     {
-      "name": "Примітка: Не документуйте..",
+      "name": "_________ Не документуйте..",
       "type": "text",
       "rect": {
         "x": 442,
@@ -92,7 +135,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Примітка: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+      "content": "_________ Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
       "format": {
         "size": 76,
         "align": "left",
@@ -108,16 +151,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
@@ -152,49 +186,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "(виконайте кроки 1-5 менш..",
-      "type": "text",
-      "rect": {
-        "x": 3566,
-        "y": 4237,
-        "w": 1020,
-        "h": 179,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "(виконайте кроки 1-5 менш, ніж за 1 хвилину).",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
         }
       }
     },
@@ -239,14 +230,14 @@
         "x": 3566,
         "y": 3984,
         "w": 1216,
-        "h": 253,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Затягніть зубчастий механізм якомога щільніше до зупинки кровотечі ",
+      "content": "Затягніть зубчастий механізм якомога щільніше до зупинки кровотечі (виконайте кроки 1-5 менш, ніж за 1 хвилину).",
       "format": {
         "size": 76,
         "align": "left",
@@ -413,7 +404,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "80afab5f4ca2.png"
+      "content": "7c2286b1472d.png"
     },
     {
       "name": "Shape 36",
@@ -444,7 +435,7 @@
         "x": 3171,
         "y": 2726,
         "w": 424,
-        "h": 100,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -614,7 +605,7 @@
         "x": 1755,
         "y": 2726,
         "w": 337,
-        "h": 100,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -689,7 +680,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-25T22:56:13Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T21:53:22Z",
       "format": {
         "size": 64,
         "align": "left",
