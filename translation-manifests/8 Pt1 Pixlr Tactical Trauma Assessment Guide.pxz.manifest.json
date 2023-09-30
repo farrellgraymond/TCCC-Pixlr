@@ -1,6 +1,6 @@
 {
-  "id": "96cee231-a47d-4b6a-80e6-e95fbbbfc9d9",
-  "name": "8 Pt1 ENG Tactical Trauma Assessment Guide PNG(2)",
+  "id": "4aa35f08-0db4-4e3f-96d6-e306a6d9a440",
+  "name": "8 Pt1 ENG Tactical Trauma Assessment Guide PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,361 +20,93 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29aba78f44e9.png"
+      "content": "af0494fc412c.png"
     },
     {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 784,
-        "y": 4300,
-        "w": 3720,
-        "h": 1576,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 840,
-        "y": 3792,
-        "w": 3572,
-        "h": 376,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f0ed"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 824,
-        "y": 3260,
-        "w": 3432,
-        "h": 416,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 820,
-        "y": 2784,
-        "w": 3628,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f0ed"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 820,
-        "y": 2360,
-        "w": 3540,
-        "h": 296,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 256,
-        "y": 792,
-        "w": 4444,
-        "h": 1164,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ДИВІТЬСЯ КАРТКИ 11. (Pt1 ..",
-      "type": "text",
-      "rect": {
-        "x": 980,
-        "y": 5668,
-        "w": 2324,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДИВІТЬСЯ КАРТКИ 11. (Pt1 + Pt2) - Екстрена кінцівка джгут",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ДИВ. КАРТКИ 46. (Pt1 + Pt..",
-      "type": "text",
-      "rect": {
-        "x": 888,
-        "y": 4056,
-        "w": 1936,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДИВ. КАРТКИ 46. (Pt1 + Pt2) - Лікування опіків",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ДИВ. КАРТКИ 1. і 2. - Вик..",
-      "type": "text",
-      "rect": {
-        "x": 980,
-        "y": 5552,
-        "w": 3392,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДИВ. КАРТКИ 1. і 2. - Використання однією рукою упряжі - брашпиль, храповий пристрій.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ДИВІТЬСЯ КАРТКИ 3. і 4. -..",
-      "type": "text",
-      "rect": {
-        "x": 980,
-        "y": 5784,
-        "w": 3344,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДИВІТЬСЯ КАРТКИ 3. і 4. - Дворучне накладення джгута - брашпиля, храповий пристрій.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "3. Накласти джгут поверх ..",
-      "type": "text",
-      "rect": {
-        "x": 976,
-        "y": 5252,
-        "w": 2820,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "3. Накласти джгут поверх одягу і над зоною найбільшої кровотечі. Якщо ділянку не видно одразу, нанесіть високо на кінцівку та над зоною кровотечі.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "2. Якщо є, використовуйте..",
-      "type": "text",
-      "rect": {
-        "x": 972,
-        "y": 5052,
-        "w": 2824,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "2. Якщо є, використовуйте схвалений джгут, який підходить для потрібної ділянки.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "1. СКАЖІТЬ пораненому поч..",
+      "name": "в.Накладіть турнікет на к..",
       "type": "text",
       "rect": {
         "x": 964,
-        "y": 4852,
-        "w": 2940,
-        "h": 200,
+        "y": 5174,
+        "w": 2820,
+        "h": 437,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "1. СКАЖІТЬ пораненому почати контролювати кровотечу самолікуванням, якщо він може.",
+      "content": "в.Накладіть турнікет на кінцівку поверх одягу проксимальніше від джерела кровотечі. Якщо джерела загрозливої для життя кровотечі не видно з першого погляду - накладіть турнікет на поранену кінцівку якомога вище та максимально туго (принцип “високо і туго”) і перемістіть пораненого в укриття. ",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "б.  Використовуйте турнік..",
+      "type": "text",
+      "rect": {
+        "x": 964,
+        "y": 4983,
+        "w": 2824,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "б.  Використовуйте турнікет для кінцівок (рекомендований Комітетом ТССС),  щоб зупинити кровотечу, якщо це анатомічно можливо.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "а.Накажіть пораненому зуп..",
+      "type": "text",
+      "rect": {
+        "x": 964,
+        "y": 4863,
+        "w": 2940,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "а.Накажіть пораненому зупинити кровотечу самостійно, якщо можливо. ",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -393,22 +125,22 @@
       }
     },
     {
-      "name": "ЯКЩО ТАКТИЧНО МОЖЛИВО - З..",
+      "name": "Зупиніть зовнішню загрозл..",
       "type": "text",
       "rect": {
         "x": 888,
         "y": 4704,
         "w": 3368,
-        "h": 116,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЯКЩО ТАКТИЧНО МОЖЛИВО - Зупиніть небезпечну для життя зовнішню кровотечу.",
+      "content": "Зупиніть зовнішню загрозливу для життя кровотечу, якщо дозволяє тактична обстановка:",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -422,42 +154,33 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ВИРІШУЙТЕ будь-яку кровот..",
+      "name": "Зупиніть загрозливу для ж..",
       "type": "text",
       "rect": {
         "x": 888,
         "y": 4404,
         "w": 3376,
-        "h": 200,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВИРІШУЙТЕ будь-яку кровотечу, яка загрожує життю. За потреби накладіть джгут, використовуючи засоби пораненого.",
+      "content": "Зупиніть загрозливу для життя кровотечу: накладіть високо і туго на кінцівку турнікет з тактичної індивідуальної аптечки пораненого та/або медичних запасів.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -470,28 +193,28 @@
       }
     },
     {
-      "name": "ВИЯТИ постраждалих від дж..",
+      "name": "Витягніть поранених з пол..",
       "type": "text",
       "rect": {
         "x": 884,
-        "y": 3856,
-        "w": 3332,
-        "h": 200,
+        "y": 3891,
+        "w": 3540,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВИЯТИ постраждалих від джерела горіння. При необхідності загасіть вогонь. Перейдіть у відносно безпечне місце.",
+      "content": "Витягніть поранених з полум’я, погасіть на них вогонь, якщо необхідно, та перемістіть до відносно безпечного місця.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -504,28 +227,28 @@
       }
     },
     {
-      "name": "ДИВІТЬСЯ НАБІР КАРТОК 5. ..",
+      "name": "Перетягніть/перенесіть по..",
       "type": "text",
       "rect": {
         "x": 888,
-        "y": 3508,
-        "w": 4252,
-        "h": 116,
+        "y": 3379,
+        "w": 3536,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДИВІТЬСЯ НАБІР КАРТОК 5. (Pt1 - Pt6) - Перетягніть або перенесіть одну людину",
+      "content": "Перетягніть/перенесіть пораненого в укриття або безпечне місце (в залежності від тактичної обстановки), якщо він непритомний/не реагує або не може рухатися самостійно.   ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -538,56 +261,56 @@
       }
     },
     {
-      "name": "Якщо дозволяє ситуація, П..",
+      "name": "Накажіть пораненому продо..",
       "type": "text",
       "rect": {
         "x": 888,
-        "y": 3308,
-        "w": 3376,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Якщо дозволяє ситуація, ПЕРЕМІСТИТИ потерпілого, який не реагує, або нерухомого, у безпечне місце.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Скажіть потерпілому залиш..",
-      "type": "text",
-      "rect": {
-        "x": 888,
-        "y": 2868,
+        "y": 2879,
         "w": 3684,
-        "h": 200,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Скажіть потерпілому залишатися в бою, відкриваючи вогонь у відповідь. Якщо це неможливо, скажіть постраждалому знайти притулок і розпочати першу допомогу самостійно.",
+      "content": "Накажіть пораненому продовжувати вести бій, якщо він здатний; або переміститись в укриття та надати собі першу медичну допомогу, якщо це можливо. ",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Відкрийте вогонь у відпов..",
+      "type": "text",
+      "rect": {
+        "x": 888,
+        "y": 2456,
+        "w": 3656,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Відкрийте вогонь у відповідь та сховайтесь в укриття – допоможіть встановити вогневу перевагу. ",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -606,63 +329,20 @@
       }
     },
     {
-      "name": "ВІДВЕРТИ вогонь і знайти ..",
+      "name": "Довідник із проведення Оц..",
       "type": "text",
       "rect": {
-        "x": 888,
-        "y": 2440,
-        "w": 3328,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ВІДВЕРТИ вогонь і знайти прикриття - підтримувати встановлення вогневої переваги.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Цей посібник підготовлено..",
-      "type": "text",
-      "rect": {
-        "x": 308,
-        "y": 1780,
+        "x": 292,
+        "y": 1777,
         "w": 4252,
-        "h": 200,
+        "h": 197,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Цей посібник підготовлено для військовослужбовців. Якщо це цивільний персонал, докладіть усіх зусиль, щоб негайно евакуюватися в безпечну зону.",
+      "content": "Довідник із проведення Оцінки травм у тактичних умовах (ТТА) допоможе курсантам та інструкторам виконувати/демонструвати оцінку стану пораненого під час фази надання допомоги в польових умовах TCCC.",
       "format": {
         "size": 80,
         "align": "left",
@@ -670,7 +350,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -678,16 +358,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
@@ -714,22 +385,22 @@
       }
     },
     {
-      "name": "ДОГЛЯД ПІД ВОГНЕМ / ДОГЛЯ..",
+      "name": "ДІЇ У ФАЗІ ДОПОМОГИ ПІД В..",
       "type": "text",
       "rect": {
-        "x": 380,
-        "y": 2052,
+        "x": 352,
+        "y": 2060,
         "w": 4252,
-        "h": 196,
+        "h": 181,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОГЛЯД ПІД ВОГНЕМ / ДОГЛЯД ПІД ЗАГРОЗОЮ ДІЇ",
+      "content": "ДІЇ У ФАЗІ ДОПОМОГИ ПІД ВОГНЕМ (CUF)/ ПІД ЗАГРОЗОЮ",
       "format": {
-        "size": 144,
+        "size": 132,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -748,133 +419,22 @@
       }
     },
     {
-      "name": "Це посібник до етапу такт..",
+      "name": "ОЦІНКА ТРАВМ У ТАКТИЧНИХ ..",
       "type": "text",
       "rect": {
-        "x": 308,
-        "y": 1580,
-        "w": 4232,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Це посібник до етапу тактичної польової допомоги в тактичній бойовій допомозі пораненим. Зверніться до локальних протоколів або протоколів підрозділу та використовуйте їх, якщо вони є.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "TACTICAL TRAUMA ASSESSMEN..",
-      "type": "text",
-      "rect": {
-        "x": 296,
-        "y": 1464,
-        "w": 4252,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "TACTICAL TRAUMA ASSESSMENT GUIDE - TTA",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Сторінка 1..",
-      "type": "text",
-      "rect": {
-        "x": 240,
-        "y": 1136,
-        "w": 4252,
-        "h": 328,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Сторінка 1",
-      "format": {
-        "size": 240,
-        "align": "left",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Посібник з оцінки тактичн..",
-      "type": "text",
-      "rect": {
-        "x": 240,
-        "y": 808,
+        "x": 292,
+        "y": 829,
         "w": 4132,
-        "h": 328,
+        "h": 741,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Посібник з оцінки тактичної травми",
+      "content": "ОЦІНКА ТРАВМ У ТАКТИЧНИХ УМОВАХ (TACTICAL TRAUMA ASSESSMENT, TTA): ДОВІДНИК",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -906,7 +466,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:03Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-30T00:30:43Z",
       "format": {
         "size": 64,
         "align": "left",

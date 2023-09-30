@@ -1,6 +1,6 @@
 {
-  "id": "b0f48cfa-0acc-4125-b4c9-f69dd3f557c1",
-  "name": "8 Pt7 ENG Tactical Trauma Assessment Guide PNG(2)(3)",
+  "id": "17b53b3e-d1a4-4b45-85aa-e8ab2feb82a3",
+  "name": "8 Pt7 ENG Tactical Trauma Assessment Guide PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,681 +20,26 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "785a8ad24087.png"
+      "content": "00c397454dbb.webp"
     },
     {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 1056,
-        "y": 2644,
-        "w": 3628,
-        "h": 1176,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 888,
-        "y": 2508,
-        "w": 1484,
-        "h": 180,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 856,
-        "y": 1716,
-        "w": 3836,
-        "h": 556,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f0ed"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 876,
-        "y": 1160,
-        "w": 3556,
-        "h": 384,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 344,
-        "y": 828,
-        "w": 2632,
-        "h": 188,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#292d2c"
-        }
-      }
-    },
-    {
-      "name": "Цю частину залишили порож..",
+      "name": "🟥..",
       "type": "text",
       "rect": {
-        "x": 400,
-        "y": 4280,
-        "w": 2876,
-        "h": 112,
+        "x": 924,
+        "y": 2700,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Цю частину залишили порожньою для приміток або місцевих процедур.",
+      "content": "🟥",
       "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "КІНЕЦЬ ПОСІБНИКА..",
-      "type": "text",
-      "rect": {
-        "x": 1956,
-        "y": 4020,
-        "w": 1188,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "КІНЕЦЬ ПОСІБНИКА",
-      "format": {
-        "size": 80,
+        "size": 60,
         "align": "center",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Підтримуйте БЕЗПЕКУ та БЕ..",
-      "type": "text",
-      "rect": {
-        "x": 1076,
-        "y": 3684,
-        "w": 2196,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Підтримуйте БЕЗПЕКУ та БЕЗПЕКУ на місці евакуації.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ГРУПИТИ поранених для шви..",
-      "type": "text",
-      "rect": {
-        "x": 1076,
-        "y": 3544,
-        "w": 2800,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ГРУПИТИ поранених для швидкої евакуації, визначити групи підстилки.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ДАТИ ІНСТРУКТАЖ пораненим..",
-      "type": "text",
-      "rect": {
-        "x": 1076,
-        "y": 3396,
-        "w": 3288,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДАТИ ІНСТРУКТАЖ пораненим, які вміють самостійно ходити.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 15",
-      "type": "shape",
-      "rect": {
-        "x": 900,
-        "y": 3080,
-        "w": 160,
-        "h": 188,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 12",
-      "type": "shape",
-      "rect": {
-        "x": 908,
-        "y": 2960,
-        "w": 148,
-        "h": 136,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 928,
-        "y": 2896,
-        "w": 88,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "0d099f6a4854.png"
-    },
-    {
-      "name": "clipboard Copy",
-      "type": "image",
-      "rect": {
-        "x": 928,
-        "y": 3092,
-        "w": 88,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "498d978b4233.png"
-    },
-    {
-      "name": "ПРИСТІБНІТЬ РЕМЕНІ носило..",
-      "type": "text",
-      "rect": {
-        "x": 1076,
-        "y": 3268,
-        "w": 3040,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИСТІБНІТЬ РЕМЕНІ носилок. ДОДАТИ додаткові колодки, якщо необхідно.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ЗАКРІПНІТЬ будь-які ковдр..",
-      "type": "text",
-      "rect": {
-        "x": 1076,
-        "y": 3096,
-        "w": 3528,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ЗАКРІПНІТЬ будь-які ковдри, щоб запобігти переохолодженню, застібніть спальні мішки або бівуачні мішки.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ЗАБЕЗПЕЧИТИ будь-які осла..",
-      "type": "text",
-      "rect": {
-        "x": 1076,
-        "y": 2892,
-        "w": 3508,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ЗАБЕЗПЕЧИТИ будь-які ослаблені бинти, обладнання, ковдри. Майте на увазі притискну силу та вітер гвинта вертольота.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Помістіть і закріпіть пор..",
-      "type": "text",
-      "rect": {
-        "x": 1076,
-        "y": 2692,
-        "w": 3016,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Помістіть і закріпіть пораненого на евакуаційному пристрої. Переконайтеся, що правильна медична документація надійно прикріплена до пораненого.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ГОТУЙТЕСЯ ДО ЕВАКУАЦІЇ..",
-      "type": "text",
-      "rect": {
-        "x": 912,
-        "y": 2540,
-        "w": 1156,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ГОТУЙТЕСЯ ДО ЕВАКУАЦІЇ",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПЕРЕКОНАЙТЕСЯ, ЩО картку ..",
-      "type": "text",
-      "rect": {
-        "x": 912,
-        "y": 2008,
-        "w": 4248,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПЕРЕКОНАЙТЕСЯ, ЩО картку надійно прикріплено до пораненого та вона не відлетить під час транспортування.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ЗАДОКУМЕНТУЙТЕ ТРАВМИ ТА ..",
-      "type": "text",
-      "rect": {
-        "x": 912,
-        "y": 1808,
-        "w": 3740,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ЗАДОКУМЕНТУЙТЕ ТРАВМИ ТА ЛІКУВАННЯ / ЛІКИ, НАДАНІ ПОРАДЖЕНОМУ, У ЗАТВЕРДЖЕНІЙ КАРТЦІ (або безпосередньо на пораненому), залиште картку у пораненого.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРОВЕДІТЬ ДЕТАЛЬНИЙ ОГЛЯД..",
-      "type": "text",
-      "rect": {
-        "x": 912,
-        "y": 1228,
-        "w": 3560,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРОВЕДІТЬ ДЕТАЛЬНИЙ ОГЛЯД і виконайте ВТОРИННУ ОЦІНКУ пораненого, якщо дозволяють час і ситуація.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Сторінка 7..",
-      "type": "text",
-      "rect": {
-        "x": 2300,
-        "y": 596,
-        "w": 1000,
-        "h": 204,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Сторінка 7",
-      "format": {
-        "size": 152,
-        "align": "left",
         "bold": false,
         "italic": false,
         "underline": false,
@@ -707,27 +52,231 @@
         },
         "fill": {
           "type": "color",
-          "value": "#000000"
+          "value": "#ffffff"
         }
       }
     },
     {
-      "name": "Посібник з оцінки тактичн..",
+      "name": "🟥..",
       "type": "text",
       "rect": {
-        "x": 2300,
-        "y": 392,
-        "w": 2592,
-        "h": 216,
+        "x": 924,
+        "y": 2906,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Посібник з оцінки тактичної травми",
+      "content": "🟥",
       "format": {
-        "size": 152,
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 924,
+        "y": 3102,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 924,
+        "y": 3282,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 924,
+        "y": 3428,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 924,
+        "y": 3565,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 932,
+        "y": 3813,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ОЦІНКА ТРАВМ У ТАКТИЧНИХ ..",
+      "type": "text",
+      "rect": {
+        "x": 2773,
+        "y": 572,
+        "w": 1995,
+        "h": 204,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОЦІНКА ТРАВМ У ТАКТИЧНИХ УМОВАХ (TACTICAL TRAUMA ASSESSMENT, TTA): ДОВІДНИК",
+      "format": {
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -746,22 +295,362 @@
       }
     },
     {
-      "name": "ДІЇ ТАКТИЧНО-ПОЛЬОВОЇ МЕД..",
+      "name": "Підтримуйте охорону/безпе..",
       "type": "text",
       "rect": {
-        "x": 400,
-        "y": 828,
-        "w": 4252,
-        "h": 200,
+        "x": 1104,
+        "y": 3799,
+        "w": 2196,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДІЇ ТАКТИЧНО-ПОЛЬОВОЇ МЕДИЧНОЇ ДОПОМОГИ",
+      "content": "Підтримуйте охорону/безпеку в точці евакуації",
       "format": {
-        "size": 144,
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Розташуйте поранених у ..",
+      "type": "text",
+      "rect": {
+        "x": 1104,
+        "y": 3554,
+        "w": 2800,
+        "h": 197,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Розташуйте поранених у порядку евакуації та визначіть бійців для перенесення поранених на ношах",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "За потреби надайте інст..",
+      "type": "text",
+      "rect": {
+        "x": 1104,
+        "y": 3414,
+        "w": 3288,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "За потреби надайте інструкції пораненим, які можуть ходити",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Закріпіть засоби для по..",
+      "type": "text",
+      "rect": {
+        "x": 1104,
+        "y": 3268,
+        "w": 3040,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Закріпіть засоби для попередження гіпотермії: ковдри/оболонки/ремені",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Закріпіть засоби для по..",
+      "type": "text",
+      "rect": {
+        "x": 1104,
+        "y": 3090,
+        "w": 3528,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Закріпіть засоби для попередження гіпотермії: ковдри/оболонки/ремені",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Зафіксуйте всі вільні к..",
+      "type": "text",
+      "rect": {
+        "x": 1104,
+        "y": 2894,
+        "w": 3508,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Зафіксуйте всі вільні кінці бинтів, обладнання, ковдри тощо",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Розмістіть та зафіксуйт..",
+      "type": "text",
+      "rect": {
+        "x": 1104,
+        "y": 2688,
+        "w": 3457,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Розмістіть та зафіксуйте пораненого на засобі для евакуації та прикріпіть до нього Картку пораненого Форма DD 1380 ТССС, якщо цього ще не було зроблено",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПІДГОТУЙТЕ ПОРАНЕНОГО ДО ..",
+      "type": "text",
+      "rect": {
+        "x": 876,
+        "y": 2508,
+        "w": 1807,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПІДГОТУЙТЕ ПОРАНЕНОГО ДО ЕВАКУАЦІЇ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Задокументуйте результа..",
+      "type": "text",
+      "rect": {
+        "x": 912,
+        "y": 1820,
+        "w": 3560,
+        "h": 197,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Задокументуйте результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до пораненого",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Проведіть детальне обст..",
+      "type": "text",
+      "rect": {
+        "x": 912,
+        "y": 1228,
+        "w": 3560,
+        "h": 197,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Проведіть детальне обстеження та вторинну оцінку стану пораненого, якщо маєте на це час, і дозволяє тактична обстановка ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ДІЇ У ФАЗІ ДОПОМОГИ В ПОЛ..",
+      "type": "text",
+      "rect": {
+        "x": 424,
+        "y": 832,
+        "w": 4252,
+        "h": 181,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДІЇ У ФАЗІ ДОПОМОГИ В ПОЛЬОВИХ УМОВАХ (продовження)",
+      "format": {
+        "size": 132,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -793,7 +682,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:04Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-30T00:30:44Z",
       "format": {
         "size": 64,
         "align": "left",
