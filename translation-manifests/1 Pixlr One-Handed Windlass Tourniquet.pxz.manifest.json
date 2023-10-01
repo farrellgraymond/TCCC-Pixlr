@@ -1,6 +1,6 @@
 {
-  "id": "7b366595-4ecc-4df8-87d8-04e1e3ed6142",
-  "name": "One Handed Windlass Tourniquet PNG(5)(2)(5)(1)",
+  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792b18",
+  "name": "One Handed Windlass Tourniquet PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,7 +20,63 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "c320bf004845.png"
+      "content": "29b0be8f4601.png"
+    },
+    {
+      "name": "Shape 24",
+      "type": "shape",
+      "rect": {
+        "x": 303,
+        "y": 3716,
+        "w": 161,
+        "h": 149,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "04.1..",
+      "type": "text",
+      "rect": {
+        "x": 49,
+        "y": 3741,
+        "w": 678,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "04.1",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
     },
     {
       "name": "Shape 39",
@@ -80,25 +136,25 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "277b9b864c27.png"
+      "content": "0801aea34f31.png"
     },
     {
-      "name": "ХВИЛИНА..",
+      "name": "хвилини..",
       "type": "text",
       "rect": {
         "x": 3504,
         "y": 3444,
         "w": 252,
-        "h": 65,
+        "h": 76,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ХВИЛИНА",
+      "content": "хвилини",
       "format": {
-        "size": 48,
+        "size": 55,
         "align": "center",
         "bold": true,
         "italic": false,
@@ -151,56 +207,13 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 3388,
-        "y": 5236,
-        "w": 1436,
-        "h": 105,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
       "name": "__________ Не документуйт..",
       "type": "text",
       "rect": {
-        "x": 3388,
-        "y": 5236,
+        "x": 3400,
+        "y": 5241,
         "w": 1436,
-        "h": 253,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
@@ -215,7 +228,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -411,7 +424,63 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "67c9b4f946a0.png"
+      "content": "4b7ab1da4003.png"
+    },
+    {
+      "name": "Shape 24 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1911,
+        "y": 3712,
+        "w": 161,
+        "h": 149,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "04.2..",
+      "type": "text",
+      "rect": {
+        "x": 1722,
+        "y": 3743,
+        "w": 540,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "04.2",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
     },
     {
       "name": "Перед затягуванням турнік..",
@@ -550,49 +619,6 @@
       }
     },
     {
-      "name": "Лікуйте лише негайно небе..",
-      "type": "text",
-      "rect": {
-        "x": 3160,
-        "y": 1316,
-        "w": 1676,
-        "h": 264,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": false,
-      "link": "",
-      "content": "Лікуйте лише негайно небезпечні для життя рани. Решта допомоги призначена для етапу тактичної польової медицини.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
       "name": "НАКЛАДАННЯ ТУРНІКЕТА З ВО..",
       "type": "text",
       "rect": {
@@ -674,7 +700,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "d35f81d24702.png"
+      "content": "35a0ae1d4de1.png"
     },
     {
       "name": "unnamed-removebg-preview.png Copy",
@@ -690,7 +716,50 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "3f00b70b4743.png"
+      "content": "113d9a6c4402.png"
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 3400,
+        "y": 5241,
+        "w": 2127,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -699,14 +768,14 @@
         "x": 292,
         "y": 6440,
         "w": 3200,
-        "h": 92,
+        "h": 89,
         "r": 0
       },
       "opacity": 1,
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T21:48:57Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T00:36:31Z",
       "format": {
         "size": 64,
         "align": "left",

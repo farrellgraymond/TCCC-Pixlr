@@ -1,15 +1,15 @@
 [
   {
-    "content": "ХВИЛИНА",
+    "content": "04.1",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "хвилини",
     "fillValue": "#000000"
   },
   {
     "content": "Якщо відсутні ознаки інших масивних кровотеч, ПЕРЕМІСТІТЬСЯ В УКРИТТЯ.",
     "fillValue": "#000000"
-  },
-  {
-    "content": "ПРИМІТКА :",
-    "fillValue": "#f00505"
   },
   {
     "content": "__________ Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
@@ -36,6 +36,10 @@
     "fillValue": "#000000"
   },
   {
+    "content": "04.2",
+    "fillValue": "#ffffff"
+  },
+  {
     "content": "Перед затягуванням турнікета та закручуванням воротка переконайтеся, що стрічка протягнута крізь пряжку без провисань.",
     "fillValue": "#000000"
   },
@@ -60,7 +64,11 @@
     "fillValue": "#000000"
   },
   {
-    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T21:48:57Z",
+    "content": "ПРИМІТКА :",
+    "fillValue": "#f00505"
+  },
+  {
+    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T00:36:31Z",
     "fillValue": "#000000"
   }
 ]
