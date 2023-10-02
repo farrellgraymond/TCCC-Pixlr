@@ -1,6 +1,6 @@
 {
   "id": "e27e56a8-c5f8-4721-b28a-81496015bc05",
-  "name": "8 Pt1 ENG Tactical Trauma Assessment Guide PNG",
+  "name": "8 Pt1 Tactical Trauma Assessment Guide PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -431,7 +431,7 @@
       }
     },
     {
-      "name": "Довідник із проведення Оц..",
+      "name": "Довідник із проведення оц..",
       "type": "text",
       "rect": {
         "x": 292,
@@ -444,7 +444,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Довідник із проведення Оцінки травм у тактичних умовах (ТТА) допоможе курсантам та інструкторам виконувати/демонструвати оцінку стану пораненого під час фази надання допомоги в польових умовах TCCC.",
+      "content": "Довідник із проведення оцінки травм у тактичних умовах (ТТА) допоможе курсантам та інструкторам виконувати/демонструвати оцінку стану пораненого під час фази надання допомоги в польових умовах TCCC.",
       "format": {
         "size": 80,
         "align": "left",
@@ -490,7 +490,7 @@
       "name": "ДІЇ У ФАЗІ ДОПОМОГИ ПІД В..",
       "type": "text",
       "rect": {
-        "x": 352,
+        "x": 424,
         "y": 2060,
         "w": 4252,
         "h": 181,
@@ -500,7 +500,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДІЇ У ФАЗІ ДОПОМОГИ ПІД ВОГНЕМ (CUF)/ ПІД ЗАГРОЗОЮ",
+      "content": "ДІЇ У ФАЗІ ДОПОМОГИ ПІД ВОГНЕМ (CUF)/ПІД ЗАГРОЗОЮ",
       "format": {
         "size": 132,
         "align": "left",
@@ -568,7 +568,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-02T02:58:10Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-02T23:42:09Z",
       "format": {
         "size": 64,
         "align": "left",
