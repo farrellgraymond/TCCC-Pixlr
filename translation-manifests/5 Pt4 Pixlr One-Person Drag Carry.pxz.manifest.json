@@ -1,6 +1,6 @@
 {
-  "id": "f20992af-d71a-496d-b21b-eb48bdf19ca1",
-  "name": "5 Pt4 ENG One-Person Drag Carry PNG(2)",
+  "id": "a7b003e0-7301-4b9e-b9d5-3c2c678bbf47",
+  "name": "5 Pt4 One-Person Drag Carry PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,47 +20,197 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "0cd6a6674748.png"
+      "content": "97c4a479470e.png"
     },
     {
-      "name": "Shape 17",
-      "type": "shape",
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 1645,
+        "w": 2148,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 1947,
+        "w": 2148,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 2232,
+        "w": 2148,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 2520,
+        "w": 2148,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Як тільки поранений розмі..",
+      "type": "text",
       "rect": {
         "x": 508,
-        "y": 2948,
-        "w": 2104,
-        "h": 2180,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Якщо можливо, залишайтеся..",
-      "type": "text",
-      "rect": {
-        "x": 536,
-        "y": 4728,
+        "y": 4729,
         "w": 1932,
-        "h": 200,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо можливо, залишайтеся максимально вертикально, щоб уникнути травми спини.",
+      "content": "Як тільки поранений розміщений на вашій спині, випряміться, наскільки можливо, щоб ЗАПОБІГТИ травмуванню своєї спини.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -79,22 +229,22 @@
       }
     },
     {
-      "name": "НАГИЛІТЬСЯ вперед, щоб пі..",
+      "name": "НАХИЛІТЬСЯ вперед та підн..",
       "type": "text",
       "rect": {
-        "x": 536,
-        "y": 4340,
+        "x": 508,
+        "y": 4359,
         "w": 1932,
-        "h": 284,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НАГИЛІТЬСЯ вперед, щоб підняти пораненого якомога вище. Вага пораненого лежить на вашій спині.",
+      "content": "НАХИЛІТЬСЯ вперед та підніміть пораненого якомога вище, розмістивши його вагу на своїй спині.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -113,22 +263,22 @@
       }
     },
     {
-      "name": "ПІДНІМІТЬ пораненого над ..",
+      "name": "ПІДНІМІТЬ пораненого з зе..",
       "type": "text",
       "rect": {
-        "x": 536,
-        "y": 4036,
+        "x": 508,
+        "y": 4031,
         "w": 1896,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПІДНІМІТЬ пораненого над землею, використовуючи м’язи ніг.",
+      "content": "ПІДНІМІТЬ пораненого з землі у положення стоячи, використовуючи силу ніг.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -147,22 +297,22 @@
       }
     },
     {
-      "name": "Візьміть пораненого за за..",
+      "name": "УХОПІТЬ зап'ястя поранено..",
       "type": "text",
       "rect": {
-        "x": 536,
-        "y": 3700,
+        "x": 508,
+        "y": 3719,
         "w": 1924,
-        "h": 284,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Візьміть пораненого за зап'ястя і переконайтеся, що кінцівка пораненого знаходиться над вашим плечем.",
+      "content": "УХОПІТЬ зап'ястя пораненого та переконайтеся, що його рука лежить на вашому плечі.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -181,22 +331,22 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Найкраще, якщо ..",
+      "name": "ПРИМІТКА: Буде краще, якщ..",
       "type": "text",
       "rect": {
-        "x": 536,
-        "y": 3280,
+        "x": 508,
+        "y": 3237,
         "w": 1712,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Найкраще, якщо кінцівка пораненого знаходиться під однією з кінцівок рятувальника.",
+      "content": "ПРИМІТКА: Буде краще, якщо одна з рук пораненого буде проходити під рукою рятувальника та в напрямку до шиї.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -215,22 +365,22 @@
       }
     },
     {
-      "name": "НАХИЛИТИСЯ перед поранени..",
+      "name": "ПРИСЯДЬТЕ попереду поране..",
       "type": "text",
       "rect": {
-        "x": 536,
+        "x": 508,
         "y": 2964,
         "w": 1728,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НАХИЛИТИСЯ перед пораненим обличчям у той же бік. Нехай поранений обхопить вас за шию.",
+      "content": "ПРИСЯДЬТЕ попереду пораненого, обличчям в тому ж напрямку, що й він;  накажіть йому обхопити вас руками довкола шиї.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -249,44 +399,22 @@
       }
     },
     {
-      "name": "Shape 16",
-      "type": "shape",
-      "rect": {
-        "x": 256,
-        "y": 1472,
-        "w": 2192,
-        "h": 1396,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "УВАГА. Щоб не поранити кі..",
+      "name": "__________ Перенесення по..",
       "type": "text",
       "rect": {
-        "x": 312,
-        "y": 2584,
+        "x": 333,
+        "y": 2232,
         "w": 1772,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "УВАГА. Щоб не поранити кінцівки потерпілого, потрібно, природно, намагатися не застосовувати силу.",
+      "content": "__________ Перенесення пораненого високо на спині рятувальника спрощує його переміщення на середні відстані (50-300 метрів).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -300,36 +428,61 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ПРИМІТКА. Перенесіть пора..",
+      "name": "__________ Щоб мінімізува..",
       "type": "text",
       "rect": {
-        "x": 312,
-        "y": 2236,
+        "x": 333,
+        "y": 2520,
+        "w": 1772,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Щоб мінімізувати ризик травмування рук пораненого, тримайте їх у природному положенні довкола своєї шиї.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ При перенесенн..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 1947,
         "w": 1728,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Перенесіть пораненого високо на спині рятувальника, це полегшить подорож на помірні відстані (50-300 метрів).",
+      "content": "__________ При перенесенні пораненого на спині, центр його ваги розташовується у верхній частині спини рятувальника.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -343,36 +496,27 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ПРИМІТКА. Це можна викори..",
+      "name": "__________ Цей метод слід..",
       "type": "text",
       "rect": {
-        "x": 312,
-        "y": 1984,
+        "x": 333,
+        "y": 1645,
         "w": 1576,
-        "h": 200,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Це можна використовувати лише для поранених у свідомості.",
+      "content": "__________ Цей метод слід використовувати лише для переміщення ПРИТОМНИХ постраждалих.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -386,82 +530,29 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 15",
-      "type": "shape",
-      "rect": {
-        "x": 244,
-        "y": 1132,
-        "w": 2216,
-        "h": 268,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 14",
-      "type": "shape",
-      "rect": {
-        "x": 240,
-        "y": 808,
-        "w": 4644,
-        "h": 324,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Переносити, використовуюч..",
+      "name": "ПЕРЕНЕСЕННЯ НА СПИНІ (ЯК ..",
       "type": "text",
       "rect": {
-        "x": 240,
-        "y": 1044,
-        "w": 2316,
-        "h": 888,
+        "x": 292,
+        "y": 1235,
+        "w": 1681,
+        "h": 308,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Переносити, використовуючи руки як ремені",
+      "content": "ПЕРЕНЕСЕННЯ НА СПИНІ (ЯК РЮКЗАК)",
       "format": {
-        "size": 240,
+        "size": 120,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -478,22 +569,22 @@
       }
     },
     {
-      "name": "Перетягніть або перенесіт..",
+      "name": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ..",
       "type": "text",
       "rect": {
-        "x": 212,
-        "y": 756,
-        "w": 4824,
-        "h": 328,
+        "x": 282,
+        "y": 780,
+        "w": 4537,
+        "h": 455,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Перетягніть або перенесіть одну людину",
+      "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
       "format": {
-        "size": 240,
+        "size": 180,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -525,7 +616,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:02Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:07:54Z",
       "format": {
         "size": 64,
         "align": "left",
