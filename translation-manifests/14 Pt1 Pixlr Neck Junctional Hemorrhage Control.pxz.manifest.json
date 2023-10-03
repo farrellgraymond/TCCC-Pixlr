@@ -1,6 +1,6 @@
 {
-  "id": "7f8d1213-52b5-4aae-bf2a-24c76151326e",
-  "name": "14 ENG Pt1 Neck Junctional Hemorrhage Control PNG(2)",
+  "id": "d78e7b6a-1e9c-4861-83cf-927c23519cc4",
+  "name": "14 Pt1 Neck Junctional Hemorrhage Control PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,16 +20,104 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "171e96ea4810.png"
+      "content": "828684654783.png"
     },
     {
-      "name": "Shape 56",
+      "name": "Shape 77",
       "type": "shape",
       "rect": {
-        "x": 3292,
-        "y": 5924,
-        "w": 1560,
-        "h": 520,
+        "x": 3383,
+        "y": 3793,
+        "w": 158,
+        "h": 115,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#bd1c1e"
+        }
+      }
+    },
+    {
+      "name": "Shape 76",
+      "type": "shape",
+      "rect": {
+        "x": 3381,
+        "y": 4432,
+        "w": 162,
+        "h": 126,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "radii": 20,
+        "fill": {
+          "type": "color",
+          "value": "#bd1c1e"
+        }
+      }
+    },
+    {
+      "name": "АБО..",
+      "type": "text",
+      "rect": {
+        "x": 3553,
+        "y": 4202,
+        "w": 332,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "АБО",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Shape 57",
+      "type": "shape",
+      "rect": {
+        "x": 2567,
+        "y": 1308,
+        "w": 251,
+        "h": 294,
         "r": 0
       },
       "opacity": 1,
@@ -45,438 +133,20 @@
       }
     },
     {
-      "name": "Shape 55",
-      "type": "shape",
-      "rect": {
-        "x": 1824,
-        "y": 6116,
-        "w": 1416,
-        "h": 224,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 54",
-      "type": "shape",
-      "rect": {
-        "x": 2036,
-        "y": 5920,
-        "w": 1204,
-        "h": 260,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 53",
-      "type": "shape",
-      "rect": {
-        "x": 280,
-        "y": 6112,
-        "w": 1416,
-        "h": 236,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 52",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 5920,
-        "w": 1196,
-        "h": 228,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 51",
-      "type": "shape",
-      "rect": {
-        "x": 3584,
-        "y": 4376,
-        "w": 1276,
-        "h": 436,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 50",
-      "type": "shape",
-      "rect": {
-        "x": 3580,
-        "y": 3724,
-        "w": 1356,
-        "h": 412,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 49",
-      "type": "shape",
-      "rect": {
-        "x": 3340,
-        "y": 3512,
-        "w": 1364,
-        "h": 220,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 48",
-      "type": "shape",
-      "rect": {
-        "x": 1788,
-        "y": 4472,
-        "w": 1528,
-        "h": 572,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 47",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 4288,
-        "w": 1212,
-        "h": 228,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 46",
-      "type": "shape",
-      "rect": {
-        "x": 268,
-        "y": 4472,
-        "w": 1448,
-        "h": 244,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 45",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 4280,
-        "w": 1232,
-        "h": 256,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 44",
-      "type": "shape",
-      "rect": {
-        "x": 3576,
-        "y": 2568,
-        "w": 1384,
-        "h": 236,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 43",
-      "type": "shape",
-      "rect": {
-        "x": 1816,
-        "y": 2756,
-        "w": 3164,
-        "h": 700,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 42",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 2560,
-        "w": 1220,
-        "h": 260,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 41",
-      "type": "shape",
-      "rect": {
-        "x": 272,
-        "y": 2984,
-        "w": 1464,
-        "h": 292,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 40",
-      "type": "shape",
-      "rect": {
-        "x": 496,
-        "y": 2560,
-        "w": 1240,
-        "h": 436,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 39",
-      "type": "shape",
-      "rect": {
-        "x": 2812,
-        "y": 1360,
-        "w": 2020,
-        "h": 332,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 38",
-      "type": "shape",
-      "rect": {
-        "x": 580,
-        "y": 1360,
-        "w": 1952,
-        "h": 328,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 37",
-      "type": "shape",
-      "rect": {
-        "x": 276,
-        "y": 784,
-        "w": 3220,
-        "h": 548,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "продовження на наступній ..",
+      "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
         "x": 3412,
         "y": 6316,
         "w": 1444,
-        "h": 116,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "продовження на наступній сторінці...",
+      "content": "Продовження на наступній сторінці…",
       "format": {
         "size": 80,
         "align": "left",
@@ -497,22 +167,22 @@
       }
     },
     {
-      "name": "Обертальна пов'язка по ді..",
+      "name": "БИНТУЙТЕ по діагоналі чер..",
       "type": "text",
       "rect": {
-        "x": 3328,
-        "y": 5932,
+        "x": 3441,
+        "y": 5920,
         "w": 1308,
-        "h": 368,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Обертальна пов'язка по діагоналі через грудну клітку та під протилежну кінцівку, назад через місце рани.",
+      "content": "БИНТУЙТЕ по діагоналі через грудну клітку, попід протилежною пахвою та по спині в напрямку до рани.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -531,22 +201,22 @@
       }
     },
     {
-      "name": "Підтримуйте ТИСК, намотую..",
+      "name": "Продовжуючи утримувати ти..",
       "type": "text",
       "rect": {
-        "x": 2048,
-        "y": 5932,
+        "x": 2026,
+        "y": 5920,
         "w": 1168,
-        "h": 368,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Підтримуйте ТИСК, намотуючи бинт поверх марлі, він повинен покривати весь пакувальний матеріал.",
+      "content": "Продовжуючи утримувати тиск, ЗАБИНТУЙТЕ затампоновану рану (обмотайте бинт не менше, ніж 1,5 рази), повністю її покривши.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -565,22 +235,22 @@
       }
     },
     {
-      "name": "НАКЛАДІТЬ широкий еластич..",
+      "name": "РОЗМІСТІТЬ еластичний бин..",
       "type": "text",
       "rect": {
-        "x": 500,
-        "y": 5932,
-        "w": 1196,
-        "h": 452,
+        "x": 478,
+        "y": 5920,
+        "w": 1342,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НАКЛАДІТЬ широкий еластичний бинт (15 см) поверх пов’язки, залиште достатньо, щоб зав’язати вузол.",
+      "content": "РОЗМІСТІТЬ еластичний бинт поверх гемостатичної пов’язки, залишаючи достатній за довжиною кінець, щоб потім зав’язати вузол.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -599,22 +269,22 @@
       }
     },
     {
-      "name": "Якщо упакований з марлею,..",
+      "name": "Якщо використано звичайни..",
       "type": "text",
       "rect": {
-        "x": 3596,
-        "y": 4396,
+        "x": 3564,
+        "y": 4394,
         "w": 1252,
-        "h": 284,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо упакований з марлею, додайте більше марлі, тримайте тиск 3 хвилини довше.",
+      "content": "Якщо використано звичайний бинт - додайте ще один і утримуйте тиск на рану (впродовж 3 хв), поки кровотеча не зупиниться.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -628,42 +298,33 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Якщо використовується спе..",
+      "name": "Якщо використано гемостат..",
       "type": "text",
       "rect": {
-        "x": 3580,
-        "y": 3732,
-        "w": 1388,
-        "h": 416,
+        "x": 3564,
+        "y": 3724,
+        "w": 1372,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо використовується спеціальна пов'язка (кровоспинна), накласти нову пов'язку всередину рани. Поверніться до 3.",
+      "content": "Якщо використано гемостатичний бинт – вийміть його та проведіть повторне тампонування новим гемостатичним бинтом, починаючи від КРОКУ 3.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.22,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -671,34 +332,25 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ЯКЩО КРОВОТЕЧА НЕ ПІД КОН..",
+      "name": "ЯКЩО КРОВОТЕЧА НЕ БУЛА ЗУ..",
       "type": "text",
       "rect": {
         "x": 3372,
         "y": 3532,
         "w": 1484,
-        "h": 200,
+        "h": 187,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЯКЩО КРОВОТЕЧА НЕ ПІД КОНТРОЛЕМ",
+      "content": "ЯКЩО КРОВОТЕЧА НЕ БУЛА ЗУПИНЕНА:",
       "format": {
         "size": 80,
         "align": "left",
@@ -728,22 +380,90 @@
       }
     },
     {
-      "name": "ВАЖЛИВО – ПЕРЕКОНАЙТЕСЯ, ..",
+      "name": "08.1..",
       "type": "text",
       "rect": {
-        "x": 1824,
-        "y": 4584,
-        "w": 1456,
-        "h": 536,
+        "x": 3252,
+        "y": 3805,
+        "w": 432,
+        "h": 106,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВАЖЛИВО – ПЕРЕКОНАЙТЕСЯ, ЩОБ КРОВ НЕ ПРОСОКІЛА крізь пов’язку або навколо неї. Якщо кровотеча зупинилася, залиште пов’язку на місці. Тримайте тиск.\n",
+      "content": "08.1",
       "format": {
         "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "08.2..",
+      "type": "text",
+      "rect": {
+        "x": 3246,
+        "y": 4453,
+        "w": 432,
+        "h": 106,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "08.2",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "__________ Переконайтеся,..",
+      "type": "text",
+      "rect": {
+        "x": 1822,
+        "y": 4533,
+        "w": 1518,
+        "h": 475,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Переконайтеся, що кров не просочується через гемостатичну пов’язку або навколо неї. Якщо кровотеча зупинилася, залиште гемостатичну пов’язку на місці, продовжуючи утримувати тиск.",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -757,36 +477,27 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Подивіться, чи зупинилася..",
+      "name": "ПОВТОРНО ОЦІНІТЬ, чи кров..",
       "type": "text",
       "rect": {
-        "x": 2048,
-        "y": 4284,
+        "x": 2018,
+        "y": 4280,
         "w": 1228,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Подивіться, чи зупинилася кровотеча, тримайте тиск, не відкривайте рану.",
+      "content": "ПОВТОРНО ОЦІНІТЬ, чи кровотеча зупинилась, одночасно утримуючи тиск",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -805,22 +516,22 @@
       }
     },
     {
-      "name": "Після заповнення марлею т..",
+      "name": "Після тампонування рани п..",
       "type": "text",
       "rect": {
-        "x": 500,
-        "y": 4284,
+        "x": 478,
+        "y": 4280,
         "w": 1280,
-        "h": 284,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Після заповнення марлею тримайте тиск до зупинки кровотечі - МІНІМУМ 3 хвилини.",
+      "content": "Після тампонування рани продовжуйте застосовувати прямий тиск руками аж до зупинки кровотечі. УТРИМУЙТЕ тиск мінімум 3 хв.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -839,28 +550,28 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Використовуйте ..",
+      "name": "__________ Для зупинки кр..",
       "type": "text",
       "rect": {
-        "x": 1820,
-        "y": 2952,
-        "w": 1248,
-        "h": 284,
+        "x": 1846,
+        "y": 3011,
+        "w": 1556,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Використовуйте стільки марлі або кровоспинного засобу, скільки потрібно.",
+      "content": "__________ Для зупинки кровотечі може знадобитися більше однієї пов’язки чи бинта. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -868,36 +579,61 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ВАЖЛИВО - якщо проникаючи..",
+      "name": "________________  Якщо в ..",
       "type": "text",
       "rect": {
         "x": 732,
-        "y": 3284,
+        "y": 3327,
         "w": 3636,
-        "h": 116,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВАЖЛИВО - якщо проникаючий предмет застряг у тілі пораненого, НЕ ВИНЯТИ, забинтуйте.",
+      "content": "________________  Якщо в рані є стороннє тіло, забинтуйте його на місці. Не виймайте предмет.",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 732,
+        "y": 3327,
+        "w": 2570,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ:",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -925,442 +661,398 @@
       }
     },
     {
-      "name": "ПЕРЕКОНАЙТЕСЬ, щоб бинт а..",
+      "name": "ПЕРЕКОНАЙТЕСЯ, що гемоста..",
       "type": "text",
-      "rect": {
-        "x": 3564,
-        "y": 2572,
-        "w": 1404,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПЕРЕКОНАЙТЕСЬ, щоб бинт або марля з гемостатичним засобом простягалися на 3-5 см над шкірою.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА. ДОДАЙТЕ більше ..",
-      "type": "text",
-      "rect": {
-        "x": 3372,
-        "y": 2908,
-        "w": 1444,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА. ДОДАЙТЕ більше марлі, якщо марля не виступає принаймні на 2-3 см над шкірою. Необхідний для тиску.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ЩІЛЬНО ПРИТИСНІТЬ марлю а..",
-      "type": "text",
-      "rect": {
-        "x": 2060,
-        "y": 2572,
-        "w": 1216,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ЩІЛЬНО ПРИТИСНІТЬ марлю або кровоспинний засіб всередині рани. Заповніть порожнину протягом 90 секунд.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ВАЖЛИВО - Якщо є кровоспи..",
-      "type": "text",
-      "rect": {
-        "x": 284,
-        "y": 2992,
-        "w": 1320,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ВАЖЛИВО - Якщо є кровоспинний засіб, ВИКОРИСТОВУЙТЕ ЙОГО.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ЗНЯТИ марлеву пов’язку зі..",
-      "type": "text",
-      "rect": {
-        "x": 500,
-        "y": 2792,
-        "w": 1120,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ЗНЯТИ марлеву пов’язку зі стерильного пакета.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 13",
-      "type": "shape",
-      "rect": {
-        "x": 460,
-        "y": 4064,
-        "w": 152,
-        "h": 64,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ПРЯМИЙ ТИСК на джерело кр..",
-      "type": "text",
-      "rect": {
-        "x": 500,
-        "y": 2572,
-        "w": 1196,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРЯМИЙ ТИСК на джерело кровотечі.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 12",
-      "type": "shape",
-      "rect": {
-        "x": 2012,
-        "y": 4088,
-        "w": 224,
-        "h": 52,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 11",
-      "type": "shape",
-      "rect": {
-        "x": 2060,
-        "y": 4028,
-        "w": 120,
-        "h": 52,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 10",
-      "type": "shape",
       "rect": {
         "x": 3548,
-        "y": 2372,
-        "w": 224,
-        "h": 52,
+        "y": 2560,
+        "w": 1404,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "ПЕРЕКОНАЙТЕСЯ, що гемостатична пов’язка або бинт виступає над шкірою на 3-5 см.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 9",
-      "type": "shape",
+      "name": "_____________________ Якщ..",
+      "type": "text",
       "rect": {
-        "x": 3596,
-        "y": 2316,
-        "w": 120,
-        "h": 56,
+        "x": 3441,
+        "y": 2820,
+        "w": 1454,
+        "h": 437,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "_____________________ Якщо гемостатична пов’язка або бинт не виступає над шкірою на 3-5 см, накладіть додаткову гемостатичну пов’язку або бинт.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 8",
-      "type": "shape",
+      "name": "ПРИМІТКА ДО КРОКУ 5 :..",
+      "type": "text",
+      "rect": {
+        "x": 3441,
+        "y": 2813,
+        "w": 1454,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 5 :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Проведіть щільне ТАМПОНУВ..",
+      "type": "text",
       "rect": {
         "x": 2012,
-        "y": 2352,
-        "w": 220,
-        "h": 56,
+        "y": 2548,
+        "w": 1342,
+        "h": 475,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "Проведіть щільне ТАМПОНУВАННЯ рани гемостатичною пов’язкою до заповнення всієї порожнини рани. Продовжуйте утримувати тиск. Завершіть тампонування в межах 90 сек.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 7",
-      "type": "shape",
+      "name": "__________ Якщо гемостати..",
+      "type": "text",
       "rect": {
-        "x": 2064,
-        "y": 2300,
-        "w": 116,
-        "h": 56,
+        "x": 292,
+        "y": 3030,
+        "w": 1528,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "__________ Якщо гемостатичної пов’язки немає, використовуйте бинт або чисту суху тканину.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 6",
-      "type": "shape",
+      "name": "ПРИМІТКА :..",
+      "type": "text",
       "rect": {
-        "x": 460,
-        "y": 2352,
-        "w": 220,
-        "h": 64,
+        "x": 292,
+        "y": 3030,
+        "w": 1528,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "ПРИМІТКА :",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
     {
-      "name": "Shape 5",
-      "type": "shape",
+      "name": "ПРИМІТКА :..",
+      "type": "text",
       "rect": {
-        "x": 500,
-        "y": 2296,
-        "w": 128,
-        "h": 60,
+        "x": 1846,
+        "y": 3011,
+        "w": 1528,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "ПРИМІТКА :",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
     {
-      "name": "хвилин..",
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 1820,
+        "y": 4533,
+        "w": 1528,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ВИТЯГНІТЬ гемостатичну по..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 2777,
+        "w": 1287,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВИТЯГНІТЬ гемостатичну пов’язку з тактичної індивідуальної аптечки (JFAK) пораненого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТОСУЙТЕ ПРЯМИЙ ТИСК на..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 2560,
+        "w": 1258,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТОСУЙТЕ ПРЯМИЙ ТИСК на джерело кровотечі.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "хвилини..",
       "type": "text",
       "rect": {
         "x": 416,
         "y": 4048,
         "w": 252,
-        "h": 92,
+        "h": 77,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "хвилин",
+      "content": "хвилини",
       "format": {
-        "size": 64,
+        "size": 56,
         "align": "center",
         "bold": true,
         "italic": false,
@@ -1379,158 +1071,22 @@
       }
     },
     {
-      "name": "Тиск..",
+      "name": "РОЗКРИЙТЕ місце поранення..",
       "type": "text",
       "rect": {
-        "x": 468,
-        "y": 2332,
-        "w": 208,
-        "h": 108,
+        "x": 2611,
+        "y": 1417,
+        "w": 2284,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Тиск",
+      "content": "РОЗКРИЙТЕ місце поранення та огляньте джерело кровотечі. ",
       "format": {
         "size": 76,
-        "align": "center",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Тиск..",
-      "type": "text",
-      "rect": {
-        "x": 2020,
-        "y": 2332,
-        "w": 208,
-        "h": 108,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Тиск",
-      "format": {
-        "size": 76,
-        "align": "center",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Тиск..",
-      "type": "text",
-      "rect": {
-        "x": 3564,
-        "y": 2352,
-        "w": 208,
-        "h": 108,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Тиск",
-      "format": {
-        "size": 76,
-        "align": "center",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Тиск..",
-      "type": "text",
-      "rect": {
-        "x": 2020,
-        "y": 4060,
-        "w": 208,
-        "h": 108,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Тиск",
-      "format": {
-        "size": 76,
-        "align": "center",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ЗНАЙДИ джерело найактивні..",
-      "type": "text",
-      "rect": {
-        "x": 2816,
-        "y": 1372,
-        "w": 1776,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ЗНАЙДИ джерело найактивнішої кровотечі. Можливо, доведеться зняти одяг або обладнання.",
-      "format": {
-        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1549,28 +1105,62 @@
       }
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "__________ Щоб розкрити м..",
       "type": "text",
       "rect": {
-        "x": 596,
-        "y": 1372,
-        "w": 1928,
-        "h": 284,
+        "x": 2611,
+        "y": 1522,
+        "w": 2284,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "__________ Щоб розкрити місце поранення належним чином, може знадобитися зрізати одяг.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 2611,
+        "y": 1522,
+        "w": 2284,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1592,22 +1182,401 @@
       }
     },
     {
-      "name": "Контроль кровотечі з шиї..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-02 at 12.58.46 AM.png",
+      "type": "image",
       "rect": {
-        "x": 284,
-        "y": 784,
-        "w": 4252,
-        "h": 328,
+        "x": 2414,
+        "y": 1404,
+        "w": 197,
+        "h": 186,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Контроль кровотечі з шиї",
+      "content": "1b23ba2f4ef5.png"
+    },
+    {
+      "name": "ПОДБАЙТЕ про засоби індив..",
+      "type": "text",
+      "rect": {
+        "x": 596,
+        "y": 1400,
+        "w": 1928,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
       "format": {
-        "size": 240,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 596,
+        "y": 1522,
+        "w": 1928,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 55 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 324,
+        "y": 2398,
+        "w": 841,
+        "h": 120,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 20,
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 16,
+          "color": "#bd1c1e"
+        }
+      }
+    },
+    {
+      "name": "Shape 55 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1866,
+        "y": 2398,
+        "w": 841,
+        "h": 120,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 20,
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 16,
+          "color": "#bd1c1e"
+        }
+      }
+    },
+    {
+      "name": "Shape 55 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 3402,
+        "y": 1746,
+        "w": 841,
+        "h": 120,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 20,
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 16,
+          "color": "#bd1c1e"
+        }
+      }
+    },
+    {
+      "name": "Shape 55 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1866,
+        "y": 4119,
+        "w": 841,
+        "h": 120,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 20,
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 16,
+          "color": "#bd1c1e"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 596,
+        "y": 1522,
+        "w": 1928,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "УТРИМУЙТЕ ТИСК..",
+      "type": "text",
+      "rect": {
+        "x": 324,
+        "y": 2427,
+        "w": 842,
+        "h": 83,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "УТРИМУЙТЕ ТИСК",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "УТРИМУЙТЕ ТИСК..",
+      "type": "text",
+      "rect": {
+        "x": 1893,
+        "y": 2427,
+        "w": 842,
+        "h": 83,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "УТРИМУЙТЕ ТИСК",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "УТРИМУЙТЕ ТИСК..",
+      "type": "text",
+      "rect": {
+        "x": 3402,
+        "y": 1775,
+        "w": 842,
+        "h": 83,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "УТРИМУЙТЕ ТИСК",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "УТРИМУЙТЕ ТИСК..",
+      "type": "text",
+      "rect": {
+        "x": 1893,
+        "y": 4148,
+        "w": 842,
+        "h": 83,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "УТРИМУЙТЕ ТИСК",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗУПИНКА ВУЗЛОВОЇ КРОВОТЕЧ..",
+      "type": "text",
+      "rect": {
+        "x": 284,
+        "y": 784,
+        "w": 4252,
+        "h": 507,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗУПИНКА ВУЗЛОВОЇ КРОВОТЕЧІ В ДІЛЯНЦІ ШИЇ",
+      "format": {
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1639,7 +1608,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:32:57Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-03T17:07:09Z",
       "format": {
         "size": 64,
         "align": "left",
