@@ -1,6 +1,6 @@
 {
-  "id": "271de921-5d2d-42de-87ae-298a73c18bd3",
-  "name": "One Handed Windlass Tourniquet PNG(5)(2)(5)",
+  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792b18",
+  "name": "One Handed Windlass Tourniquet PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,7 +20,63 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "b513b02d4b71.png"
+      "content": "29b0be8f4601.png"
+    },
+    {
+      "name": "Shape 24",
+      "type": "shape",
+      "rect": {
+        "x": 303,
+        "y": 3716,
+        "w": 161,
+        "h": 149,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "04.1..",
+      "type": "text",
+      "rect": {
+        "x": 49,
+        "y": 3741,
+        "w": 678,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "04.1",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
     },
     {
       "name": "Shape 39",
@@ -80,25 +136,25 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "d01f85f045bf.png"
+      "content": "0801aea34f31.png"
     },
     {
-      "name": "ХВИЛИНА..",
+      "name": "хвилини..",
       "type": "text",
       "rect": {
         "x": 3504,
         "y": 3444,
         "w": 252,
-        "h": 64,
+        "h": 76,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ХВИЛИНА",
+      "content": "хвилини",
       "format": {
-        "size": 48,
+        "size": 55,
         "align": "center",
         "bold": true,
         "italic": false,
@@ -123,7 +179,7 @@
         "x": 500,
         "y": 6208,
         "w": 1600,
-        "h": 208,
+        "h": 195,
         "r": 0
       },
       "opacity": 1,
@@ -151,28 +207,28 @@
       }
     },
     {
-      "name": "ПРИМІТКА: Не документуйте..",
+      "name": "__________ Не документуйт..",
       "type": "text",
       "rect": {
-        "x": 3388,
-        "y": 5236,
+        "x": 3400,
+        "y": 5241,
         "w": 1436,
-        "h": 304,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+      "content": "__________ Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -180,16 +236,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
@@ -200,7 +247,7 @@
         "x": 3576,
         "y": 4996,
         "w": 1188,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
@@ -234,7 +281,7 @@
         "x": 2032,
         "y": 4988,
         "w": 1216,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
@@ -268,7 +315,7 @@
         "x": 488,
         "y": 4988,
         "w": 1264,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
@@ -302,7 +349,7 @@
         "x": 3568,
         "y": 3692,
         "w": 1224,
-        "h": 352,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
@@ -336,7 +383,7 @@
         "x": 2088,
         "y": 3692,
         "w": 1216,
-        "h": 352,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
@@ -377,7 +424,63 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "5bfc8db14f3f.png"
+      "content": "4b7ab1da4003.png"
+    },
+    {
+      "name": "Shape 24 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1911,
+        "y": 3712,
+        "w": 161,
+        "h": 149,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "04.2..",
+      "type": "text",
+      "rect": {
+        "x": 1722,
+        "y": 3743,
+        "w": 540,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "04.2",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
     },
     {
       "name": "Перед затягуванням турнік..",
@@ -386,7 +489,7 @@
         "x": 484,
         "y": 3692,
         "w": 1396,
-        "h": 352,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
@@ -420,7 +523,7 @@
         "x": 3556,
         "y": 2500,
         "w": 1224,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
@@ -454,7 +557,7 @@
         "x": 1880,
         "y": 2500,
         "w": 1456,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
@@ -488,7 +591,7 @@
         "x": 488,
         "y": 2500,
         "w": 1208,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
@@ -516,56 +619,13 @@
       }
     },
     {
-      "name": "Лікуйте лише негайно небе..",
-      "type": "text",
-      "rect": {
-        "x": 3160,
-        "y": 1316,
-        "w": 1676,
-        "h": 272,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": false,
-      "link": "",
-      "content": "Лікуйте лише негайно небезпечні для життя рани. Решта допомоги призначена для етапу тактичної польової медицини.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
       "name": "НАКЛАДАННЯ ТУРНІКЕТА З ВО..",
       "type": "text",
       "rect": {
         "x": 264,
         "y": 788,
         "w": 4572,
-        "h": 520,
+        "h": 507,
         "r": 0
       },
       "opacity": 1,
@@ -599,7 +659,7 @@
         "x": 332,
         "y": 1368,
         "w": 2724,
-        "h": 220,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
@@ -630,51 +690,78 @@
       "name": "One-Handed Windlass Tourniquet QR PNG.png",
       "type": "image",
       "rect": {
-        "x": 2928,
-        "y": 116,
-        "w": 472,
-        "h": 472,
+        "x": 2886,
+        "y": 100,
+        "w": 574,
+        "h": 574,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "1e1e8ca74259.png"
+      "content": "35a0ae1d4de1.png"
     },
     {
-      "name": "unnamed-removebg-preview.png Copy",
-      "type": "image",
+      "name": "ПРИМІТКА :..",
+      "type": "text",
       "rect": {
-        "x": 2616,
-        "y": -20,
-        "w": 440,
-        "h": 744,
+        "x": 3400,
+        "y": 5241,
+        "w": 2127,
+        "h": 100,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "65d0a1064fac.png"
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
-        "x": 73,
-        "y": 1610,
-        "w": 800,
-        "h": 23,
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
         "r": 0
       },
       "opacity": 1,
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-18T21:50:40Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-02T01:30:39Z",
       "format": {
-        "size": 16,
+        "size": 64,
         "align": "left",
         "bold": true,
         "italic": false,
