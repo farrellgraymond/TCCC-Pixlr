@@ -1,6 +1,6 @@
 {
-  "id": "6ebef7f2-b926-4749-a809-4a4ae0b1b3e9",
-  "name": "5 ENG P1 One-Person Drag Carry PNG(2)(4)",
+  "id": "6f63be92-ec53-46cd-a63f-e321732cbdda",
+  "name": "5 P1 One-Person Drag Carry PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,53 +20,31 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "5b5883a642e7.png"
+      "content": "919daa6947ef.png"
     },
     {
-      "name": "Shape 13",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 5892,
-        "w": 4136,
-        "h": 432,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ПОПЕРЕДЖЕННЯ. Під час тре..",
+      "name": "ПРИМІТКА :..",
       "type": "text",
       "rect": {
-        "x": 512,
-        "y": 6048,
-        "w": 4080,
-        "h": 192,
+        "x": 292,
+        "y": 1574,
+        "w": 2747,
+        "h": 100,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОПЕРЕДЖЕННЯ. Під час тренувань рятувальник або поранений можуть отримати травму. Завжди памʼятайте про безпеку.",
+      "content": "ПРИМІТКА :",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -88,84 +66,28 @@
       }
     },
     {
-      "name": "Повертаючись назад коротк..",
+      "name": "ПРИМІТКА :..",
       "type": "text",
       "rect": {
-        "x": 516,
-        "y": 5932,
-        "w": 3208,
-        "h": 112,
+        "x": 292,
+        "y": 2069,
+        "w": 2747,
+        "h": 100,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Повертаючись назад короткими швидкими чергами, ТЕГНІТЬ пораненого в укриття.",
+      "content": "ПРИМІТКА :",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 10",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 3172,
-        "w": 4292,
-        "h": 376,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА. Деякі жилети дл..",
-      "type": "text",
-      "rect": {
-        "x": 516,
-        "y": 3324,
-        "w": 3336,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА. Деякі жилети для спорядження (тримачі тарілок) мають ручки для захоплення, дуже важливо, щоб жилет був повністю закритий і закріплений.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -187,22 +109,108 @@
       }
     },
     {
-      "name": "ВЗЯТИ пораненого за споря..",
+      "name": "ПРИМІТКА :..",
       "type": "text",
       "rect": {
-        "x": 516,
-        "y": 3188,
-        "w": 4252,
-        "h": 112,
+        "x": 500,
+        "y": 3407,
+        "w": 3481,
+        "h": 100,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВЗЯТИ пораненого за спорядження або за верхні кінцівки.",
+      "content": "ПРИМІТКА :",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 490,
+        "y": 6054,
+        "w": 3760,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "__________ Під час тренув..",
+      "type": "text",
+      "rect": {
+        "x": 490,
+        "y": 6054,
+        "w": 2679,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Під час тренувань як рятівник, так і постраждалий можуть травмуватись; завжди пам’ятайте про безпеку.",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -221,44 +229,124 @@
       }
     },
     {
-      "name": "Shape 7",
-      "type": "shape",
+      "name": "Ідучи спиною назад (швидк..",
+      "type": "text",
       "rect": {
-        "x": 248,
-        "y": 1244,
-        "w": 2524,
-        "h": 888,
+        "x": 490,
+        "y": 5933,
+        "w": 4120,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "Ідучи спиною назад (швидкими короткими ривками), ПЕРЕТЯГНІТЬ пораненого в укриття.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ПРИМІТКА. Використовуйте ..",
+      "name": "__________ Деякі бронежил..",
       "type": "text",
       "rect": {
-        "x": 332,
-        "y": 1892,
+        "x": 500,
+        "y": 3407,
+        "w": 3414,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Деякі бронежилети оснащені спеціальною стропою для перетягування. Важливо, щоб обладнання було надійно закріплене та зафіксоване на пораненому.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "УХОПІТЬ пораненого за йог..",
+      "type": "text",
+      "rect": {
+        "x": 500,
+        "y": 3196,
+        "w": 2992,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "УХОПІТЬ пораненого за його спорядження (наприклад, за спеціальну стропу для перетягування) або за бронежилет.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Використовуйте..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2069,
         "w": 2308,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Використовуйте лише тоді, коли ворожий вогонь не дозволяє іншого вибору.",
+      "content": "__________ Використовуйте лише тоді, коли ворожий вогонь не залишає рятувальнику інших варіантів.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -272,36 +360,27 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ПОПЕРЕДЖЕННЯ. Перетягуван..",
+      "name": "__________ Перетягування,..",
       "type": "text",
       "rect": {
-        "x": 332,
-        "y": 1452,
+        "x": 292,
+        "y": 1574,
         "w": 2440,
-        "h": 352,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОПЕРЕДЖЕННЯ. Перетягування обладнання або кінцівок може спрацювати, щоб відтягнути пораненого в укриття чи безпечне місце, це не добре для великих відстаней і збільшує ймовірність більшої шкоди пораненому.",
+      "content": "__________ Перетягування, тримаючи за спорядження, може бути використане для переміщення постраждалого в укриття або безпечне місце та не є ефективним для довших відстаней, оскільки збільшується ймовірність отримання постраждалим додаткових травм.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -315,60 +394,29 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 6",
-      "type": "shape",
-      "rect": {
-        "x": 252,
-        "y": 768,
-        "w": 4640,
-        "h": 520,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Перетягування обладнання ..",
+      "name": "ПЕРЕТЯГУВАННЯ, ТРИМАЮЧИ З..",
       "type": "text",
       "rect": {
-        "x": 284,
-        "y": 1008,
-        "w": 4160,
-        "h": 280,
+        "x": 292,
+        "y": 1227,
+        "w": 1911,
+        "h": 308,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Перетягування обладнання або кінцівок.",
+      "content": "ПЕРЕТЯГУВАННЯ, ТРИМАЮЧИ ЗА СПОРЯДЖЕННЯ",
       "format": {
-        "size": 208,
+        "size": 120,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -385,22 +433,22 @@
       }
     },
     {
-      "name": "Перетягніть або перенесіт..",
+      "name": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ..",
       "type": "text",
       "rect": {
-        "x": 252,
-        "y": 736,
-        "w": 4676,
-        "h": 332,
+        "x": 260,
+        "y": 755,
+        "w": 4159,
+        "h": 455,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Перетягніть або перенесіть одну людину",
+      "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
       "format": {
-        "size": 240,
+        "size": 180,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -432,7 +480,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:02Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:07:53Z",
       "format": {
         "size": 64,
         "align": "left",

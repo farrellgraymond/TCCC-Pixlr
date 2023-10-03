@@ -1,5 +1,17 @@
 [
   {
+    "content": "ПРИМІТКА :",
+    "fillValue": "#f00505"
+  },
+  {
+    "content": "04.2",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "04.1",
+    "fillValue": "#ffffff"
+  },
+  {
     "content": "АБО",
     "fillValue": "#f00505"
   },
@@ -8,8 +20,8 @@
     "fillValue": "#000000"
   },
   {
-    "content": "ПРИМІТКА: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
-    "fillValue": "#f00505"
+    "content": "__________ Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+    "fillValue": "#000000"
   },
   {
     "content": "Закріпіть усе фіксуючою стрічкою.",
@@ -24,7 +36,7 @@
     "fillValue": "#000000"
   },
   {
-    "content": "ХВИЛИНА",
+    "content": "хвилини",
     "fillValue": "#000000"
   },
   {
@@ -64,7 +76,15 @@
     "fillValue": "#000000"
   },
   {
-    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-18T21:30:38Z",
+    "content": "02.2",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "02.1",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-02T01:44:24Z",
     "fillValue": "#000000"
   }
 ]
