@@ -1,6 +1,6 @@
 {
-  "id": "1dce7111-fc90-4a6b-8bd0-4d376b268cae",
-  "name": "28 Pt2 ENG Chest Seal PNG(2)",
+  "id": "ca4b2c3e-05e6-44ae-97a6-a75fa20f6f5a",
+  "name": "28 Pt2 Chest Seal PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,267 +20,25 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "64f9aee34823.png"
+      "content": "ffb6ba5e449d.png"
     },
     {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 3468,
-        "w": 1272,
-        "h": 464,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 1816,
-        "y": 3664,
-        "w": 1448,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 2036,
-        "y": 3464,
-        "w": 1228,
-        "h": 412,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 264,
-        "y": 3668,
-        "w": 1408,
-        "h": 812,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 3468,
-        "w": 1176,
-        "h": 288,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 3564,
-        "y": 2060,
-        "w": 1264,
-        "h": 396,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 1816,
-        "y": 2252,
-        "w": 1528,
-        "h": 316,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 16",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 2064,
-        "w": 1236,
-        "h": 260,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 15",
-      "type": "shape",
-      "rect": {
-        "x": 264,
-        "y": 2260,
-        "w": 1416,
-        "h": 300,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 14",
-      "type": "shape",
-      "rect": {
-        "x": 488,
-        "y": 2060,
-        "w": 1188,
-        "h": 260,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 13",
-      "type": "shape",
-      "rect": {
-        "x": 244,
-        "y": 764,
-        "w": 2236,
-        "h": 360,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "Задокументуйте результати..",
       "type": "text",
       "rect": {
-        "x": 3580,
+        "x": 3562,
         "y": 3476,
         "w": 1268,
-        "h": 368,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "Задокументуйте результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -299,22 +57,269 @@
       }
     },
     {
-      "name": "ДИВ. КАРТКУ 29., Pt1 + Pt..",
+      "name": "Якщо ознаки напруженого п..",
       "type": "text",
       "rect": {
-        "x": 2044,
-        "y": 3928,
-        "w": 1160,
-        "h": 116,
+        "x": 2030,
+        "y": 3476,
+        "w": 1271,
+        "h": 549,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДИВ. КАРТКУ 29., Pt1 + Pt2",
+      "content": "Якщо ознаки напруженого пневмотораксу зберігаються, незважаючи на випускання повітря з-під наліпки, ПРОВЕДІТЬ голкову декомпресію грудної клітки (див. Інструкцію з проведення голкової декомпресії грудної клітки).",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Як альтернатив..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3963,
+        "w": 1566,
+        "h": 354,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Як альтернативний варіант, відклейте наліпку на декілька секунд для декомпресії, а потім наклейте наліпку на місце або замініть її на нову. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3963,
+        "w": 1566,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Якщо виникли ознаки напру..",
+      "type": "text",
+      "rect": {
+        "x": 488,
+        "y": 3476,
+        "w": 1293,
+        "h": 475,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо виникли ознаки напруженого пневмотораксу, ВІДКЛЕЙТЕ з одного краю оклюзійну наліпку, таким чином дозволивши повітрю вийти з-під наліпки (провівши декомпресію).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СПОСТЕРІГАЙТЕ за появою о..",
+      "type": "text",
+      "rect": {
+        "x": 3562,
+        "y": 2059,
+        "w": 1268,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СПОСТЕРІГАЙТЕ за появою ознак напруженого пневмотораксу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕВЕДІТЬ притомного пор..",
+      "type": "text",
+      "rect": {
+        "x": 2030,
+        "y": 2059,
+        "w": 1234,
+        "h": 475,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВЕДІТЬ притомного пораненого в сидяче положення. Непритомному пораненому слід надати стабільне бокове положення (пошкодженою стороною донизу). ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕВІРТЕ/ПРОПАЛЬПУЙТЕ на..",
+      "type": "text",
+      "rect": {
+        "x": 465,
+        "y": 2059,
+        "w": 1376,
+        "h": 549,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВІРТЕ/ПРОПАЛЬПУЙТЕ наявність інших відкритих ран (передня та задня поверхні грудної клітки, ділянки під руками). Накладіть торакальні оклюзійні наліпки з клапаном на виявлені рани, якщо необхідно.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 416,
+        "y": 999,
+        "w": 3336,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження…",
+      "format": {
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -328,326 +333,27 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Якщо симптоми напруженого..",
-      "type": "text",
-      "rect": {
-        "x": 2044,
-        "y": 3476,
-        "w": 1180,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Якщо симптоми напруженого пневмотораксу зберігаються після попередніх втручань, необхідна голкова декомпресія грудної клітки.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
           "value": "#000000"
         }
       }
     },
     {
-      "name": "АЛЬТЕРНАТИВА - Зніміть по..",
+      "name": "Торакальна оклюзійна налі..",
       "type": "text",
       "rect": {
-        "x": 316,
-        "y": 4040,
-        "w": 1392,
-        "h": 368,
+        "x": 244,
+        "y": 726,
+        "w": 4244,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "АЛЬТЕРНАТИВА - Зніміть пов'язку на кілька секунд, щоб забезпечити декомпресію, і накладіть нову вентильовану пов'язку.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Якщо з’являються ознаки н..",
-      "type": "text",
-      "rect": {
-        "x": 492,
-        "y": 3476,
-        "w": 1100,
-        "h": 536,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Якщо з’являються ознаки напруженого пневмотораксу, підніміть край перев’язувальної подушечки, щоб видалити повітря, що затрималося.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Слідкуйте за посиленням р..",
-      "type": "text",
-      "rect": {
-        "x": 3580,
-        "y": 2344,
-        "w": 1392,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Слідкуйте за посиленням респіраторного дистресу та насичення киснем нижче 90%.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "МОНІТОРУЙТЕ постраждалого..",
-      "type": "text",
-      "rect": {
-        "x": 3580,
-        "y": 2072,
-        "w": 1208,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "МОНІТОРУЙТЕ постраждалого на наявність ознак напруженого пневмотораксу.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "РОЗМІСТИТЕ пораненого в с..",
-      "type": "text",
-      "rect": {
-        "x": 2044,
-        "y": 2072,
-        "w": 1208,
-        "h": 536,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "РОЗМІСТИТЕ пораненого в сидяче або лежаче положення на боці для відновлення. Поранена сторона повинна бути внизу в положенні для відновлення.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ПЕРЕВІРТЕ та ПОМАЦАЙТЕ, ч..",
-      "type": "text",
-      "rect": {
-        "x": 492,
-        "y": 2072,
-        "w": 1216,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПЕРЕВІРТЕ та ПОМАЦАЙТЕ, чи немає додаткових ран. Якщо ран більше, також обробіть вентильованою пов’язкою.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Продовження зі сторінки 1..",
-      "type": "text",
-      "rect": {
-        "x": 280,
-        "y": 960,
-        "w": 3336,
-        "h": 272,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Продовження зі сторінки 1",
+      "content": "Торакальна оклюзійна наліпка",
       "format": {
         "size": 200,
-        "align": "left",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Оклюзійна пов'язка на гру..",
-      "type": "text",
-      "rect": {
-        "x": 248,
-        "y": 724,
-        "w": 4244,
-        "h": 328,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Оклюзійна пов'язка на грудну клітку",
-      "format": {
-        "size": 240,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -679,7 +385,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:32:59Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-07T23:47:36Z",
       "format": {
         "size": 64,
         "align": "left",
