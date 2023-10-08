@@ -1,6 +1,6 @@
 {
-  "id": "5059425c-b133-4e5f-beb5-607eb12aa807",
-  "name": "29 Pt2 ENG Needle Compression of Chest PNG(2)(2)",
+  "id": "b5e3e7c0-da86-48eb-abd1-0adfe94602c3",
+  "name": "29 Pt2 Needle Compression of Chest PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,249 +20,113 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "3c17b18b468d.png"
+      "content": "9d47b0b64ee9.png"
     },
     {
-      "name": "unnamed-removebg-preview.png Copy",
-      "type": "image",
+      "name": "Shape 32",
+      "type": "shape",
       "rect": {
-        "x": 2536,
-        "y": 456,
-        "w": 744,
-        "h": 440,
+        "x": 303,
+        "y": 2355,
+        "w": 165,
+        "h": 133,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "29ed89fc4c0a.png"
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "07.2..",
+      "type": "text",
+      "rect": {
+        "x": 286,
+        "y": 2375,
+        "w": 200,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "07.2",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
     },
     {
       "name": "Needle Chest Decompression 1 YouTube QR PNG.png Copy",
       "type": "image",
       "rect": {
-        "x": 2408,
-        "y": 116,
-        "w": 472,
-        "h": 472,
+        "x": 1886,
+        "y": 100,
+        "w": 574,
+        "h": 574,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "6637bdab441d.png"
+      "content": "2f6b919e44f0.png"
     },
     {
       "name": "Needle Chest Decompression 2 YouTube QR PNG.png Copy",
       "type": "image",
       "rect": {
-        "x": 2968,
-        "y": 116,
-        "w": 472,
-        "h": 472,
+        "x": 2886,
+        "y": 100,
+        "w": 574,
+        "h": 574,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "4ee0add74a80.png"
+      "content": "bf63bdd14af4.png"
     },
     {
-      "name": "Shape 26",
-      "type": "shape",
+      "name": "Задокументуйте результати..",
+      "type": "text",
       "rect": {
-        "x": 500,
+        "x": 476,
         "y": 5796,
-        "w": 1296,
-        "h": 472,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 3808,
-        "w": 4184,
-        "h": 1104,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 3340,
-        "y": 2524,
-        "w": 1496,
-        "h": 736,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 2328,
-        "w": 1252,
-        "h": 340,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 1808,
-        "y": 2516,
-        "w": 1416,
-        "h": 1312,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 2036,
-        "y": 2336,
-        "w": 1196,
-        "h": 260,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 504,
-        "y": 2336,
-        "w": 1160,
-        "h": 236,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 256,
-        "y": 772,
-        "w": 4124,
-        "h": 640,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
-      "type": "text",
-      "rect": {
-        "x": 504,
-        "y": 5808,
         "w": 1236,
-        "h": 352,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "Задокументуйте результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -281,22 +145,22 @@
       }
     },
     {
-      "name": "Якщо друга декомпресія НЕ..",
+      "name": "Якщо друга голкова декомп..",
       "type": "text",
       "rect": {
-        "x": 504,
-        "y": 4652,
+        "x": 476,
+        "y": 4657,
         "w": 3856,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо друга декомпресія НЕ є успішною, продовжуйте послідовність протоколів лікування. Масивна кровотеча, дихальні шляхи, дихання, кровообіг, гіпотермія / травма голови.",
+      "content": "Якщо друга голкова декомпресія також не була успішною, перейдіть до етапу \"С\" - Кровообіг - у протоколі MARCH (Масивна кровотеча; Дихальні шляхи; Дихання; Кровообіг; Гіпотермія/Травми голови).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -315,22 +179,22 @@
       }
     },
     {
-      "name": "Якщо початкова декомпресі..",
+      "name": "Якщо перша голкова декомп..",
       "type": "text",
       "rect": {
-        "x": 504,
-        "y": 4420,
+        "x": 476,
+        "y": 4421,
         "w": 4024,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо початкова декомпресія була успішною, але симптоми повертаються, виконайте ще одну декомпресію на тому ж місці, що й раніше. Завжди використовуйте нову голку/катетер.",
+      "content": "Якщо перша голкова декомпресія була успішною, проте пізніше симптоми повернулися, ВИКОНАЙТЕ другу декомпресію в тому ж місці, яке ви використали перший раз. Візьміть нову голку/катетер для цього.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -349,22 +213,22 @@
       }
     },
     {
-      "name": "Продовжуйте спостерігати ..",
+      "name": "Продовжуйте оцінювати пор..",
       "type": "text",
       "rect": {
-        "x": 504,
+        "x": 476,
         "y": 4184,
         "w": 2676,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовжуйте спостерігати за пораненим на наявність нових ознак респіраторного дистресу.",
+      "content": "Продовжуйте оцінювати пораненого щодо повторного виникнення прогресуючої дихальної недостатності.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -383,22 +247,22 @@
       }
     },
     {
-      "name": "РОЗМІСТИТЕ пораненого в с..",
+      "name": "ПЕРЕВЕДІТЬ пораненого в с..",
       "type": "text",
       "rect": {
-        "x": 504,
-        "y": 3816,
+        "x": 476,
+        "y": 3808,
         "w": 1676,
-        "h": 352,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "РОЗМІСТИТЕ пораненого в сидяче або лежаче положення на боці для відновлення. Поранена сторона повинна бути внизу в положенні для відновлення.",
+      "content": "ПЕРЕВЕДІТЬ пораненого в сидяче положення або стабільне бокове положення (ушкодженою стороною донизу).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -417,28 +281,62 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Для другої проц..",
+      "name": "__________ Використайте н..",
       "type": "text",
       "rect": {
-        "x": 3376,
-        "y": 2712,
-        "w": 1384,
-        "h": 192,
+        "x": 3566,
+        "y": 2877,
+        "w": 1413,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Для другої процедури використовуйте нову голку/катетер.",
+      "content": "__________ Використайте нову голку/катетер для другої спроби декомпресії.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 3566,
+        "y": 2877,
+        "w": 1413,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -460,22 +358,22 @@
       }
     },
     {
-      "name": "Якщо перша декомпресія не..",
+      "name": "Якщо перша голкова декомп..",
       "type": "text",
       "rect": {
-        "x": 3584,
-        "y": 2336,
-        "w": 1156,
-        "h": 352,
+        "x": 3566,
+        "y": 2328,
+        "w": 1236,
+        "h": 549,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо перша декомпресія не покращила потерпілого, проведіть другу в раніше невибраній зоні, 1 - 2.",
+      "content": "Якщо перша голкова декомпресія не покращила стан пораненого, ВИКОНАЙТЕ другу голкову декомпресію на тій же стороні грудної клітки в альтернативному (другому з двох рекомендованих) місці.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -544,7 +442,7 @@
         "x": 4020,
         "y": 1604,
         "w": 220,
-        "h": 220,
+        "h": 212,
         "r": 0
       },
       "opacity": 1,
@@ -578,7 +476,7 @@
         "x": 3872,
         "y": 1884,
         "w": 220,
-        "h": 220,
+        "h": 212,
         "r": 0
       },
       "opacity": 1,
@@ -606,22 +504,22 @@
       }
     },
     {
-      "name": "ОЦІНЮЙТЕ для успішної дек..",
+      "name": "ОЦІНІТЬ успішність голков..",
       "type": "text",
       "rect": {
-        "x": 2044,
-        "y": 2336,
+        "x": 2028,
+        "y": 2328,
         "w": 1348,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОЦІНЮЙТЕ для успішної декомпресії голкою.",
+      "content": "ОЦІНІТЬ успішність голкової декомпресії :",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -640,22 +538,22 @@
       }
     },
     {
-      "name": "1. Респіраторний дистрес ..",
+      "name": "1. Зменшення дихальної не..",
       "type": "text",
       "rect": {
-        "x": 1848,
-        "y": 2576,
-        "w": 1444,
-        "h": 592,
+        "x": 1824,
+        "y": 2540,
+        "w": 1552,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "1. Респіраторний дистрес покращується.\n2. Виразний шиплячий звук під час декомпресії голкою. Складно в умовах високого шуму.\n3. Рівень насичення киснем підвищується до понад 90%.",
+      "content": "1. Зменшення дихальної недостатності.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -674,22 +572,244 @@
       }
     },
     {
-      "name": "Видаліть голку, залишивши..",
+      "name": "2. Чітко чути шиплячий зв..",
       "type": "text",
       "rect": {
-        "x": 504,
-        "y": 2336,
+        "x": 1824,
+        "y": 2645,
+        "w": 1527,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2. Чітко чути шиплячий звук повітря, яке виходить з порожнини грудної клітки через декомпресійний катетер.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Звук може бути..",
+      "type": "text",
+      "rect": {
+        "x": 1824,
+        "y": 2898,
+        "w": 1527,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Звук може бути важко почути в шумному середовищі.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "3. Насичення (сатурація) ..",
+      "type": "text",
+      "rect": {
+        "x": 1824,
+        "y": 3086,
+        "w": 1527,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3. Насичення (сатурація) гемоглобіну артеріальної крові киснем зростає до 90% і вище (прояви дихальної недостатності повинні зменшитись).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Підвищення пок..",
+      "type": "text",
+      "rect": {
+        "x": 1824,
+        "y": 3413,
+        "w": 1527,
+        "h": 354,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Підвищення показника сатурації може зайняти кілька хвилин і може не відбутись, якщо ви знаходитесь високо над рівнем моря.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 1824,
+        "y": 3413,
+        "w": 1527,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 1824,
+        "y": 2898,
+        "w": 1527,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ВИТЯГНІТЬ голку, залишаюч..",
+      "type": "text",
+      "rect": {
+        "x": 476,
+        "y": 2328,
         "w": 1264,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Видаліть голку, залишивши катетер на місці.",
+      "content": "ВИТЯГНІТЬ голку, залишаючи катетер у місці введення.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -708,58 +828,24 @@
       }
     },
     {
-      "name": "Продовження зі сторінки 1..",
+      "name": "Продовження…..",
       "type": "text",
       "rect": {
         "x": 260,
         "y": 1156,
         "w": 3372,
-        "h": 328,
+        "h": 212,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження зі сторінки 1",
-      "format": {
-        "size": 240,
-        "align": "left",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Needle Decompression of C..",
-      "type": "text",
-      "rect": {
-        "x": 280,
-        "y": 960,
-        "w": 3332,
-        "h": 220,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Needle Decompression of Chest (NDC)",
+      "content": "Продовження…",
       "format": {
         "size": 160,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -779,10 +865,10 @@
       "name": "Голкова декомпресія грудн..",
       "type": "text",
       "rect": {
-        "x": 256,
-        "y": 684,
+        "x": 196,
+        "y": 772,
         "w": 4244,
-        "h": 332,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
@@ -791,7 +877,7 @@
       "link": "",
       "content": "Голкова декомпресія грудної клітки",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -823,7 +909,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:32:59Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-08T01:10:36Z",
       "format": {
         "size": 64,
         "align": "left",
