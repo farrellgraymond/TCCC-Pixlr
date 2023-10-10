@@ -1,6 +1,6 @@
 {
-  "id": "2ad0ee7f-0cef-4636-b396-0cdaa03f7489",
-  "name": "38 ENG Hypothermia Prevention and Treatment PNG(2)",
+  "id": "3caf60e3-9541-4d5b-b9b7-088cf43258f3",
+  "name": "38 Hypothermia Prevention and Treatment PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,16 +20,16 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "7c2281ae4800.png"
+      "content": "4b0681784e59.png"
     },
     {
-      "name": "Shape 34",
+      "name": "Shape 52",
       "type": "shape",
       "rect": {
-        "x": 2524,
-        "y": 6020,
-        "w": 2296,
-        "h": 356,
+        "x": 2548,
+        "y": 4776,
+        "w": 277,
+        "h": 1216,
         "r": 0
       },
       "opacity": 1,
@@ -45,13 +45,29 @@
       }
     },
     {
-      "name": "Shape 33",
+      "name": "Screen Shot 2023-10-01 at 2.10.14 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 2471,
+        "y": 4789,
+        "w": 203,
+        "h": 201,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2babb0834f1b.png"
+    },
+    {
+      "name": "Shape 44",
       "type": "shape",
       "rect": {
-        "x": 196,
-        "y": 5980,
-        "w": 2392,
-        "h": 532,
+        "x": 2533,
+        "y": 2778,
+        "w": 312,
+        "h": 1407,
         "r": 0
       },
       "opacity": 1,
@@ -67,240 +83,38 @@
       }
     },
     {
-      "name": "Shape 32",
-      "type": "shape",
+      "name": "Screen Shot 2023-10-04 at 12.22.14 AM.png",
+      "type": "image",
       "rect": {
-        "x": 2816,
-        "y": 2820,
-        "w": 2148,
-        "h": 3224,
+        "x": 2532,
+        "y": 2989,
+        "w": 209,
+        "h": 209,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
+      "content": "40d3bf5e4c74.png"
     },
     {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 516,
-        "y": 1828,
-        "w": 2032,
-        "h": 1048,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 1292,
-        "y": 1680,
-        "w": 1796,
-        "h": 228,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 1184,
-        "y": 1432,
-        "w": 3572,
-        "h": 68,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 484,
-        "y": 1412,
-        "w": 2224,
-        "h": 480,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 248,
-        "y": 808,
-        "w": 4492,
-        "h": 664,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Замініть будь-який імпров..",
+      "name": "Уважно СПОСТЕРІГАЙТЕ за п..",
       "type": "text",
       "rect": {
-        "x": 264,
-        "y": 6160,
-        "w": 2624,
-        "h": 200,
+        "x": 2532,
+        "y": 6067,
+        "w": 2383,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Замініть будь-який імпровізований пароізоляційний бар’єр на підготовлений ізольований корпус, коли він стане доступним.",
+      "content": "Уважно СПОСТЕРІГАЙТЕ за пораненим щодо виникнення станів, загрозливих для життя.",
       "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ВАЖЛИВО – НЕ закривайте о..",
-      "type": "text",
-      "rect": {
-        "x": 264,
-        "y": 6016,
-        "w": 2384,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ВАЖЛИВО – НЕ закривайте обличчя потерпілого.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
-      "type": "text",
-      "rect": {
-        "x": 2836,
-        "y": 5756,
-        "w": 1968,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
-      "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -319,22 +133,22 @@
       }
     },
     {
-      "name": "Уважно спостерігайте за п..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
-        "x": 2836,
-        "y": 5496,
-        "w": 1932,
-        "h": 200,
+        "x": 457,
+        "y": 6120,
+        "w": 1673,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Уважно спостерігайте за потерпілим, щоб виявити будь-які загрозливі для життя ознаки.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -356,19 +170,19 @@
       "name": "Захистіть пораненого від ..",
       "type": "text",
       "rect": {
-        "x": 2836,
-        "y": 5228,
-        "w": 1896,
-        "h": 200,
+        "x": 2532,
+        "y": 5844,
+        "w": 2375,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Захистіть пораненого від подальшого впливу дощу та вітру під час очікування евакуації.",
+      "content": "Захистіть пораненого від подальшого впливу вітру та опадів під час очікування на евакуацію.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -387,22 +201,54 @@
       }
     },
     {
-      "name": "ОБМОТНІТЬ пароізоляційний..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-08 at 12.48.21 AM.png",
+      "type": "image",
       "rect": {
-        "x": 2836,
-        "y": 4820,
-        "w": 1948,
-        "h": 368,
+        "x": 2324,
+        "y": 6063,
+        "w": 209,
+        "h": 207,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОБМОТНІТЬ пароізоляційний матеріал повністю навколо пораненого, включно з головою, але НЕ на обличчя. Використовуйте стрічку для кріплення, якщо потрібно.",
+      "content": "9eb782a24f0b.png"
+    },
+    {
+      "name": "Screen Shot 2023-10-09 at 9.42.03 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 248,
+        "y": 6127,
+        "w": 205,
+        "h": 205,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1ddab9e341d6.png"
+    },
+    {
+      "name": "ОБЕРНІТЬ гідроізоляційну ..",
+      "type": "text",
+      "rect": {
+        "x": 2674,
+        "y": 4783,
+        "w": 1948,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОБЕРНІТЬ гідроізоляційну оболонку (або інші імпровізовані водонепроникні матеріали) повністю навколо пораненого, включно з головою, і закріпіть за допомогою клейкої стрічки, якщо необхідно.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -417,6 +263,237 @@
         "fill": {
           "type": "color",
           "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "______________________ Не..",
+      "type": "text",
+      "rect": {
+        "x": 2485,
+        "y": 5110,
+        "w": 2361,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "______________________ Не закривайте обличчя пораненого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 10 : ..",
+      "type": "text",
+      "rect": {
+        "x": 2485,
+        "y": 5097,
+        "w": 1471,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 10 : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "______________________ Бу..",
+      "type": "text",
+      "rect": {
+        "x": 2485,
+        "y": 5215,
+        "w": 2487,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "______________________ Будь-який імпровізований засіб гідроізоляції слід якомога швидше замінити якісним водонепроникним чохлом, коли будуть доступні додаткові матеріали.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 10 : ..",
+      "type": "text",
+      "rect": {
+        "x": 2485,
+        "y": 5202,
+        "w": 2487,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 10 : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "______________________ Пі..",
+      "type": "text",
+      "rect": {
+        "x": 2485,
+        "y": 5486,
+        "w": 2487,
+        "h": 354,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "______________________ Під час планування слід попередньо підготувати термоізоляційний водонепроникний чохол із зовнішнім пристроєм для активного зігрівання, щоб замінити ним засоби захисту від гіпотермії без ізоляції.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 10 : ..",
+      "type": "text",
+      "rect": {
+        "x": 2485,
+        "y": 5474,
+        "w": 2487,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 10 : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
@@ -443,38 +520,56 @@
       }
     },
     {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 2584,
-        "y": 4244,
-        "w": 232,
-        "h": 236,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "210686a042db.png"
-    },
-    {
-      "name": "УВАГА. Пасивне нагрівання..",
+      "name": "________________ Пасивні ..",
       "type": "text",
       "rect": {
-        "x": 2836,
+        "x": 2443,
         "y": 4588,
-        "w": 1984,
-        "h": 200,
+        "w": 2472,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "УВАГА. Пасивне нагрівання НЕ усуне гіпотермію, оскільки поранений не має тепла.",
+      "content": "________________ Пасивні методи профілактики  гіпотермії не забезпечують зворотного підвищення температури в постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ : ..",
+      "type": "text",
+      "rect": {
+        "x": 2443,
+        "y": 4588,
+        "w": 2472,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ : ",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -502,22 +597,22 @@
       }
     },
     {
-      "name": "При відсутності активного..",
+      "name": "Якщо пристрій для активно..",
       "type": "text",
       "rect": {
-        "x": 2836,
-        "y": 4244,
+        "x": 2693,
+        "y": 4328,
         "w": 2032,
-        "h": 368,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "При відсутності активного обігріву, зовнішнього тепла, укутайте потерпілого в пасивні нагрівальні матеріали, в тому числі навколо голови - ковдри, спальний мішок.",
+      "content": "Якщо пристрій для активного зігрівання недоступний, повністю ЗАГОРНІТЬ пораненого у матеріал для пасивного зігрівання (ковдру тощо), включаючи голову.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -536,22 +631,22 @@
       }
     },
     {
-      "name": "Покладіть грілки на перед..",
+      "name": "ПОКЛАДІТЬ пристрій для ак..",
       "type": "text",
       "rect": {
-        "x": 2836,
-        "y": 3884,
-        "w": 2056,
-        "h": 284,
+        "x": 2741,
+        "y": 3811,
+        "w": 2174,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Покладіть грілки на передню частину тіла потерпілого та під пахвами. НЕ наносьте безпосередньо на шкіру, оскільки це може спричинити опіки.",
+      "content": "ПОКЛАДІТЬ пристрій для активного зігрівання на пораненого, накривши передню поверхню тулуба та ділянки під руками. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -570,22 +665,115 @@
       }
     },
     {
-      "name": "Якщо доступний активний н..",
+      "name": "________________ Пристрій..",
       "type": "text",
       "rect": {
-        "x": 2836,
-        "y": 3544,
-        "w": 1932,
-        "h": 284,
+        "x": 2674,
+        "y": 4064,
+        "w": 2195,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо доступний активний нагрівальний пристрій, хімічна нагрівальна подушка, відкрийте упаковку та активуйте відповідно до інструкцій на упаковці.",
+      "content": "________________ Пристрій для активного зігрівання не слід класти безпосередньо на шкіру, щоб не спричинити опіки.",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ : ..",
+      "type": "text",
+      "rect": {
+        "x": 2674,
+        "y": 4064,
+        "w": 2195,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-10-09 at 9.26.33 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 2540,
+        "y": 3811,
+        "w": 205,
+        "h": 206,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1214a44446ab.png"
+    },
+    {
+      "name": "Якщо пристрій для активно..",
+      "type": "text",
+      "rect": {
+        "x": 2741,
+        "y": 3457,
+        "w": 2079,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо пристрій для активного зігрівання доступний, то, для його активації, відкрийте упаковку, ВИЙМІТЬ його та РОЗГОРНІТЬ для контакту з повітрям (відповідно до вказівок виробника).",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -604,22 +792,22 @@
       }
     },
     {
-      "name": "Якщо підготовленого бар’є..",
+      "name": "Якщо комерційна зовнішня ..",
       "type": "text",
       "rect": {
-        "x": 2836,
-        "y": 3136,
-        "w": 2004,
-        "h": 368,
+        "x": 2741,
+        "y": 2982,
+        "w": 2128,
+        "h": 475,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо підготовленого бар’єрного шару немає, помістіть пораненого в чистий водонепроникний шар. Ковдра лавсанова, простирадло, бівуачний мішок, оболонка спальника.",
+      "content": "Якщо комерційна зовнішня гідроізоляційна оболонка недоступна, РОЗМІСТІТЬ пораненого в центрі імпровізованого водонепроникного покриття (рятувальна термоізоляційна ковдра, поліетиленовий (тарпауліновий) тент, водонепроникний чохол від спальника, мішок санітарний (для тіла) тощо).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -638,22 +826,38 @@
       }
     },
     {
-      "name": "Якщо використовується гот..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-09 at 9.24.19 PM.png",
+      "type": "image",
       "rect": {
-        "x": 2836,
-        "y": 2828,
-        "w": 1784,
-        "h": 284,
+        "x": 2540,
+        "y": 3457,
+        "w": 205,
+        "h": 202,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо використовується готовий набір для гіпотермії, зніміть пароізоляційний шар. Помістіть пораненого в центр бар'єрного шару.",
+      "content": "b4cc98e04eff.png"
+    },
+    {
+      "name": "Якщо використовуєте набір..",
+      "type": "text",
+      "rect": {
+        "x": 2741,
+        "y": 2778,
+        "w": 2231,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо використовуєте набір для гіпотермії, помістіть пораненого по центру на зовнішню гідроізоляційну оболонку.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -672,22 +876,54 @@
       }
     },
     {
-      "name": "ЗНІМІТЬ МОКИЙ одяг. Замін..",
+      "name": "Screen Shot 2023-10-01 at 2.07.09 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 2325,
+        "y": 5840,
+        "w": 207,
+        "h": 207,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "e43b9836422c.png"
+    },
+    {
+      "name": "Screen Shot 2023-10-04 at 8.45.07 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 2532,
+        "y": 2763,
+        "w": 209,
+        "h": 209,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "517d811e465d.png"
+    },
+    {
+      "name": "ЗНІМІТЬ мокрий одяг та за..",
       "type": "text",
       "rect": {
-        "x": 520,
+        "x": 516,
         "y": 2660,
         "w": 1716,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗНІМІТЬ МОКИЙ одяг. Замініть на сухий одяг, якщо можливо.",
+      "content": "ЗНІМІТЬ мокрий одяг та замініть його на сухий одяг/матеріали, якщо це можливо.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -706,22 +942,22 @@
       }
     },
     {
-      "name": "Зберігайте будь-який СУХИ..",
+      "name": "ЗАЛИШІТЬ СУХИЙ ОДЯГ та за..",
       "type": "text",
       "rect": {
-        "x": 520,
-        "y": 2412,
+        "x": 516,
+        "y": 2415,
         "w": 1992,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Зберігайте будь-який СУХИЙ одяг або обладнання на пораненому або біля нього.",
+      "content": "ЗАЛИШІТЬ СУХИЙ ОДЯГ та захисне спорядження на постраждалому або біля нього.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -740,22 +976,22 @@
       }
     },
     {
-      "name": "Якнайшвидше помістіть ізо..",
+      "name": "Якнайшвидше ПОМІСТІТЬ ізо..",
       "type": "text",
       "rect": {
-        "x": 524,
-        "y": 2172,
+        "x": 516,
+        "y": 2169,
         "w": 2024,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якнайшвидше помістіть ізоляцію між постраждалим і будь-якою холодною поверхнею.",
+      "content": "Якнайшвидше ПОМІСТІТЬ ізоляційний матеріал між постраждалим і будь-якою холодною поверхнею.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -774,22 +1010,22 @@
       }
     },
     {
-      "name": "Зведіть до мінімуму вплив..",
+      "name": "ЗВЕДІТЬ ДО МІНІМУМУ вплив..",
       "type": "text",
       "rect": {
-        "x": 520,
-        "y": 1924,
+        "x": 516,
+        "y": 1923,
         "w": 2032,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Зведіть до мінімуму вплив навколишнього середовища на постраждалого.",
+      "content": "ЗВЕДІТЬ ДО МІНІМУМУ вплив навколишнього середовища на пораненого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -808,60 +1044,183 @@
       }
     },
     {
-      "name": "Shape 5",
-      "type": "shape",
+      "name": "__________ Переконайтесь,..",
+      "type": "text",
       "rect": {
-        "x": 216,
-        "y": 1600,
-        "w": 460,
-        "h": 296,
+        "x": 552,
+        "y": 1700,
+        "w": 2620,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "__________ Переконайтесь, що всі кровотечі зупинено; огляньте щодо ознак геморагічного шоку та за потреби надайте відповідну допомогу.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "clipboard",
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 552,
+        "y": 1700,
+        "w": 2620,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПОДБАЙТЕ про засоби індив..",
+      "type": "text",
+      "rect": {
+        "x": 552,
+        "y": 1455,
+        "w": 2224,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-10-06 at 12.20.55 AM.png",
       "type": "image",
       "rect": {
-        "x": 252,
-        "y": 1468,
-        "w": 288,
-        "h": 288,
+        "x": 2485,
+        "y": 4335,
+        "w": 208,
+        "h": 204,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "92d0a3674f9f.png"
+      "content": "cc42a79e4d52.png"
     },
     {
-      "name": "ПРИМІТКА. Забезпечити під..",
+      "name": "__________ Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 552,
-        "y": 1696,
-        "w": 2620,
-        "h": 200,
+        "y": 1560,
+        "w": 3003,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Забезпечити підтримання гемостазу, забезпечити доступ до ран і провести лікування геморагічного шоку.",
+      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 552,
+        "y": 1560,
+        "w": 3003,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -889,63 +1248,20 @@
       }
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "__________ Вдавайтеся до ..",
       "type": "text",
       "rect": {
-        "x": 552,
-        "y": 1480,
-        "w": 2224,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ВАЖЛИВО. Для постраждалих..",
-      "type": "text",
-      "rect": {
-        "x": 296,
-        "y": 1248,
+        "x": 292,
+        "y": 1129,
         "w": 4060,
-        "h": 192,
+        "h": 371,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВАЖЛИВО. Для постраждалих із травмами та опіками слід вживати агресивних заходів, щоб запобігти подальшій втраті тепла тіла. Використовуйте активні зовнішні заходи зігрівання, якщо такі є.",
+      "content": "__________ Вдавайтеся до ранніх та рішучих заходів, щоб запобігти подальшій втраті тепла.\nВикористовуйте джерело зовнішнього тепла як метод активного зігрівання, коли це можливо, для постраждалих із травмами та опіками.\n",
       "format": {
         "size": 80,
         "align": "left",
@@ -953,7 +1269,41 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1129,
+        "w": 4060,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -975,22 +1325,22 @@
       }
     },
     {
-      "name": "Лікування та профілактика..",
+      "name": "ПРОФІЛАКТИКА ТА ЛІКУВАННЯ..",
       "type": "text",
       "rect": {
-        "x": 264,
-        "y": 804,
+        "x": 252,
+        "y": 808,
         "w": 5048,
-        "h": 328,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Лікування та профілактика гіпотермії",
+      "content": "ПРОФІЛАКТИКА ТА ЛІКУВАННЯ ГІПОТЕРМІЇ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1022,7 +1372,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:00Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-10T14:40:50Z",
       "format": {
         "size": 64,
         "align": "left",
