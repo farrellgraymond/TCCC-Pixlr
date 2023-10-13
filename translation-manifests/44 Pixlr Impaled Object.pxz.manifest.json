@@ -1,10 +1,10 @@
 {
-  "id": "8651c73d-ac9b-4b97-a551-157bc7d3403e",
+  "id": "37ad8c47-c309-40da-b7b4-234cb6d43c4b",
   "name": "44 ENG Impaled Object PNG(2)",
   "type": "document",
   "unit": "pixel",
-  "width": 5100,
-  "height": 6600,
+  "width": 1275,
+  "height": 1650,
   "stack": [
     {
       "name": "Background",
@@ -12,24 +12,106 @@
       "rect": {
         "x": 0,
         "y": 0,
-        "w": 5100,
-        "h": 6600,
+        "w": 1275,
+        "h": 1650,
         "r": 0
       },
       "opacity": 1,
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "cc129dee497d.png"
+      "content": "bf149b53445f.png"
+    },
+    {
+      "name": "Shape 37",
+      "type": "shape",
+      "rect": {
+        "x": 66,
+        "y": 747,
+        "w": 767,
+        "h": 216,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 72,
+        "y": 684,
+        "w": 368,
+        "h": 206,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3d3ba05248e4.png"
+    },
+    {
+      "name": "Shape 34",
+      "type": "shape",
+      "rect": {
+        "x": 443,
+        "y": 425,
+        "w": 392,
+        "h": 161,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 31",
+      "type": "shape",
+      "rect": {
+        "x": 60,
+        "y": 256,
+        "w": 90,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
     },
     {
       "name": "Shape 26",
       "type": "shape",
       "rect": {
-        "x": 288,
-        "y": 6192,
-        "w": 3204,
-        "h": 340,
+        "x": 72,
+        "y": 1548,
+        "w": 801,
+        "h": 85,
         "r": 0
       },
       "opacity": 1,
@@ -48,10 +130,10 @@
       "name": "Shape 25",
       "type": "shape",
       "rect": {
-        "x": 268,
-        "y": 5020,
-        "w": 4480,
-        "h": 300,
+        "x": 67,
+        "y": 1255,
+        "w": 1120,
+        "h": 75,
         "r": 0
       },
       "opacity": 1,
@@ -70,10 +152,10 @@
       "name": "Shape 24",
       "type": "shape",
       "rect": {
-        "x": 260,
-        "y": 3688,
-        "w": 4648,
-        "h": 504,
+        "x": 65,
+        "y": 922,
+        "w": 1162,
+        "h": 126,
         "r": 0
       },
       "opacity": 1,
@@ -92,10 +174,10 @@
       "name": "Shape 23",
       "type": "shape",
       "rect": {
-        "x": 3372,
-        "y": 2240,
-        "w": 1576,
-        "h": 624,
+        "x": 843,
+        "y": 560,
+        "w": 394,
+        "h": 156,
         "r": 0
       },
       "opacity": 1,
@@ -114,10 +196,10 @@
       "name": "Shape 22",
       "type": "shape",
       "rect": {
-        "x": 1828,
-        "y": 2240,
-        "w": 1484,
-        "h": 616,
+        "x": 457,
+        "y": 560,
+        "w": 371,
+        "h": 154,
         "r": 0
       },
       "opacity": 1,
@@ -136,10 +218,10 @@
       "name": "Shape 21",
       "type": "shape",
       "rect": {
-        "x": 284,
-        "y": 2236,
-        "w": 1432,
-        "h": 376,
+        "x": 71,
+        "y": 559,
+        "w": 358,
+        "h": 94,
         "r": 0
       },
       "opacity": 1,
@@ -158,10 +240,10 @@
       "name": "Shape 20",
       "type": "shape",
       "rect": {
-        "x": 576,
-        "y": 1140,
-        "w": 2528,
-        "h": 284,
+        "x": 144,
+        "y": 285,
+        "w": 632,
+        "h": 71,
         "r": 0
       },
       "opacity": 1,
@@ -175,15 +257,31 @@
           "value": "#ffffff"
         }
       }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 456,
+        "y": 332,
+        "w": 363,
+        "h": 197,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "12b9a0be46c5.png"
     },
     {
       "name": "Shape 19",
       "type": "shape",
       "rect": {
-        "x": 268,
-        "y": 796,
-        "w": 2364,
-        "h": 300,
+        "x": 67,
+        "y": 199,
+        "w": 591,
+        "h": 75,
         "r": 0
       },
       "opacity": 1,
@@ -199,22 +297,22 @@
       }
     },
     {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
-        "x": 1824,
-        "y": 6200,
-        "w": 1692,
-        "h": 272,
+        "x": 824,
+        "y": 1407,
+        "w": 301,
+        "h": 108,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -233,22 +331,22 @@
       }
     },
     {
-      "name": "ПЕРЕВІРТЕ рану на наявніс..",
+      "name": "ПОВТОРНО ОЦІНІТЬ накладен..",
       "type": "text",
       "rect": {
-        "x": 308,
-        "y": 6200,
-        "w": 1364,
-        "h": 272,
+        "x": 79,
+        "y": 1548,
+        "w": 475,
+        "h": 68,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕВІРТЕ рану на наявність кровотечі. ПЕРЕВІРТЕ пораненого на ознаки шоку.",
+      "content": "ПОВТОРНО ОЦІНІТЬ накладену пов’язку щодо ефективності зупинки кровотечі. ПОВТОРНО ОЦІНІТЬ стан пораненого на наявність ознак шоку. ",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -267,28 +365,62 @@
       }
     },
     {
-      "name": "ПРИМІТКА. ПОВТОРНО ОЦІНЬТ..",
+      "name": "__________  Після наклада..",
       "type": "text",
       "rect": {
-        "x": 1900,
-        "y": 5136,
-        "w": 2900,
-        "h": 192,
+        "x": 470,
+        "y": 1283,
+        "w": 725,
+        "h": 50,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. ПОВТОРНО ОЦІНЬТЕ пульс, рухливість і відчуття після шинування.",
+      "content": "__________  Після накладання шини повторно оцініть пульс, рухову та чутливу функції кінцівки.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 470,
+        "y": 1283,
+        "w": 725,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -310,22 +442,38 @@
       }
     },
     {
-      "name": "Якщо рана на кінцівці, зн..",
-      "type": "text",
+      "name": "clipboard",
+      "type": "image",
       "rect": {
-        "x": 1900,
-        "y": 5020,
-        "w": 2324,
-        "h": 112,
+        "x": 455,
+        "y": 685,
+        "w": 365,
+        "h": 204,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо рана на кінцівці, знерухоміть руку або ногу шиною.",
+      "content": "4e26b88c4678.png"
+    },
+    {
+      "name": "Якщо поранення знаходитьс..",
+      "type": "text",
+      "rect": {
+        "x": 461,
+        "y": 1255,
+        "w": 743,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо поранення знаходиться на КІНЦІВЦІ, іммобілізуйте її з використанням шини.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -344,22 +492,22 @@
       }
     },
     {
-      "name": "ЗАКРІПНІТЬ усі перев’язув..",
+      "name": "ЗАКРІПІТЬ усе за допомого..",
       "type": "text",
       "rect": {
-        "x": 308,
-        "y": 5020,
-        "w": 1404,
-        "h": 272,
+        "x": 79,
+        "y": 1255,
+        "w": 378,
+        "h": 68,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗАКРІПНІТЬ усі перев’язувальні матеріали на місці стрічкою або тканинним ремнем.",
+      "content": "ЗАКРІПІТЬ усе за допомогою лейкопластиру, бинтів та/або косинок, аби утримувати об’ємні пов’язки на місці.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -378,28 +526,62 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Як альтернативу..",
+      "name": "__________ Альтернативним..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 4060,
-        "w": 3580,
-        "h": 112,
+        "x": 75,
+        "y": 980,
+        "w": 418,
+        "h": 72,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Як альтернативу для утримання об’єкта можна використовувати грудну пломбу.",
+      "content": "__________ Альтернативним методом фіксації стороннього предмета в рані є використання торакальної оклюзійної наліпки.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 75,
+        "y": 980,
+        "w": 418,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -421,22 +603,38 @@
       }
     },
     {
-      "name": "ДОДАТИ додаткові бинти, я..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-03 at 9.34.31 PM.png",
+      "type": "image",
       "rect": {
-        "x": 3428,
-        "y": 3692,
-        "w": 1372,
-        "h": 272,
+        "x": 75,
+        "y": 260,
+        "w": 74,
+        "h": 72,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОДАТИ додаткові бинти, якщо потрібно, щоб запобігти переміщенню об’єкта.",
+      "content": "1c7ea1f746e5.png"
+    },
+    {
+      "name": "За потреби, НАКЛАДІТЬ дод..",
+      "type": "text",
+      "rect": {
+        "x": 850,
+        "y": 920,
+        "w": 368,
+        "h": 88,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "За потреби, НАКЛАДІТЬ додаткові пов’язки, створивши навколо стороннього тіла ділянку для його захисту та кращої стабілізації.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -455,22 +653,22 @@
       }
     },
     {
-      "name": "НАКЛАДІТЬ пов'язку на ран..",
+      "name": "НАКЛАДІТЬ на рану пов’язк..",
       "type": "text",
       "rect": {
-        "x": 1856,
-        "y": 3692,
-        "w": 1392,
-        "h": 352,
+        "x": 500,
+        "y": 890,
+        "w": 335,
+        "h": 148,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НАКЛАДІТЬ пов'язку на рану навколо предмета. Використовують стерильну згорнуту гуазу, бинт, польову пов'язку.",
+      "content": "НАКЛАДІТЬ на рану пов’язку та  стабілізуйте стороннє тіло в рані, використовуючи стерильну підкладку, бинт типу kerlix або підручні матеріали для пов’язки з метою запобігання  зміщення стороннього тіла. ",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -489,22 +687,22 @@
       }
     },
     {
-      "name": "\nНАПРЯМУЙТЕ помічника, що..",
+      "name": "НАКАЖІТЬ бійцю-рятувальни..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 3608,
-        "w": 1268,
-        "h": 352,
+        "x": 79,
+        "y": 887,
+        "w": 355,
+        "h": 88,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "\nНАПРЯМУЙТЕ помічника, щоб він утримував предмет на місці під час перев’язки рани.",
+      "content": "НАКАЖІТЬ бійцю-рятувальнику або іншому рятувальнику руками зафіксувати стороннє тіло в рані під час того, як ви накладатимете пов’язку.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -523,28 +721,62 @@
       }
     },
     {
-      "name": "ВИЗНАЧИТИ, чи потрібен дж..",
+      "name": "__________ Проведіть повт..",
       "type": "text",
       "rect": {
-        "x": 3376,
-        "y": 2548,
-        "w": 1032,
-        "h": 192,
+        "x": 857,
+        "y": 647,
+        "w": 314,
+        "h": 72,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВИЗНАЧИТИ, чи потрібен джгут.",
+      "content": "__________ Проведіть повторну оцінку ефективності накладання турнікету  (якщо це можливо).",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 857,
+        "y": 647,
+        "w": 314,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -566,22 +798,22 @@
       }
     },
     {
-      "name": "ОЦІНЬТЕ рану та наявність..",
+      "name": "ОГЛЯНЬТЕ рану та, за наяв..",
       "type": "text",
       "rect": {
-        "x": 3376,
-        "y": 2240,
-        "w": 1472,
-        "h": 272,
+        "x": 850,
+        "y": 559,
+        "w": 368,
+        "h": 88,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОЦІНЬТЕ рану та наявність серйозної кровотечі. Натисніть, щоб зупинити кровотечу. НЕ тисніть на предмет.",
+      "content": "ОГЛЯНЬТЕ рану та, за наявності значної кровотечі,  застосуйте прямий тиск з метою її зупинки. Стежте за тим, аби не тиснути на стороннє тіло. ",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -600,28 +832,62 @@
       }
     },
     {
-      "name": "ВАЖЛИВО - При порушеннях ..",
+      "name": "__________ У випадку пору..",
       "type": "text",
       "rect": {
-        "x": 1864,
-        "y": 2588,
-        "w": 1512,
-        "h": 272,
+        "x": 421,
+        "y": 632,
+        "w": 423,
+        "h": 50,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВАЖЛИВО - При порушеннях кровообігу необхідно провести термінову евакуацію.",
+      "content": "__________ У випадку порушення кровообігу надайте пораненому пріоритет евакуації.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 421,
+        "y": 632,
+        "w": 423,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -643,22 +909,22 @@
       }
     },
     {
-      "name": "Якщо предмет виступає зі ..",
+      "name": "Якщо з рани на кінцівці В..",
       "type": "text",
       "rect": {
-        "x": 1864,
-        "y": 2240,
-        "w": 1312,
-        "h": 352,
+        "x": 461,
+        "y": 526,
+        "w": 354,
+        "h": 108,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо предмет виступає зі шкіри, перевірте наявність пульсу під місцем рани, щоб визначити пошкодження кровообігу.",
+      "content": "Якщо з рани на кінцівці ВИСТУПАЄ стороннє тіло, перевірте наявність пульсу дистальніше від  місця поранення для того, аби визначити, чи є порушення кровообігу.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -677,22 +943,22 @@
       }
     },
     {
-      "name": "Обережно оголіть область ..",
+      "name": "ОБЕРЕЖНО звільніть від од..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 2240,
-        "w": 1368,
-        "h": 272,
+        "x": 79,
+        "y": 560,
+        "w": 342,
+        "h": 68,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Обережно оголіть область рани та предмет, розрізавши одяг та обладнання.",
+      "content": "ОБЕРЕЖНО звільніть від одягу рану зі стороннім тілом, розрізавши або знявши його.",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -711,28 +977,96 @@
       }
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
-        "x": 596,
-        "y": 1184,
-        "w": 2228,
-        "h": 192,
+        "x": 149,
+        "y": 266,
+        "w": 557,
+        "h": 28,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
       "format": {
-        "size": 80,
+        "size": 19,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
         "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 149,
+        "y": 289,
+        "w": 557,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 149,
+        "y": 289,
+        "w": 557,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -754,22 +1088,22 @@
       }
     },
     {
-      "name": "\nСторонне тіло в рані..",
+      "name": "СТОРОННЄ ТІЛО В РАНІ..",
       "type": "text",
       "rect": {
-        "x": 256,
-        "y": 524,
-        "w": 4248,
-        "h": 616,
+        "x": 54,
+        "y": 190,
+        "w": 1062,
+        "h": 70,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "\nСторонне тіло в рані",
+      "content": "СТОРОННЄ ТІЛО В РАНІ",
       "format": {
-        "size": 240,
+        "size": 50,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -801,7 +1135,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:01Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-13T15:27:52Z",
       "format": {
         "size": 64,
         "align": "left",
