@@ -1,5 +1,5 @@
 {
-  "id": "3282a3ce-4da7-4f88-8bfd-c215221d3c40",
+  "id": "98784d79-4bc3-4dbb-94a2-f18e5a20508d",
   "name": "46 Pt2 ENG Burn Treatment PNG(2)",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "77c88e564a94.png"
+      "content": "1f10ac1e48e3.png"
     },
     {
       "name": "Shape 22",
@@ -221,65 +221,22 @@
       }
     },
     {
-      "name": "ПРИМІТКА. На обличчя, лиш..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
-        "x": 3456,
-        "y": 3808,
-        "w": 1336,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА. На обличчя, лише якщо немає опіків обличчя.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
-      "type": "text",
-      "rect": {
-        "x": 2048,
-        "y": 3760,
+        "x": 2038,
+        "y": 3764,
         "w": 1240,
-        "h": 368,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -298,81 +255,22 @@
       }
     },
     {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 3340,
-        "y": 2836,
-        "w": 1528,
-        "h": 928,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "b2958cc44b53.png"
-    },
-    {
-      "name": "ПРИМІТКА. Перевірте наявн..",
+      "name": "Уважно СПОСТЕРІГАЙТЕ за п..",
       "type": "text",
       "rect": {
-        "x": 484,
-        "y": 4212,
-        "w": 1196,
-        "h": 200,
+        "x": 500,
+        "y": 3764,
+        "w": 1283,
+        "h": 475,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Перевірте наявність ознак інших травм.",
+      "content": "Уважно СПОСТЕРІГАЙТЕ за пораненим на предмет виникнення загрозливих для життя станів, перевірте наявність інших поранень та надайте допомогу при шоку (якщо потрібно).",
       "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Уважно МОНІТОРУЙТЕ поране..",
-      "type": "text",
-      "rect": {
-        "x": 508,
-        "y": 3760,
-        "w": 1148,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Уважно МОНІТОРУЙТЕ пораненого та спостерігайте за ознаками загрозливих для життя умов. Лікувати шок, якщо потрібно.",
-      "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -391,22 +289,22 @@
       }
     },
     {
-      "name": "У обгорілих велика ймовір..",
+      "name": "Пацієнти з опіками дуже с..",
       "type": "text",
       "rect": {
-        "x": 3584,
-        "y": 2332,
+        "x": 3580,
+        "y": 2328,
         "w": 1208,
-        "h": 452,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "У обгорілих велика ймовірність переохолодження. Будьте особливо обережні, щоб забезпечити тепло пораненому.",
+      "content": "Пацієнти з опіками дуже схильні до розвитку гіпотермії. Особливу увагу слід приділити ЗАПОБІГАННЮ ВТРАТИ ТЕПЛА.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -425,22 +323,22 @@
       }
     },
     {
-      "name": "При проникаючих поранення..",
+      "name": "Якщо є проникаючі поранен..",
       "type": "text",
       "rect": {
-        "x": 2048,
+        "x": 2038,
         "y": 2328,
         "w": 1356,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "При проникаючих пораненнях АНТИБІОТИКИ призначає медичний персонал.",
+      "content": "Якщо є проникаючі поранення, ВВЕДІТЬ АНТИБІОТИК з метою попередження розвитку інфекції.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -459,65 +357,22 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Запитайте свого..",
+      "name": "Для лікування болю при оп..",
       "type": "text",
       "rect": {
-        "x": 508,
-        "y": 2604,
-        "w": 1520,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА. Запитайте свого ЛІКАРЯ або бойового медика про знеболюючі.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Знеболюючі засоби можна в..",
-      "type": "text",
-      "rect": {
-        "x": 508,
-        "y": 2332,
+        "x": 496,
+        "y": 2328,
         "w": 1060,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Знеболюючі засоби можна використовувати для усунення болю від опіків.",
+      "content": "Для лікування болю при опіках МОЖНА ВИКОНАТИ ЗНЕБОЛЕННЯ.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -536,24 +391,24 @@
       }
     },
     {
-      "name": "Продовження зі сторінки 1..",
+      "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 268,
-        "y": 1056,
+        "x": 456,
+        "y": 1143,
         "w": 3072,
-        "h": 328,
+        "h": 212,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження зі сторінки 1",
+      "content": "Продовження…",
       "format": {
-        "size": 240,
+        "size": 160,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -570,22 +425,22 @@
       }
     },
     {
-      "name": "Лікування опіків..",
+      "name": "НАДАННЯ ДОПОМОГИ ПРИ ОПІК..",
       "type": "text",
       "rect": {
         "x": 268,
-        "y": 768,
-        "w": 1904,
-        "h": 328,
+        "y": 783,
+        "w": 4046,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Лікування опіків",
+      "content": "НАДАННЯ ДОПОМОГИ ПРИ ОПІКАХ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -617,7 +472,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:01Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-13T15:29:53Z",
       "format": {
         "size": 64,
         "align": "left",
