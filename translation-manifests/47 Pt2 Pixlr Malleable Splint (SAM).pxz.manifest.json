@@ -1,5 +1,5 @@
 {
-  "id": "4aecc73e-4783-4a67-bc2b-7d36e9aef401",
+  "id": "baaf3d20-f955-4d6e-9d99-c5f99db126f9",
   "name": "47 Pt2 ENG Malleable Splint PNG(2)(2)",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "b0f7998f4ac0.png"
+      "content": "afe891e84ed3.png"
     },
     {
       "name": "Shape 26",
@@ -309,22 +309,22 @@
       }
     },
     {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
-        "x": 504,
-        "y": 5456,
+        "x": 480,
+        "y": 5448,
         "w": 1384,
-        "h": 352,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -343,22 +343,22 @@
       }
     },
     {
-      "name": "Введіть знеболюючі. Антиб..",
+      "name": "ВВЕДІТЬ знеболювальні пре..",
       "type": "text",
       "rect": {
-        "x": 516,
-        "y": 4280,
-        "w": 4252,
-        "h": 192,
+        "x": 485,
+        "y": 4277,
+        "w": 2538,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Введіть знеболюючі. Антибіотики при відкритих переломах. Перевірте локальні протоколи. Зверніться до лікаря-консультанта.",
+      "content": "ВВЕДІТЬ знеболювальні препарати за потреби та антибіотики при будь-яких відкритих переломах.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -377,22 +377,22 @@
       }
     },
     {
-      "name": "ПОВТОРНО ОЦІНЬТЕ пульс, р..",
+      "name": "ПОВТОРНО ОЦІНІТЬ ПМС (якщ..",
       "type": "text",
       "rect": {
-        "x": 516,
-        "y": 4040,
-        "w": 4176,
-        "h": 192,
+        "x": 485,
+        "y": 4034,
+        "w": 2871,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОВТОРНО ОЦІНЬТЕ пульс, рухливість і відчуття дотику, дистально, нижче перелому. Якщо їх немає, послабте та знову накладіть шину.",
+      "content": "ПОВТОРНО ОЦІНІТЬ ПМС (якщо ПМС більше не визначається, послабте шину, відрегулюйте положення та знову накладіть її)",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -411,28 +411,62 @@
       }
     },
     {
-      "name": "ПРИМІТКА ВАЖЛИВО. Якщо дл..",
+      "name": "__________ Під час перемі..",
       "type": "text",
       "rect": {
-        "x": 2040,
-        "y": 3300,
+        "x": 2022,
+        "y": 3436,
         "w": 2460,
-        "h": 272,
+        "h": 354,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА ВАЖЛИВО. Якщо для фіксації кінцівки використовуються ремені, переконайтеся, що на область перелому не чиниться прямий тиск.",
+      "content": "__________ Під час переміщення, кінцівку постраждалого можуть утримувати в нерухомому положенні ремені нош, але переконайтеся, що ремінь не тисне безпосередньо на місце перелому.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 2022,
+        "y": 3436,
+        "w": 2460,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -454,22 +488,22 @@
       }
     },
     {
-      "name": "У разі перелому руки зафі..",
+      "name": "ЗАФІКСУЙТЕ травмовану кін..",
       "type": "text",
       "rect": {
-        "x": 2040,
-        "y": 3052,
+        "x": 2027,
+        "y": 3059,
         "w": 2352,
-        "h": 192,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "У разі перелому руки зафіксуйте всю травмовану кінцівку, використовуючи пращу та перев’язавши її на грудях.",
+      "content": "ЗАФІКСУЙТЕ травмовану кінцівку повністю (якщо це можливо). Наприклад, для стабілізації перелому руки під час транспортування може знадобитися фіксація руки до тулуба за допомогою двох косинок.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -488,28 +522,62 @@
       }
     },
     {
-      "name": "КРОК 9 ВАЖЛИВО - особливо..",
+      "name": "_____________________ Під..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 2760,
-        "w": 4252,
-        "h": 192,
+        "x": 333,
+        "y": 2724,
+        "w": 3226,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 9 ВАЖЛИВО - особливо якщо для закріплення використовуються тканинні бинти, накладаються над і під переломом, а не поверх. Дуже високий або низький перелом може ускладнити це.",
+      "content": "_____________________ Під час використання косинок одну слід розташувати проксимальніше, а іншу — дистальніше перелому (якщо можливо), розуміючи, що у випадку дуже проксимального або дистального перелому це може бути неможливим.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА до КРОКУ 9 : ..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 2714,
+        "w": 3226,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА до КРОКУ 9 : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -531,22 +599,22 @@
       }
     },
     {
-      "name": "ПЕРЕКОНАЙТЕСЬ, щоб суглоб..",
+      "name": "ПЕРЕКОНАЙТЕСЬ, що суглоби..",
       "type": "text",
       "rect": {
-        "x": 3584,
-        "y": 2192,
+        "x": 3576,
+        "y": 2196,
         "w": 1236,
-        "h": 272,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕКОНАЙТЕСЬ, щоб суглоби як над, так і під переломом були знерухомлені.",
+      "content": "ПЕРЕКОНАЙТЕСЬ, що суглоби вище і нижче від перелому знерухомлені за допомогою шини, коли це можливо.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -565,22 +633,22 @@
       }
     },
     {
-      "name": "Заправте всі вільні кінці..",
+      "name": "СХОВАЙТЕ кінці косинок, щ..",
       "type": "text",
       "rect": {
-        "x": 2040,
+        "x": 2022,
         "y": 2192,
         "w": 1284,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Заправте всі вільні кінці, щоб вони не зачепилися за речі під час транспортування.",
+      "content": "СХОВАЙТЕ кінці косинок, щоб вони не зачепилися за перешкоди під час руху.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -599,22 +667,22 @@
       }
     },
     {
-      "name": "Зав’яжіть бинти або закрі..",
+      "name": "ЗВ’ЯЖІТЬ косинки або смуж..",
       "type": "text",
       "rect": {
-        "x": 488,
+        "x": 480,
         "y": 2192,
         "w": 1304,
-        "h": 512,
+        "h": 475,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Зав’яжіть бинти або закріпіть стрічкою, переконайтеся, що вузли зав’язані на шині, а не на шкірі. Також можна використовувати еластичний бинт.",
+      "content": "ЗВ’ЯЖІТЬ косинки або смужки тканини (і переконайтеся, що вузли зав’язані поверх шини, а не на самій руці) або обмотайте еластичні бинти навколо шини, щоб зафіксувати її на місці.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -633,24 +701,24 @@
       }
     },
     {
-      "name": "Продовження зі сторінки 1..",
+      "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 256,
-        "y": 980,
-        "w": 3856,
-        "h": 328,
+        "x": 434,
+        "y": 1036,
+        "w": 1904,
+        "h": 212,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження зі сторінки 1",
+      "content": "Продовження…",
       "format": {
-        "size": 240,
+        "size": 160,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -667,22 +735,22 @@
       }
     },
     {
-      "name": "Гнучка шина для переломів..",
+      "name": "ІНСТРУКЦІЯ З НАКЛАДАННЯ Г..",
       "type": "text",
       "rect": {
-        "x": 256,
-        "y": 736,
-        "w": 4244,
-        "h": 332,
+        "x": 241,
+        "y": 763,
+        "w": 4734,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Гнучка шина для переломів кісток",
+      "content": "ІНСТРУКЦІЯ З НАКЛАДАННЯ ГНУЧКОЇ ШИНИ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -714,41 +782,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "dbf38eed4f0c.png"
-    },
-    {
-      "name": "SAM Splint..",
-      "type": "text",
-      "rect": {
-        "x": 3896,
-        "y": 1036,
-        "w": 1252,
-        "h": 220,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "SAM Splint",
-      "format": {
-        "size": 160,
-        "align": "left",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
+      "content": "96fda8f54757.png"
     },
     {
       "name": "SAM Malleable Splint YouTube QR PNG.png Copy",
@@ -764,7 +798,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "b817a4e54d4b.png"
+      "content": "b5d3896347f3.png"
     },
     {
       "name": "LAST UPDATED",
@@ -780,7 +814,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:01Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-13T15:30:47Z",
       "format": {
         "size": 64,
         "align": "left",
