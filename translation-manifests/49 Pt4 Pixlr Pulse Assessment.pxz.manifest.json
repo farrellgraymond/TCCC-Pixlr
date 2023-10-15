@@ -1,5 +1,5 @@
 {
-  "id": "568a27b5-d3cb-42b3-8d01-f53f8ff5904d",
+  "id": "c61fa3f4-00f1-4131-b275-f9d71bfd5c50",
   "name": "49 Pt4 ENG Pulse Assessment PNG(2)",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "8a85a7a34c81.png"
+      "content": "6964a4004ef8.png"
     },
     {
       "name": "Shape 29",
@@ -331,22 +331,22 @@
       }
     },
     {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
         "x": 488,
         "y": 6020,
         "w": 1316,
-        "h": 368,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -365,22 +365,22 @@
       }
     },
     {
-      "name": "Помножте отримане число н..",
+      "name": "ПОМНОЖТЕ це число на чоти..",
       "type": "text",
       "rect": {
-        "x": 3564,
-        "y": 4236,
+        "x": 3552,
+        "y": 4232,
         "w": 1232,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Помножте отримане число на 4, і це буде частота пульсу пораненого за хвилину.",
+      "content": "ПОМНОЖТЕ це число на чотири, і ви отримаєте частоту пульсу пораненого (в ударах/хвилину).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -427,7 +427,7 @@
         "x": 3900,
         "y": 3608,
         "w": 328,
-        "h": 88,
+        "h": 89,
         "r": 0
       },
       "opacity": 1,
@@ -455,22 +455,22 @@
       }
     },
     {
-      "name": "Використовуйте таймер і П..",
+      "name": "За допомогою таймера ПОРА..",
       "type": "text",
       "rect": {
-        "x": 2056,
-        "y": 4236,
-        "w": 1084,
-        "h": 284,
+        "x": 2020,
+        "y": 4232,
+        "w": 1120,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Використовуйте таймер і ПІДРАХУВАЙТЕ кількість імпульсів за 15 секунд.",
+      "content": "За допомогою таймера ПОРАХУЙТЕ кількість ударів протягом 15 секунд.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -489,28 +489,62 @@
       }
     },
     {
-      "name": "КРОК 4 ПРИМІТКА. Якщо вам..",
+      "name": "__________ Якщо ви не мож..",
       "type": "text",
       "rect": {
-        "x": 288,
-        "y": 4520,
-        "w": 1568,
-        "h": 368,
+        "x": 292,
+        "y": 4588,
+        "w": 1652,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 4 ПРИМІТКА. Якщо вам важко промацати пульс, натискайте трохи сильніше, не завдавайте болю потерпілому.",
+      "content": "__________ Якщо ви не можете відчути пульс, натисніть трохи сильніше, але обережно, щоб не завдати болю пораненому.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 4588,
+        "w": 1652,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -532,22 +566,22 @@
       }
     },
     {
-      "name": "Злегка натисніть на порож..",
+      "name": "НАТИСНІТЬ пальцями на м’я..",
       "type": "text",
       "rect": {
-        "x": 488,
-        "y": 4236,
-        "w": 1328,
-        "h": 284,
+        "x": 482,
+        "y": 4232,
+        "w": 1275,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Злегка натисніть на порожнисту, щоб намацати задню великогомілкову артерію.",
+      "content": "НАТИСНІТЬ пальцями на м’яке заглиблення, щоб відчути задню великогомілкову артерію під шкірою.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -566,22 +600,22 @@
       }
     },
     {
-      "name": "З внутрішньої сторони сто..",
+      "name": "РОЗМІСТІТЬ пальці на внут..",
       "type": "text",
       "rect": {
-        "x": 3572,
+        "x": 3552,
         "y": 2776,
-        "w": 1324,
-        "h": 368,
+        "w": 1264,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "З внутрішньої сторони стопи помістіть пальці між кістковою частиною та ахілловим сухожиллям.",
+      "content": "РОЗМІСТІТЬ пальці на внутрішній стороні стопи між кістковою частиною щиколотки та ахіловим сухожиллям.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -600,22 +634,22 @@
       }
     },
     {
-      "name": "КОВЗНІТЬ пальцями вниз по..",
+      "name": "ПРОВЕДІТЬ пальцями вниз в..",
       "type": "text",
       "rect": {
-        "x": 2032,
+        "x": 2020,
         "y": 2776,
         "w": 1284,
-        "h": 368,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КОВЗНІТЬ пальцями вниз по кістлявій частині щиколотки або зніміть черевик з пораненого, щоб відкрити щиколотку.",
+      "content": "ПРОВЕДІТЬ пальцями вниз всередину черевика пораненого за кісткою щиколотки або зніміть черевик, щоб оголити щиколотку.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -634,22 +668,22 @@
       }
     },
     {
-      "name": "Вирівняйте середній і вка..",
+      "name": "ЗВЕДІТЬ РАЗОМ середній та..",
       "type": "text",
       "rect": {
         "x": 488,
         "y": 2776,
-        "w": 1224,
-        "h": 284,
+        "w": 1252,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Вирівняйте середній і вказівний пальці. Використовуйте домінуючу руку.",
+      "content": "ЗВЕДІТЬ РАЗОМ середній та вказівний пальці своєї домінуючої руки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -668,62 +702,96 @@
       }
     },
     {
-      "name": "СТОРІНКА 4 з 6 - (4/6)..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
-        "x": 3492,
-        "y": 1488,
-        "w": 1376,
-        "h": 168,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "СТОРІНКА 4 з 6 - (4/6)",
-      "format": {
-        "size": 120,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Розгляньте можливість вик..",
-      "type": "text",
-      "rect": {
-        "x": 608,
-        "y": 1472,
+        "x": 588,
+        "y": 1424,
         "w": 2340,
-        "h": 200,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
         "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 588,
+        "y": 1529,
+        "w": 2340,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 588,
+        "y": 1529,
+        "w": 2340,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -745,56 +813,22 @@
       }
     },
     {
-      "name": "POSTERIOR TIBIAL..",
+      "name": "ОЦІНКА ПУЛЬСУ НА ЗАДНІЙ В..",
       "type": "text",
       "rect": {
-        "x": 288,
-        "y": 1068,
-        "w": 1568,
-        "h": 168,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "POSTERIOR TIBIAL",
-      "format": {
-        "size": 120,
-        "align": "left",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ЗАДНЯ ГОМІЛКОВА АРТЕРІЯ..",
-      "type": "text",
-      "rect": {
-        "x": 268,
+        "x": 250,
         "y": 788,
-        "w": 4252,
-        "h": 328,
+        "w": 4696,
+        "h": 507,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗАДНЯ ГОМІЛКОВА АРТЕРІЯ",
+      "content": "ОЦІНКА ПУЛЬСУ НА ЗАДНІЙ ВЕЛИКОГОМІЛКОВІЙ АРТЕРІЇ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -826,7 +860,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:02Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-15T19:53:04Z",
       "format": {
         "size": 64,
         "align": "left",
