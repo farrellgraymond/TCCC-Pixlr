@@ -1,0 +1,980 @@
+{
+  "id": "660bbd05-481a-4c3c-979b-7609493a3a0c",
+  "name": "50 Pt1 ENG End-Tidal CO2 Monitoring PNG(2)",
+  "type": "document",
+  "unit": "pixel",
+  "width": 1275,
+  "height": 1650,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1275,
+        "h": 1650,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "480587eb4f10.png"
+    },
+    {
+      "name": "Shape 31",
+      "type": "shape",
+      "rect": {
+        "x": 41,
+        "y": 1203,
+        "w": 826,
+        "h": 141,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 30",
+      "type": "shape",
+      "rect": {
+        "x": 832,
+        "y": 1154,
+        "w": 389,
+        "h": 186,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 29",
+      "type": "shape",
+      "rect": {
+        "x": 506,
+        "y": 1154,
+        "w": 313,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 28",
+      "type": "shape",
+      "rect": {
+        "x": 119,
+        "y": 1153,
+        "w": 313,
+        "h": 71,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 27",
+      "type": "shape",
+      "rect": {
+        "x": 123,
+        "y": 726,
+        "w": 302,
+        "h": 61,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 26",
+      "type": "shape",
+      "rect": {
+        "x": 146,
+        "y": 416,
+        "w": 650,
+        "h": 67,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 25",
+      "type": "shape",
+      "rect": {
+        "x": 65,
+        "y": 192,
+        "w": 977,
+        "h": 214,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 24",
+      "type": "shape",
+      "rect": {
+        "x": 51,
+        "y": 1304,
+        "w": 1190,
+        "h": 305,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Продовження на наступній ..",
+      "type": "text",
+      "rect": {
+        "x": 867,
+        "y": 1575,
+        "w": 356,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження на наступній сторінці...",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "_________________________..",
+      "type": "text",
+      "rect": {
+        "x": 65,
+        "y": 1517,
+        "w": 1134,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "______________________________ Зміну кольору індикатора на детекторі ЕТСО2 може бути складно побачити  в умовах слабкого освітлення або у прилад нічного бачення.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ ЩОДО КРОКУ 6..",
+      "type": "text",
+      "rect": {
+        "x": 65,
+        "y": 1513,
+        "w": 1134,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ ЩОДО КРОКУ 6 : ",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "_____________________ Якщ..",
+      "type": "text",
+      "rect": {
+        "x": 65,
+        "y": 1419,
+        "w": 1063,
+        "h": 94,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "_____________________ Якщо детектор приєднано до неправильно встановленого надгортанного повітроводу/трахеальної трубки (наприклад, розміщення у стравоході), колір індикатора не зміниться або зміниться невідповідно до норми. У капнометрах по типу pull tab зміна кольору на жовтий/зелений вказує на низький рівень CO2, що видихається.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА до КРОКУ 6 : ..",
+      "type": "text",
+      "rect": {
+        "x": 65,
+        "y": 1416,
+        "w": 1063,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА до КРОКУ 6 : ",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "_____________________ Дет..",
+      "type": "text",
+      "rect": {
+        "x": 65,
+        "y": 1319,
+        "w": 1146,
+        "h": 94,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "_____________________ Детектори вуглекислого газу містять хімічний індикатор, чутливий до CO2. Коли детектор приєднано до правильно встановленого надгортанного повітроводу/трахеальної трубки, колір індикатора змінюється з базового кольору “перевірки” (зазвичай фіолетового або певного відтінку синього) на один з діапазону кольорів, позначених цифрами або літерами (зазвичай жовтий) у відповідь на підвищення концентрації діоксиду вуглецю.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА до КРОКУ 6 : ..",
+      "type": "text",
+      "rect": {
+        "x": 65,
+        "y": 1316,
+        "w": 1146,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА до КРОКУ 6 : ",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 847,
+        "y": 1100,
+        "w": 45,
+        "h": 46,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "20088aba4641.png"
+    },
+    {
+      "name": "Щоб оцінити ефективність ..",
+      "type": "text",
+      "rect": {
+        "x": 847,
+        "y": 1154,
+        "w": 360,
+        "h": 148,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Щоб оцінити ефективність відновленої прохідності дихальних шляхів, ПРИЄДНАЙТЕ мішок типу Амбу з маскою (BVM) до детектора ЕТСО2, зробіть шість вдихів і порівняйте зміну кольору центрального індикатора з діаграмою кольорів на кришці приладу.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо у вас пристрій по ти..",
+      "type": "text",
+      "rect": {
+        "x": 504,
+        "y": 1153,
+        "w": 309,
+        "h": 94,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо у вас пристрій по типу PULL TAB, витягніть червоний “язичок”, щоб активувати детектор ETCO2.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "З’ЄДНАЙТЕ дистальний кіне..",
+      "type": "text",
+      "rect": {
+        "x": 119,
+        "y": 1154,
+        "w": 303,
+        "h": 128,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "З’ЄДНАЙТЕ дистальний кінець пристрою стандартного розміру (конектор із зовнішнім діаметром 15 мм),  з мішком та маскою або іншим стандартним обладнанням для подачі кисню.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 12",
+      "type": "shape",
+      "rect": {
+        "x": 832,
+        "y": 544,
+        "w": 378,
+        "h": 367,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ВИЙМІТЬ детектор ЕТСО2 з ..",
+      "type": "text",
+      "rect": {
+        "x": 119,
+        "y": 726,
+        "w": 246,
+        "h": 48,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВИЙМІТЬ детектор ЕТСО2 з упаковки.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОДБАЙТЕ про засоби індив..",
+      "type": "text",
+      "rect": {
+        "x": 146,
+        "y": 408,
+        "w": 555,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 146,
+        "y": 438,
+        "w": 555,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 146,
+        "y": 438,
+        "w": 555,
+        "h": 28,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "МОНІТОРИНГ ВМІСТУ СО2 НАП..",
+      "type": "text",
+      "rect": {
+        "x": 65,
+        "y": 192,
+        "w": 1063,
+        "h": 190,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "МОНІТОРИНГ ВМІСТУ СО2 НАПРИКІНЦІ ВИДИХУ (ETCO2) ЗА ДОПОМОГОЮ КОЛОРИМЕТРИЧНОГО ДЕТЕКТОРА",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 6",
+      "type": "shape",
+      "rect": {
+        "x": 826,
+        "y": 725,
+        "w": 66,
+        "h": 55,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 4",
+      "type": "shape",
+      "rect": {
+        "x": 437,
+        "y": 726,
+        "w": 381,
+        "h": 185,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕВІРТЕ колір індикатор..",
+      "type": "text",
+      "rect": {
+        "x": 462,
+        "y": 726,
+        "w": 322,
+        "h": 168,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВІРТЕ колір індикатора; якщо він не такий, як колір «перевірки» на еталонній шкалі (зазвичай фіолетовий, за винятком пристроїв по типу pull tab, які зазвичай мають певний відтінок синього), утилізуйте цей індикатор та використайте новий.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Після забезпечення прохід..",
+      "type": "text",
+      "rect": {
+        "x": 850,
+        "y": 698,
+        "w": 349,
+        "h": 208,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Після забезпечення прохідності дихальних шляхів за допомогою одного з розширених методів, ПРИКРІПІТЬ детектор ЕТСО2 до ендотрахеальної, трахеостомічної трубки або надгортанного повітроводу, доєднавши вужчий кінець детектора (конектор із внутрішнім діаметром 15 мм) до відповідної дихальної трубки.",
+      "format": {
+        "size": 19,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 842,
+        "y": 458,
+        "w": 360,
+        "h": 240,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "f3a9b30c4646.png"
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 850,
+        "y": 643,
+        "w": 46,
+        "h": 45,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "dee3a9984a90.png"
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 466,
+        "y": 671,
+        "w": 46,
+        "h": 45,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2667a33240f0.png"
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-15T19:55:38Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}
