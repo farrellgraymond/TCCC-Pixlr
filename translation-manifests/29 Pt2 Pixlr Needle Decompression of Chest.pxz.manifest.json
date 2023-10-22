@@ -281,7 +281,7 @@
       }
     },
     {
-      "name": "__________ Використайте н..",
+      "name": "ПРИМІТКА: Використайте н..",
       "type": "text",
       "rect": {
         "x": 3566,
@@ -294,7 +294,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Використайте нову голку/катетер для другої спроби декомпресії.",
+      "content": "ПРИМІТКА: Використайте нову голку/катетер для другої спроби декомпресії.",
       "format": {
         "size": 76,
         "align": "left",
@@ -315,7 +315,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 3566,
@@ -328,7 +328,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -350,7 +350,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -606,7 +606,7 @@
       }
     },
     {
-      "name": "__________ Звук може бути..",
+      "name": "ПРИМІТКА: Звук може бути..",
       "type": "text",
       "rect": {
         "x": 1824,
@@ -619,7 +619,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Звук може бути важко почути в шумному середовищі.",
+      "content": "ПРИМІТКА: Звук може бути важко почути в шумному середовищі.",
       "format": {
         "size": 76,
         "align": "left",
@@ -674,7 +674,7 @@
       }
     },
     {
-      "name": "__________ Підвищення пок..",
+      "name": "ПРИМІТКА: Підвищення пок..",
       "type": "text",
       "rect": {
         "x": 1824,
@@ -687,7 +687,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Підвищення показника сатурації може зайняти кілька хвилин і може не відбутись, якщо ви знаходитесь високо над рівнем моря.",
+      "content": "ПРИМІТКА: Підвищення показника сатурації може зайняти кілька хвилин і може не відбутись, якщо ви знаходитесь високо над рівнем моря.",
       "format": {
         "size": 76,
         "align": "left",
@@ -708,7 +708,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1824,
@@ -721,7 +721,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -743,7 +743,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -751,7 +751,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1824,
@@ -764,7 +764,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -786,7 +786,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -909,7 +909,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-08T01:10:36Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T16:08:14Z",
       "format": {
         "size": 64,
         "align": "left",
