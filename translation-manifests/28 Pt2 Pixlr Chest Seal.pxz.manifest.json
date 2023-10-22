@@ -91,7 +91,7 @@
       }
     },
     {
-      "name": "__________ Як альтернатив..",
+      "name": "ПРИМІТКА: Як альтернатив..",
       "type": "text",
       "rect": {
         "x": 292,
@@ -104,7 +104,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Як альтернативний варіант, відклейте наліпку на декілька секунд для декомпресії, а потім наклейте наліпку на місце або замініть її на нову. ",
+      "content": "ПРИМІТКА: Як альтернативний варіант, відклейте наліпку на декілька секунд для декомпресії, а потім наклейте наліпку на місце або замініть її на нову. ",
       "format": {
         "size": 76,
         "align": "left",
@@ -125,7 +125,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 292,
@@ -138,7 +138,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -160,7 +160,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -385,7 +385,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-07T23:47:36Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T15:53:02Z",
       "format": {
         "size": 64,
         "align": "left",
