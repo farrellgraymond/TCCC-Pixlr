@@ -167,7 +167,7 @@
       }
     },
     {
-      "name": "__________  Після наклада..",
+      "name": "ПРИМІТКА: Після наклада..",
       "type": "text",
       "rect": {
         "x": 1880,
@@ -180,7 +180,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________  Після накладання шини повторно оцініть пульс, рухову та чутливу функції кінцівки.",
+      "content": "ПРИМІТКА: Після накладання шини повторно оцініть пульс, рухову та чутливу функції кінцівки.",
       "format": {
         "size": 76,
         "align": "left",
@@ -201,7 +201,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1880,
@@ -214,7 +214,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -236,7 +236,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -328,7 +328,7 @@
       }
     },
     {
-      "name": "__________ Альтернативним..",
+      "name": "ПРИМІТКА: Альтернативним..",
       "type": "text",
       "rect": {
         "x": 300,
@@ -341,7 +341,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Альтернативним методом фіксації стороннього предмета в рані є використання торакальної оклюзійної наліпки.",
+      "content": "ПРИМІТКА: Альтернативним методом фіксації стороннього предмета в рані є використання торакальної оклюзійної наліпки.",
       "format": {
         "size": 76,
         "align": "left",
@@ -362,7 +362,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 300,
@@ -375,7 +375,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -397,7 +397,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -507,7 +507,7 @@
       }
     },
     {
-      "name": "__________ Проведіть повт..",
+      "name": "ПРИМІТКА: Проведіть повт..",
       "type": "text",
       "rect": {
         "x": 3428,
@@ -520,7 +520,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Проведіть повторну оцінку ефективності накладання турнікету  (якщо це можливо).",
+      "content": "ПРИМІТКА: Проведіть повторну оцінку ефективності накладання турнікету  (якщо це можливо).",
       "format": {
         "size": 76,
         "align": "left",
@@ -541,7 +541,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 3428,
@@ -554,7 +554,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -576,7 +576,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -618,7 +618,7 @@
       }
     },
     {
-      "name": "__________ У випадку пору..",
+      "name": "ПРИМІТКА: У випадку пору..",
       "type": "text",
       "rect": {
         "x": 1684,
@@ -631,7 +631,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ У випадку порушення кровообігу надайте пораненому пріоритет евакуації.",
+      "content": "ПРИМІТКА: У випадку порушення кровообігу надайте пораненому пріоритет евакуації.",
       "format": {
         "size": 76,
         "align": "left",
@@ -652,7 +652,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1684,
@@ -665,7 +665,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -687,7 +687,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -797,7 +797,7 @@
       }
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 596,
@@ -810,7 +810,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -831,7 +831,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 596,
@@ -844,7 +844,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -866,7 +866,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -921,7 +921,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-15T16:20:41Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T21:19:51Z",
       "format": {
         "size": 64,
         "align": "left",
