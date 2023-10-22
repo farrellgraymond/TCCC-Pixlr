@@ -23,49 +23,6 @@
       "content": "a90aa71f4f80.png"
     },
     {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 374,
-        "y": 1071,
-        "w": 4575,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
       "name": "Shape 83",
       "type": "shape",
       "rect": {
@@ -324,15 +281,6 @@
           "type": "color",
           "value": "#ffffff"
         }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
       }
     },
     {
@@ -366,15 +314,6 @@
         "fill": {
           "type": "color",
           "value": "#ffffff"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
         }
       }
     },
@@ -410,15 +349,6 @@
           "type": "color",
           "value": "#ffffff"
         }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
       }
     },
     {
@@ -452,15 +382,6 @@
         "fill": {
           "type": "color",
           "value": "#ffffff"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.01,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
         }
       }
     },
@@ -859,8 +780,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.01,
-          "color": "#000000",
+          "size": 0.2,
+          "color": "#bb3335",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -902,8 +823,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.01,
-          "color": "#000000",
+          "size": 0.2,
+          "color": "#bb3335",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1010,15 +931,6 @@
           "type": "color",
           "value": "#ffffff"
         }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
       }
     },
     {
@@ -1053,15 +965,6 @@
           "type": "color",
           "value": "#ffffff"
         }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
       }
     },
     {
@@ -1095,15 +998,6 @@
         "fill": {
           "type": "color",
           "value": "#ffffff"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.01,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
         }
       }
     },
@@ -1210,8 +1104,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.01,
-          "color": "#000000",
+          "size": 0.2,
+          "color": "#bb3335",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1253,8 +1147,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.2,
+          "color": "#ec943b",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1296,8 +1190,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.2,
+          "color": "#958e5f",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1407,8 +1301,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.01,
-          "color": "#000000",
+          "size": 0.2,
+          "color": "#bb3335",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1450,8 +1344,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.01,
-          "color": "#000000",
+          "size": 0.2,
+          "color": "#bb3335",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1527,7 +1421,7 @@
       }
     },
     {
-      "name": "__________ План організац..",
+      "name": "ПРИМІТКА: План організац..",
       "type": "text",
       "rect": {
         "x": 374,
@@ -1540,7 +1434,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ План організації пункту збору поранених може змінюватися в залежності від стандартних операційних процедур (СОП) підрозділу, бойового завдання, тактичної ситуації, рельєфу місцевості тощо.",
+      "content": "ПРИМІТКА: План організації пункту збору поранених може змінюватися в залежності від стандартних операційних процедур (СОП) підрозділу, бойового завдання, тактичної ситуації, рельєфу місцевості тощо.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1595,6 +1489,49 @@
       }
     },
     {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 374,
+        "y": 1071,
+        "w": 4575,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.2,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
       "name": "Ukraine Medical Triage Upscale PNG.png",
       "type": "image",
       "rect": {
@@ -1611,49 +1548,6 @@
       "content": "88ea9c984162.png"
     },
     {
-      "name": "Ця діаграма IV категорії ..",
-      "type": "text",
-      "rect": {
-        "x": 3232,
-        "y": 1076,
-        "w": 1460,
-        "h": 110,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": false,
-      "link": "",
-      "content": "Ця діаграма IV категорії світло-зелена",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#bbb4a5"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.35000000000000003,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1667,7 +1561,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-02T21:26:30Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T09:00:52Z",
       "format": {
         "size": 64,
         "align": "left",

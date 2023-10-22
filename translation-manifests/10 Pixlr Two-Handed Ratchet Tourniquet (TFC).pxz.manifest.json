@@ -352,7 +352,7 @@
       }
     },
     {
-      "name": "____________________ Якщо..",
+      "name": "Примітка до 8-го кроку: Якщо..",
       "type": "text",
       "rect": {
         "x": 1604,
@@ -365,7 +365,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "____________________ Якщо кровотеча не зупинилась або не зник дистальний пульс, продовжуйте затягувати зубчастий механізм або накладіть другий турнікет вище місця накладання першого.",
+      "content": "Примітка до 8-го кроку: Якщо кровотеча не зупинилась або не зник дистальний пульс, продовжуйте затягувати зубчастий механізм або накладіть другий турнікет вище місця накладання першого.",
       "format": {
         "size": 70,
         "align": "left",
@@ -613,7 +613,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -814,7 +814,7 @@
       }
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 600,
@@ -827,7 +827,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -844,135 +844,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 600,
-        "y": 1497,
-        "w": 2127,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 480,
-        "y": 1836,
-        "w": 2127,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 3372,
-        "y": 1395,
-        "w": 2127,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
         }
       }
     },
@@ -1079,11 +950,11 @@
       }
     },
     {
-      "name": "Примітка до 8-го кроку :..",
+      "name": "Примітка до 8-го кроку:..",
       "type": "text",
       "rect": {
-        "x": 1609,
-        "y": 5178,
+        "x": 1604,
+        "y": 5193,
         "w": 3427,
         "h": 93,
         "r": 0
@@ -1092,7 +963,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Примітка до 8-го кроку :",
+      "content": "Примітка до 8-го кроку:",
       "format": {
         "size": 70,
         "align": "left",
@@ -1114,7 +985,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1122,7 +993,7 @@
       }
     },
     {
-      "name": "__________ Можливо, вам п..",
+      "name": "ПРИМІТКА: Можливо, вам п..",
       "type": "text",
       "rect": {
         "x": 480,
@@ -1135,7 +1006,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Можливо, вам прийдеться розрізати одяг, щоб належним чином оглянути рану.",
+      "content": "ПРИМІТКА: Можливо, вам прийдеться розрізати одяг, щоб належним чином оглянути рану.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1172,7 +1043,7 @@
       "content": "7e3ab9a14b7a.png"
     },
     {
-      "name": "__________ Перевірте коже..",
+      "name": "ПРИМІТКА: Перевірте коже..",
       "type": "text",
       "rect": {
         "x": 3372,
@@ -1185,7 +1056,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Перевірте кожен турнікет, накладений у фазі Допомоги під вогнем. Якщо турнікет накладений неефективно – затягніть його сильніше (якщо можливо), і накладіть другий турнікет поруч з першим, якщо кровотеча не зупинилась. ",
+      "content": "ПРИМІТКА: Перевірте кожен турнікет, накладений у фазі Допомоги під вогнем. Якщо турнікет накладений неефективно – затягніть його сильніше (якщо можливо), і накладіть другий турнікет поруч з першим, якщо кровотеча не зупинилась. ",
       "format": {
         "size": 76,
         "align": "left",
@@ -1337,6 +1208,135 @@
       }
     },
     {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 600,
+        "y": 1497,
+        "w": 2127,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 480,
+        "y": 1836,
+        "w": 2127,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 3372,
+        "y": 1395,
+        "w": 2127,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1350,7 +1350,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-01T23:17:06Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T09:00:48Z",
       "format": {
         "size": 64,
         "align": "left",
