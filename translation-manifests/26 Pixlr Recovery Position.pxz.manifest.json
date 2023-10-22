@@ -23,7 +23,7 @@
       "content": "2c798d1e46b5.png"
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 584,
@@ -36,7 +36,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 584,
@@ -70,7 +70,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -92,7 +92,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -168,7 +168,7 @@
       }
     },
     {
-      "name": "__________ Таким чином ви..",
+      "name": "ПРИМІТКА: Таким чином ви..",
       "type": "text",
       "rect": {
         "x": 1963,
@@ -181,7 +181,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Таким чином ви відкриєте дихальні шляхи та допоможете пораненому легше дихати.",
+      "content": "ПРИМІТКА: Таким чином ви відкриєте дихальні шляхи та допоможете пораненому легше дихати.",
       "format": {
         "size": 76,
         "align": "left",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1963,
@@ -215,7 +215,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -237,7 +237,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -279,7 +279,7 @@
       }
     },
     {
-      "name": "__________ Дане положення..",
+      "name": "ПРИМІТКА: Дане положення..",
       "type": "text",
       "rect": {
         "x": 500,
@@ -292,7 +292,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Дане положення допомагає надати тілу пораненого рівноваги.",
+      "content": "ПРИМІТКА: Дане положення допомагає надати тілу пораненого рівноваги.",
       "format": {
         "size": 76,
         "align": "left",
@@ -313,7 +313,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 500,
@@ -326,7 +326,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -348,7 +348,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -390,7 +390,7 @@
       }
     },
     {
-      "name": "__________ Вага тіла пора..",
+      "name": "ПРИМІТКА: Вага тіла пора..",
       "type": "text",
       "rect": {
         "x": 3568,
@@ -403,7 +403,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Вага тіла пораненого допоможе перевернути його без зусиль. ",
+      "content": "ПРИМІТКА: Вага тіла пораненого допоможе перевернути його без зусиль. ",
       "format": {
         "size": 76,
         "align": "left",
@@ -424,7 +424,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 3568,
@@ -437,7 +437,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -459,7 +459,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -718,7 +718,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-07T23:32:28Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T15:34:09Z",
       "format": {
         "size": 64,
         "align": "left",
