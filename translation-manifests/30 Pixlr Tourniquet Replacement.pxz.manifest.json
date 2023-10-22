@@ -1,6 +1,6 @@
 {
   "id": "70016861-d8d2-42d4-8c35-a467e3ad06a5",
-  "name": "30 ENG Tourniquet Replacement PNG",
+  "name": "30 Tourniquet Replacement PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -105,358 +105,6 @@
       }
     },
     {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 3572,
-        "y": 6008,
-        "w": 1268,
-        "h": 412,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 6012,
-        "w": 1240,
-        "h": 316,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 200,
-        "y": 4996,
-        "w": 1556,
-        "h": 1332,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 3344,
-        "y": 4952,
-        "w": 1472,
-        "h": 204,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 4760,
-        "w": 1268,
-        "h": 304,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 2036,
-        "y": 4760,
-        "w": 1268,
-        "h": 328,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 488,
-        "y": 4756,
-        "w": 1264,
-        "h": 396,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 3576,
-        "y": 3668,
-        "w": 1240,
-        "h": 208,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 3668,
-        "w": 2804,
-        "h": 224,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 3344,
-        "y": 2496,
-        "w": 1500,
-        "h": 292,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 3580,
-        "y": 2304,
-        "w": 1264,
-        "h": 272,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 1816,
-        "y": 2500,
-        "w": 1460,
-        "h": 212,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 2048,
-        "y": 2308,
-        "w": 1244,
-        "h": 312,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 512,
-        "y": 2304,
-        "w": 1220,
-        "h": 240,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 584,
-        "y": 1140,
-        "w": 2708,
-        "h": 260,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 16",
-      "type": "shape",
-      "rect": {
-        "x": 256,
-        "y": 792,
-        "w": 4284,
-        "h": 292,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "Задокументуйте всі резуль..",
       "type": "text",
       "rect": {
@@ -525,7 +173,7 @@
       }
     },
     {
-      "name": "_____________________ Пер..",
+      "name": "ПРИМІТКА ДО КРОКУ 8: Пер..",
       "type": "text",
       "rect": {
         "x": 360,
@@ -538,7 +186,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_____________________ Переміщені (початкові) турнікети не слід затягувати повністю, але слід усунути всі провисання.",
+      "content": "ПРИМІТКА ДО КРОКУ 8: Переміщені (початкові) турнікети не слід затягувати повністю, але слід усунути всі провисання.",
       "format": {
         "size": 76,
         "align": "left",
@@ -559,11 +207,11 @@
       }
     },
     {
-      "name": "ПРИМІТКА ДО КРОКУ 8 :..",
+      "name": "ПРИМІТКА ДО КРОКУ 8:..",
       "type": "text",
       "rect": {
         "x": 360,
-        "y": 5829,
+        "y": 5841,
         "w": 1336,
         "h": 105,
         "r": 0
@@ -572,7 +220,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА ДО КРОКУ 8 :",
+      "content": "ПРИМІТКА ДО КРОКУ 8:",
       "format": {
         "size": 76,
         "align": "left",
@@ -594,7 +242,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -670,7 +318,7 @@
       }
     },
     {
-      "name": "_____________________ За ..",
+      "name": "ПРИМІТКА ДО КРОКУ 6: За ..",
       "type": "text",
       "rect": {
         "x": 292,
@@ -683,7 +331,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_____________________ За відновлення кровотечі негайно повторно затягніть накладений початково турнікет, переконавшись, що кровотеча зупинилась, а також сильніше затягніть прицільно накладений турнікет. Повторюйте 5 і 6 кроки, поки кровотеча не буде зупинена прицільним турнікетом.",
+      "content": "ПРИМІТКА ДО КРОКУ 6: За відновлення кровотечі негайно повторно затягніть накладений початково турнікет, переконавшись, що кровотеча зупинилась, а також сильніше затягніть прицільно накладений турнікет. Повторюйте 5 і 6 кроки, поки кровотеча не буде зупинена прицільним турнікетом.",
       "format": {
         "size": 76,
         "align": "left",
@@ -704,7 +352,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА ДО КРОКУ 6 :..",
+      "name": "ПРИМІТКА ДО КРОКУ 6:..",
       "type": "text",
       "rect": {
         "x": 292,
@@ -717,7 +365,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА ДО КРОКУ 6 :",
+      "content": "ПРИМІТКА ДО КРОКУ 6:",
       "format": {
         "size": 76,
         "align": "left",
@@ -739,7 +387,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -899,7 +547,7 @@
       }
     },
     {
-      "name": "__________ Якщо є дисталь..",
+      "name": "ПРИМІТКА: Якщо є дисталь..",
       "type": "text",
       "rect": {
         "x": 3378,
@@ -912,7 +560,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо є дистальний пульс, спробуйте затягнути турнікет сильніше. Якщо пульс все ще присутній, негайно перейдіть до 4 кроку.",
+      "content": "ПРИМІТКА: Якщо є дистальний пульс, спробуйте затягнути турнікет сильніше. Якщо пульс все ще присутній, негайно перейдіть до 4 кроку.",
       "format": {
         "size": 76,
         "align": "left",
@@ -933,7 +581,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 3378,
@@ -946,7 +594,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -968,7 +616,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1110,7 +758,7 @@
       }
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 600,
@@ -1123,7 +771,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1144,7 +792,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 600,
@@ -1157,7 +805,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -1179,7 +827,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1234,7 +882,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-07T23:58:28Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T16:30:41Z",
       "format": {
         "size": 64,
         "align": "left",
