@@ -596,7 +596,7 @@
       }
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 588,
@@ -609,7 +609,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -630,7 +630,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 588,
@@ -643,7 +643,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -665,7 +665,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -770,7 +770,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-08T19:26:04Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T17:13:05Z",
       "format": {
         "size": 64,
         "align": "left",
