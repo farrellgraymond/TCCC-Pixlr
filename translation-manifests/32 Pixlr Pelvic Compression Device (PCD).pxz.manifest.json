@@ -1,6 +1,6 @@
 {
   "id": "ee00e1c0-d28d-4082-a9fb-e3345cc4d0b9",
-  "name": "32 ENG Pelvic Compression Device (PCD) PNG(2)(2)",
+  "name": "32 Pelvic Compression Device (PCD) PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -57,7 +57,7 @@
       }
     },
     {
-      "name": "__________ При появі або ..",
+      "name": "ПРИМІТКА: При появі або ..",
       "type": "text",
       "rect": {
         "x": 487,
@@ -70,7 +70,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ При появі або посиленні симптомів шоку накладіть ПКТ повторно, якщо ситуація на полі бою дозволяє це здійснити.",
+      "content": "ПРИМІТКА: При появі або посиленні симптомів шоку накладіть ПКТ повторно, якщо ситуація на полі бою дозволяє це здійснити.",
       "format": {
         "size": 76,
         "align": "left",
@@ -91,7 +91,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 487,
@@ -104,7 +104,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -126,7 +126,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -202,7 +202,7 @@
       }
     },
     {
-      "name": "__________ Не хвилюйтеся,..",
+      "name": "ПРИМІТКА: Не хвилюйтеся,..",
       "type": "text",
       "rect": {
         "x": 2024,
@@ -215,7 +215,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Не хвилюйтеся, якщо почуєте клацання вдруге після закріплення пристрою. ",
+      "content": "ПРИМІТКА: Не хвилюйтеся, якщо почуєте клацання вдруге після закріплення пристрою. ",
       "format": {
         "size": 76,
         "align": "left",
@@ -236,7 +236,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 2024,
@@ -249,7 +249,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -271,7 +271,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -313,7 +313,7 @@
       }
     },
     {
-      "name": "__________ Пристрій може ..",
+      "name": "ПРИМІТКА: Пристрій може ..",
       "type": "text",
       "rect": {
         "x": 316,
@@ -326,7 +326,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Пристрій може не завжди клацати при правильному використанні.",
+      "content": "ПРИМІТКА: Пристрій може не завжди клацати при правильному використанні.",
       "format": {
         "size": 76,
         "align": "left",
@@ -347,7 +347,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 316,
@@ -360,7 +360,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -382,7 +382,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -602,7 +602,7 @@
       }
     },
     {
-      "name": "__________ Накажіть бійцю..",
+      "name": "ПРИМІТКА: Накажіть бійцю..",
       "type": "text",
       "rect": {
         "x": 277,
@@ -615,7 +615,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Накажіть бійцю-рятувальнику руками стабілізувати тазову ділянку (якщо це можливо).",
+      "content": "ПРИМІТКА: Накажіть бійцю-рятувальнику руками стабілізувати тазову ділянку (якщо це можливо).",
       "format": {
         "size": 76,
         "align": "left",
@@ -636,7 +636,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 277,
@@ -649,7 +649,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -671,7 +671,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -747,7 +747,7 @@
       }
     },
     {
-      "name": "__________ Використання П..",
+      "name": "ПРИМІТКА: Використання П..",
       "type": "text",
       "rect": {
         "x": 2755,
@@ -760,7 +760,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Використання ПКТ не виключає накладання вузлового турнікету, якщо є покази.",
+      "content": "ПРИМІТКА: Використання ПКТ не виключає накладання вузлового турнікету, якщо є покази.",
       "format": {
         "size": 76,
         "align": "left",
@@ -781,7 +781,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 2755,
@@ -794,7 +794,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -816,7 +816,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -858,7 +858,7 @@
       }
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 592,
@@ -871,7 +871,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -892,7 +892,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 592,
@@ -905,7 +905,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -927,7 +927,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -982,7 +982,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-08T04:50:23Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T17:00:20Z",
       "format": {
         "size": 64,
         "align": "left",
