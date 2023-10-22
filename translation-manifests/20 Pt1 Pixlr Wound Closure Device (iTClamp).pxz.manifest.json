@@ -121,7 +121,7 @@
       "content": "aa318617497f.png"
     },
     {
-      "name": "_______ Не використовуйте..",
+      "name": "УВАГА: Не використовуйте..",
       "type": "text",
       "rect": {
         "x": 3310,
@@ -134,7 +134,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_______ Не використовуйте в ділянці очей.",
+      "content": "УВАГА: Не використовуйте в ділянці очей.",
       "format": {
         "size": 80,
         "align": "left",
@@ -155,7 +155,7 @@
       }
     },
     {
-      "name": "УВАГА :..",
+      "name": "УВАГА:..",
       "type": "text",
       "rect": {
         "x": 3310,
@@ -168,7 +168,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "УВАГА :",
+      "content": "УВАГА:",
       "format": {
         "size": 80,
         "align": "left",
@@ -190,7 +190,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -334,7 +334,7 @@
       }
     },
     {
-      "name": "__________ Пломба пристро..",
+      "name": "ПРИМІТКА: Пломба пристро..",
       "type": "text",
       "rect": {
         "x": 1828,
@@ -347,7 +347,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Пломба пристрою зруйнується одразу ж після стискання його ручок.",
+      "content": "ПРИМІТКА: Пломба пристрою зруйнується одразу ж після стискання його ручок.",
       "format": {
         "size": 76,
         "align": "left",
@@ -368,7 +368,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1828,
@@ -381,7 +381,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -403,7 +403,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -649,7 +649,7 @@
       }
     },
     {
-      "name": "__________ Можливо, вам б..",
+      "name": "ПРИМІТКА: Можливо, вам б..",
       "type": "text",
       "rect": {
         "x": 492,
@@ -662,7 +662,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Можливо, вам буде потрібно зрізати одяг, щоб належним чином відкрити доступ до рани.",
+      "content": "ПРИМІТКА: Можливо, вам буде потрібно зрізати одяг, щоб належним чином відкрити доступ до рани.",
       "format": {
         "size": 76,
         "align": "left",
@@ -683,7 +683,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 492,
@@ -696,7 +696,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -718,7 +718,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -760,7 +760,7 @@
       }
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 584,
@@ -773,7 +773,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -794,7 +794,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 584,
@@ -807,7 +807,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -829,7 +829,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -939,7 +939,7 @@
       }
     },
     {
-      "name": "__________ Пристрій для з..",
+      "name": "ПРИМІТКА: Пристрій для з..",
       "type": "text",
       "rect": {
         "x": 322,
@@ -952,7 +952,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Пристрій для закриття ран можна використовувати в поєднанні з іншими методами зупинки кровотечі, а саме:",
+      "content": "ПРИМІТКА: Пристрій для закриття ран можна використовувати в поєднанні з іншими методами зупинки кровотечі, а саме:",
       "format": {
         "size": 76,
         "align": "left",
@@ -973,7 +973,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 322,
@@ -986,7 +986,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -1008,7 +1008,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1079,7 +1079,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-05T14:01:39Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T10:05:18Z",
       "format": {
         "size": 64,
         "align": "left",

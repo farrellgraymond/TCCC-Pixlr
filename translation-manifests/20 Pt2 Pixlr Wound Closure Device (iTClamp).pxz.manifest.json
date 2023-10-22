@@ -23,7 +23,7 @@
       "content": "8f4d8d764f2f.png"
     },
     {
-      "name": "_______ Небезпечний гостр..",
+      "name": "УВАГА: Небезпечний гостр..",
       "type": "text",
       "rect": {
         "x": 545,
@@ -36,7 +36,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_______ Небезпечний гострий предмет – поводьтеся обережно, щоб уникнути травм.",
+      "content": "УВАГА: Небезпечний гострий предмет – поводьтеся обережно, щоб уникнути травм.",
       "format": {
         "size": 80,
         "align": "left",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "name": "УВАГА :..",
+      "name": "УВАГА:..",
       "type": "text",
       "rect": {
         "x": 545,
@@ -70,7 +70,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "УВАГА :",
+      "content": "УВАГА:",
       "format": {
         "size": 80,
         "align": "left",
@@ -92,7 +92,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -236,7 +236,7 @@
       }
     },
     {
-      "name": "__________ Тримайте прист..",
+      "name": "ПРИМІТКА: Тримайте прист..",
       "type": "text",
       "rect": {
         "x": 1824,
@@ -249,7 +249,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Тримайте пристрій за кнопки під час зняття, аби мінімізувати випадковий контакт з голками.",
+      "content": "ПРИМІТКА: Тримайте пристрій за кнопки під час зняття, аби мінімізувати випадковий контакт з голками.",
       "format": {
         "size": 76,
         "align": "left",
@@ -270,7 +270,7 @@
       }
     },
     {
-      "name": "__________ Цей процес вик..",
+      "name": "ПРИМІТКА: Цей процес вик..",
       "type": "text",
       "rect": {
         "x": 1824,
@@ -283,7 +283,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Цей процес виконується за допомогою двох рук.",
+      "content": "ПРИМІТКА: Цей процес виконується за допомогою двох рук.",
       "format": {
         "size": 76,
         "align": "left",
@@ -304,7 +304,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1824,
@@ -317,7 +317,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -339,7 +339,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -347,7 +347,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1824,
@@ -360,7 +360,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -382,7 +382,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -492,7 +492,7 @@
       }
     },
     {
-      "name": "__________ Щоб відкрити п..",
+      "name": "ПРИМІТКА: Щоб відкрити п..",
       "type": "text",
       "rect": {
         "x": 347,
@@ -505,7 +505,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Щоб відкрити пристрій для закриття ран, потрібно використати кнопки розблокування з обох боків пристрою.",
+      "content": "ПРИМІТКА: Щоб відкрити пристрій для закриття ран, потрібно використати кнопки розблокування з обох боків пристрою.",
       "format": {
         "size": 80,
         "align": "left",
@@ -526,7 +526,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 347,
@@ -539,7 +539,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 80,
         "align": "left",
@@ -561,7 +561,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -616,7 +616,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-05T14:01:40Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T10:05:18Z",
       "format": {
         "size": 64,
         "align": "left",
