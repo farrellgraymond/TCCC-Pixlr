@@ -159,7 +159,7 @@
       }
     },
     {
-      "name": "__________ Як альтернатив..",
+      "name": "ПРИМІТКА: Як альтернатив..",
       "type": "text",
       "rect": {
         "x": 1454,
@@ -172,7 +172,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Як альтернативний варіант, мішок можна стискати, притуливши до ноги або передпліччя, якщо треба збільшити об’єм повітря, яке вдихається, або якщо ваша рука ослабла. ",
+      "content": "ПРИМІТКА: Як альтернативний варіант, мішок можна стискати, притуливши до ноги або передпліччя, якщо треба збільшити об’єм повітря, яке вдихається, або якщо ваша рука ослабла. ",
       "format": {
         "size": 76,
         "align": "left",
@@ -193,7 +193,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1454,
@@ -206,7 +206,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -228,7 +228,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -338,7 +338,7 @@
       }
     },
     {
-      "name": "__________ Дана техніка в..",
+      "name": "ПРИМІТКА: Дана техніка в..",
       "type": "text",
       "rect": {
         "x": 292,
@@ -351,7 +351,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Дана техніка виконується з використанням однієї руки.",
+      "content": "ПРИМІТКА: Дана техніка виконується з використанням однієї руки.",
       "format": {
         "size": 76,
         "align": "left",
@@ -372,7 +372,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 292,
@@ -385,7 +385,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -407,7 +407,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -585,7 +585,7 @@
       }
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 576,
@@ -598,7 +598,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -619,7 +619,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 576,
@@ -632,7 +632,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -654,7 +654,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -743,7 +743,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-06T23:35:14Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T15:14:38Z",
       "format": {
         "size": 64,
         "align": "left",
