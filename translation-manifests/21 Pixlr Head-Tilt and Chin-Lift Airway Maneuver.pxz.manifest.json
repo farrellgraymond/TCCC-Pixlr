@@ -435,7 +435,7 @@
       "content": "83fba4b24cfb.png"
     },
     {
-      "name": "_________ Не використовуй..",
+      "name": "ПРИМІТКА: Не використовуй..",
       "type": "text",
       "rect": {
         "x": 1893,
@@ -448,7 +448,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_________ Не використовуйте великий палець, щоб вивести підборіддя.",
+      "content": "ПРИМІТКА: Не використовуйте великий палець, щоб вивести підборіддя.",
       "format": {
         "size": 74,
         "align": "left",
@@ -469,7 +469,7 @@
       }
     },
     {
-      "name": "ПРИІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 1893,
@@ -482,7 +482,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 74,
         "align": "left",
@@ -504,7 +504,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -580,7 +580,7 @@
       }
     },
     {
-      "name": "__________ НЕ шукайте сто..",
+      "name": "ПРИМІТКА: НЕ шукайте сто..",
       "type": "text",
       "rect": {
         "x": 3344,
@@ -593,7 +593,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ НЕ шукайте сторонні тіла в ротовій порожнині пальцем наосліп.",
+      "content": "ПРИМІТКА: НЕ шукайте сторонні тіла в ротовій порожнині пальцем наосліп.",
       "format": {
         "size": 76,
         "align": "left",
@@ -614,7 +614,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 3344,
@@ -627,7 +627,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -649,7 +649,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -673,7 +673,7 @@
       "content": "3cf9882541c6.png"
     },
     {
-      "name": "__________ Якщо в ротовій..",
+      "name": "ПРИМІТКА: Якщо в ротовій..",
       "type": "text",
       "rect": {
         "x": 3344,
@@ -686,7 +686,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо в ротовій порожнині наявні сторонні тіла чи блювота, видаліть їх якомога швидше. ",
+      "content": "ПРИМІТКА: Якщо в ротовій порожнині наявні сторонні тіла чи блювота, видаліть їх якомога швидше. ",
       "format": {
         "size": 76,
         "align": "left",
@@ -707,7 +707,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 3344,
@@ -720,7 +720,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -742,7 +742,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -868,7 +868,7 @@
       }
     },
     {
-      "name": "__________ НЕ застосовуйт..",
+      "name": "ПРИМІТКА: НЕ застосовуйт..",
       "type": "text",
       "rect": {
         "x": 356,
@@ -881,7 +881,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ НЕ застосовуйте цей прийом, якщо є підозра на травму хребта або шиї.",
+      "content": "ПРИМІТКА: НЕ застосовуйте цей прийом, якщо є підозра на травму хребта або шиї.",
       "format": {
         "size": 80,
         "align": "left",
@@ -937,7 +937,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1029,7 +1029,7 @@
       }
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 3755,
@@ -1042,7 +1042,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1063,7 +1063,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 3755,
@@ -1076,7 +1076,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -1098,7 +1098,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1119,7 +1119,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-06T22:40:53Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T14:35:37Z",
       "format": {
         "size": 64,
         "align": "left",
