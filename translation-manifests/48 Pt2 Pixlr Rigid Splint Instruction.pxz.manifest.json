@@ -125,7 +125,7 @@
       }
     },
     {
-      "name": "__________ Під час перемі..",
+      "name": "ПРИМІТКА: Під час перемі..",
       "type": "text",
       "rect": {
         "x": 3348,
@@ -138,7 +138,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Під час переміщення фіксувати кінцівку можуть ремені нош, але переконайтеся, що ремінь не тисне безпосередньо на місце перелому.",
+      "content": "ПРИМІТКА: Під час переміщення фіксувати кінцівку можуть ремені нош, але переконайтеся, що ремінь не тисне безпосередньо на місце перелому.",
       "format": {
         "size": 76,
         "align": "left",
@@ -159,7 +159,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 3348,
@@ -172,7 +172,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -194,7 +194,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -385,7 +385,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-14T07:45:16Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-23T12:06:23Z",
       "format": {
         "size": 64,
         "align": "left",
