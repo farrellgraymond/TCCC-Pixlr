@@ -1,6 +1,6 @@
 {
   "id": "57262d70-1a3c-4a38-a726-57b99fa5a599",
-  "name": "49 Pt1 ENG Pulse Assessment PNG(2)",
+  "name": "49 Pt1 Pulse Assessment PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -21,138 +21,6 @@
       "visible": true,
       "link": "",
       "content": "2e5187fa4590.png"
-    },
-    {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 3644,
-        "y": 4524,
-        "w": 880,
-        "h": 268,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 224,
-        "y": 4568,
-        "w": 1488,
-        "h": 348,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 16",
-      "type": "shape",
-      "rect": {
-        "x": 3564,
-        "y": 2724,
-        "w": 1076,
-        "h": 148,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 15",
-      "type": "shape",
-      "rect": {
-        "x": 360,
-        "y": 1936,
-        "w": 1396,
-        "h": 172,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 14",
-      "type": "shape",
-      "rect": {
-        "x": 3560,
-        "y": 1088,
-        "w": 1076,
-        "h": 152,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 13",
-      "type": "shape",
-      "rect": {
-        "x": 260,
-        "y": 800,
-        "w": 2548,
-        "h": 416,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
     },
     {
       "name": "ПУЛЬС НА ЗАДНІЙ ВЕЛИКОГОМ..",
@@ -372,7 +240,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-15T19:53:04Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-23T13:19:37Z",
       "format": {
         "size": 64,
         "align": "left",
