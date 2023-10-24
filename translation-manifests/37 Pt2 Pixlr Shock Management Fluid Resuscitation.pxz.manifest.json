@@ -1,10 +1,10 @@
 {
   "id": "35886ec2-42e9-486f-99cc-9ec44c5d9257",
-  "name": "37 Pt2 Ua Shock Management - Fluid Resuscitation PNG(2)",
+  "name": "37 Pt2 Shock Management - Fluid Resuscitation PNG",
   "type": "document",
   "unit": "pixel",
-  "width": 1125,
-  "height": 1624,
+  "width": 5100,
+  "height": 6600,
   "stack": [
     {
       "name": "Background",
@@ -12,8 +12,8 @@
       "rect": {
         "x": 0,
         "y": 0,
-        "w": 1125,
-        "h": 1624,
+        "w": 5100,
+        "h": 6600,
         "r": 0
       },
       "opacity": 1,
@@ -23,189 +23,13 @@
       "content": "b30b8ce540d4.png"
     },
     {
-      "name": "Shape 40",
-      "type": "shape",
-      "rect": {
-        "x": 83,
-        "y": 479,
-        "w": 717,
-        "h": 35,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 39",
-      "type": "shape",
-      "rect": {
-        "x": 606,
-        "y": 1499,
-        "w": 430,
-        "h": 44,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 38",
-      "type": "shape",
-      "rect": {
-        "x": 84,
-        "y": 1291,
-        "w": 807,
-        "h": 195,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 37",
-      "type": "shape",
-      "rect": {
-        "x": 307,
-        "y": 1096,
-        "w": 521,
-        "h": 182,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
-      "name": "Shape 36",
-      "type": "shape",
-      "rect": {
-        "x": 308,
-        "y": 922,
-        "w": 524,
-        "h": 157,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
-      "name": "Shape 35",
-      "type": "shape",
-      "rect": {
-        "x": 303,
-        "y": 645,
-        "w": 534,
-        "h": 259,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
-      "name": "Shape 34",
-      "type": "shape",
-      "rect": {
-        "x": 308,
-        "y": 571,
-        "w": 128,
-        "h": 39,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 308,
-        "y": 525,
-        "w": 74,
-        "h": 30,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 669,
-        "y": 1506,
-        "w": 366,
-        "h": 28,
+        "x": 3200,
+        "y": 6167,
+        "w": 1698,
+        "h": 126,
         "r": 0
       },
       "opacity": 1,
@@ -214,13 +38,13 @@
       "link": "",
       "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -233,167 +57,13 @@
       }
     },
     {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 96,
-        "y": 1097,
-        "w": 175,
-        "h": 83,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#7c6bbd"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 94,
-        "y": 924,
-        "w": 167,
-        "h": 58,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#7c6bbd"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 95,
-        "y": 646,
-        "w": 194,
-        "h": 32,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#7c6bbd"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 97,
-        "y": 574,
-        "w": 147,
-        "h": 55,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#7c6bbd"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 98,
-        "y": 526,
-        "w": 170,
-        "h": 31,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#7c6bbd"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 696,
-        "y": 374,
-        "w": 346,
-        "h": 84,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#7c6bbd"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 87,
-        "y": 378,
-        "w": 206,
-        "h": 77,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#7c6bbd"
-        }
-      }
-    },
-    {
       "name": "Введіть 1 г кальцію у виг..",
       "type": "text",
       "rect": {
-        "x": 88,
-        "y": 1359,
-        "w": 788,
-        "h": 108,
+        "x": 280,
+        "y": 5590,
+        "w": 4626,
+        "h": 450,
         "r": 0
       },
       "opacity": 1,
@@ -402,13 +72,13 @@
       "link": "",
       "content": "Введіть 1 г кальцію у вигляді 30 мл 10% розчину глюконату кальцію або 10 мл 10% розчину хлориду кальцію одразу після переливання першої одиниці препаратів крові. Уважно слідкуйте за введенням хлориду кальцію, оскільки існує можливість виникнення тяжкого некрозу і відторгнення шкіри внаслідок екстравазації препарату при введенні в периферичну вену.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -424,10 +94,10 @@
       "name": "Негайно/негайно/1-2 год...",
       "type": "text",
       "rect": {
-        "x": 408,
-        "y": 1297,
-        "w": 249,
-        "h": 28,
+        "x": 1700,
+        "y": 5355,
+        "w": 1200,
+        "h": 126,
         "r": 0
       },
       "opacity": 1,
@@ -436,13 +106,13 @@
       "link": "",
       "content": "Негайно/негайно/1-2 год.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -458,19 +128,19 @@
       "name": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ ..",
       "type": "text",
       "rect": {
-        "x": 88,
-        "y": 1330,
-        "w": 576,
-        "h": 28,
+        "x": 280,
+        "y": 5480,
+        "w": 4600,
+        "h": 126,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ : ",
+      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -489,8 +159,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#7c6bbd",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -501,19 +171,19 @@
       "name": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІ..",
       "type": "text",
       "rect": {
-        "x": 88,
-        "y": 1297,
-        "w": 342,
-        "h": 28,
+        "x": 280,
+        "y": 5355,
+        "w": 1600,
+        "h": 126,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІЇ : ",
+      "content": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІЇ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -532,8 +202,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#7c6bbd",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -544,10 +214,10 @@
       "name": "Зниження біодоступності п..",
       "type": "text",
       "rect": {
-        "x": 310,
-        "y": 1108,
-        "w": 513,
-        "h": 148,
+        "x": 1200,
+        "y": 4763,
+        "w": 2690,
+        "h": 592,
         "r": 0
       },
       "opacity": 1,
@@ -556,7 +226,7 @@
       "link": "",
       "content": "Зниження біодоступності при одночасному застосуванні з атенололом, фторхінолонами і тетрациклінами; ефективність препаратів кальцію знижується при застосуванні блокаторів кальцієвих каналів; застосування з серцевими глікозидами збільшує токсичність останніх; тіазидні діуретики спричиняють ризик розвитку гіперкальціємії.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -578,10 +248,10 @@
       "name": "Парестезії, головний біль..",
       "type": "text",
       "rect": {
-        "x": 310,
-        "y": 923,
-        "w": 513,
-        "h": 128,
+        "x": 1200,
+        "y": 4185,
+        "w": 2690,
+        "h": 512,
         "r": 0
       },
       "opacity": 1,
@@ -590,7 +260,7 @@
       "link": "",
       "content": "Парестезії, головний біль, дратівливість, слабкість, втрата свідомості при швидкому ВВ введенні, помірне зниження артеріального тиску, вазодилатація, брадикардія, аритмії, гіперацидний стан, нудота, поліурія, утворення каменів у нирках, гіперкальціємія та місцеві реакції.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -612,10 +282,10 @@
       "name": "Протипоказаний пацієнтам ..",
       "type": "text",
       "rect": {
-        "x": 310,
-        "y": 646,
-        "w": 525,
-        "h": 188,
+        "x": 1200,
+        "y": 3370,
+        "w": 2690,
+        "h": 752,
         "r": 0
       },
       "opacity": 1,
@@ -624,7 +294,7 @@
       "link": "",
       "content": "Протипоказаний пацієнтам з фібриляцією шлуночків, гіперкальціємією, гіпофосфатемією або каменями в нирках; застосовувати з обережністю у пацієнтів, які приймають дигіталіс та пацієнтів з саркоїдозом, захворюваннями нирок або серця, респіраторним ацидозом або дихальною недостатністю; за відсутності альтернативного лікарського засобу потенційні переваги використання препарату у вагітних жінок можуть переважати над ризиками.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -646,10 +316,10 @@
       "name": "ВВ або ВК...",
       "type": "text",
       "rect": {
-        "x": 310,
-        "y": 574,
-        "w": 133,
-        "h": 28,
+        "x": 1200,
+        "y": 3113,
+        "w": 524,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
@@ -658,7 +328,7 @@
       "link": "",
       "content": "ВВ або ВК.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -680,10 +350,10 @@
       "name": "1 г...",
       "type": "text",
       "rect": {
-        "x": 310,
-        "y": 527,
-        "w": 78,
-        "h": 28,
+        "x": 1200,
+        "y": 2863,
+        "w": 312,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
@@ -692,13 +362,13 @@
       "link": "",
       "content": "1 г.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.22,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -714,19 +384,19 @@
       "name": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ..",
       "type": "text",
       "rect": {
-        "x": 96,
-        "y": 1097,
-        "w": 151,
-        "h": 76,
+        "x": 280,
+        "y": 4763,
+        "w": 890,
+        "h": 234,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ : ",
+      "content": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -745,8 +415,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -754,22 +424,22 @@
       }
     },
     {
-      "name": "МОЖЛИВІ ПОБІЧНІ ДІЇ :  ..",
+      "name": "МОЖЛИВІ ПОБІЧНІ ДІЇ:..",
       "type": "text",
       "rect": {
-        "x": 96,
-        "y": 923,
-        "w": 185,
-        "h": 52,
+        "x": 280,
+        "y": 4185,
+        "w": 890,
+        "h": 234,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "МОЖЛИВІ ПОБІЧНІ ДІЇ :  ",
+      "content": "МОЖЛИВІ ПОБІЧНІ ДІЇ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -788,8 +458,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -797,28 +467,28 @@
       }
     },
     {
-      "name": "ПРОТИПОКАЗИ : ..",
+      "name": "ПРОТИПОКАЗИ:..",
       "type": "text",
       "rect": {
-        "x": 96,
-        "y": 646,
-        "w": 240,
-        "h": 28,
+        "x": 280,
+        "y": 3370,
+        "w": 890,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРОТИПОКАЗИ : ",
+      "content": "ПРОТИПОКАЗИ:",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.22,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -831,8 +501,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -840,22 +510,22 @@
       }
     },
     {
-      "name": "ШЛЯХ(И) ВВЕДЕННЯ : ..",
+      "name": "ШЛЯХ(И) ВВЕДЕННЯ:..",
       "type": "text",
       "rect": {
-        "x": 96,
-        "y": 574,
-        "w": 131,
-        "h": 76,
+        "x": 280,
+        "y": 3113,
+        "w": 890,
+        "h": 204,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ШЛЯХ(И) ВВЕДЕННЯ : ",
+      "content": "ШЛЯХ(И) ВВЕДЕННЯ:",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -874,8 +544,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -883,22 +553,22 @@
       }
     },
     {
-      "name": "ДОЗУВАННЯ : ..",
+      "name": "ДОЗУВАННЯ:..",
       "type": "text",
       "rect": {
-        "x": 96,
-        "y": 527,
-        "w": 160,
-        "h": 28,
+        "x": 280,
+        "y": 2863,
+        "w": 890,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОЗУВАННЯ : ",
+      "content": "ДОЗУВАННЯ:",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -917,8 +587,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -929,10 +599,10 @@
       "name": "Для використання після пр..",
       "type": "text",
       "rect": {
-        "x": 96,
-        "y": 483,
-        "w": 669,
-        "h": 28,
+        "x": 280,
+        "y": 2659,
+        "w": 4600,
+        "h": 393,
         "r": 0
       },
       "opacity": 1,
@@ -941,7 +611,7 @@
       "link": "",
       "content": "Для використання після проведення переливання препаратів крові.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -963,10 +633,10 @@
       "name": "Препарат кальцію ..",
       "type": "text",
       "rect": {
-        "x": 88,
-        "y": 419,
-        "w": 209,
-        "h": 28,
+        "x": 248,
+        "y": 2268,
+        "w": 3000,
+        "h": 170,
         "r": 0
       },
       "opacity": 1,
@@ -975,7 +645,7 @@
       "link": "",
       "content": "Препарат кальцію ",
       "format": {
-        "size": 20,
+        "size": 125,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -994,8 +664,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1006,10 +676,10 @@
       "name": "Використовується бойовими..",
       "type": "text",
       "rect": {
-        "x": 823,
-        "y": 377,
-        "w": 238,
-        "h": 52,
+        "x": 3680,
+        "y": 2126,
+        "w": 1240,
+        "h": 316,
         "r": 0
       },
       "opacity": 1,
@@ -1018,7 +688,7 @@
       "link": "",
       "content": "Використовується бойовими медиками",
       "format": {
-        "size": 20,
+        "size": 125,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1037,8 +707,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1049,10 +719,10 @@
       "name": "КАЛЬЦІЙ..",
       "type": "text",
       "rect": {
-        "x": 85,
-        "y": 380,
-        "w": 177,
-        "h": 42,
+        "x": 200,
+        "y": 2024,
+        "w": 3000,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
@@ -1061,72 +731,7 @@
       "link": "",
       "content": "КАЛЬЦІЙ",
       "format": {
-        "size": 30,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Shape 4",
-      "type": "shape",
-      "rect": {
-        "x": 52,
-        "y": 147,
-        "w": 1021,
-        "h": 207,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "У цій фармакологічній дов..",
-      "type": "text",
-      "rect": {
-        "x": 64,
-        "y": 294,
-        "w": 1017,
-        "h": 68,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "У цій фармакологічній довідці TCCC подана інформація про застосування ліків виключно на основі Настанов TCCC.  Ця інформація не повинна використовуватися для введення даних ліків ніде, окрім як під час надання допомоги пораненим в умовах бойових дій (на полі бою або в бойовій/тактичній обстановці).",
-      "format": {
-        "size": 20,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1140,27 +745,36 @@
         },
         "fill": {
           "type": "color",
-          "value": "#000000"
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
     {
-      "name": "СТОРІНКА 2 з 5 - (2/5)..",
+      "name": "У цій фармакологічній дов..",
       "type": "text",
       "rect": {
-        "x": 731,
-        "y": 173,
-        "w": 337,
-        "h": 42,
+        "x": 248,
+        "y": 1414,
+        "w": 4600,
+        "h": 479,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
-      "content": "СТОРІНКА 2 з 5 - (2/5)",
+      "content": "У цій фармакологічній довідці TCCC подана інформація про застосування ліків виключно на основі Настанов TCCC.  Ця інформація не повинна використовуватися для введення даних ліків ніде, окрім як під час надання допомоги пораненим в умовах бойових дій (на полі бою або в бойовій/тактичній обстановці).",
       "format": {
-        "size": 30,
+        "size": 98,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1182,10 +796,10 @@
       "name": "Лікування шоку/Рідинна ре..",
       "type": "text",
       "rect": {
-        "x": 52,
-        "y": 140,
-        "w": 878,
-        "h": 149,
+        "x": 248,
+        "y": 800,
+        "w": 4600,
+        "h": 328,
         "r": 0
       },
       "opacity": 1,
@@ -1194,7 +808,7 @@
       "link": "",
       "content": "Лікування шоку/Рідинна ресусцитація",
       "format": {
-        "size": 60,
+        "size": 240,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1226,7 +840,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-09T20:27:04Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-24T08:43:52Z",
       "format": {
         "size": 64,
         "align": "left",

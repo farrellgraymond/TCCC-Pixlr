@@ -1,10 +1,10 @@
 {
   "id": "842e69d7-1603-4148-aff6-db9d590fec0b",
-  "name": "37 Pt4 Ua Shock Management - Fluid Resuscitation PNG(3)(2)",
+  "name": "37 Pt4 Shock Management - Fluid Resuscitation PNG",
   "type": "document",
   "unit": "pixel",
-  "width": 1125,
-  "height": 1624,
+  "width": 5100,
+  "height": 6600,
   "stack": [
     {
       "name": "Background",
@@ -12,8 +12,8 @@
       "rect": {
         "x": 0,
         "y": 0,
-        "w": 1125,
-        "h": 1624,
+        "w": 5100,
+        "h": 6600,
         "r": 0
       },
       "opacity": 1,
@@ -23,395 +23,22 @@
       "content": "f00fa3954c03.png"
     },
     {
-      "name": "Ця інформація не повинна ..",
-      "type": "text",
-      "rect": {
-        "x": 108,
-        "y": 1398,
-        "w": 514,
-        "h": 88,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Ця інформація не повинна використовуватися для введення цих ліків будь-де, крім надання допомоги пораненим у бойових умовах (на полі бою або в бойових/тактичних умовах).",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Shape 38",
-      "type": "shape",
-      "rect": {
-        "x": 601,
-        "y": 1495,
-        "w": 395,
-        "h": 42,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 37",
-      "type": "shape",
-      "rect": {
-        "x": 88,
-        "y": 1113,
-        "w": 790,
-        "h": 269,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 36",
-      "type": "shape",
-      "rect": {
-        "x": 310,
-        "y": 1016,
-        "w": 444,
-        "h": 83,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
-      "name": "Shape 35",
-      "type": "shape",
-      "rect": {
-        "x": 310,
-        "y": 895,
-        "w": 459,
-        "h": 106,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
-      "name": "Shape 34",
-      "type": "shape",
-      "rect": {
-        "x": 309,
-        "y": 795,
-        "w": 458,
-        "h": 84,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 314,
-        "y": 724,
-        "w": 353,
-        "h": 57,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 96,
-        "y": 1019,
-        "w": 174,
-        "h": 77,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#e93399"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 96,
-        "y": 894,
-        "w": 162,
-        "h": 57,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#e93399"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 96,
-        "y": 798,
-        "w": 195,
-        "h": 33,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#e93399"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 97,
-        "y": 726,
-        "w": 156,
-        "h": 54,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#e93399"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 312,
-        "y": 578,
-        "w": 457,
-        "h": 130,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f2f2"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 98,
-        "y": 579,
-        "w": 162,
-        "h": 31,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#e93399"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 81,
-        "y": 502,
-        "w": 971,
-        "h": 60,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 86,
-        "y": 379,
-        "w": 956,
-        "h": 104,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#e93399"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 50,
-        "y": 184,
-        "w": 890,
-        "h": 172,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 608,
-        "y": 1500,
-        "w": 361,
-        "h": 28,
+        "x": 3200,
+        "y": 6054,
+        "w": 1698,
+        "h": 126,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження на наступній сторінці...",
+      "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -433,19 +60,53 @@
       "name": "Немає жодних доказів щодо..",
       "type": "text",
       "rect": {
-        "x": 89,
-        "y": 1203,
-        "w": 775,
-        "h": 168,
+        "x": 280,
+        "y": 5450,
+        "w": 4000,
+        "h": 215,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Немає жодних доказів щодо використання монотерапії Н1-антигістамінними препаратами при лікуванні анафілактичного стану – димедрол слід використовувати лише як доповнення до адреналіну; повільніший початок та більша тривалість дії димедролу можуть допомогти підтримати лікувальний ефект. Препарат успішно застосовується при лікуванні реакцій, що не загрожують життю. \nПри використанні димедролу у бійців має бути вилучена зброя, засоби зв’язку та інше спеціальне обладнання.",
+      "content": "Немає жодних доказів щодо використання монотерапії Н1-антигістамінними препаратами при лікуванні анафілактичного стану – димедрол слід використовувати лише як доповнення",
       "format": {
-        "size": 20,
+        "size": 92,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Немає жодних доказів щодо..",
+      "type": "text",
+      "rect": {
+        "x": 280,
+        "y": 5625,
+        "w": 4600,
+        "h": 393,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "до адреналіну; повільніший початок та більша тривалість дії димедролу можуть допомогти підтримати лікувальний ефект. Препарат успішно застосовується при лікуванні реакцій, що не загрожують життю. \nПри використанні димедролу у бійців має бути вилучена зброя, засоби зв’язку та інше спеціальне обладнання.",
+      "format": {
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -467,10 +128,10 @@
       "name": "10 с – 20 хв (ВВ < ВК< ВМ..",
       "type": "text",
       "rect": {
-        "x": 89,
-        "y": 1142,
-        "w": 526,
-        "h": 28,
+        "x": 1700,
+        "y": 5200,
+        "w": 2430,
+        "h": 126,
         "r": 0
       },
       "opacity": 1,
@@ -479,7 +140,7 @@
       "link": "",
       "content": "10 с – 20 хв (ВВ < ВК< ВМ)/ від 15 хв до 2 год/ 2-6 год. ",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -501,10 +162,10 @@
       "name": "Підсилює дію інших лікарс..",
       "type": "text",
       "rect": {
-        "x": 315,
-        "y": 1019,
-        "w": 417,
-        "h": 76,
+        "x": 1200,
+        "y": 4730,
+        "w": 2600,
+        "h": 304,
         "r": 0
       },
       "opacity": 1,
@@ -513,13 +174,13 @@
       "link": "",
       "content": "Підсилює дію інших лікарських засобів, що викликають сонливість або пригнічення свідомості (седативні, снодійні препарати).",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.22,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -535,10 +196,10 @@
       "name": "Седативний ефект/оглушенн..",
       "type": "text",
       "rect": {
-        "x": 315,
-        "y": 896,
-        "w": 458,
-        "h": 88,
+        "x": 1200,
+        "y": 4155,
+        "w": 2600,
+        "h": 352,
         "r": 0
       },
       "opacity": 1,
@@ -547,7 +208,7 @@
       "link": "",
       "content": "Седативний ефект/оглушення/сонливість, в’ялість, порушення рівноваги, запаморочення, головний біль, рідко екстрапірамідні ефекти, тремор або судоми.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -569,10 +230,10 @@
       "name": "Документально підтверджен..",
       "type": "text",
       "rect": {
-        "x": 315,
-        "y": 798,
-        "w": 451,
-        "h": 68,
+        "x": 1200,
+        "y": 3710,
+        "w": 2600,
+        "h": 272,
         "r": 0
       },
       "opacity": 1,
@@ -581,7 +242,7 @@
       "link": "",
       "content": "Документально підтверджена гіперчутливість до димедролу, грудне годування, вагітність (можна використати за крайньої потреби).",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -603,10 +264,10 @@
       "name": "ВМ, ВК та ВВ...",
       "type": "text",
       "rect": {
-        "x": 315,
-        "y": 727,
-        "w": 345,
-        "h": 28,
+        "x": 1200,
+        "y": 3395,
+        "w": 1380,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
@@ -615,7 +276,7 @@
       "link": "",
       "content": "ВМ, ВК та ВВ.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -637,10 +298,10 @@
       "name": "Початкова доза становить ..",
       "type": "text",
       "rect": {
-        "x": 315,
-        "y": 578,
-        "w": 451,
-        "h": 108,
+        "x": 1200,
+        "y": 2935,
+        "w": 2600,
+        "h": 393,
         "r": 0
       },
       "opacity": 1,
@@ -649,7 +310,7 @@
       "link": "",
       "content": "Початкова доза становить 25 мг, проте можна розглянути введення 50 мг із врахуванням клінічної ситуації; за потреби повторювати кожні 4-6 год. Максимальна добова доза складає 300 мг.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -671,19 +332,19 @@
       "name": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ ..",
       "type": "text",
       "rect": {
-        "x": 89,
-        "y": 1176,
-        "w": 582,
-        "h": 28,
+        "x": 280,
+        "y": 5360,
+        "w": 2800,
+        "h": 126,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ : ",
+      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -702,8 +363,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#e93399",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -714,19 +375,19 @@
       "name": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІ..",
       "type": "text",
       "rect": {
-        "x": 89,
-        "y": 1116,
-        "w": 321,
-        "h": 28,
+        "x": 280,
+        "y": 5200,
+        "w": 1600,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІЇ : ",
+      "content": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІЇ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -745,8 +406,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#e93399",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -757,19 +418,19 @@
       "name": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ..",
       "type": "text",
       "rect": {
-        "x": 98,
-        "y": 1019,
-        "w": 153,
-        "h": 76,
+        "x": 280,
+        "y": 4730,
+        "w": 890,
+        "h": 234,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ : ",
+      "content": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ: ",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -788,8 +449,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -797,22 +458,22 @@
       }
     },
     {
-      "name": "МОЖЛИВІ ПОБІЧНІ ДІЇ :  ..",
+      "name": "МОЖЛИВІ ПОБІЧНІ ДІЇ:..",
       "type": "text",
       "rect": {
-        "x": 98,
-        "y": 896,
-        "w": 190,
-        "h": 52,
+        "x": 280,
+        "y": 4155,
+        "w": 890,
+        "h": 234,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "МОЖЛИВІ ПОБІЧНІ ДІЇ :  ",
+      "content": "МОЖЛИВІ ПОБІЧНІ ДІЇ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -831,8 +492,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -840,28 +501,28 @@
       }
     },
     {
-      "name": "ПРОТИПОКАЗИ : ..",
+      "name": "ПРОТИПОКАЗИ:..",
       "type": "text",
       "rect": {
-        "x": 98,
-        "y": 798,
-        "w": 170,
-        "h": 52,
+        "x": 280,
+        "y": 3710,
+        "w": 890,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРОТИПОКАЗИ : ",
+      "content": "ПРОТИПОКАЗИ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.22,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -874,8 +535,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -883,22 +544,22 @@
       }
     },
     {
-      "name": "ШЛЯХ(И) ВВЕДЕННЯ : ..",
+      "name": "ШЛЯХ(И) ВВЕДЕННЯ:..",
       "type": "text",
       "rect": {
-        "x": 98,
-        "y": 727,
-        "w": 135,
-        "h": 52,
+        "x": 280,
+        "y": 3395,
+        "w": 890,
+        "h": 204,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ШЛЯХ(И) ВВЕДЕННЯ : ",
+      "content": "ШЛЯХ(И) ВВЕДЕННЯ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -917,8 +578,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -926,22 +587,22 @@
       }
     },
     {
-      "name": "ДОЗУВАННЯ : ..",
+      "name": "ДОЗУВАННЯ:..",
       "type": "text",
       "rect": {
-        "x": 98,
-        "y": 578,
-        "w": 145,
-        "h": 52,
+        "x": 280,
+        "y": 2935,
+        "w": 890,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОЗУВАННЯ : ",
+      "content": "ДОЗУВАННЯ:",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -960,8 +621,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -972,10 +633,10 @@
       "name": "Для екстреного лікування ..",
       "type": "text",
       "rect": {
-        "x": 89,
-        "y": 506,
-        "w": 891,
-        "h": 48,
+        "x": 280,
+        "y": 2660,
+        "w": 3800,
+        "h": 215,
         "r": 0
       },
       "opacity": 1,
@@ -984,7 +645,7 @@
       "link": "",
       "content": "Для екстреного лікування анафілаксії або алергічних реакцій, а також лікування побічних реакцій на медичні препарати.",
       "format": {
-        "size": 20,
+        "size": 92,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1006,10 +667,10 @@
       "name": "Використовується бойовими..",
       "type": "text",
       "rect": {
-        "x": 808,
-        "y": 380,
-        "w": 244,
-        "h": 52,
+        "x": 3680,
+        "y": 2126,
+        "w": 1240,
+        "h": 316,
         "r": 0
       },
       "opacity": 1,
@@ -1018,7 +679,7 @@
       "link": "",
       "content": "Використовується бойовими медиками",
       "format": {
-        "size": 20,
+        "size": 125,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1037,8 +698,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1049,10 +710,10 @@
       "name": "Антигістамінний препарат ..",
       "type": "text",
       "rect": {
-        "x": 89,
-        "y": 422,
-        "w": 486,
-        "h": 52,
+        "x": 248,
+        "y": 2268,
+        "w": 3000,
+        "h": 170,
         "r": 0
       },
       "opacity": 1,
@@ -1061,93 +722,7 @@
       "link": "",
       "content": "Антигістамінний препарат першого покоління  (блокатор Н1-рецепторів)",
       "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ДИМЕДРОЛ (ДИФЕНГІДРАМІН)..",
-      "type": "text",
-      "rect": {
-        "x": 89,
-        "y": 380,
-        "w": 476,
-        "h": 42,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДИМЕДРОЛ (ДИФЕНГІДРАМІН)",
-      "format": {
-        "size": 30,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "У цій фармакологічній дов..",
-      "type": "text",
-      "rect": {
-        "x": 62,
-        "y": 294,
-        "w": 1005,
-        "h": 68,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "У цій фармакологічній довідці TCCC подана інформація про застосування ліків виключно на основі Настанов TCCC.  Ця інформація не повинна використовуватися для введення даних ліків ніде, окрім як під час надання допомоги пораненим в умовах бойових дій (на полі бою або в бойовій/тактичній обстановці).",
-      "format": {
-        "size": 20,
+        "size": 125,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1161,27 +736,79 @@
         },
         "fill": {
           "type": "color",
-          "value": "#000000"
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
     {
-      "name": "СТОРІНКА 4 з 5 - (4/5)..",
+      "name": "ДИМЕДРОЛ (ДИФЕНГІДРАМІН)..",
       "type": "text",
       "rect": {
-        "x": 735,
-        "y": 168,
-        "w": 335,
-        "h": 42,
+        "x": 200,
+        "y": 2024,
+        "w": 3030,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
-      "content": "СТОРІНКА 4 з 5 - (4/5)",
+      "content": "ДИМЕДРОЛ (ДИФЕНГІДРАМІН)",
       "format": {
-        "size": 30,
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "У цій фармакологічній дов..",
+      "type": "text",
+      "rect": {
+        "x": 248,
+        "y": 1414,
+        "w": 4600,
+        "h": 479,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "У цій фармакологічній довідці TCCC подана інформація про застосування ліків виключно на основі Настанов TCCC.  Ця інформація не повинна використовуватися для введення даних ліків ніде, окрім як під час надання допомоги пораненим в умовах бойових дій (на полі бою або в бойовій/тактичній обстановці).",
+      "format": {
+        "size": 98,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1203,10 +830,10 @@
       "name": "Лікування шоку/Рідинна ре..",
       "type": "text",
       "rect": {
-        "x": 50,
-        "y": 145,
-        "w": 779,
-        "h": 149,
+        "x": 248,
+        "y": 800,
+        "w": 4600,
+        "h": 328,
         "r": 0
       },
       "opacity": 1,
@@ -1215,7 +842,7 @@
       "link": "",
       "content": "Лікування шоку/Рідинна ресусцитація",
       "format": {
-        "size": 60,
+        "size": 240,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1247,7 +874,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-09T20:27:04Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-24T08:43:52Z",
       "format": {
         "size": 64,
         "align": "left",

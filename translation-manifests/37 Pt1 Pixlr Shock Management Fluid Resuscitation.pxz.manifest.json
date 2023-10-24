@@ -104,7 +104,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ : ",
+      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ:",
       "format": {
         "size": 92,
         "align": "left",
@@ -120,13 +120,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
+          "value": "#a91828"
         }
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#a91828",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -181,7 +181,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІЇ : ",
+      "content": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІЇ:",
       "format": {
         "size": 92,
         "align": "left",
@@ -197,13 +197,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
+          "value": "#a91828"
         }
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#a91828",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -394,7 +394,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ : ",
+      "content": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ: ",
       "format": {
         "size": 92,
         "align": "left",
@@ -415,8 +415,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -424,7 +424,7 @@
       }
     },
     {
-      "name": "МОЖЛИВІ ПОБІЧНІ ДІЇ :  ..",
+      "name": "МОЖЛИВІ ПОБІЧНІ ДІЇ:..",
       "type": "text",
       "rect": {
         "x": 280,
@@ -437,7 +437,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "МОЖЛИВІ ПОБІЧНІ ДІЇ :  ",
+      "content": "МОЖЛИВІ ПОБІЧНІ ДІЇ:",
       "format": {
         "size": 92,
         "align": "left",
@@ -458,8 +458,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -467,7 +467,7 @@
       }
     },
     {
-      "name": "ПРОТИПОКАЗИ : ..",
+      "name": "ПРОТИПОКАЗИ:..",
       "type": "text",
       "rect": {
         "x": 280,
@@ -480,7 +480,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРОТИПОКАЗИ : ",
+      "content": "ПРОТИПОКАЗИ:",
       "format": {
         "size": 80,
         "align": "left",
@@ -501,8 +501,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -510,7 +510,7 @@
       }
     },
     {
-      "name": "ШЛЯХ(И) ВВЕДЕННЯ : ..",
+      "name": "ШЛЯХ(И) ВВЕДЕННЯ:..",
       "type": "text",
       "rect": {
         "x": 280,
@@ -523,7 +523,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ШЛЯХ(И) ВВЕДЕННЯ : ",
+      "content": "ШЛЯХ(И) ВВЕДЕННЯ:",
       "format": {
         "size": 80,
         "align": "left",
@@ -544,8 +544,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -553,7 +553,7 @@
       }
     },
     {
-      "name": "ДОЗУВАННЯ : ..",
+      "name": "ДОЗУВАННЯ:..",
       "type": "text",
       "rect": {
         "x": 280,
@@ -566,7 +566,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОЗУВАННЯ : ",
+      "content": "ДОЗУВАННЯ:",
       "format": {
         "size": 80,
         "align": "left",
@@ -587,8 +587,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -664,8 +664,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -707,8 +707,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -750,8 +750,8 @@
       },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#000000",
+          "size": 0.1,
+          "color": "#ffffff",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -840,7 +840,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-09T20:27:04Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-24T08:43:52Z",
       "format": {
         "size": 64,
         "align": "left",
