@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792f12",
+  "id": "df7fe37b-c69f-4aec-b178-5c89db8f63cf",
   "name": "TCCC ASM Skill Card 1 Pt2 - Skill Instructions",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,984 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4812.png"
+      "content": "6f84b5e34550.png"
+    },
+    {
+      "name": "Shape 31",
+      "type": "shape",
+      "rect": {
+        "x": 176,
+        "y": 558,
+        "w": 4748,
+        "h": 5191,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 3,
+          "color": "#5c4639"
+        }
+      }
+    },
+    {
+      "name": "КРОВООБІГ:..",
+      "type": "text",
+      "rect": {
+        "x": 371,
+        "y": 2344,
+        "w": 1931,
+        "h": 124,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КРОВООБІГ:",
+      "format": {
+        "size": 90,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ГІПОТЕРМІЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 371,
+        "y": 3699,
+        "w": 1931,
+        "h": 124,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ГІПОТЕРМІЯ:",
+      "format": {
+        "size": 90,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "(3) Проведіть огляд/пальп..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 871,
+        "w": 4447,
+        "h": 375,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(3) Проведіть огляд/пальпацію будь-яких ран, виконуючи ковзні рухи обома руками та кінчиками пальців вздовж грудної клітки, живота та спини. Для огляду спини встаньте на коліна біля пораненого, нахиліться через його тіло та візьміть постраждалого за талію та плечі, перевернувши таким чином його до своїх колін. Після цього змістіть або зніміть одяг і бронежилет, щоб дістатися спини.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(4) Визначте ознаки та си..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 1311,
+        "w": 4447,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(4) Визначте ознаки та симптоми проникаючого або відкритого поранення грудної клітки:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "•\t\"Смокчучий\" або \"шипляч..",
+      "type": "text",
+      "rect": {
+        "x": 534,
+        "y": 1433,
+        "w": 4192,
+        "h": 555,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "•\t\"Смокчучий\" або \"шиплячий\" звук під час вдиху пораненого,\n•\tУтруднене дихання,\n•\tКолота(і) рана(и) грудей,\n•\tПіна або бульбашки навколо травми,\n•\tКашель або харкання кров’ю,\n•\tБіль у плечах або грудній клітці.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(5) Розмістіть ПРИТОМНОГО..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 2037,
+        "w": 4192,
+        "h": 195,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(5) Розмістіть ПРИТОМНОГО постраждалого у положенні СИДЯЧИ або у СТАБІЛЬНІЙ БОКОВІЙ ПОЗИЦІЇ. НЕПРИТОМНОГО постраждалого розміщено у СТАБІЛЬНІЙ БОКОВІЙ ПОЗИЦІЇ.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "контролюйте кровообіг пор..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 2468,
+        "w": 4192,
+        "h": 195,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "контролюйте кровообіг пораненого, спостерігайте щодо появи ознак і симптомів шоку та/або надайте допомогу при їх розвитку.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Повторна оцінк..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 2701,
+        "w": 4192,
+        "h": 465,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Повторна оцінка наявності кровотечі. Проведіть переоцінку кожного джгута та/або пов’язки, які були накладені раніше. Звільніть доступ до місця поранення та визначте, чи зупинена кровотеча. Визначте та чітко позначте всі місця накладення джгутів, вказавши час їх накладання, якщо цього не було зроблено раніше. Коли дозволяють час і тактична ситуація, перевірте, чи немає подальшої кровотечі та чи відсутній пульс на кінцівці нижче джгута.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Оцініть появу шоку внаслі..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 3308,
+        "w": 4192,
+        "h": 285,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Оцініть появу шоку внаслідок масивної кровотечі (зверніть увагу на прискорене дихання, втрату концентрації та зміну рівня свідомості, спітнілу, холодну, липку шкіру та/або бліду/сіру шкіру). Заходи з попередження шоку є набагато легшими за його лікування, тому ,за можливості, необхідно зупинити будь-яку кровотечу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Запобігайте гіпотермії, я..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 3823,
+        "w": 4192,
+        "h": 195,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Запобігайте гіпотермії, яка посилюється через надмірну кровотечу, тримаючи пораненого в сухому та теплому середовищі.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Запобігання гі..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 4055,
+        "w": 4192,
+        "h": 285,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Запобігання гіпотермії. Спробуйте якнайшвидше перемістити пораненого з сирої землі на ізольовану суху поверхню. Зніміть мокрий одяг, залишивши сухий на місці. Накрийте пораненого будь-чим, що є в наявності (куртками, сухими ковдрами, спальними мішками або тим, що зберігає тепло та зберігає пораненого сухим).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Оцініть та надайте допомо..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 4474,
+        "w": 4192,
+        "h": 555,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Оцініть та надайте допомогу при інших пораненнях, таких як травма ока, опіки або переломи (визначте потребу в накладенні щитка для очей, опікової пов’язки або шини). Також перевірте наявність ознак або симптомів травми голови та повідомте про свої спостереження медичному персоналу. Важливо поділитися будь-якою інформацією про те, як і де ви знайшли пораненого, які ознаки травм ви помітили, або про які симптоми повідомив вас постраждалий. Наприклад, чи був поранений у свідомості або непритомний, чи скаржився він на головний біль або блювоту, дзвін у вухах, подвоєння зору та/або запаморочення, чи він відмітив, що «щось не так або я не почуваюся добре».",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Задокументуйте надану мед..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 5140,
+        "w": 4192,
+        "h": 195,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Задокументуйте надану медичну допомогу у Картці пораненого ТССС та прикріпіть її до одягу постраждалого, якщо ви перебуваєте безпосередньо на полі бою.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Повідомте медичний персон..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 5432,
+        "w": 4192,
+        "h": 195,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Повідомте медичний персонал про ваші знахідки та надану допомогу; за потреби – допоможіть евакуювати поранених.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 4055,
+        "w": 4192,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#da6849"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#da6849",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Оцінка можливих ознак шок..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 3203,
+        "w": 4192,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Оцінка можливих ознак шоку. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 2701,
+        "w": 4192,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#da6849"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#da6849",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "04..",
+      "type": "text",
+      "rect": {
+        "x": 232,
+        "y": 655,
+        "w": 232,
+        "h": 138,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "04",
+      "format": {
+        "size": 100,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#da6849"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#da6849",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "05..",
+      "type": "text",
+      "rect": {
+        "x": 232,
+        "y": 4457,
+        "w": 232,
+        "h": 138,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "05",
+      "format": {
+        "size": 100,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#da6849"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#da6849",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "06..",
+      "type": "text",
+      "rect": {
+        "x": 232,
+        "y": 5121,
+        "w": 232,
+        "h": 138,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "06",
+      "format": {
+        "size": 100,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#da6849"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#da6849",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "07..",
+      "type": "text",
+      "rect": {
+        "x": 232,
+        "y": 5411,
+        "w": 232,
+        "h": 138,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "07",
+      "format": {
+        "size": 100,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#da6849"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#da6849",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 406,
+        "y": 655,
+        "w": 1089,
+        "h": 138,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження…",
+      "format": {
+        "size": 100,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ALL SERVICE MEMBERS TACTI..",
+      "type": "text",
+      "rect": {
+        "x": 782,
+        "y": 94,
+        "w": 3537,
+        "h": 96,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ALL SERVICE MEMBERS TACTICAL COMBAT CASUALTY CARE",
+      "format": {
+        "size": 70,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "КУРС ДЛЯ ВСІХ ВІЙСЬКОВИХ ..",
+      "type": "text",
+      "rect": {
+        "x": 782,
+        "y": 208,
+        "w": 3537,
+        "h": 124,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КУРС ДЛЯ ВСІХ ВІЙСЬКОВИХ - TACTICAL COMBAT CASUALTY CARE ",
+      "format": {
+        "size": 90,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ІНСТРУКЦІЯ ВИКОНАННЯ НАВИ..",
+      "type": "text",
+      "rect": {
+        "x": 782,
+        "y": 361,
+        "w": 3537,
+        "h": 204,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ІНСТРУКЦІЯ ВИКОНАННЯ НАВИЧОК",
+      "format": {
+        "size": 150,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#da6849"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#da6849",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +1013,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:32Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-12T09:13:38Z",
       "format": {
         "size": 64,
         "align": "left",
