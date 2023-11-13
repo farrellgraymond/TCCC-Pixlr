@@ -1,6 +1,6 @@
 {
-  "id": "bd3ba863-c4e6-4243-b2f1-54b0ba70590f",
-  "name": "8 Pt5 ENG Tactical Trauma Assessment Guide PNG(2)",
+  "id": "600fb78c-bd7c-43cd-a36d-57e5251d35cd",
+  "name": "8 Pt5 Tactical Trauma Assessment Guide PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,24 +20,36 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "7c9eab2748c7.png"
+      "content": "100188b54483.webp"
     },
     {
-      "name": "Shape 52",
-      "type": "shape",
+      "name": "🟥..",
+      "type": "text",
       "rect": {
-        "x": 952,
-        "y": 5780,
-        "w": 3108,
-        "h": 644,
+        "x": 831,
+        "y": 1299,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🟥",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -45,21 +57,33 @@
       }
     },
     {
-      "name": "Shape 51",
-      "type": "shape",
+      "name": "🟥..",
+      "type": "text",
       "rect": {
-        "x": 1104,
-        "y": 4860,
-        "w": 3640,
-        "h": 932,
+        "x": 831,
+        "y": 1874,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🟥",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -67,21 +91,33 @@
       }
     },
     {
-      "name": "Shape 50",
-      "type": "shape",
+      "name": "🟥..",
+      "type": "text",
       "rect": {
-        "x": 948,
-        "y": 4480,
-        "w": 3796,
-        "h": 476,
+        "x": 831,
+        "y": 2004,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🟥",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -89,21 +125,33 @@
       }
     },
     {
-      "name": "Shape 49",
-      "type": "shape",
+      "name": "🟥..",
+      "type": "text",
       "rect": {
-        "x": 792,
-        "y": 4384,
-        "w": 956,
-        "h": 156,
+        "x": 831,
+        "y": 2136,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🟥",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -111,21 +159,33 @@
       }
     },
     {
-      "name": "Shape 48",
-      "type": "shape",
+      "name": "🟥..",
+      "type": "text",
       "rect": {
-        "x": 2384,
-        "y": 3672,
-        "w": 1808,
-        "h": 216,
+        "x": 831,
+        "y": 2638,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🟥",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -133,21 +193,33 @@
       }
     },
     {
-      "name": "Shape 47",
-      "type": "shape",
+      "name": "🟥..",
+      "type": "text",
       "rect": {
-        "x": 708,
-        "y": 3684,
-        "w": 624,
-        "h": 176,
+        "x": 831,
+        "y": 2839,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🟥",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -155,21 +227,33 @@
       }
     },
     {
-      "name": "Shape 46",
-      "type": "shape",
+      "name": "🟥..",
+      "type": "text",
       "rect": {
-        "x": 796,
-        "y": 3512,
-        "w": 2636,
-        "h": 156,
+        "x": 831,
+        "y": 4515,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🟥",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -177,65 +261,33 @@
       }
     },
     {
-      "name": "Shape 45",
-      "type": "shape",
+      "name": "🔺..",
+      "type": "text",
       "rect": {
-        "x": 768,
-        "y": 4016,
-        "w": 3824,
-        "h": 248,
+        "x": 1004,
+        "y": 4983,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🔺",
       "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f0ed"
-        }
-      }
-    },
-    {
-      "name": "Shape 44",
-      "type": "shape",
-      "rect": {
-        "x": 776,
-        "y": 3128,
-        "w": 3720,
-        "h": 268,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f2f0ed"
-        }
-      }
-    },
-    {
-      "name": "Shape 43",
-      "type": "shape",
-      "rect": {
-        "x": 936,
-        "y": 2184,
-        "w": 4012,
-        "h": 504,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -243,21 +295,33 @@
       }
     },
     {
-      "name": "Shape 42",
-      "type": "shape",
+      "name": "🔺..",
+      "type": "text",
       "rect": {
-        "x": 948,
-        "y": 2604,
-        "w": 3432,
-        "h": 440,
+        "x": 1004,
+        "y": 5352,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🔺",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -265,21 +329,33 @@
       }
     },
     {
-      "name": "Shape 41",
-      "type": "shape",
+      "name": "🔺..",
+      "type": "text",
       "rect": {
-        "x": 952,
-        "y": 1788,
-        "w": 3492,
-        "h": 488,
+        "x": 1004,
+        "y": 5646,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🔺",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -287,21 +363,33 @@
       }
     },
     {
-      "name": "Shape 40",
-      "type": "shape",
+      "name": "⭕️..",
+      "type": "text",
       "rect": {
-        "x": 968,
-        "y": 1240,
-        "w": 3428,
-        "h": 432,
+        "x": 1183,
+        "y": 5743,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "⭕️",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -309,21 +397,33 @@
       }
     },
     {
-      "name": "Shape 39",
-      "type": "shape",
+      "name": "🔺..",
+      "type": "text",
       "rect": {
-        "x": 792,
-        "y": 1120,
-        "w": 3116,
-        "h": 160,
+        "x": 1004,
+        "y": 2244,
+        "w": 119,
+        "h": 82,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "🔺",
       "format": {
-        "variant": "rectangle",
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -331,12 +431,318 @@
       }
     },
     {
-      "name": "Shape 38",
-      "type": "shape",
+      "name": "🔺..",
+      "type": "text",
       "rect": {
-        "x": 336,
-        "y": 828,
-        "w": 2628,
+        "x": 1004,
+        "y": 2439,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🔺",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🔺..",
+      "type": "text",
+      "rect": {
+        "x": 1004,
+        "y": 5162,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🔺",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 831,
+        "y": 4696,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 831,
+        "y": 4876,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 831,
+        "y": 5889,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 831,
+        "y": 6015,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 831,
+        "y": 6157,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 831,
+        "y": 1416,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "🟥..",
+      "type": "text",
+      "rect": {
+        "x": 831,
+        "y": 1544,
+        "w": 119,
+        "h": 82,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "🟥",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Парацетамол та мелоксик..",
+      "type": "text",
+      "rect": {
+        "x": 1156,
+        "y": 4969,
+        "w": 3060,
         "h": 188,
         "r": 0
       },
@@ -344,129 +750,111 @@
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "Парацетамол та мелоксикам з військового набору таблеток для лікування ран — це анальгетики для поранених у свідомості, які можна ковтати.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#292d2c"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 37",
-      "type": "shape",
-      "rect": {
-        "x": 956,
-        "y": 5144,
-        "w": 148,
-        "h": 172,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 36",
-      "type": "shape",
-      "rect": {
-        "x": 964,
-        "y": 4904,
-        "w": 144,
-        "h": 124,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 968,
-        "y": 4968,
-        "w": 108,
-        "h": 140,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "2bf8a6694b4e.png"
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 828,
-        "y": 4800,
-        "w": 104,
-        "h": 96,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 832,
-        "y": 4844,
-        "w": 88,
-        "h": 96,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "adada6dc4f45.png"
-    },
-    {
-      "name": "Цей розділ, залишений пор..",
+      "name": "Оральний трансмукозний ..",
       "type": "text",
       "rect": {
-        "x": 1128,
-        "y": 4992,
-        "w": 3060,
-        "h": 192,
+        "x": 1156,
+        "y": 5148,
+        "w": 3436,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Цей розділ, залишений порожнім, пов’язаний із конкретними ліками та дозами. Вони визначаються місцевими процедурами.",
+      "content": "Оральний трансмукозний фентанілу цитрат (ОТФЦ) застосовується в поранених з легким або помірним болем, які НЕ мають шоку чи порушень дихання.",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Кетамін може застосовув..",
+      "type": "text",
+      "rect": {
+        "x": 1156,
+        "y": 5338,
+        "w": 3512,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Кетамін може застосовуватися ВВ чи ВК при помірному або сильному болю в поранених, які знаходяться в стані шоку, або мають порушення дихання (у разі сильного болю можна повторювати введення кожні 20 хвилин).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Дозування кетаміну: 50-..",
+      "type": "text",
+      "rect": {
+        "x": 1156,
+        "y": 5626,
+        "w": 3512,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Дозування кетаміну: 50-100 мг (або 0,5-1 мг/кг) внутрішньом’язово (ВМ) або інтраназально (ІН).",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -485,22 +873,22 @@
       }
     },
     {
-      "name": "Вводити знеболюючі..",
+      "name": "Це дозування можна повт..",
       "type": "text",
       "rect": {
-        "x": 980,
-        "y": 4836,
-        "w": 948,
-        "h": 112,
+        "x": 1482,
+        "y": 5731,
+        "w": 2526,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Вводити знеболюючі",
+      "content": "Це дозування можна повторювати кожні 20-30 хвилин ВМ або ІН.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -519,22 +907,22 @@
       }
     },
     {
-      "name": "ПЕРЕД прийомом будь-якого..",
+      "name": "Це дозування можна повт..",
       "type": "text",
       "rect": {
         "x": 980,
-        "y": 4656,
-        "w": 3848,
-        "h": 192,
+        "y": 5874,
+        "w": 2526,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕД прийомом будь-якого препарату, який може змінити психічний стан, ЗНЯТИ зброю з пораненого.",
+      "content": "Це дозування можна повторювати кожні 20-30 хвилин ВМ або ІН.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -553,28 +941,164 @@
       }
     },
     {
-      "name": "ПЕРЕВІРТЕСЬ на наявність ..",
+      "name": "Якщо виникло передозува..",
+      "type": "text",
+      "rect": {
+        "x": 978,
+        "y": 6003,
+        "w": 3236,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо виникло передозування опіоїдними препаратами, слід ввести налоксон.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Перед введенням опіоїді..",
       "type": "text",
       "rect": {
         "x": 980,
-        "y": 4540,
+        "y": 6143,
+        "w": 3612,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Перед введенням опіоїдів або кетаміну задокументуйте обстеження стану свідомості за допомогою методу AVPU.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Введіть належні знеболю..",
+      "type": "text",
+      "rect": {
+        "x": 1004,
+        "y": 4864,
+        "w": 1793,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Введіть належні знеболювальні засоби.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Роззбройте пораненого п..",
+      "type": "text",
+      "rect": {
+        "x": 1002,
+        "y": 4685,
+        "w": 3688,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Роззбройте пораненого перед тим, як вводити будь-які препарати, які можуть впливати на психічний стан.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "З’ясуйте наявність алер..",
+      "type": "text",
+      "rect": {
+        "x": 1004,
+        "y": 4506,
         "w": 3304,
-        "h": 112,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕВІРТЕСЬ на наявність алергії на ліки ПЕРЕД введенням будь-якого препарату.",
+      "content": "З’ясуйте наявність алергії на медичні препарати в пораненого перед введенням знеболювальних.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -582,77 +1106,25 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "КОНТРОЛЮЙТЕ БІЛЬ..",
+      "name": "ЗНЕБОЛЕННЯ..",
       "type": "text",
       "rect": {
         "x": 820,
         "y": 4396,
         "w": 908,
-        "h": 112,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КОНТРОЛЮЙТЕ БІЛЬ",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ІНІЦІЮВАТИ електронний мо..",
-      "type": "text",
-      "rect": {
-        "x": 844,
-        "y": 4076,
-        "w": 2548,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ІНІЦІЮВАТИ електронний моніторинг, якщо є обладнання.",
+      "content": "ЗНЕБОЛЕННЯ",
       "format": {
         "size": 80,
         "align": "left",
@@ -673,20 +1145,20 @@
       }
     },
     {
-      "name": "Дотримуйтеся англійських ..",
+      "name": "РОЗПОЧНІТЬ ЕЛЕКТРОННИЙ МО..",
       "type": "text",
       "rect": {
-        "x": 2680,
-        "y": 3536,
-        "w": 1680,
-        "h": 112,
+        "x": 831,
+        "y": 4047,
+        "w": 3438,
+        "h": 197,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Дотримуйтеся англійських літер M/A/R/C/H.",
+      "content": "РОЗПОЧНІТЬ ЕЛЕКТРОННИЙ МОНІТОРИНГ пораненого, якщо є покази та за наявності необхідного обладнання.",
       "format": {
         "size": 80,
         "align": "left",
@@ -694,7 +1166,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -707,22 +1179,22 @@
       }
     },
     {
-      "name": "КРОКІВ У ПРАВИЛЬНОМУ ПОРЯ..",
+      "name": "Дотримуйтеся правильного ..",
       "type": "text",
       "rect": {
-        "x": 2448,
-        "y": 3720,
+        "x": 2468,
+        "y": 3668,
         "w": 1540,
-        "h": 112,
+        "h": 195,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОКІВ У ПРАВИЛЬНОМУ ПОРЯДКУ",
+      "content": "Дотримуйтеся правильного порядку виконання алгоритму MARCH ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -736,77 +1208,25 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ВИКОНУВАТИ..",
+      "name": "Проведіть  повторний огля..",
       "type": "text",
       "rect": {
-        "x": 716,
-        "y": 3720,
-        "w": 652,
-        "h": 112,
+        "x": 762,
+        "y": 3512,
+        "w": 3576,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВИКОНУВАТИ",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПЕРЕОЦІНЬТЕ будь-яке попе..",
-      "type": "text",
-      "rect": {
-        "x": 820,
-        "y": 3536,
-        "w": 2336,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПЕРЕОЦІНЬТЕ будь-яке попереднє лікування",
+      "content": "Проведіть повторний огляд усіх попередніх втручань за алгоритмом MARCH",
       "format": {
         "size": 80,
         "align": "left",
@@ -827,20 +1247,20 @@
       }
     },
     {
-      "name": "За потреби ПОВІДОМІТЬ про..",
+      "name": "ПОВІДОМТЕ про стан поране..",
       "type": "text",
       "rect": {
-        "x": 820,
-        "y": 3208,
-        "w": 3092,
-        "h": 112,
+        "x": 818,
+        "y": 3193,
+        "w": 3464,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "За потреби ПОВІДОМІТЬ про стан пораненого іншому медичному персоналу.",
+      "content": "ПОВІДОМТЕ про стан пораненого іншому медичному персоналу (належним чином).",
       "format": {
         "size": 80,
         "align": "left",
@@ -861,22 +1281,22 @@
       }
     },
     {
-      "name": "Лікуйте будь-які інші тра..",
+      "name": "Надайте належну допомог..",
       "type": "text",
       "rect": {
-        "x": 992,
-        "y": 2896,
+        "x": 980,
+        "y": 2826,
         "w": 3572,
-        "h": 112,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Лікуйте будь-які інші травми голови належним чином.",
+      "content": "Надайте належну допомогу при травмі голови.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -895,28 +1315,28 @@
       }
     },
     {
-      "name": "Скринінг - який місяць, я..",
+      "name": "Якщо дозволяє час, перев..",
       "type": "text",
       "rect": {
-        "x": 992,
-        "y": 2752,
-        "w": 3400,
-        "h": 112,
+        "x": 980,
+        "y": 2626,
+        "w": 3572,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Скринінг - який місяць, яке число, який день тижня, який рік, який приблизний час доби?",
+      "content": "Якщо дозволяє час, перевірте пораненого з травмою голови за військовою шкалою оцінки струсу мозку 2 (MACE 2).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -929,62 +1349,28 @@
       }
     },
     {
-      "name": "Якщо дозволить час, перег..",
+      "name": "Призначте пораненому пе..",
       "type": "text",
       "rect": {
-        "x": 992,
-        "y": 2648,
-        "w": 4252,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Якщо дозволить час, перегляньте запитання про скринінг струсу мозку з пораненим.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Прийміть пероральні антиб..",
-      "type": "text",
-      "rect": {
-        "x": 1136,
-        "y": 2396,
+        "x": 1156,
+        "y": 2425,
         "w": 3380,
-        "h": 192,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Прийміть пероральні антибіотики при проникаючому пораненні, якщо це вказано в протоколі та в особистій аптечці.",
+      "content": "Призначте пораненому пероральний антибіотик з військового набору таблеток для лікування ран у разі проникаючої травми.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -997,28 +1383,28 @@
       }
     },
     {
-      "name": "Провести перевірку гостро..",
+      "name": "Проведіть швидкий поль..",
       "type": "text",
       "rect": {
-        "x": 1128,
-        "y": 2268,
-        "w": 4248,
-        "h": 112,
+        "x": 1156,
+        "y": 2229,
+        "w": 3436,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Провести перевірку гостроти зору. За потреби прикріпіть жорсткий щиток для очей.",
+      "content": "Проведіть швидкий польовий тест гостроти зору, закрийте травмоване око (очі) жорстким щитком (щитками) для ока.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1031,22 +1417,22 @@
       }
     },
     {
-      "name": "Лікуйте будь-яку травму о..",
+      "name": "Надайте належну допомо..",
       "type": "text",
       "rect": {
         "x": 980,
-        "y": 2140,
+        "y": 2124,
         "w": 2272,
-        "h": 112,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Лікуйте будь-яку травму ока належним чином",
+      "content": "Надайте належну допомогу при травмах очей.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1065,82 +1451,22 @@
       }
     },
     {
-      "name": "Shape 14",
-      "type": "shape",
-      "rect": {
-        "x": 804,
-        "y": 1700,
-        "w": 1380,
-        "h": 292,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 13",
-      "type": "shape",
-      "rect": {
-        "x": 820,
-        "y": 1908,
-        "w": 116,
-        "h": 104,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 828,
-        "y": 1824,
-        "w": 88,
-        "h": 92,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "418bafa64b21.png"
-    },
-    {
-      "name": "Лікуйте вторинну травму г..",
+      "name": "Попередьте вторинне пош..",
       "type": "text",
       "rect": {
         "x": 980,
-        "y": 2016,
-        "w": 2812,
-        "h": 112,
+        "y": 1992,
+        "w": 3512,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Лікуйте вторинну травму голови шляхом лікування гіпоксії та гіпотензії.",
+      "content": "Попередьте вторинне пошкодження головного мозку шляхом лікування гіпоксії та гіпотензії.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1159,22 +1485,22 @@
       }
     },
     {
-      "name": "Перевірте наявність ознак..",
+      "name": "Перевірте наявність озн..",
       "type": "text",
       "rect": {
-        "x": 992,
-        "y": 1816,
+        "x": 980,
+        "y": 1862,
         "w": 3500,
-        "h": 192,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Перевірте наявність ознак і симптомів травми голови. Шукайте проникаюче поранення ока. КАРТКА 39. - Жорсткий щиток для очей",
+      "content": "Перевірте наявність ознак та симптомів травм голови та/або проникаючих травм ока.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1193,20 +1519,20 @@
       }
     },
     {
-      "name": "ОЦІНКА НА ТРАВМУ ГОЛОВИ..",
+      "name": "ОЦІНКА ТРАВМ ГОЛОВИ..",
       "type": "text",
       "rect": {
         "x": 820,
         "y": 1716,
         "w": 1324,
-        "h": 112,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОЦІНКА НА ТРАВМУ ГОЛОВИ",
+      "content": "ОЦІНКА ТРАВМ ГОЛОВИ",
       "format": {
         "size": 80,
         "align": "left",
@@ -1222,36 +1548,27 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ПОМІСТИТЕ пораненого в су..",
+      "name": "Загорніть пораненого в ..",
       "type": "text",
       "rect": {
         "x": 980,
         "y": 1532,
         "w": 3688,
-        "h": 112,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОМІСТИТЕ пораненого в сухий спальний мішок або водонепроникний бівуачний мішок.",
+      "content": "Загорніть пораненого в водонепроникний зовнішній чохол.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1270,22 +1587,22 @@
       }
     },
     {
-      "name": "ВИКОРИСТОВУЙТЕ АКТИВНІ ЗА..",
+      "name": "Застосовуйте активні за..",
       "type": "text",
       "rect": {
         "x": 980,
-        "y": 1420,
+        "y": 1404,
         "w": 3584,
-        "h": 112,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВИКОРИСТОВУЙТЕ АКТИВНІ ЗАХОДИ РОЗІГРІВАННЯ, якщо такі є. КАРТКУ 38. - Гіпотермія",
+      "content": "Застосовуйте активні заходи зігрівання, якщо вони доступні.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1304,22 +1621,22 @@
       }
     },
     {
-      "name": "МІНІМІЗУЙТЕ контакт постр..",
+      "name": "Мінімізуйте вплив довкі..",
       "type": "text",
       "rect": {
         "x": 980,
         "y": 1288,
         "w": 3464,
-        "h": 112,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "МІНІМІЗУЙТЕ контакт постраждалого з погодою.",
+      "content": "Мінімізуйте вплив довкілля на пораненого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1342,16 +1659,16 @@
       "type": "text",
       "rect": {
         "x": 820,
-        "y": 1156,
-        "w": 2896,
-        "h": 112,
+        "y": 1145,
+        "w": 3672,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРОФІЛАКТИКА ТА ЛІКУВАННЯ ГІПОТЕРМІЇ - АКТИВНОЇ ТА ПАСИВНОЇ",
+      "content": "ПРОФІЛАКТИКА ТА ЛІКУВАННЯ ГІПОТЕРМІЇ АКТИВНИМИ/ПАСИВНИМИ МЕТОДАМИ",
       "format": {
         "size": 80,
         "align": "left",
@@ -1367,26 +1684,17 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Сторінка 5..",
+      "name": "ОЦІНКА ТРАВМ У ТАКТИЧНИХ ..",
       "type": "text",
       "rect": {
-        "x": 2292,
-        "y": 556,
-        "w": 896,
+        "x": 2773,
+        "y": 572,
+        "w": 1995,
         "h": 204,
         "r": 0
       },
@@ -1394,43 +1702,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Сторінка 5",
+      "content": "ОЦІНКА ТРАВМ У ТАКТИЧНИХ УМОВАХ (TACTICAL TRAUMA ASSESSMENT, TTA): ДОВІДНИК",
       "format": {
-        "size": 152,
-        "align": "left",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Посібник з оцінки тактичн..",
-      "type": "text",
-      "rect": {
-        "x": 2292,
-        "y": 372,
-        "w": 2612,
-        "h": 216,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Посібник з оцінки тактичної травми",
-      "format": {
-        "size": 152,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1449,22 +1723,22 @@
       }
     },
     {
-      "name": "ДІЇ ТАКТИЧНО-ПОЛЬОВОЇ МЕД..",
+      "name": "ДІЇ У ФАЗІ ДОПОМОГИ В ПОЛ..",
       "type": "text",
       "rect": {
         "x": 424,
-        "y": 840,
-        "w": 3772,
-        "h": 200,
+        "y": 832,
+        "w": 4344,
+        "h": 181,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДІЇ ТАКТИЧНО-ПОЛЬОВОЇ МЕДИЧНОЇ ДОПОМОГИ",
+      "content": "ДІЇ У ФАЗІ ДОПОМОГИ В ПОЛЬОВИХ УМОВАХ (продовження)",
       "format": {
-        "size": 144,
+        "size": 132,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1496,7 +1770,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:04Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-02T23:42:09Z",
       "format": {
         "size": 64,
         "align": "left",

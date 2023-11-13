@@ -1,6 +1,6 @@
 {
-  "id": "1a2d91b7-7f10-4b5e-832a-cd0a4cc875a8",
-  "name": "5 Pt5 ENG One-Person Drag Carry PNG(2)",
+  "id": "0e52552a-2d2e-4b73-b37e-f35a56457336",
+  "name": "5 Pt5 One-Person Drag Carry PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,211 +20,31 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "94ad976c4ed0.png"
+      "content": "4aa299ff4486.png"
     },
     {
-      "name": "Shape 10",
-      "type": "shape",
-      "rect": {
-        "x": 508,
-        "y": 1808,
-        "w": 1904,
-        "h": 1528,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Використовуючи рятувальни..",
+      "name": "ПРИМІТКА :..",
       "type": "text",
       "rect": {
-        "x": 516,
-        "y": 2948,
-        "w": 1932,
-        "h": 200,
+        "x": 292,
+        "y": 1490,
+        "w": 2148,
+        "h": 100,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Використовуючи рятувальника як милицю, ПРОЙТИ разом з пораненим у безпечне місце.",
+      "content": "ПРИМІТКА :",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Другою рукою обійміть пор..",
-      "type": "text",
-      "rect": {
-        "x": 512,
-        "y": 2568,
-        "w": 1916,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Другою рукою обійміть пораненого за талію, тримаючи одяг або пояс.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Своєю сильною рукою ВЗІПЯ..",
-      "type": "text",
-      "rect": {
-        "x": 516,
-        "y": 2184,
-        "w": 1904,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Своєю сильною рукою ВЗІПЯТЬ пораненого за зап'ястя і оберніть його навколо шиї.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ДОПОМОГТИ пораненому вста..",
-      "type": "text",
-      "rect": {
-        "x": 540,
-        "y": 1868,
-        "w": 1572,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДОПОМОГТИ пораненому встати стоячи.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 9",
-      "type": "shape",
-      "rect": {
-        "x": 244,
-        "y": 764,
-        "w": 4664,
-        "h": 840,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА. Це можна викори..",
-      "type": "text",
-      "rect": {
-        "x": 316,
-        "y": 1512,
-        "w": 2304,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА. Це можна використовувати лише для поранених у свідомості.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -246,24 +66,194 @@
       }
     },
     {
-      "name": "Підтримка милиці..",
+      "name": "Будьте опорою для поранен..",
       "type": "text",
       "rect": {
-        "x": 244,
-        "y": 1096,
-        "w": 2104,
-        "h": 328,
+        "x": 492,
+        "y": 2962,
+        "w": 1932,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Підтримка милиці",
+      "content": "Будьте опорою для пораненого, ЙДУЧИ разом із ним.",
       "format": {
-        "size": 240,
+        "size": 76,
         "align": "left",
-        "bold": false,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОБХОПІТЬ другою вашою рук..",
+      "type": "text",
+      "rect": {
+        "x": 492,
+        "y": 2569,
+        "w": 1916,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОБХОПІТЬ другою вашою рукою пояс постраждалого та візьміться за його ремінь або одяг в ділянці пряжки ременя.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Своєю домінантною рукою В..",
+      "type": "text",
+      "rect": {
+        "x": 492,
+        "y": 2184,
+        "w": 1904,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Своєю домінантною рукою ВІЗЬМІТЬ зап'ястя тієї ж руки пораненого та розмістіть його навколо своєї шиї.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ДОПОМОЖІТЬ пораненому вст..",
+      "type": "text",
+      "rect": {
+        "x": 492,
+        "y": 1867,
+        "w": 1572,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДОПОМОЖІТЬ пораненому встати з землі.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "__________ Цей метод може..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1490,
+        "w": 2304,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ Цей метод може використовуватися лише для ПРИТОМНИХ поранених.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕНЕСЕННЯ МЕТОДОМ ПІДТР..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1254,
+        "w": 2749,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕНЕСЕННЯ МЕТОДОМ ПІДТРИМУВАННЯ ",
+      "format": {
+        "size": 120,
+        "align": "left",
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -280,22 +270,22 @@
       }
     },
     {
-      "name": "Перетягніть або перенесіт..",
+      "name": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ..",
       "type": "text",
       "rect": {
         "x": 244,
-        "y": 804,
-        "w": 4812,
-        "h": 328,
+        "y": 799,
+        "w": 3062,
+        "h": 455,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Перетягніть або перенесіть одну людину",
+      "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
       "format": {
-        "size": 240,
+        "size": 180,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -327,7 +317,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:03Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:07:54Z",
       "format": {
         "size": 64,
         "align": "left",

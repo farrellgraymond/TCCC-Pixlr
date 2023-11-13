@@ -1,6 +1,6 @@
 {
-  "id": "6d9ca3f6-9391-4cec-8d75-5e5cf1af8832",
-  "name": "15 Pt2 ENG Axillary Junctional Hemorrhage Control PNG(2)",
+  "id": "2afef4c9-0610-4e20-b484-21c5a25e6034",
+  "name": "15 Pt2 Axillary Junctional Hemorrhage Control PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,397 +20,133 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "81328786440a.png"
+      "content": "06e7836c43c8.png"
     },
     {
-      "name": "Shape 23",
-      "type": "shape",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
+      "type": "text",
       "rect": {
         "x": 480,
         "y": 6024,
-        "w": 1292,
-        "h": 448,
+        "w": 1406,
+        "h": 341,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "variant": "rectangle",
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 22",
-      "type": "shape",
+      "name": "ПРОДОВЖУЙТЕ ОЦІНЮВАТИ ран..",
+      "type": "text",
       "rect": {
         "x": 3580,
-        "y": 4572,
-        "w": 1180,
-        "h": 268,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 4572,
-        "w": 1236,
-        "h": 336,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 264,
-        "y": 4756,
-        "w": 1420,
-        "h": 304,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 496,
         "y": 4572,
         "w": 1192,
-        "h": 240,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "ПРОДОВЖУЙТЕ ОЦІНЮВАТИ рану на предмет відновлення кровотечі.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 3348,
-        "y": 2772,
-        "w": 1408,
-        "h": 316,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 3580,
-        "y": 2584,
-        "w": 1152,
-        "h": 220,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 16",
-      "type": "shape",
-      "rect": {
-        "x": 1812,
-        "y": 2780,
-        "w": 1432,
-        "h": 308,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 15",
-      "type": "shape",
+      "name": "ЗАФІКСУЙТЕ верхню частину..",
+      "type": "text",
       "rect": {
         "x": 2028,
-        "y": 2588,
-        "w": 1212,
-        "h": 284,
+        "y": 4572,
+        "w": 1200,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "ЗАФІКСУЙТЕ верхню частину руки на стороні поранення до грудної клітки за допомогою косинки.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 14",
-      "type": "shape",
-      "rect": {
-        "x": 268,
-        "y": 2780,
-        "w": 1468,
-        "h": 820,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 13",
-      "type": "shape",
+      "name": "ЗАФІКСУЙТЕ кінці та вузол..",
+      "type": "text",
       "rect": {
         "x": 488,
-        "y": 2584,
-        "w": 1208,
-        "h": 288,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 12",
-      "type": "shape",
-      "rect": {
-        "x": 276,
-        "y": 800,
-        "w": 4344,
-        "h": 804,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
-      "type": "text",
-      "rect": {
-        "x": 500,
-        "y": 6032,
-        "w": 1276,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ПРОДОВЖУЙТЕ шукати ознаки..",
-      "type": "text",
-      "rect": {
-        "x": 3580,
-        "y": 4580,
-        "w": 1192,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРОДОВЖУЙТЕ шукати ознаки подальшої кровотечі.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Прибинтувати травмоване п..",
-      "type": "text",
-      "rect": {
-        "x": 2044,
-        "y": 4580,
-        "w": 1200,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Прибинтувати травмоване плече до грудей.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "БЕЗПЕЧНИЙ вузол 5 см стрі..",
-      "type": "text",
-      "rect": {
-        "x": 496,
-        "y": 4580,
+        "y": 4572,
         "w": 1164,
-        "h": 200,
+        "h": 520,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "БЕЗПЕЧНИЙ вузол 5 см стрічкою.",
+      "content": "ЗАФІКСУЙТЕ кінці та вузол компресійного бандажа/еластичного бинта за допомогою клейкої стрічки (шириною 7,5 см), обернувши її навколо вузла мінімум 1,5 рази.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -423,22 +159,22 @@
       }
     },
     {
-      "name": "Щоб закріпити кінець бинт..",
+      "name": "Залежно від виду бинта, щ..",
       "type": "text",
       "rect": {
         "x": 3580,
-        "y": 2588,
+        "y": 2576,
         "w": 1224,
-        "h": 452,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Щоб закріпити кінець бинта, зав’яжіть його або використовуйте затиск. Закріпіть його, щоб він не ковзав.",
+      "content": "Залежно від виду бинта, що використовується, ЗАКРІПІТЬ його за допомогою фіксатора або зав’яжіть вільні кінці в міцний вузол.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -457,22 +193,22 @@
       }
     },
     {
-      "name": "Оберніть бинт на плечі по..",
+      "name": "ВЕДІТЬ еластичний бинт че..",
       "type": "text",
       "rect": {
-        "x": 2044,
-        "y": 2588,
+        "x": 2028,
+        "y": 2576,
         "w": 1300,
-        "h": 368,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Оберніть бинт на плечі пораненого, у формі 8, під протилежним неушкодженим плечем і на грудях/спині.",
+      "content": "ВЕДІТЬ еластичний бинт через спину та попід протилежною пахвою, обмотуючи його навколо протилежного плеча технікою «вісімки».",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -491,28 +227,62 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Якщо використов..",
+      "name": "__________ Якщо використо..",
       "type": "text",
       "rect": {
         "x": 284,
         "y": 3160,
         "w": 1376,
-        "h": 284,
+        "h": 354,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Якщо використовується еластичний бинт без застібки, залиште хвіст на спині пораненого.",
+      "content": "__________ Якщо використовується еластичний бинт без застібки, залиште вільний кінець за спиною пораненого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА : ..",
+      "type": "text",
+      "rect": {
+        "x": 284,
+        "y": 3160,
+        "w": 1376,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА : ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -534,22 +304,22 @@
       }
     },
     {
-      "name": "ПІДТРИМУЙТЕ ТИСК на упако..",
+      "name": "Продовжуючи утримувати ти..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 2588,
+        "x": 488,
+        "y": 2576,
         "w": 1280,
-        "h": 536,
+        "h": 549,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПІДТРИМУЙТЕ ТИСК на упакований перев'язувальний матеріал. Еластичним або давлячим бинтом обернути плече, повністю накрити пов'язкою.",
+      "content": "Продовжуючи утримувати тиск, ОБМОТАЙТЕ компресійний бандаж/еластичний бинт навколо ураженого плеча двічі, переконавшись, що гемостатична пов’язка або бинт під ним повністю покриті.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -568,24 +338,24 @@
       }
     },
     {
-      "name": "Продовження зі сторінки 1..",
+      "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 236,
-        "y": 1316,
+        "x": 338,
+        "y": 1392,
         "w": 3108,
-        "h": 328,
+        "h": 212,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження зі сторінки 1",
+      "content": "Продовження…",
       "format": {
-        "size": 240,
+        "size": 160,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -602,22 +372,22 @@
       }
     },
     {
-      "name": "Контроль кровотечі з пахв..",
+      "name": "ЗУПИНКА ВУЗЛОВОЇ КРОВОТЕЧ..",
       "type": "text",
       "rect": {
         "x": 236,
-        "y": 808,
-        "w": 4920,
-        "h": 328,
+        "y": 809,
+        "w": 4110,
+        "h": 507,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Контроль кровотечі з пахвової артерії",
+      "content": "ЗУПИНКА ВУЗЛОВОЇ КРОВОТЕЧІ В ПАХВОВІЙ ДІЛЯНЦІ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -649,7 +419,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:32:57Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-04T21:12:59Z",
       "format": {
         "size": 64,
         "align": "left",
