@@ -23,136 +23,7 @@
       "content": "37b2a8724d16.png"
     },
     {
-      "name": "ПРИМІТКА ДО КРОКУ 9 :..",
-      "type": "text",
-      "rect": {
-        "x": 478,
-        "y": 5939,
-        "w": 2564,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА ДО КРОКУ 9 :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА ДО КРОКУ 9 :..",
-      "type": "text",
-      "rect": {
-        "x": 478,
-        "y": 6300,
-        "w": 2564,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА ДО КРОКУ 9 :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА ДО КРОКУ 9 :..",
-      "type": "text",
-      "rect": {
-        "x": 478,
-        "y": 6197,
-        "w": 2564,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА ДО КРОКУ 9 :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 484,
@@ -165,7 +36,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -187,7 +58,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -195,7 +66,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 2795,
@@ -208,7 +79,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -230,7 +101,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -238,7 +109,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА ДО КРОКУ 1 :..",
+      "name": "ПРИМІТКА ДО КРОКУ 1:..",
       "type": "text",
       "rect": {
         "x": 342,
@@ -251,7 +122,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА ДО КРОКУ 1 :",
+      "content": "ПРИМІТКА ДО КРОКУ 1:",
       "format": {
         "size": 76,
         "align": "left",
@@ -273,7 +144,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -281,7 +152,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА ДО КРОКУ 1 :..",
+      "name": "ПРИМІТКА ДО КРОКУ 1:..",
       "type": "text",
       "rect": {
         "x": 342,
@@ -294,7 +165,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА ДО КРОКУ 1 :",
+      "content": "ПРИМІТКА ДО КРОКУ 1:",
       "format": {
         "size": 76,
         "align": "left",
@@ -316,7 +187,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -324,11 +195,11 @@
       }
     },
     {
-      "name": "_____________________ Рук..",
+      "name": "ПРИМІТКА ДО КРОКУ 9: Рук..",
       "type": "text",
       "rect": {
-        "x": 484,
-        "y": 6192,
+        "x": 478,
+        "y": 6197,
         "w": 3932,
         "h": 105,
         "r": 0
@@ -337,7 +208,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_____________________ Рукою/плечем, якими ви не спираєтеся об землю, підтримуйте пораненого.",
+      "content": "ПРИМІТКА ДО КРОКУ 9: Рукою/плечем, якими ви не спираєтеся об землю, підтримуйте пораненого.",
       "format": {
         "size": 76,
         "align": "left",
@@ -358,11 +229,54 @@
       }
     },
     {
-      "name": "_____________________ Рем..",
+      "name": "ПРИМІТКА ДО КРОКУ 9:..",
       "type": "text",
       "rect": {
-        "x": 480,
-        "y": 6297,
+        "x": 478,
+        "y": 6197,
+        "w": 2564,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 9: Рем..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 6300,
         "w": 4140,
         "h": 105,
         "r": 0
@@ -371,7 +285,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_____________________ Ремінь під вашою грудною кліткою допоможе запобігти вислизанню пораненого з петлі.",
+      "content": "ПРИМІТКА ДО КРОКУ 9: Ремінь під вашою грудною кліткою допоможе запобігти вислизанню пораненого з петлі.",
       "format": {
         "size": 76,
         "align": "left",
@@ -388,6 +302,49 @@
         "fill": {
           "type": "color",
           "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 9:..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 6300,
+        "w": 2564,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
@@ -426,10 +383,10 @@
       }
     },
     {
-      "name": "_____________________ Рем..",
+      "name": "ПРИМІТКА ДО КРОКУ 9: Рем..",
       "type": "text",
       "rect": {
-        "x": 484,
+        "x": 478,
         "y": 5939,
         "w": 1935,
         "h": 271,
@@ -439,7 +396,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_____________________ Ремінь тепер розміщений поперек ваших грудей, а петля знаходиться на плечі, віддаленому від постраждалого.",
+      "content": "ПРИМІТКА ДО КРОКУ 9: Ремінь тепер розміщений поперек ваших грудей, а петля знаходиться на плечі, віддаленому від постраждалого.",
       "format": {
         "size": 76,
         "align": "left",
@@ -456,6 +413,92 @@
         "fill": {
           "type": "color",
           "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 9:..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 5939,
+        "w": 2564,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 9:..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 6197,
+        "w": 2564,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
@@ -596,7 +639,7 @@
       }
     },
     {
-      "name": "__________ Ви маєте лежат..",
+      "name": "ПРИМІТКА: Ви маєте лежат..",
       "type": "text",
       "rect": {
         "x": 2796,
@@ -609,7 +652,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Ви маєте лежати в одному з пораненим напрямку.",
+      "content": "ПРИМІТКА: Ви маєте лежати в одному з пораненим напрямку.",
       "format": {
         "size": 76,
         "align": "left",
@@ -626,6 +669,49 @@
         "fill": {
           "type": "color",
           "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 2796,
+        "y": 3908,
+        "w": 2305,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
@@ -664,7 +750,7 @@
       }
     },
     {
-      "name": "__________ Верхня частина..",
+      "name": "ПРИМІТКА: Верхня частина..",
       "type": "text",
       "rect": {
         "x": 484,
@@ -677,7 +763,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Верхня частина петлі повинна знаходитися над головою потерпілого (див. ілюстрацію).",
+      "content": "ПРИМІТКА: Верхня частина петлі повинна знаходитися над головою потерпілого (див. ілюстрацію).",
       "format": {
         "size": 76,
         "align": "left",
@@ -698,7 +784,50 @@
       }
     },
     {
-      "name": "СКРУТІТЬ  залишок петлі в..",
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 484,
+        "y": 3380,
+        "w": 2305,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "СКРУТІТЬ залишок петлі в..",
       "type": "text",
       "rect": {
         "x": 2796,
@@ -711,7 +840,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "СКРУТІТЬ  залишок петлі вісімкою.",
+      "content": "СКРУТІТЬ залишок петлі вісімкою.",
       "format": {
         "size": 76,
         "align": "left",
@@ -766,7 +895,7 @@
       }
     },
     {
-      "name": "_____________________ Мож..",
+      "name": "ПРИМІТКА ДО КРОКУ 1: Мож..",
       "type": "text",
       "rect": {
         "x": 342,
@@ -779,7 +908,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_____________________ Можна використати інші матеріали, такі як ремінь від гвинтівки або дві косинки, якщо тактичні ремені недоступні.",
+      "content": "ПРИМІТКА ДО КРОКУ 1: Можна використати інші матеріали, такі як ремінь від гвинтівки або дві косинки, якщо тактичні ремені недоступні.",
       "format": {
         "size": 76,
         "align": "left",
@@ -800,7 +929,7 @@
       }
     },
     {
-      "name": "_____________________  У ..",
+      "name": "ПРИМІТКА ДО КРОКУ 1: У ..",
       "type": "text",
       "rect": {
         "x": 342,
@@ -813,7 +942,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_____________________  У деяких випадках можуть знадобитися три тактичні ремені.",
+      "content": "ПРИМІТКА ДО КРОКУ 1: У деяких випадках можуть знадобитися три тактичні ремені.",
       "format": {
         "size": 76,
         "align": "left",
@@ -830,6 +959,221 @@
         "fill": {
           "type": "color",
           "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 1:..",
+      "type": "text",
+      "rect": {
+        "x": 342,
+        "y": 1668,
+        "w": 2940,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 1:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 1:..",
+      "type": "text",
+      "rect": {
+        "x": 342,
+        "y": 1847,
+        "w": 2940,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 1:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 9:..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 5939,
+        "w": 2564,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 9:..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 6300,
+        "w": 2564,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 9:..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 6197,
+        "w": 2564,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
@@ -983,7 +1327,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:07:54Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T09:00:51Z",
       "format": {
         "size": 64,
         "align": "left",

@@ -23,178 +23,6 @@
       "content": "97c4a479470e.png"
     },
     {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 333,
-        "y": 1645,
-        "w": 2148,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 333,
-        "y": 1947,
-        "w": 2148,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 333,
-        "y": 2232,
-        "w": 2148,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 333,
-        "y": 2520,
-        "w": 2148,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
       "name": "Як тільки поранений розмі..",
       "type": "text",
       "rect": {
@@ -399,7 +227,7 @@
       }
     },
     {
-      "name": "__________ Перенесення по..",
+      "name": "ПРИМІТКА: Перенесення по..",
       "type": "text",
       "rect": {
         "x": 333,
@@ -412,7 +240,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Перенесення пораненого високо на спині рятувальника спрощує його переміщення на середні відстані (50-300 метрів).",
+      "content": "ПРИМІТКА: Перенесення пораненого високо на спині рятувальника спрощує його переміщення на середні відстані (50-300 метрів).",
       "format": {
         "size": 76,
         "align": "left",
@@ -433,7 +261,7 @@
       }
     },
     {
-      "name": "__________ Щоб мінімізува..",
+      "name": "ПРИМІТКА: Щоб мінімізува..",
       "type": "text",
       "rect": {
         "x": 333,
@@ -446,7 +274,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Щоб мінімізувати ризик травмування рук пораненого, тримайте їх у природному положенні довкола своєї шиї.",
+      "content": "ПРИМІТКА: Щоб мінімізувати ризик травмування рук пораненого, тримайте їх у природному положенні довкола своєї шиї.",
       "format": {
         "size": 76,
         "align": "left",
@@ -467,7 +295,7 @@
       }
     },
     {
-      "name": "__________ При перенесенн..",
+      "name": "ПРИМІТКА: При перенесенн..",
       "type": "text",
       "rect": {
         "x": 333,
@@ -480,7 +308,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ При перенесенні пораненого на спині, центр його ваги розташовується у верхній частині спини рятувальника.",
+      "content": "ПРИМІТКА: При перенесенні пораненого на спині, центр його ваги розташовується у верхній частині спини рятувальника.",
       "format": {
         "size": 76,
         "align": "left",
@@ -501,7 +329,7 @@
       }
     },
     {
-      "name": "__________ Цей метод слід..",
+      "name": "ПРИМІТКА: Цей метод слід..",
       "type": "text",
       "rect": {
         "x": 333,
@@ -514,7 +342,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Цей метод слід використовувати лише для переміщення ПРИТОМНИХ постраждалих.",
+      "content": "ПРИМІТКА: Цей метод слід використовувати лише для переміщення ПРИТОМНИХ постраждалих.",
       "format": {
         "size": 76,
         "align": "left",
@@ -531,6 +359,178 @@
         "fill": {
           "type": "color",
           "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 1645,
+        "w": 2148,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 1947,
+        "w": 2148,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 2232,
+        "w": 2148,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 2520,
+        "w": 2148,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
@@ -616,7 +616,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-27T22:07:54Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T09:00:51Z",
       "format": {
         "size": 64,
         "align": "left",
