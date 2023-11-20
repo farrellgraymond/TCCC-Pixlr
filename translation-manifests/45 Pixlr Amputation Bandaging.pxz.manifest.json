@@ -1,6 +1,6 @@
 {
-  "id": "20972ec4-5447-481b-b227-eaa23a5d36a7",
-  "name": "45 ENG Amputation Bandaging PNG(2)",
+  "id": "6d9df8a7-94db-4f1e-995b-be707e718bd5",
+  "name": "45 Amputation Bandaging PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,354 +20,25 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "6866be454c82.png"
+      "content": "fb8aa0454075.png"
     },
     {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 504,
-        "y": 5436,
-        "w": 1260,
-        "h": 500,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 1788,
-        "y": 4556,
-        "w": 2900,
-        "h": 804,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 3332,
-        "y": 4164,
-        "w": 1492,
-        "h": 440,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 3592,
-        "y": 3808,
-        "w": 1172,
-        "h": 488,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 1800,
-        "y": 4096,
-        "w": 1464,
-        "h": 360,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 2052,
-        "y": 3808,
-        "w": 1212,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 512,
-        "y": 3824,
-        "w": 1216,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 240,
-        "y": 2744,
-        "w": 4572,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 3592,
-        "y": 2364,
-        "w": 1264,
-        "h": 408,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 2056,
-        "y": 2364,
-        "w": 1240,
-        "h": 480,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 504,
-        "y": 2368,
-        "w": 1212,
-        "h": 384,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 576,
-        "y": 1136,
-        "w": 2484,
-        "h": 320,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 16",
-      "type": "shape",
-      "rect": {
-        "x": 244,
-        "y": 772,
-        "w": 3552,
-        "h": 332,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА ВАЖЛИВО - Це для..",
-      "type": "text",
-      "rect": {
-        "x": 3052,
-        "y": 1180,
-        "w": 1780,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА ВАЖЛИВО - Це для перев'язки ран. Критична кровотеча була зупинена за допомогою джгута.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
         "x": 504,
-        "y": 5448,
-        "w": 1084,
-        "h": 452,
+        "y": 5431,
+        "w": 1386,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -386,28 +57,28 @@
       }
     },
     {
-      "name": "1. НІКОЛИ НЕ ГРІЙТЕ ампут..",
+      "name": "(1.) НІКОЛИ не зігрівайте..",
       "type": "text",
       "rect": {
-        "x": 1824,
-        "y": 4860,
+        "x": 1830,
+        "y": 4718,
         "w": 2572,
-        "h": 452,
+        "h": 555,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "1. НІКОЛИ НЕ ГРІЙТЕ ампутовану частину.\n2. НЕ кладіть ПРЯМО у воду.\n3. НЕ кладіть ПРЯМО на лід.\n4. НІКОЛИ НЕ ВИКОРИСТОВУЙТЕ СУХИЙ ЛІД для транспортування кінцівок.",
+      "content": "(1.) НІКОЛИ не зігрівайте ампутовану частину тіла.\n(2.) НІКОЛИ не кладіть ампутовану частину тіла безпосередньо у воду.\n(3.) НІКОЛИ не кладіть ампутовану частину тіла безпосередньо на лід.\n(4.) НІКОЛИ не використовуйте сухий лід для охолодження ампутованої частини тіла.\n",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -420,28 +91,62 @@
       }
     },
     {
-      "name": "КРОК 5 УВАГА. Уникайте по..",
+      "name": "ЗАСТЕРЕЖЕННЯ ДО КРОКУ 5:..",
       "type": "text",
       "rect": {
-        "x": 1824,
-        "y": 4640,
-        "w": 2112,
-        "h": 200,
+        "x": 1830,
+        "y": 4447,
+        "w": 1440,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 5 УВАГА. Уникайте подальшого пошкодження ампутованої кінцівки, виконавши такі дії.",
+      "content": "ЗАСТЕРЕЖЕННЯ ДО КРОКУ 5: Уникайте подальшого пошкодження ампутованої частини тіла: ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ ДО КРОКУ 5:..",
+      "type": "text",
+      "rect": {
+        "x": 1830,
+        "y": 4447,
+        "w": 1440,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ ДО КРОКУ 5:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -455,7 +160,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -463,28 +168,62 @@
       }
     },
     {
-      "name": "УВАГА. НЕ відкладайте тра..",
+      "name": "УВАГА: Не відкладайте ев..",
       "type": "text",
       "rect": {
-        "x": 3468,
-        "y": 4192,
+        "x": 3460,
+        "y": 4176,
         "w": 1364,
-        "h": 368,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "УВАГА. НЕ відкладайте транспортування, щоб знайти або доглядати за втраченою частиною тіла.",
+      "content": "УВАГА: Не відкладайте евакуацію пораненого для того, щоб знайти ампутовану частину тіла.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "УВАГА:..",
+      "type": "text",
+      "rect": {
+        "x": 3460,
+        "y": 4176,
+        "w": 1364,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "УВАГА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -498,7 +237,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -506,22 +245,22 @@
       }
     },
     {
-      "name": "Транспортуйте частину тіл..",
+      "name": "ТРАНСПОРТУЙТЕ ампутовану ..",
       "type": "text",
       "rect": {
-        "x": 3592,
-        "y": 3824,
-        "w": 1268,
-        "h": 368,
+        "x": 3584,
+        "y": 3812,
+        "w": 1304,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Транспортуйте частину тіла разом з пораненим для можливого медичного прикріплення.",
+      "content": "ТРАНСПОРТУЙТЕ ампутовану частину разом з пораненим до лікарні для можливої реімплантації або пересадки шкіри. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -540,28 +279,62 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Помістіть кінці..",
+      "name": "ПРИМІТКА: Покладіть заго..",
       "type": "text",
       "rect": {
-        "x": 1864,
-        "y": 4128,
+        "x": 1890,
+        "y": 4096,
         "w": 1272,
-        "h": 200,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Помістіть кінцівку в контейнер з трохи льоду, якщо є.",
+      "content": "ПРИМІТКА: Покладіть загорнуту частину в контейнер з льодом, якщо це можливо.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 1890,
+        "y": 4096,
+        "w": 1272,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -575,7 +348,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -583,22 +356,22 @@
       }
     },
     {
-      "name": "Запечатайте ампутовану кі..",
+      "name": "ПОКЛАДІТЬ ампутовану част..",
       "type": "text",
       "rect": {
-        "x": 2056,
-        "y": 3824,
+        "x": 2043,
+        "y": 3812,
         "w": 1188,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Запечатайте ампутовану кінцівку в чистий пластиковий пакет або чисту тканину.",
+      "content": "ПОКЛАДІТЬ ампутовану частину тіла в поліетиленовий пакет або загорніть її в косинку. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -617,22 +390,22 @@
       }
     },
     {
-      "name": "ЯКЩО ВИЯВЛЕНО, нещільно з..",
+      "name": "Нещільно ОБГОРНІТЬ ампуто..",
       "type": "text",
       "rect": {
         "x": 504,
-        "y": 3824,
+        "y": 3812,
         "w": 1220,
-        "h": 368,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЯКЩО ВИЯВЛЕНО, нещільно загорніть ампутовану кінцівку в змочену фізіологічним розчином чисту марлю.",
+      "content": "Нещільно ОБГОРНІТЬ ампутовану частину тіла (якщо її знайдено) стерильною марлею, змоченою фізіологічним розчином.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -651,28 +424,62 @@
       }
     },
     {
-      "name": "КРОК 3 ПРИМІТКА. Використ..",
+      "name": "ПРИМІТКА ДО КРОКУ 3: Мож..",
       "type": "text",
       "rect": {
-        "x": 1332,
-        "y": 2828,
-        "w": 4248,
-        "h": 116,
+        "x": 2906,
+        "y": 2789,
+        "w": 1982,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 3 ПРИМІТКА. Використовуйте стільки матеріалу, скільки потрібно, більше ніж 1 рулон.",
+      "content": "ПРИМІТКА ДО КРОКУ 3: Можливо, вам знадобиться більше однієї упаковки марлі та еластичного бинта.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 3:..",
+      "type": "text",
+      "rect": {
+        "x": 2906,
+        "y": 2789,
+        "w": 1417,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 3:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -686,7 +493,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -697,19 +504,19 @@
       "name": "НАКЛАДІТЬ еластичний бинт..",
       "type": "text",
       "rect": {
-        "x": 3592,
-        "y": 2376,
+        "x": 3584,
+        "y": 2368,
         "w": 1240,
-        "h": 368,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НАКЛАДІТЬ еластичний бинт або тугу тканинну пов’язку, щоб закрити всю рану, витягнувшись на 10 см вище ампутації.",
+      "content": "НАКЛАДІТЬ еластичний бинт або косинку поверх марлі, намотуючи їх приблизно на 10 см вище від країв кукси.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -728,22 +535,22 @@
       }
     },
     {
-      "name": "НАКЛАДІТЬ марлю та бинт н..",
+      "name": "ОБГОРНІТЬ куксу пораненог..",
       "type": "text",
       "rect": {
-        "x": 2056,
-        "y": 2376,
-        "w": 1304,
-        "h": 452,
+        "x": 2043,
+        "y": 2368,
+        "w": 1353,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НАКЛАДІТЬ марлю та бинт на куксу кінцівки. ПЕРЕКОНАЙТЕСЯ, щоб поверхня рани була повністю покрита.",
+      "content": "ОБГОРНІТЬ куксу пораненого марлею або іншим перев’язувальним матеріалом, переконавшись, що всі ділянки закриті.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -762,22 +569,22 @@
       }
     },
     {
-      "name": "ЗНАЙДИ джерело найактивні..",
+      "name": "РОЗКРИЙТЕ місце поранення..",
       "type": "text",
       "rect": {
         "x": 504,
-        "y": 2376,
+        "y": 2368,
         "w": 1220,
-        "h": 368,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗНАЙДИ джерело найактивнішої кровотечі. Необхідно зняти одяг або обладнання.",
+      "content": "РОЗКРИЙТЕ місце поранення та огляньте джерело кровотечі.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -796,28 +603,96 @@
       }
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
         "x": 600,
         "y": 1180,
         "w": 2284,
-        "h": 200,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
         "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 600,
+        "y": 1285,
+        "w": 2284,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 600,
+        "y": 1285,
+        "w": 2284,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -831,7 +706,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -839,22 +714,22 @@
       }
     },
     {
-      "name": "Перев'язка ампутацій..",
+      "name": "ПЕРЕВ’ЯЗКА ПРИ АМПУТАЦІЇ..",
       "type": "text",
       "rect": {
-        "x": 236,
-        "y": 796,
+        "x": 244,
+        "y": 802,
         "w": 4244,
-        "h": 328,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Перев'язка ампутацій",
+      "content": "ПЕРЕВ’ЯЗКА ПРИ АМПУТАЦІЇ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -886,7 +761,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:01Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T21:34:56Z",
       "format": {
         "size": 64,
         "align": "left",
