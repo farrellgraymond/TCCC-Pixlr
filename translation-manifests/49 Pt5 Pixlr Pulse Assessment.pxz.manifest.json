@@ -1,6 +1,6 @@
 {
-  "id": "880a1733-8fee-48ce-ae1a-7295cbaeae69",
-  "name": "49 Pt5 ENG Pulse Assessment PNG(2)",
+  "id": "c8bee0b6-e22c-4855-be97-aaa2ab746a09",
+  "name": "49 Pt5 Pulse Assessment PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,361 +20,103 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "ceb3bb4746de.png"
+      "content": "920c9d2a4df7.png"
     },
     {
-      "name": "Shape 34",
+      "name": "Shape 42",
       "type": "shape",
+      "rect": {
+        "x": 224,
+        "y": 4948,
+        "w": 1612,
+        "h": 1379,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-10-12 at 11.51.17 PM.png",
+      "type": "image",
       "rect": {
         "x": 292,
-        "y": 6228,
-        "w": 1444,
-        "h": 244,
+        "y": 5115,
+        "w": 1463,
+        "h": 1005,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
+      "content": "8a46a037474b.png"
     },
     {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 6036,
-        "w": 1244,
-        "h": 308,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 288,
-        "y": 4428,
-        "w": 4540,
-        "h": 584,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 3572,
-        "y": 4156,
-        "w": 1268,
-        "h": 372,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 4156,
-        "w": 1248,
-        "h": 352,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 276,
-        "y": 4344,
-        "w": 1508,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 4152,
-        "w": 1276,
-        "h": 300,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 1792,
-        "y": 2588,
-        "w": 1496,
-        "h": 336,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 256,
-        "y": 2900,
-        "w": 4020,
-        "h": 264,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 3348,
-        "y": 2584,
-        "w": 1424,
-        "h": 264,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 3572,
-        "y": 2392,
-        "w": 1184,
-        "h": 348,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 2384,
-        "w": 1248,
-        "h": 472,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 484,
-        "y": 2388,
-        "w": 1244,
-        "h": 496,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 596,
-        "y": 1132,
-        "w": 2508,
-        "h": 256,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 260,
-        "y": 760,
-        "w": 4512,
-        "h": 328,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "КРОК 4 ПРИМІТКА. Повинна ..",
+      "name": "ПРИМІТКА ДО КРОКУ 4: На ..",
       "type": "text",
       "rect": {
-        "x": 328,
-        "y": 2948,
-        "w": 4184,
-        "h": 200,
+        "x": 3557,
+        "y": 2793,
+        "w": 1352,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 4 ПРИМІТКА. Повинна відчуватися м'яка западина. Якщо ви не можете намацати пульс, трохи посуньтеся вбік, щоб спробувати більш м’яку ділянку.",
+      "content": "ПРИМІТКА ДО КРОКУ 4: На дотик має відчуватися м’яке заглиблення.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 4:..",
+      "type": "text",
+      "rect": {
+        "x": 3557,
+        "y": 2793,
+        "w": 1352,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 4:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -388,7 +130,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -396,22 +138,22 @@
       }
     },
     {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 6040,
+        "x": 1794,
+        "y": 5447,
         "w": 1244,
-        "h": 368,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -430,22 +172,38 @@
       }
     },
     {
-      "name": "Помножте отримане число н..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-07 at 9.08.48 PM.png",
+      "type": "image",
       "rect": {
-        "x": 3580,
-        "y": 4156,
-        "w": 1244,
-        "h": 284,
+        "x": 1794,
+        "y": 5241,
+        "w": 196,
+        "h": 193,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Помножте отримане число на 4, і це буде частота пульсу пораненого за хвилину.",
+      "content": "dc69900747b3.png"
+    },
+    {
+      "name": "ПОМНОЖТЕ це число на чоти..",
+      "type": "text",
+      "rect": {
+        "x": 3564,
+        "y": 4152,
+        "w": 1244,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОМНОЖТЕ це число на чотири, і ви отримаєте частоту пульсу пораненого (в ударах/хвилину).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -460,28 +218,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 15",
-      "type": "shape",
-      "rect": {
-        "x": 3968,
-        "y": 3564,
-        "w": 192,
-        "h": 84,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -492,7 +228,7 @@
         "x": 3884,
         "y": 3560,
         "w": 364,
-        "h": 92,
+        "h": 89,
         "r": 0
       },
       "opacity": 1,
@@ -520,22 +256,22 @@
       }
     },
     {
-      "name": "Використовуйте таймер і П..",
+      "name": "За допомогою таймера ПОРА..",
       "type": "text",
       "rect": {
-        "x": 2032,
-        "y": 4156,
-        "w": 1280,
-        "h": 284,
+        "x": 2024,
+        "y": 4152,
+        "w": 1316,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Використовуйте таймер і ПІДРАХУВАЙТЕ кількість імпульсів за 15 секунд.",
+      "content": "За допомогою таймера ПОРАХУЙТЕ кількість ударів протягом 15 секунд.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -554,22 +290,158 @@
       }
     },
     {
-      "name": "КРОК 5 ПРИМІТКА. Якщо все..",
+      "name": "(1.) Якщо ви не можете ві..",
       "type": "text",
       "rect": {
-        "x": 324,
-        "y": 4680,
-        "w": 2896,
-        "h": 200,
+        "x": 382,
+        "y": 4557,
+        "w": 4268,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 5 ПРИМІТКА. Якщо все ще важко відчути пульс, проведіть пальцями вгору по зв’язці до місця з’єднання з щиколоткою. Повторіть спробу там.",
+      "content": "(1.) Якщо ви не можете відчути пульс, натисніть трохи сильніше, але обережно, щоб не завдати болю пораненому.",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(2.) Якщо у вас все ще ви..",
+      "type": "text",
+      "rect": {
+        "x": 382,
+        "y": 4662,
+        "w": 4268,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(2.) Якщо у вас все ще виникають проблеми з визначенням тильної артерії стопи, змістіть пальці вище та вздовж зв’язки, поки не досягнете основи щиколотки. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(3.) У точці, де заглибле..",
+      "type": "text",
+      "rect": {
+        "x": 382,
+        "y": 4833,
+        "w": 4268,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(3.) У точці, де заглиблення переходить у кістки стопи, легше відчути пульс.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(4.) Натисність пальцями ..",
+      "type": "text",
+      "rect": {
+        "x": 382,
+        "y": 4938,
+        "w": 4268,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(4.) Натисність пальцями на заглиблення, щоб відчути тильну артерію стопи під шкірою.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 5:..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 4439,
+        "w": 1085,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 5:",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -589,7 +461,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -597,65 +469,22 @@
       }
     },
     {
-      "name": "КРОК 5 ПРИМІТКА. Якщо вам..",
+      "name": "НАТИСНІТЬ пальцями на м’я..",
       "type": "text",
       "rect": {
-        "x": 316,
-        "y": 4480,
-        "w": 2624,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "КРОК 5 ПРИМІТКА. Якщо вам важко промацати пульс, натискайте трохи сильніше, не завдавайте болю потерпілому.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Натисніть пальцями на пор..",
-      "type": "text",
-      "rect": {
-        "x": 496,
-        "y": 4156,
+        "x": 484,
+        "y": 4152,
         "w": 1328,
-        "h": 200,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Натисніть пальцями на порожнину, щоб відчути артерію.",
+      "content": "НАТИСНІТЬ пальцями на м’яке заглиблення, щоб відчути тильну артерію стопи під шкірою.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -674,22 +503,22 @@
       }
     },
     {
-      "name": "Розмістіть пальці біля су..",
+      "name": "РОЗТАШУЙТЕ пальці латерал..",
       "type": "text",
       "rect": {
-        "x": 3580,
+        "x": 3557,
         "y": 2392,
-        "w": 1140,
-        "h": 368,
+        "w": 1258,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розмістіть пальці біля сухожилля, яке утворює арку, що тягнеться від великого пальця ноги.",
+      "content": "РОЗТАШУЙТЕ пальці латерально до сухожилка-розгинача (твердого виступу, сформованого сухожилком-розгиначем) великого пальця.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -708,22 +537,22 @@
       }
     },
     {
-      "name": "Верхня частина стопи поте..",
+      "name": "ПОКЛАДІТЬ стопу пораненог..",
       "type": "text",
       "rect": {
         "x": 2032,
         "y": 2392,
         "w": 1248,
-        "h": 452,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Верхня частина стопи потерпілого повинна бути спрямована вгору. У цьому положенні шукайте піднесений звід стопи.",
+      "content": "ПОКЛАДІТЬ стопу пораненого тильною частиною вгору.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -742,28 +571,28 @@
       }
     },
     {
-      "name": "Вирівняйте середній і вка..",
+      "name": "ПРИМІТКА: У цьому положе..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 2604,
-        "w": 1256,
-        "h": 284,
+        "x": 1970,
+        "y": 2586,
+        "w": 1310,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Вирівняйте середній і вказівний пальці. Використовуйте домінуючу руку.",
+      "content": "ПРИМІТКА: У цьому положенні ви повинні побачити підняту дугу під шкірою на верхній частині стопи.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -776,96 +605,28 @@
       }
     },
     {
-      "name": "Зніміть черевик і носок п..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 2380,
-        "w": 1328,
-        "h": 200,
+        "x": 1970,
+        "y": 2586,
+        "w": 1310,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Зніміть черевик і носок пораненого.",
+      "content": "ПРИМІТКА:",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "СТОРІНКА 5 з 6 - (5/6)..",
-      "type": "text",
-      "rect": {
-        "x": 3500,
-        "y": 1152,
-        "w": 1336,
-        "h": 168,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "СТОРІНКА 5 з 6 - (5/6)",
-      "format": {
-        "size": 120,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Розгляньте можливість вик..",
-      "type": "text",
-      "rect": {
-        "x": 604,
-        "y": 1152,
-        "w": 2336,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -879,7 +640,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -887,28 +648,28 @@
       }
     },
     {
-      "name": "DORSALIS PEDIS..",
+      "name": "ЗВЕДІТЬ РАЗОМ середній та..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 964,
-        "w": 1416,
-        "h": 168,
+        "x": 484,
+        "y": 2595,
+        "w": 1256,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "DORSALIS PEDIS",
+      "content": "ЗВЕДІТЬ РАЗОМ середній та вказівний пальці своєї домінуючої руки.",
       "format": {
-        "size": 120,
+        "size": 76,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.22,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -921,22 +682,167 @@
       }
     },
     {
-      "name": "Верхня артерія стопи..",
+      "name": "ЗНІМІТЬ черевик та шкарпе..",
       "type": "text",
       "rect": {
-        "x": 260,
-        "y": 688,
-        "w": 4252,
-        "h": 328,
+        "x": 484,
+        "y": 2392,
+        "w": 1328,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Верхня артерія стопи",
+      "content": "ЗНІМІТЬ черевик та шкарпетку пораненого.",
       "format": {
-        "size": 240,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОДБАЙТЕ про засоби індив..",
+      "type": "text",
+      "rect": {
+        "x": 596,
+        "y": 1120,
+        "w": 2336,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 596,
+        "y": 1225,
+        "w": 2336,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 596,
+        "y": 1225,
+        "w": 2336,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ОЦІНКА ПУЛЬСУ НА ТИЛЬНІЙ ..",
+      "type": "text",
+      "rect": {
+        "x": 262,
+        "y": 760,
+        "w": 4576,
+        "h": 273,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОЦІНКА ПУЛЬСУ НА ТИЛЬНІЙ АРТЕРІЇ СТОПИ",
+      "format": {
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -968,7 +874,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:02Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-23T13:19:37Z",
       "format": {
         "size": 64,
         "align": "left",

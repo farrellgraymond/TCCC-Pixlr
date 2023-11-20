@@ -1,6 +1,6 @@
 {
-  "id": "d1c14098-b957-4946-b239-d4bc20c7b02b",
-  "name": "26 ENG Recovery Position PNG(2)",
+  "id": "0f133ae1-ae92-46fd-b268-6a9b522ef45d",
+  "name": "26 Recovery Position PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,273 +20,65 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "d59d8bdb4d3d.png"
+      "content": "2c798d1e46b5.png"
     },
     {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 3564,
-        "y": 5780,
-        "w": 1264,
-        "h": 496,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 2036,
-        "y": 5796,
-        "w": 1208,
-        "h": 576,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 5796,
-        "w": 1308,
-        "h": 580,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 3716,
-        "w": 1260,
-        "h": 652,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 2040,
-        "y": 3724,
-        "w": 1304,
-        "h": 528,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 3720,
-        "w": 1228,
-        "h": 400,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 3572,
-        "y": 1480,
-        "w": 1236,
-        "h": 776,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 2036,
-        "y": 1480,
-        "w": 1272,
-        "h": 532,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 1488,
-        "w": 1228,
-        "h": 336,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 16",
-      "type": "shape",
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
       "rect": {
         "x": 584,
-        "y": 1136,
-        "w": 2916,
-        "h": 316,
+        "y": 1257,
+        "w": 2268,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 15",
-      "type": "shape",
-      "rect": {
-        "x": 288,
-        "y": 800,
-        "w": 2928,
-        "h": 304,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА. Якщо можливо, п..",
-      "type": "text",
-      "rect": {
-        "x": 2832,
-        "y": 1152,
-        "w": 1888,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА. Якщо можливо, пораненого без свідомості слід завжди класти на бік, щоб запобігти аспірації рідини та полегшити дихання.",
-      "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 584,
+        "y": 1257,
+        "w": 2268,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -300,7 +92,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -308,28 +100,28 @@
       }
     },
     {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "Задокументуйте всі резуль..",
       "type": "text",
       "rect": {
-        "x": 3576,
-        "y": 5812,
+        "x": 3568,
+        "y": 5796,
         "w": 1296,
-        "h": 368,
+        "h": 354,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "Задокументуйте всі результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -342,22 +134,22 @@
       }
     },
     {
-      "name": "Обережно підняти підборід..",
+      "name": "Обережно ПІДНІМІТЬ підбор..",
       "type": "text",
       "rect": {
-        "x": 2040,
-        "y": 5812,
+        "x": 2036,
+        "y": 5806,
         "w": 1348,
-        "h": 452,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Обережно підняти підборіддя потерпілого, трохи закинувши голову назад. Для дихання це допоможе зберегти дихальні шляхи чистими та відкритими.",
+      "content": "Обережно ПІДНІМІТЬ підборіддя пораненого, щоб трохи нахилити його голову назад.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -376,22 +168,99 @@
       }
     },
     {
-      "name": "Перемістіть зігнуту ногу,..",
+      "name": "ПРИМІТКА: Таким чином ви..",
       "type": "text",
       "rect": {
-        "x": 500,
+        "x": 1963,
+        "y": 6081,
+        "w": 1395,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Таким чином ви відкриєте дихальні шляхи та допоможете пораненому легше дихати.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 1963,
+        "y": 6081,
+        "w": 1395,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПОСУНЬТЕ зігнуту ногу пор..",
+      "type": "text",
+      "rect": {
+        "x": 487,
         "y": 5812,
         "w": 1360,
-        "h": 452,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Перемістіть зігнуту ногу, яка ближче до вас, і покладіть її на землю перед тілом пораненої людини. Це допоможе врівноважити потерпілого.",
+      "content": "ПОСУНЬТЕ зігнуту ногу пораненого, яка знаходиться ближче до вас, вперед, щоб вона лягла на підлогу.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -410,96 +279,28 @@
       }
     },
     {
-      "name": "Обережно потягніть піднят..",
-      "type": "text",
-      "rect": {
-        "x": 3576,
-        "y": 3740,
-        "w": 1304,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Обережно потягніть підняте коліно до себе, щоб поранений перекотився до вас на бік. Вага тіла повинна сприяти цьому процесу.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Іншою рукою розташуйте да..",
-      "type": "text",
-      "rect": {
-        "x": 2040,
-        "y": 3740,
-        "w": 1248,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Іншою рукою розташуйте дальнє коліно пораненого, підніміть ногу в зігнутому положенні, тримаючи стопу на підошві.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Тримайте руку там, на гол..",
+      "name": "ПРИМІТКА: Дане положення..",
       "type": "text",
       "rect": {
         "x": 500,
-        "y": 3740,
-        "w": 1204,
-        "h": 368,
+        "y": 6081,
+        "w": 1360,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Тримайте руку там, на голові пораненого, щоб направляти його під час перекочення на бік.",
+      "content": "ПРИМІТКА: Дане положення допомагає надати тілу пораненого рівноваги.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -512,158 +313,22 @@
       }
     },
     {
-      "name": "Наприклад, на схемі права..",
-      "type": "text",
-      "rect": {
-        "x": 3576,
-        "y": 2032,
-        "w": 1144,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Наприклад, на схемі права рука на лівій щоці.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Використовуйте руку, яка ..",
-      "type": "text",
-      "rect": {
-        "x": 3576,
-        "y": 1496,
-        "w": 1224,
-        "h": 536,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Використовуйте руку, яка знаходиться ближче до голови пораненого, протягніть руку пораненого через його тіло та покладіть його руку біля протилежної щоки.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Обережно візьміть найближ..",
-      "type": "text",
-      "rect": {
-        "x": 2040,
-        "y": 1496,
-        "w": 1248,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Обережно візьміть найближчу до вас руку пораненого та покладіть її під прямим кутом до тіла, зігнуту в лікті, кисть спрямована вгору.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Почніть із пораненого на ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 500,
-        "y": 1496,
-        "w": 1204,
-        "h": 284,
+        "y": 6081,
+        "w": 1360,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Почніть із пораненого на спині, не завдаючи подальших травм.",
+      "content": "ПРИМІТКА:",
       "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Розгляньте можливість вик..",
-      "type": "text",
-      "rect": {
-        "x": 608,
-        "y": 1152,
-        "w": 1736,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
-      "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -683,7 +348,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -691,22 +356,337 @@
       }
     },
     {
-      "name": "Положення тіла для віднов..",
+      "name": "Обережно ПІДТЯГНІТЬ це ко..",
+      "type": "text",
+      "rect": {
+        "x": 3568,
+        "y": 3731,
+        "w": 1304,
+        "h": 354,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Обережно ПІДТЯГНІТЬ це коліно до себе, щоб поранений перевернувся на бік обличчям до вас.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Вага тіла пора..",
+      "type": "text",
+      "rect": {
+        "x": 3568,
+        "y": 4097,
+        "w": 1304,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Вага тіла пораненого допоможе перевернути його без зусиль. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 3568,
+        "y": 4097,
+        "w": 1304,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Іншою рукою ВІЗЬМІТЬ колі..",
+      "type": "text",
+      "rect": {
+        "x": 2036,
+        "y": 3731,
+        "w": 1248,
+        "h": 437,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Іншою рукою ВІЗЬМІТЬ коліно пораненого, яке знаходяться далі від вас, та ПІДТЯГНІТЬ його, щоб зігнути ногу та покласти стопу на підлогу. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПІДТРИМУЙТЕ та НАПРАВЛЯЙТ..",
+      "type": "text",
+      "rect": {
+        "x": 494,
+        "y": 3735,
+        "w": 1305,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПІДТРИМУЙТЕ та НАПРАВЛЯЙТЕ своєю рукою голову пораненого під час перевертання.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Своєю рукою, ближчою до г..",
+      "type": "text",
+      "rect": {
+        "x": 3568,
+        "y": 1496,
+        "w": 1224,
+        "h": 520,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Своєю рукою, ближчою до голови пораненого, ВІЗЬМІТЬ другу руку пораненого та ПРИТУЛІТЬ тильною стороною кисті до протилежної щоки (наприклад, права рука – ліва щока).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Ближчу до себе руку поран..",
+      "type": "text",
+      "rect": {
+        "x": 2016,
+        "y": 1496,
+        "w": 1248,
+        "h": 354,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Ближчу до себе руку пораненого обережно РОЗТАШУЙТЕ під прямим кутом до тіла, зігнуту в лікті, долонею догори.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Обережно ПОКЛАДІТЬ поране..",
+      "type": "text",
+      "rect": {
+        "x": 487,
+        "y": 1496,
+        "w": 1318,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Обережно ПОКЛАДІТЬ пораненого на спину.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОДБАЙТЕ про засоби індив..",
+      "type": "text",
+      "rect": {
+        "x": 584,
+        "y": 1152,
+        "w": 1876,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СТАБІЛЬНЕ БОКОВЕ ПОЛОЖЕНН..",
       "type": "text",
       "rect": {
         "x": 252,
-        "y": 780,
+        "y": 800,
         "w": 4248,
-        "h": 328,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Положення тіла для відновлення",
+      "content": "СТАБІЛЬНЕ БОКОВЕ ПОЛОЖЕННЯ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -738,7 +718,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:32:59Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T15:34:09Z",
       "format": {
         "size": 64,
         "align": "left",

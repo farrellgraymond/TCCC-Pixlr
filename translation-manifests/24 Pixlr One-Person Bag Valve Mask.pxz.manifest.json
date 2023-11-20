@@ -1,6 +1,6 @@
 {
-  "id": "e2f1ad49-8e60-4836-bfa0-3b1fa0d14c82",
-  "name": "24 ENG One-Person Bag Valve Mask PNG(2)(2)",
+  "id": "dc764c20-df95-4b43-a821-4cc084d16d42",
+  "name": "24 One-Person Bag Valve Mask PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,355 +20,25 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "53af9bc0473d.png"
+      "content": "91ff959e4cac.png"
     },
     {
-      "name": "Shape 35",
-      "type": "shape",
-      "rect": {
-        "x": 1812,
-        "y": 6288,
-        "w": 392,
-        "h": 228,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 34",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 6096,
-        "w": 1232,
-        "h": 416,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 484,
-        "y": 6096,
-        "w": 1296,
-        "h": 376,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 4668,
-        "w": 1304,
-        "h": 232,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 1820,
-        "y": 4860,
-        "w": 3020,
-        "h": 416,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 4672,
-        "w": 1312,
-        "h": 336,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 256,
-        "y": 4860,
-        "w": 1532,
-        "h": 224,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 488,
-        "y": 4676,
-        "w": 1260,
-        "h": 236,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 3308,
-        "y": 3276,
-        "w": 1540,
-        "h": 560,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 1776,
-        "y": 3272,
-        "w": 1476,
-        "h": 516,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 276,
-        "y": 3460,
-        "w": 1480,
-        "h": 372,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 480,
-        "y": 3272,
-        "w": 1264,
-        "h": 224,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 2240,
-        "w": 1292,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 2236,
-        "w": 1244,
-        "h": 212,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 2224,
-        "w": 1232,
-        "h": 208,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
-        "x": 2032,
-        "y": 6104,
-        "w": 1236,
-        "h": 352,
+        "x": 2028,
+        "y": 6096,
+        "w": 1666,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -390,19 +60,19 @@
       "name": "ПРОДОВЖУЙТЕ вентиляцію, с..",
       "type": "text",
       "rect": {
-        "x": 488,
-        "y": 6104,
-        "w": 1372,
-        "h": 272,
+        "x": 476,
+        "y": 6096,
+        "w": 1332,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРОДОВЖУЙТЕ вентиляцію, стежте за спонтанним диханням, періодично перевіряйте пульс.",
+      "content": "ПРОДОВЖУЙТЕ вентиляцію, слідкуйте за наявністю спонтанного дихання та періодично перевіряйте пульс.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -421,65 +91,22 @@
       }
     },
     {
-      "name": "ПРИМІТКА.  мішок Амбу мож..",
+      "name": "ПРОДОВЖУЙТЕ стискати  міш..",
       "type": "text",
       "rect": {
-        "x": 3568,
-        "y": 5048,
-        "w": 1220,
-        "h": 432,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА.  мішок Амбу може бути стиснута до вашої ноги, щоб збільшити кількість доставленої суми або зменшити втому.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПРОДОВЖУЙТЕ СТИСНУТИ мішо..",
-      "type": "text",
-      "rect": {
-        "x": 3568,
+        "x": 3555,
         "y": 4668,
         "w": 1152,
-        "h": 352,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРОДОВЖУЙТЕ СТИСНУТИ мішок кожні 5-6 секунд, частота 10-12 вдихів на хвилину.",
+      "content": "ПРОДОВЖУЙТЕ стискати  мішок кожні 5-6 секунд (10-12 вдихів на хвилину). ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -501,19 +128,19 @@
       "name": "СТИСНІТЬ мішок іншою руко..",
       "type": "text",
       "rect": {
-        "x": 2032,
-        "y": 4684,
-        "w": 1332,
-        "h": 432,
+        "x": 2012,
+        "y": 4668,
+        "w": 1276,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "СТИСНІТЬ мішок іншою рукою протягом 1-2 секунд, спостерігайте за грудною кліткою пораненого, щоб переконатися, що легені надуваються.",
+      "content": "СТИСНІТЬ мішок іншою рукою на 1-2 секунди, слідкуючи за підняттям грудної клітки, щоб переконатися в ефективності вентиляції.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -532,28 +159,28 @@
       }
     },
     {
-      "name": "ПІДТРИМУЙТЕ герметичного ..",
+      "name": "ПРИМІТКА: Як альтернатив..",
       "type": "text",
       "rect": {
-        "x": 488,
-        "y": 4684,
-        "w": 1232,
-        "h": 272,
+        "x": 1454,
+        "y": 5069,
+        "w": 3568,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПІДТРИМУЙТЕ герметичного ущільнення обличчя пораненого за допомогою тиску.",
+      "content": "ПРИМІТКА: Як альтернативний варіант, мішок можна стискати, притуливши до ноги або передпліччя, якщо треба збільшити об’єм повітря, яке вдихається, або якщо ваша рука ослабла. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -566,130 +193,28 @@
       }
     },
     {
-      "name": "Форма букви «E» утримує щ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
-        "x": 3376,
-        "y": 3556,
-        "w": 1464,
-        "h": 272,
+        "x": 1454,
+        "y": 5069,
+        "w": 3568,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Форма букви «E» утримує щелепи та дихальні шляхи відкритими з нахилом голови та підняттям підборіддя.",
+      "content": "ПРИМІТКА:",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Маска утворює щільне прил..",
-      "type": "text",
-      "rect": {
-        "x": 3348,
-        "y": 3272,
-        "w": 1456,
-        "h": 272,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Маска утворює щільне прилягання, натискаючи вниз великим і верхнім пальцями.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ФОРМА \"C\" великим і верхн..",
-      "type": "text",
-      "rect": {
-        "x": 1880,
-        "y": 3272,
-        "w": 1496,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ФОРМА \"C\" великим і верхнім пальцями навколо стрижня маски.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА - \"E\" і \"C\", одн..",
-      "type": "text",
-      "rect": {
-        "x": 488,
-        "y": 3556,
-        "w": 1020,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА - \"E\" і \"C\", одна рука.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -703,7 +228,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -711,22 +236,22 @@
       }
     },
     {
-      "name": "ВИКОРИСТОВУЙТЕ форму \"E\" ..",
+      "name": "УТРИМУЙТЕ маску, щільно п..",
       "type": "text",
       "rect": {
         "x": 488,
-        "y": 3272,
+        "y": 4668,
         "w": 1232,
-        "h": 272,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВИКОРИСТОВУЙТЕ форму \"E\" і \"C\", щоб тримати маску на роті пораненого.",
+      "content": "УТРИМУЙТЕ маску, щільно притуляючи її однією рукою до обличчя над ротом пораненого для досягнення герметичності.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -745,22 +270,22 @@
       }
     },
     {
-      "name": "З’єднайте частини мішок А..",
+      "name": "ЩІЛЬНО ПРИТУЛІТЬ маску до..",
       "type": "text",
       "rect": {
-        "x": 3568,
-        "y": 2240,
-        "w": 1272,
-        "h": 192,
+        "x": 3332,
+        "y": 3266,
+        "w": 1456,
+        "h": 549,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "З’єднайте частини мішок Амбу. Підключіть маску до мішок Амбу.",
+      "content": "ЩІЛЬНО ПРИТУЛІТЬ маску до обличчя, тиснучи донизу великим та вказівним пальцями. Одночасно виведіть нижню щелепу догори, ФОРМУЮЧИ літеру «Е», здійснюючи маневр розгинання голови/виведення підборіддя для відкриття дихальних шляхів. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -779,22 +304,201 @@
       }
     },
     {
-      "name": "ВСТАВТЕ назофарингеальний..",
+      "name": "СФОРМУЙТЕ літеру «С», роз..",
       "type": "text",
       "rect": {
-        "x": 2032,
-        "y": 2240,
+        "x": 1897,
+        "y": 3272,
+        "w": 1306,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СФОРМУЙТЕ літеру «С», розташувавши великий палець на масці у ділянці перенісся, а вказівний палець - на масці в ділянці над підборіддям.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Дана техніка в..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3601,
+        "w": 1494,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Дана техніка виконується з використанням однієї руки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3601,
+        "w": 1494,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ЗАСТОСУЙТЕ техніку «ЕС», ..",
+      "type": "text",
+      "rect": {
+        "x": 476,
+        "y": 3266,
+        "w": 1232,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТОСУЙТЕ техніку «ЕС», щоб тримати маску на обличчі пораненого, використовуючи наступний метод:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗБЕРІТЬ мішок типу Амбу (..",
+      "type": "text",
+      "rect": {
+        "x": 3555,
+        "y": 2216,
+        "w": 1318,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗБЕРІТЬ мішок типу Амбу (з’єднайте маску з портом дихального мішка).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВВЕДІТЬ назофарингеальний..",
+      "type": "text",
+      "rect": {
+        "x": 2028,
+        "y": 2224,
         "w": 1188,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВСТАВТЕ назофарингеальний дихальний шлях.",
+      "content": "ВВЕДІТЬ назофарингеальний повітровід.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -813,22 +517,22 @@
       }
     },
     {
-      "name": "Розмістіть себе над голов..",
+      "name": "СТАНЬТЕ за головою поране..",
       "type": "text",
       "rect": {
-        "x": 488,
-        "y": 2240,
-        "w": 956,
-        "h": 192,
+        "x": 476,
+        "y": 2224,
+        "w": 1256,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розмістіть себе над головою пораненого.",
+      "content": "СТАНЬТЕ за головою пораненого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -847,66 +551,22 @@
       }
     },
     {
-      "name": "Shape 6",
-      "type": "shape",
-      "rect": {
-        "x": 268,
-        "y": 756,
-        "w": 4572,
-        "h": 348,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 5",
-      "type": "shape",
+      "name": "ПОДБАЙТЕ про засоби індив..",
+      "type": "text",
       "rect": {
         "x": 576,
-        "y": 1092,
-        "w": 3368,
-        "h": 308,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Розгляньте можливість вик..",
-      "type": "text",
-      "rect": {
-        "x": 600,
-        "y": 1116,
+        "y": 1141,
         "w": 1888,
-        "h": 272,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -920,13 +580,81 @@
         },
         "fill": {
           "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 576,
+        "y": 1240,
+        "w": 1888,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 576,
+        "y": 1240,
+        "w": 1888,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
           "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -934,24 +662,24 @@
       }
     },
     {
-      "name": "Bag Valve Mask (BVM)..",
+      "name": "(однією особою)..",
       "type": "text",
       "rect": {
-        "x": 3460,
-        "y": 1176,
+        "x": 292,
+        "y": 950,
         "w": 1476,
-        "h": 168,
+        "h": 166,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Bag Valve Mask (BVM)",
+      "content": "(однією особою)",
       "format": {
         "size": 120,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -968,28 +696,28 @@
       }
     },
     {
-      "name": "мішок Амбу - один чоловік..",
+      "name": "ВЕНТИЛЯЦІЯ МІШКОМ ТИПУ АМ..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 764,
-        "w": 5016,
-        "h": 332,
+        "x": 256,
+        "y": 756,
+        "w": 4280,
+        "h": 245,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "мішок Амбу - один чоловік",
+      "content": "ВЕНТИЛЯЦІЯ МІШКОМ ТИПУ АМБУ З МАСКОЮ",
       "format": {
-        "size": 240,
+        "size": 180,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.05,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1015,7 +743,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:32:59Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T15:14:38Z",
       "format": {
         "size": 64,
         "align": "left",
