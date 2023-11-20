@@ -227,7 +227,7 @@
       }
     },
     {
-      "name": "__________ Якщо використо..",
+      "name": "ПРИМІТКА: Якщо використо..",
       "type": "text",
       "rect": {
         "x": 284,
@@ -240,7 +240,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо використовується еластичний бинт без застібки, залиште вільний кінець за спиною пораненого.",
+      "content": "ПРИМІТКА: Якщо використовується еластичний бинт без застібки, залиште вільний кінець за спиною пораненого.",
       "format": {
         "size": 76,
         "align": "left",
@@ -261,7 +261,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА : ..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 284,
@@ -274,7 +274,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА : ",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -296,7 +296,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -419,7 +419,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-04T21:12:59Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T09:00:49Z",
       "format": {
         "size": 64,
         "align": "left",
