@@ -1,6 +1,6 @@
 {
-  "id": "afd7f20b-7d28-4058-a075-64ce4cdaa31b",
-  "name": "34 Pt1 ENG Humeral Intraosseous (EZ-IO) PNG(2)",
+  "id": "fa84c502-9c7e-42f3-9d88-170e38c4134d",
+  "name": "34 Pt1 Humeral Intraosseous (EZ-IO) PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,16 +20,16 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "561a8a3b473c.png"
+      "content": "313bbf4849c9.png"
     },
     {
-      "name": "Shape 41",
+      "name": "Shape 49",
       "type": "shape",
       "rect": {
-        "x": 3352,
-        "y": 5724,
-        "w": 1484,
-        "h": 512,
+        "x": 3334,
+        "y": 2787,
+        "w": 1523,
+        "h": 1033,
         "r": 0
       },
       "opacity": 1,
@@ -45,13 +45,13 @@
       }
     },
     {
-      "name": "Shape 40",
+      "name": "Shape 44",
       "type": "shape",
       "rect": {
-        "x": 3568,
-        "y": 5532,
-        "w": 1220,
-        "h": 264,
+        "x": 3354,
+        "y": 1132,
+        "w": 242,
+        "h": 225,
         "r": 0
       },
       "opacity": 1,
@@ -67,374 +67,22 @@
       }
     },
     {
-      "name": "Shape 39",
-      "type": "shape",
-      "rect": {
-        "x": 3352,
-        "y": 5236,
-        "w": 1444,
-        "h": 288,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 38",
-      "type": "shape",
-      "rect": {
-        "x": 3564,
-        "y": 5044,
-        "w": 1232,
-        "h": 272,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 37",
-      "type": "shape",
-      "rect": {
-        "x": 1808,
-        "y": 5236,
-        "w": 1504,
-        "h": 748,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 36",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 5048,
-        "w": 1244,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 35",
-      "type": "shape",
-      "rect": {
-        "x": 264,
-        "y": 5244,
-        "w": 1480,
-        "h": 472,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 34",
-      "type": "shape",
-      "rect": {
-        "x": 496,
-        "y": 5048,
-        "w": 1252,
-        "h": 300,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 3572,
-        "y": 3660,
-        "w": 1088,
-        "h": 268,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 264,
-        "y": 3848,
-        "w": 3592,
-        "h": 332,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 3660,
-        "w": 2728,
-        "h": 308,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 272,
-        "y": 2592,
-        "w": 4516,
-        "h": 188,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 3572,
-        "y": 2248,
-        "w": 1224,
-        "h": 424,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 1796,
-        "y": 2444,
-        "w": 1480,
-        "h": 228,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 2024,
-        "y": 2244,
-        "w": 1264,
-        "h": 280,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 2248,
-        "w": 1248,
-        "h": 320,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 3572,
-        "y": 1104,
-        "w": 1276,
-        "h": 272,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 3172,
-        "y": 736,
-        "w": 1532,
-        "h": 388,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "продовження на наступній ..",
+      "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3416,
-        "y": 6240,
+        "x": 3446,
+        "y": 6283,
         "w": 1460,
-        "h": 116,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "продовження на наступній сторінці...",
+      "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -453,65 +101,22 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Тримайте кінців..",
+      "name": "ВК пристрій повинен бути ..",
       "type": "text",
       "rect": {
-        "x": 3436,
-        "y": 5924,
-        "w": 1316,
-        "h": 284,
+        "x": 3564,
+        "y": 5534,
+        "w": 1264,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Тримайте кінцівку пораненого нерухомо під час процедури не домінуючою рукою.",
+      "content": "ВК пристрій повинен бути розміщений під кутом 45 градусів до площини руки.",
       "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Внутрішньокісткова голка ..",
-      "type": "text",
-      "rect": {
-        "x": 3576,
-        "y": 5528,
-        "w": 1176,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Внутрішньокісткова голка EZ-IO драйвер або голка повинні бути під кутом 45 градусів до площини кінцівки.\n",
-      "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -530,22 +135,22 @@
       }
     },
     {
-      "name": "Тримайте механічний драйв..",
+      "name": "Тримаючи дриль або голку ..",
       "type": "text",
       "rect": {
-        "x": 3576,
-        "y": 5052,
+        "x": 3564,
+        "y": 5048,
         "w": 1224,
-        "h": 368,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Тримайте механічний драйвер або голку в домінуючій руці, тримаючи іншу руку непорушно біля місця розміщення.",
+      "content": "Тримаючи дриль або голку в домінуючій руці, другою рукою ЗАФІКСУЙТЕ руку пораненого біля місця введення.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -564,28 +169,62 @@
       }
     },
     {
-      "name": "ВАЖЛИВО - Тримайте пальці..",
+      "name": "ПРИМІТКА: Тримайте руки ..",
       "type": "text",
       "rect": {
-        "x": 1836,
-        "y": 5724,
+        "x": 1834,
+        "y": 5608,
         "w": 1432,
-        "h": 200,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВАЖЛИВО - Тримайте пальці подалі від голки.",
+      "content": "ПРИМІТКА: Тримайте руки та пальці подалі від голки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 1834,
+        "y": 5608,
+        "w": 1432,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -599,7 +238,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -607,56 +246,22 @@
       }
     },
     {
-      "name": "Якщо ви використовуєте ел..",
-      "type": "text",
-      "rect": {
-        "x": 1852,
-        "y": 5336,
-        "w": 1476,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Якщо ви використовуєте електродриль, увімкніть її на короткий час, міцно тримаючи запобіжний ковпачок.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Підготуйте ручну внутрішн..",
+      "name": "ПІДГОТУЙТЕ голку EZ-IO дл..",
       "type": "text",
       "rect": {
         "x": 2024,
-        "y": 5052,
-        "w": 1240,
-        "h": 284,
+        "y": 5048,
+        "w": 1244,
+        "h": 549,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Підготуйте ручну внутрішньокісткову голку EZ-IO, знявши запобіжний ковпачок.",
+      "content": "ПІДГОТУЙТЕ голку EZ-IO для ручного введення, знявши захисний ковпачок. Якщо ви використовуєте механічний дриль, зніміть ковпачок швидким включенням дриля, утримуючи ковпачок.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -675,28 +280,28 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Жовтий - це дор..",
+      "name": "ВІЗЬМІТЬ відповідний карт..",
       "type": "text",
       "rect": {
         "x": 496,
-        "y": 5620,
-        "w": 1032,
-        "h": 788,
+        "y": 5048,
+        "w": 1206,
+        "h": 603,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Жовтий - це дорослий розмір EZ-IO. Пройдіть подальше навчання щодо правильного вибору внутрішньокісткової голки EZ-IO. Успіх може визначатися багатьма факторами.",
+      "content": "ВІЗЬМІТЬ відповідний картридж EZ-IO. Якщо ви використовуєте механічний дриль, відкрийте картридж EZ-IO та приєднайте голку до дриля; ви почуєте характерне клацання при під’єднанні малого магніту.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -704,36 +309,27 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Знайдіть відповідну Внутр..",
+      "name": "ПРОТРІТЬ ділянку серветко..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 5052,
-        "w": 1148,
-        "h": 536,
+        "x": 3564,
+        "y": 3888,
+        "w": 1184,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Знайдіть відповідну Внутрішньокісткова голка EZ-IO. Якщо використовується механічний драйвер, буде клацання від магнітного кріплення.",
+      "content": "ПРОТРІТЬ ділянку серветкою, змоченою спиртом або повідон-йодом.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -752,62 +348,94 @@
       }
     },
     {
-      "name": "Очистіть місце спиртом аб..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-04 at 12.22.14 AM.png",
+      "type": "image",
       "rect": {
-        "x": 3568,
-        "y": 3664,
-        "w": 908,
-        "h": 200,
+        "x": 3379,
+        "y": 3896,
+        "w": 185,
+        "h": 185,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Очистіть місце спиртом або повідон-йодом.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
+      "content": "6a0fa7ea4790.png"
     },
     {
-      "name": "ПРИМІТКА. Хірургічна шийк..",
+      "name": "Screen Shot 2023-10-08 at 12.29.06 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 3364,
+        "y": 3044,
+        "w": 1476,
+        "h": 852,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "7255943345a6.png"
+    },
+    {
+      "name": "ПРИМІТКА: Хірургічна ший..",
       "type": "text",
       "rect": {
         "x": 328,
-        "y": 3948,
-        "w": 3604,
-        "h": 200,
+        "y": 3909,
+        "w": 3020,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Хірургічна шийка знаходиться трохи нижче великого горбка, зовнішньої частини передньої частини плечової кістки. Великий горбок схожий на м'яч для гольфу на трійнику.",
+      "content": "ПРИМІТКА: Хірургічна шийка плечової кістки знаходиться трохи нижче великого горбка на проксимальному кінці плечової кістки (на дотик нагадує м’яч для гольфу на підставці).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 328,
+        "y": 3909,
+        "w": 3020,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -821,7 +449,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -829,22 +457,22 @@
       }
     },
     {
-      "name": "Знайдіть більший горбок п..",
+      "name": "ПРОПАЛЬПУЙТЕ великий горб..",
       "type": "text",
       "rect": {
         "x": 496,
-        "y": 3664,
-        "w": 2528,
-        "h": 284,
+        "y": 3656,
+        "w": 2732,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Знайдіть більший горбок проксимального відділу плечової кістки та хірургічну шийку під ним. Ідеальне місце введення – 1 см вище хірургічної шийки.",
+      "content": "ПРОПАЛЬПУЙТЕ великий горбок на проксимальному кінці плечової кістки, і, нижче цього орієнтира - хірургічну шийку плечової кістки. Ідеальне місце введення – на 1 см вище хірургічної шийки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -863,28 +491,62 @@
       }
     },
     {
-      "name": "КРОК 4. Медіальна ротація..",
+      "name": "КРОК 4. ПРИМІТКА: Це зумо..",
       "type": "text",
       "rect": {
-        "x": 1852,
-        "y": 2692,
-        "w": 2992,
-        "h": 116,
+        "x": 3412,
+        "y": 2493,
+        "w": 1486,
+        "h": 437,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 4. Медіальна ротація ліктя допоможе поставити спицю плечової кістки.",
+      "content": "КРОК 4. ПРИМІТКА: Це зумовлює медіальну ротацію ліктя та плечової кістки, внаслідок чого місце для введення ВК пристрою більше виступає над поверхнею.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "КРОК 4. ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 3412,
+        "y": 2493,
+        "w": 1486,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КРОК 4. ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -898,7 +560,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -906,22 +568,22 @@
       }
     },
     {
-      "name": "Попросіть потерпілого пок..",
+      "name": "ПОПРОСІТЬ постраждалого п..",
       "type": "text",
       "rect": {
-        "x": 3568,
+        "x": 3564,
         "y": 2240,
-        "w": 1152,
-        "h": 452,
+        "w": 1276,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Попросіть потерпілого покласти руку на живіт і аддукт, підняти лікоть, щоб плечова кістка була більш виразною.",
+      "content": "ПОПРОСІТЬ постраждалого покласти руку на пупок і привести її до тулуба.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -940,22 +602,22 @@
       }
     },
     {
-      "name": "Заповніть подовжувальну т..",
+      "name": "ЗАПОВНІТЬ подовжувач для ..",
       "type": "text",
       "rect": {
         "x": 2024,
         "y": 2240,
         "w": 1388,
-        "h": 452,
+        "h": 475,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Заповніть подовжувальну трубку стерильним розчином для внутрішньовенного введення. Замініть фізіологічний розчин стерильним розчином.",
+      "content": "ЗАПОВНІТЬ подовжувач для внутрішньокісткового (ВК) катетера стерильним розчином для ВВ ін’єкцій, дотримуючись правил асептики. Замініть ізотонічний розчин NaCl на стерильний розчин для ВВ введення.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -974,22 +636,22 @@
       }
     },
     {
-      "name": "Підготуйте трубку, прикрі..",
+      "name": "ПІД’ЄДНАЙТЕ контейнер/пак..",
       "type": "text",
       "rect": {
-        "x": 496,
+        "x": 483,
         "y": 2240,
         "w": 1248,
-        "h": 284,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Підготуйте трубку, прикріпіть до пакета для внутрішньовенної інфузії.",
+      "content": "ПІД’ЄДНАЙТЕ контейнер/пакет з розчином для внутрішньовенної (ВВ) інфузії до належно підготовленої системи для ВВ інфузій.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1008,22 +670,22 @@
       }
     },
     {
-      "name": "Зберіть і підготуйте обла..",
+      "name": "ЗБЕРІТЬ, ПІДГОТУЙТЕ та ПЕ..",
       "type": "text",
       "rect": {
-        "x": 3576,
+        "x": 3832,
         "y": 1148,
-        "w": 1312,
-        "h": 200,
+        "w": 985,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Зберіть і підготуйте обладнання. Огляньте його на недоліки.",
+      "content": "ЗБЕРІТЬ, ПІДГОТУЙТЕ та ПЕРЕВІРТЕ необхідне обладнання.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1046,9 +708,9 @@
       "type": "shape",
       "rect": {
         "x": 292,
-        "y": 800,
-        "w": 3056,
-        "h": 596,
+        "y": 1086,
+        "w": 275,
+        "h": 275,
         "r": 0
       },
       "opacity": 1,
@@ -1077,25 +739,93 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "bf98a96a4ddf.png"
+      "content": "84d196254e99.png"
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
         "x": 628,
-        "y": 1200,
+        "y": 1196,
         "w": 2228,
-        "h": 200,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 628,
+        "y": 1304,
+        "w": 3013,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 628,
+        "y": 1304,
+        "w": 2228,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1115,7 +845,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1123,56 +853,22 @@
       }
     },
     {
-      "name": "EZ-IO Humeral Intraosseou..",
-      "type": "text",
-      "rect": {
-        "x": 292,
-        "y": 964,
-        "w": 4244,
-        "h": 220,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "EZ-IO Humeral Intraosseous",
-      "format": {
-        "size": 160,
-        "align": "left",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Плечова внутрішньокістков..",
+      "name": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІ..",
       "type": "text",
       "rect": {
         "x": 264,
-        "y": 692,
-        "w": 4248,
-        "h": 328,
+        "y": 729,
+        "w": 5116,
+        "h": 455,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Плечова внутрішньокісткова EZ-IO",
+      "content": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІШНЬОКІСТКОВОГО ВВЕДЕННЯ В ПЛЕЧОВУ КІСТКУ",
       "format": {
-        "size": 240,
+        "size": 180,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1191,6 +887,22 @@
       }
     },
     {
+      "name": "Screen Shot 2023-10-02 at 12.58.46 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 3641,
+        "y": 1153,
+        "w": 191,
+        "h": 185,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "45e0b33a4747.png"
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1204,7 +916,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:00Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T17:25:02Z",
       "format": {
         "size": 64,
         "align": "left",

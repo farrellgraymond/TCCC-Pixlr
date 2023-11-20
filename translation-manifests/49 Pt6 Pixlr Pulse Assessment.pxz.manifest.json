@@ -1,6 +1,6 @@
 {
-  "id": "63fe9c1e-c022-4d73-a747-e0449c33be95",
-  "name": "49 Pt6 ENG Pulse Assessment PNG(2)",
+  "id": "e24f3187-3363-4ee9-86a1-5ff6bc1bba06",
+  "name": "49 Pt6 Pulse Assessment PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,16 +20,16 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "60caa1964fac.png"
+      "content": "9823a5fb4c8a.png"
     },
     {
-      "name": "Shape 34",
+      "name": "Shape 36",
       "type": "shape",
       "rect": {
-        "x": 1836,
-        "y": 6244,
-        "w": 1444,
-        "h": 248,
+        "x": 1807,
+        "y": 3679,
+        "w": 241,
+        "h": 261,
         "r": 0
       },
       "opacity": 1,
@@ -45,330 +45,22 @@
       }
     },
     {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 2052,
-        "y": 6056,
-        "w": 1228,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 260,
-        "y": 6244,
-        "w": 1500,
-        "h": 156,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 6052,
-        "w": 1264,
-        "h": 252,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 252,
-        "y": 4012,
-        "w": 4688,
-        "h": 1060,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 3684,
-        "w": 1236,
-        "h": 356,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 3688,
-        "w": 1280,
-        "h": 288,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 280,
-        "y": 3880,
-        "w": 1500,
-        "h": 252,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 496,
-        "y": 3688,
-        "w": 1288,
-        "h": 364,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 3356,
-        "y": 2580,
-        "w": 1420,
-        "h": 132,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 3564,
-        "y": 2384,
-        "w": 1228,
-        "h": 220,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 2384,
-        "w": 1256,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 496,
-        "y": 2380,
-        "w": 1196,
-        "h": 248,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 592,
-        "y": 1108,
-        "w": 2580,
-        "h": 276,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 284,
-        "y": 808,
-        "w": 3764,
-        "h": 280,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
         "x": 2048,
-        "y": 6056,
+        "y": 6052,
         "w": 1288,
-        "h": 368,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -387,22 +79,22 @@
       }
     },
     {
-      "name": "Помножте отримане число н..",
+      "name": "ПОМНОЖТЕ це число на чоти..",
       "type": "text",
       "rect": {
         "x": 496,
-        "y": 6056,
+        "y": 6052,
         "w": 1244,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Помножте отримане число на 4, і це буде частота пульсу пораненого за хвилину.",
+      "content": "ПОМНОЖТЕ це число на чотири, і ви отримаєте частоту пульсу пораненого (в ударах/хвилину).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -417,28 +109,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 16",
-      "type": "shape",
-      "rect": {
-        "x": 912,
-        "y": 5468,
-        "w": 196,
-        "h": 80,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -449,7 +119,7 @@
         "x": 844,
         "y": 5460,
         "w": 320,
-        "h": 92,
+        "h": 89,
         "r": 0
       },
       "opacity": 1,
@@ -477,22 +147,124 @@
       }
     },
     {
-      "name": "Якщо ви все ще не відчува..",
+      "name": "(1.) Якщо ви не відчуваєт..",
       "type": "text",
       "rect": {
-        "x": 764,
-        "y": 4576,
-        "w": 2820,
-        "h": 284,
+        "x": 592,
+        "y": 4554,
+        "w": 4108,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо ви все ще не відчуваєте пульс, виверніть ногу постраждалого назовні, оголивши внутрішню частину стегна. - АБО, продовжуючи зовнішню ротацію, злегка зігніть коліно.",
+      "content": "(1.) Якщо ви не відчуваєте пульс, змініть положення пораненого (впевніться, що поранений лежить на спині з витягнутими ногами). ",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(2.) Якщо ви все ще не ві..",
+      "type": "text",
+      "rect": {
+        "x": 592,
+        "y": 4733,
+        "w": 4108,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(2.) Якщо ви все ще не відчуваєте пульс, розверніть ногу пораненого назовні, відкриваючи внутрішню частину стегна.  ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(3.) Якщо ви таки не відч..",
+      "type": "text",
+      "rect": {
+        "x": 592,
+        "y": 4912,
+        "w": 4108,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(3.) Якщо ви таки не відчуваєте пульс, поверніть ногу пораненого назовні та злегка зігніть коліно.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 5:..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 4437,
+        "w": 1124,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 5:",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -512,7 +284,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -520,28 +292,62 @@
       }
     },
     {
-      "name": "КРОК 5 ПРИМІТКА. Якщо не ..",
+      "name": "ПРИМІТКА ДО КРОКУ 4: Жол..",
       "type": "text",
       "rect": {
-        "x": 312,
-        "y": 4376,
-        "w": 4396,
-        "h": 200,
+        "x": 292,
+        "y": 4113,
+        "w": 4484,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 5 ПРИМІТКА. Якщо не вдається промацати пульс, переконайтеся, що поранений лежить рівно на спині з повністю витягнутими ногами.",
+      "content": "ПРИМІТКА ДО КРОКУ 4: Жолоб пахової зв’язки - це улоговина між верхньою частиною стегна та нижньою частиною живота, де розташовані великі судини з інтенсивним кровотоком; він знаходиться посередині між кісткою, розміщеною над статевими органами (лобковою кісткою), та верхньою частиною стегна.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 4:..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 4113,
+        "w": 4484,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 4:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -555,7 +361,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -563,47 +369,20 @@
       }
     },
     {
-      "name": "КРОК 4 ПРИМІТКА. Паховий ..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-04 at 8.45.07 PM.png",
+      "type": "image",
       "rect": {
-        "x": 312,
-        "y": 4072,
-        "w": 4252,
-        "h": 200,
+        "x": 2028,
+        "y": 3692,
+        "w": 185,
+        "h": 185,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 4 ПРИМІТКА. Паховий жолоб знаходиться між верхньою частиною стегна і животом, поруч із статевими органами. Саме там розташована більшість структур кровотоку.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "content": "51b3a32f4bfa.png"
     },
     {
       "name": "Використовуйте таймер і П..",
@@ -612,7 +391,7 @@
         "x": 3560,
         "y": 3692,
         "w": 1216,
-        "h": 284,
+        "h": 264,
         "r": 0
       },
       "opacity": 1,
@@ -640,22 +419,22 @@
       }
     },
     {
-      "name": "Обережно натисніть на арт..",
+      "name": "Обережно НАТИСНІТЬ на арт..",
       "type": "text",
       "rect": {
-        "x": 2032,
-        "y": 3692,
-        "w": 1272,
-        "h": 284,
+        "x": 2212,
+        "y": 3684,
+        "w": 1096,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Обережно натисніть на артерію двома пальцями, щоб відчути пульс.",
+      "content": "Обережно НАТИСНІТЬ на артерію двома пальцями, щоб відчути пульс.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -674,22 +453,22 @@
       }
     },
     {
-      "name": "Тисніть посередині, в діл..",
+      "name": "РОЗТАШУЙТЕ свої пальці  п..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 3692,
-        "w": 1244,
-        "h": 368,
+        "x": 480,
+        "y": 3679,
+        "w": 1420,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Тисніть посередині, в ділянці пахової жолоби, між лобковим симфізом і передньою клубовою остю.",
+      "content": "РОЗТАШУЙТЕ свої пальці  посередині між лобковим симфізом і передньою клубовою остю (чи трохи медіальніше) і натисніть пальцями всередину та вгору (за жолоб пахової зв’язки).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -708,22 +487,22 @@
       }
     },
     {
-      "name": "Проведіть уявну лінію від..",
+      "name": "НАМАЛЮЙТЕ уявну лінію між..",
       "type": "text",
       "rect": {
         "x": 3560,
-        "y": 2388,
+        "y": 2380,
         "w": 1304,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Проведіть уявну лінію від верхньої частини тазового гребеня до лобкової кістки.",
+      "content": "НАМАЛЮЙТЕ уявну лінію між передньою частиною клубового гребеня та лобковою кісткою.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -742,22 +521,22 @@
       }
     },
     {
-      "name": "Вирівняйте середній і вка..",
+      "name": "ЗВЕДІТЬ РАЗОМ середній та..",
       "type": "text",
       "rect": {
-        "x": 2032,
-        "y": 2388,
+        "x": 2028,
+        "y": 2380,
         "w": 1248,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Вирівняйте середній і вказівний пальці. Використовуйте домінуючу руку.",
+      "content": "ЗВЕДІТЬ РАЗОМ середній та вказівний пальці своєї домінуючої руки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -776,22 +555,22 @@
       }
     },
     {
-      "name": "ПОЛОЖЕННЯ пораненого на с..",
+      "name": "ПОКЛАДІТЬ пораненого у по..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 2388,
+        "x": 480,
+        "y": 2380,
         "w": 1136,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОЛОЖЕННЯ пораненого на спині, положення лежачи.",
+      "content": "ПОКЛАДІТЬ пораненого у положення лежачи на спині.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -810,62 +589,96 @@
       }
     },
     {
-      "name": "СТОРІНКА 6 з 6 - (6/6)..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
-        "x": 3524,
-        "y": 1172,
-        "w": 1332,
-        "h": 168,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "СТОРІНКА 6 з 6 - (6/6)",
-      "format": {
-        "size": 120,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Розгляньте можливість вик..",
-      "type": "text",
-      "rect": {
-        "x": 608,
-        "y": 1156,
+        "x": 592,
+        "y": 1123,
         "w": 2312,
-        "h": 200,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
         "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 592,
+        "y": 1228,
+        "w": 2312,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 592,
+        "y": 1228,
+        "w": 2312,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -879,7 +692,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -887,22 +700,22 @@
       }
     },
     {
-      "name": "Стегнова артерія..",
+      "name": "ОЦІНКА ПУЛЬСУ НА СТЕГНОВІ..",
       "type": "text",
       "rect": {
-        "x": 268,
-        "y": 800,
-        "w": 2148,
-        "h": 328,
+        "x": 223,
+        "y": 793,
+        "w": 4214,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Стегнова артерія",
+      "content": "ОЦІНКА ПУЛЬСУ НА СТЕГНОВІЙ АРТЕРІЇ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -934,7 +747,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-17T15:33:02Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-23T13:19:37Z",
       "format": {
         "size": 64,
         "align": "left",

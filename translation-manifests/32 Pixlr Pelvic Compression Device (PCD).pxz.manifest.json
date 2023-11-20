@@ -1,6 +1,6 @@
 {
-  "id": "8726d361-1df5-4f4a-b399-bfedcb6f5c08",
-  "name": "32 ENG Pelvic Compression Device (PCD) PNG(2)(2)",
+  "id": "ee00e1c0-d28d-4082-a9fb-e3345cc4d0b9",
+  "name": "32 Pelvic Compression Device (PCD) PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,31 +20,31 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "fa4ab4c94014.png"
+      "content": "9e82be0e446e.png"
     },
     {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "Задокументуйте всі резуль..",
       "type": "text",
       "rect": {
-        "x": 3592,
-        "y": 5868,
+        "x": 3567,
+        "y": 5862,
         "w": 1448,
-        "h": 352,
+        "h": 354,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "Задокументуйте всі результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -57,28 +57,62 @@
       }
     },
     {
-      "name": "Примітка. Якщо є ознаки ш..",
+      "name": "ПРИМІТКА: При появі або ..",
       "type": "text",
       "rect": {
-        "x": 508,
-        "y": 6152,
+        "x": 487,
+        "y": 6237,
         "w": 2928,
-        "h": 192,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Примітка. Якщо є ознаки шоку/внутрішньої кровотечі, змініть положення шини, щоб знерухомити таз, якщо це дозволяє тактична ситуація.",
+      "content": "ПРИМІТКА: При появі або посиленні симптомів шоку накладіть ПКТ повторно, якщо ситуація на полі бою дозволяє це здійснити.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 487,
+        "y": 6237,
+        "w": 2928,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -92,7 +126,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -100,28 +134,28 @@
       }
     },
     {
-      "name": "Спостерігайте за поранени..",
+      "name": "СЛІДКУЙТЕ за ефективністю..",
       "type": "text",
       "rect": {
-        "x": 508,
-        "y": 5868,
+        "x": 487,
+        "y": 5862,
         "w": 2808,
-        "h": 272,
+        "h": 354,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Спостерігайте за пораненим на наявність кровотечі, спостерігаючи за ознаками шоку (змінений психічний стан без травми голови та/або слабкий радіальний пульс). Внутрішньої кровотечі не видно.",
+      "content": "СЛІДКУЙТЕ за ефективністю зупинки кровотечі шляхом оцінки на наявність ознак шоку (зміна психічного стану за відсутності черепно-мозкової травми та/або слабкість чи відсутність пульсу на променевій артерії), оскільки вони також є ознаками внутрішньої кровотечі, яка може бути непомітною.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -134,22 +168,22 @@
       }
     },
     {
-      "name": "Зв'яжіть верхню частину н..",
+      "name": "ЗАФІКСУЙТЕ обидві ноги од..",
       "type": "text",
       "rect": {
-        "x": 3572,
+        "x": 3557,
         "y": 4452,
         "w": 1300,
-        "h": 352,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Зв'яжіть верхню частину ніг пораненого разом, щоб мінімалізувати зовнішню ротацію стегон",
+      "content": "ЗАФІКСУЙТЕ обидві ноги одна до одної, щоб зменшити обертання стегон назовні.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -168,28 +202,62 @@
       }
     },
     {
-      "name": "Примітка. Коли ремені зак..",
+      "name": "ПРИМІТКА: Не хвилюйтеся,..",
       "type": "text",
       "rect": {
-        "x": 1880,
+        "x": 2024,
         "y": 4724,
-        "w": 1504,
-        "h": 272,
+        "w": 1496,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Примітка. Коли ремені закріплені, може відбутися другий клацання, це нормально.",
+      "content": "ПРИМІТКА: Не хвилюйтеся, якщо почуєте клацання вдруге після закріплення пристрою. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 2024,
+        "y": 4724,
+        "w": 1496,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -203,7 +271,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -211,22 +279,22 @@
       }
     },
     {
-      "name": "Підтримуйте натяг і прити..",
+      "name": "ЗбЕРІГАЙТЕ натяг та негай..",
       "type": "text",
       "rect": {
-        "x": 2032,
+        "x": 2024,
         "y": 4452,
         "w": 1324,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Підтримуйте натяг і притисніть ремені до поверхні Шина для іммобілізації таза щоб закріпити.",
+      "content": "ЗбЕРІГАЙТЕ натяг та негайно притисніть вільний кінець ремінця до поверхні ПКТ.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -245,28 +313,62 @@
       }
     },
     {
-      "name": "Примітка. Навіть при прав..",
+      "name": "ПРИМІТКА: Пристрій може ..",
       "type": "text",
       "rect": {
         "x": 316,
-        "y": 4808,
+        "y": 4840,
         "w": 1456,
-        "h": 192,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Примітка. Навіть при правильному накладенні пряжка не завжди клацає.",
+      "content": "ПРИМІТКА: Пристрій може не завжди клацати при правильному використанні.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 316,
+        "y": 4840,
+        "w": 1456,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -280,7 +382,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -288,22 +390,22 @@
       }
     },
     {
-      "name": "Потягніть обидва ремені в..",
+      "name": "Сильно ПОТЯГНІТЬ протилеж..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 4452,
-        "w": 1276,
-        "h": 352,
+        "x": 474,
+        "y": 4439,
+        "w": 1377,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Потягніть обидва ремені в протилежних напрямках, доки не почуєте та не відчуєте фіксацію пряжки.",
+      "content": "Сильно ПОТЯГНІТЬ протилежні ремені у протилежних напрямках до моменту, поки не почуєте та не відчуєте характерне клацання пряжки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -357,25 +459,25 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "05758d5f4b52.png"
+      "content": "aee0b7f346ef.png"
     },
     {
-      "name": "Пропустіть ремінь через п..",
+      "name": "ПРОСУНЬТЕ ремінь крізь пр..",
       "type": "text",
       "rect": {
-        "x": 3472,
-        "y": 3428,
-        "w": 1716,
-        "h": 192,
+        "x": 3448,
+        "y": 3436,
+        "w": 1315,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Пропустіть ремінь через пряжку та протягніть, усуньте будь-яку слабину.",
+      "content": "ПРОСУНЬТЕ ремінь крізь пряжку та повністю затягніть.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -394,22 +496,22 @@
       }
     },
     {
-      "name": "Розмістіть Шина для іммоб..",
+      "name": "ПРОТЯГНІТЬ ПКТ позаду сте..",
       "type": "text",
       "rect": {
-        "x": 508,
-        "y": 3440,
+        "x": 487,
+        "y": 3436,
         "w": 2280,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розмістіть Шина для іммобілізації таза позаду ніг і підніміть його до рівня верхньої зовнішньої стегнової кістки.",
+      "content": "ПРОТЯГНІТЬ ПКТ позаду стегон та посуньте його вгору для розміщення на рівні великих вертлюгів.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -463,25 +565,25 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "05c99aa54887.png"
+      "content": "222aac41437a.png"
     },
     {
-      "name": "ШУКАЙТЕ, чи немає деформа..",
+      "name": "ОГЛЯНЬТЕ пораненого на на..",
       "type": "text",
       "rect": {
         "x": 3460,
         "y": 2188,
-        "w": 1420,
-        "h": 432,
+        "w": 1434,
+        "h": 475,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ШУКАЙТЕ, чи немає деформацій, синців, саден, проколів, опіків, рваних ран. ВАЖЛИВО, обережно ПОМАЦАТИ на предмет болючості, нестійкості, крепітації.",
+      "content": "ОГЛЯНЬТЕ пораненого на наявність ознак деформації, забоїв, саден, колотих ран, опіків, рваних ран або набряку; а також при пальпації визначте, чи є болісність, нестабільність чи крепітація.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -500,28 +602,62 @@
       }
     },
     {
-      "name": "Якщо можливо, направте по..",
+      "name": "ПРИМІТКА: Накажіть бійцю..",
       "type": "text",
       "rect": {
-        "x": 408,
-        "y": 2452,
-        "w": 1632,
-        "h": 192,
+        "x": 277,
+        "y": 2392,
+        "w": 1535,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо можливо, направте помічника стабілізувати зону вручну.",
+      "content": "ПРИМІТКА: Накажіть бійцю-рятувальнику руками стабілізувати тазову ділянку (якщо це можливо).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 277,
+        "y": 2392,
+        "w": 1535,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -535,7 +671,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -543,22 +679,22 @@
       }
     },
     {
-      "name": "Почніть із пораненого на ..",
+      "name": "ПОКЛАДІТЬ пораненого в по..",
       "type": "text",
       "rect": {
-        "x": 2040,
+        "x": 2032,
         "y": 2188,
         "w": 1140,
-        "h": 272,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Почніть із пораненого на спині, не завдаючи подальших травм.",
+      "content": "ПОКЛАДІТЬ пораненого в положення лежачи на спині.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -577,22 +713,22 @@
       }
     },
     {
-      "name": "Спорожніть кишені поранен..",
+      "name": "ВИЙМІТЬ все з кишень пора..",
       "type": "text",
       "rect": {
-        "x": 508,
+        "x": 487,
         "y": 2188,
-        "w": 1216,
-        "h": 272,
+        "w": 1285,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Спорожніть кишені пораненого та вийміть усі предмети навколо талії.",
+      "content": "ВИЙМІТЬ все з кишень пораненого та приберіть всі речі з ділянки таза.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -611,28 +747,62 @@
       }
     },
     {
-      "name": "Важливо. Використання Шин..",
+      "name": "ПРИМІТКА: Використання П..",
       "type": "text",
       "rect": {
-        "x": 2596,
-        "y": 1216,
+        "x": 2755,
+        "y": 1248,
         "w": 2032,
-        "h": 192,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Важливо. Використання Шина для іммобілізації таза не перешкоджає використанню Bузловий турнікет.",
+      "content": "ПРИМІТКА: Використання ПКТ не виключає накладання вузлового турнікету, якщо є покази.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 2755,
+        "y": 1248,
+        "w": 2032,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -646,7 +816,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -654,22 +824,22 @@
       }
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
         "x": 592,
         "y": 1132,
         "w": 1792,
-        "h": 272,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -683,42 +853,33 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Pelvic Compression Device..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
-        "x": 3812,
-        "y": 636,
-        "w": 1052,
-        "h": 596,
+        "x": 592,
+        "y": 1248,
+        "w": 1792,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Pelvic Compression Device (PCD)",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
-        "size": 160,
+        "size": 76,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -731,22 +892,65 @@
       }
     },
     {
-      "name": "Шина для іммобілізації та..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
-        "x": 252,
-        "y": 768,
-        "w": 3248,
-        "h": 332,
+        "x": 592,
+        "y": 1248,
+        "w": 1792,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Шина для іммобілізації таза",
+      "content": "ПРИМІТКА:",
       "format": {
-        "size": 240,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИСТРІЙ ДЛЯ КОМПРЕСІЇ ТА..",
+      "type": "text",
+      "rect": {
+        "x": 252,
+        "y": 796,
+        "w": 4126,
+        "h": 273,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИСТРІЙ ДЛЯ КОМПРЕСІЇ ТАЗА (ПКТ)",
+      "format": {
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -768,19 +972,19 @@
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
-        "x": 73,
-        "y": 1610,
-        "w": 800,
-        "h": 23,
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
         "r": 0
       },
       "opacity": 1,
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-09-19T14:45:30Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-22T17:00:20Z",
       "format": {
-        "size": 16,
+        "size": 64,
         "align": "left",
         "bold": true,
         "italic": false,
