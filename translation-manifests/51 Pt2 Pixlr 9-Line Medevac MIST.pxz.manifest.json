@@ -1,10 +1,10 @@
 {
   "id": "b1208908-7fde-4635-9130-fb26785db7b9",
-  "name": "51 Pt2 Template 9-Line Medevac MIST PNG(2)(2)",
+  "name": "51 Pt2 9-Line Medevac MIST PNG",
   "type": "document",
   "unit": "pixel",
-  "width": 1275,
-  "height": 1650,
+  "width": 5100,
+  "height": 6600,
   "stack": [
     {
       "name": "Background",
@@ -12,8 +12,8 @@
       "rect": {
         "x": 0,
         "y": 0,
-        "w": 1275,
-        "h": 1650,
+        "w": 5100,
+        "h": 6600,
         "r": 0
       },
       "opacity": 1,
@@ -23,277 +23,13 @@
       "content": "335194884c65.png"
     },
     {
-      "name": "Shape 56",
-      "type": "shape",
-      "rect": {
-        "x": 111,
-        "y": 1351,
-        "w": 1012,
-        "h": 50,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 55",
-      "type": "shape",
-      "rect": {
-        "x": 107,
-        "y": 1250,
-        "w": 491,
-        "h": 45,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 54",
-      "type": "shape",
-      "rect": {
-        "x": 111,
-        "y": 1134,
-        "w": 978,
-        "h": 56,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 53",
-      "type": "shape",
-      "rect": {
-        "x": 106,
-        "y": 867,
-        "w": 988,
-        "h": 214,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 52",
-      "type": "shape",
-      "rect": {
-        "x": 110,
-        "y": 761,
-        "w": 538,
-        "h": 47,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 51",
-      "type": "shape",
-      "rect": {
-        "x": 38,
-        "y": 630,
-        "w": 291,
-        "h": 69,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f4f2f3"
-        }
-      }
-    },
-    {
-      "name": "Shape 50",
-      "type": "shape",
-      "rect": {
-        "x": 372,
-        "y": 629,
-        "w": 826,
-        "h": 81,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f4f2f3"
-        }
-      }
-    },
-    {
-      "name": "Shape 49",
-      "type": "shape",
-      "rect": {
-        "x": 370,
-        "y": 529,
-        "w": 815,
-        "h": 87,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f4f2f3"
-        }
-      }
-    },
-    {
-      "name": "Shape 48",
-      "type": "shape",
-      "rect": {
-        "x": 37,
-        "y": 533,
-        "w": 292,
-        "h": 68,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#f4f2f3"
-        }
-      }
-    },
-    {
-      "name": "Shape 47",
-      "type": "shape",
-      "rect": {
-        "x": 370,
-        "y": 369,
-        "w": 709,
-        "h": 145,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 46",
-      "type": "shape",
-      "rect": {
-        "x": 38,
-        "y": 366,
-        "w": 271,
-        "h": 91,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 45",
-      "type": "shape",
-      "rect": {
-        "x": 17,
-        "y": 196,
-        "w": 1164,
-        "h": 114,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "ПІДГОТОВКА ЗАПИТУ НА ЕВАК..",
       "type": "text",
       "rect": {
-        "x": 17,
-        "y": 206,
-        "w": 741,
-        "h": 130,
+        "x": 25,
+        "y": 810,
+        "w": 5050,
+        "h": 476,
         "r": 0
       },
       "opacity": 1,
@@ -302,7 +38,7 @@
       "link": "",
       "content": "ПІДГОТОВКА ЗАПИТУ НА ЕВАКУАЦІЮ ТА ЗВІТУ MIST",
       "format": {
-        "size": 50,
+        "size": 195,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -321,93 +57,13 @@
       }
     },
     {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 33,
-        "y": 1335,
-        "w": 59,
-        "h": 58,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "3d6e80354213.png"
-    },
-    {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 33,
-        "y": 1230,
-        "w": 59,
-        "h": 58,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "29e0ab3142d7.png"
-    },
-    {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 33,
-        "y": 1122,
-        "w": 59,
-        "h": 58,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "3fb3a9974485.png"
-    },
-    {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 33,
-        "y": 844,
-        "w": 59,
-        "h": 58,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "d8b2b7074810.png"
-    },
-    {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 33,
-        "y": 739,
-        "w": 59,
-        "h": 58,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "9bdd91eb414f.png"
-    },
-    {
       "name": "Додайте тут примітки про ..",
       "type": "text",
       "rect": {
-        "x": 33,
-        "y": 1421,
-        "w": 448,
-        "h": 68,
+        "x": 110,
+        "y": 3320,
+        "w": 5000,
+        "h": 272,
         "r": 0
       },
       "opacity": 1,
@@ -416,10 +72,10 @@
       "link": "",
       "content": "Додайте тут примітки про місцеві позивні, коди, процедуру. Завжди пам'ятайте про оперативну таємницю.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
-        "italic": false,
+        "italic": true,
         "underline": false,
         "uppercase": false,
         "linespace": -0.22,
@@ -438,10 +94,10 @@
       "name": "Закінчуйте передачу даних..",
       "type": "text",
       "rect": {
-        "x": 113,
-        "y": 1233,
-        "w": 502,
-        "h": 28,
+        "x": 380,
+        "y": 2770,
+        "w": 2008,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
@@ -450,7 +106,7 @@
       "link": "",
       "content": "Закінчуйте передачу даних словом «ПРИЙОМ».",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -472,10 +128,10 @@
       "name": "Залиште радіо увімкненим ..",
       "type": "text",
       "rect": {
-        "x": 113,
-        "y": 1340,
-        "w": 1062,
-        "h": 28,
+        "x": 380,
+        "y": 3100,
+        "w": 4248,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
@@ -484,7 +140,7 @@
       "link": "",
       "content": "Залиште радіо увімкненим та чекайте на додатковi iнструкції або зв'язок з евакуаційним підрозділом",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -503,22 +159,22 @@
       }
     },
     {
-      "name": "Механiзм та час поранення..",
+      "name": "= Механiзм та час поранен..",
       "type": "text",
       "rect": {
-        "x": 178,
-        "y": 892,
-        "w": 478,
-        "h": 28,
+        "x": 500,
+        "y": 1670,
+        "w": 1912,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Механiзм та час поранення (якщо відомо).",
+      "content": "= Механiзм та час поранення (якщо відомо).",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -537,22 +193,22 @@
       }
     },
     {
-      "name": "Iнформацiя про поранення ..",
+      "name": "= Iнформацiя про пораненн..",
       "type": "text",
       "rect": {
-        "x": 178,
-        "y": 921,
-        "w": 478,
-        "h": 28,
+        "x": 500,
+        "y": 1800,
+        "w": 1912,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Iнформацiя про поранення / хворобу.",
+      "content": "= Iнформацiя про поранення / хворобу.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -571,22 +227,22 @@
       }
     },
     {
-      "name": "Симптоми та життєвi показ..",
+      "name": "= Симптоми та життєвi пок..",
       "type": "text",
       "rect": {
-        "x": 178,
-        "y": 950,
-        "w": 319,
-        "h": 28,
+        "x": 500,
+        "y": 1930,
+        "w": 2000,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Симптоми та життєвi показники.",
+      "content": "= Симптоми та життєвi показники.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -605,22 +261,22 @@
       }
     },
     {
-      "name": "Терапiя/надана допомога...",
+      "name": "= Терапiя/надана допомо...",
       "type": "text",
       "rect": {
-        "x": 178,
-        "y": 979,
-        "w": 276,
-        "h": 28,
+        "x": 500,
+        "y": 2060,
+        "w": 1104,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Терапiя/надана допомога.",
+      "content": "= Терапiя/надана допомога.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -642,10 +298,10 @@
       "name": "Передайте Звіт MIST щодо ..",
       "type": "text",
       "rect": {
-        "x": 113,
-        "y": 859,
-        "w": 1062,
-        "h": 28,
+        "x": 380,
+        "y": 1520,
+        "w": 4248,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
@@ -654,7 +310,7 @@
       "link": "",
       "content": "Передайте Звіт MIST щодо кожного пораненого в кінці подання Запиту на евакуацію (MEDEVAC 9-line).",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -676,10 +332,10 @@
       "name": "Передайте всі номери рядк..",
       "type": "text",
       "rect": {
-        "x": 113,
-        "y": 744,
-        "w": 815,
-        "h": 28,
+        "x": 380,
+        "y": 1190,
+        "w": 3260,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
@@ -688,7 +344,7 @@
       "link": "",
       "content": "Передайте всі номери рядків чітким голосом. Не кричіть і не говоріть занадто швидко.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -710,10 +366,10 @@
       "name": "ВИМОВЛЯЙТЕ літери та числ..",
       "type": "text",
       "rect": {
-        "x": 113,
-        "y": 1126,
-        "w": 1062,
-        "h": 28,
+        "x": 380,
+        "y": 2420,
+        "w": 4248,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
@@ -722,7 +378,7 @@
       "link": "",
       "content": "ВИМОВЛЯЙТЕ літери та числа згiдно з прийнятими радіотелефонними процедурами.",
       "format": {
-        "size": 20,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -741,57 +397,23 @@
       }
     },
     {
-      "name": "Опишіть ділянку зони приз..",
+      "name": "M..",
       "type": "text",
       "rect": {
-        "x": 529,
-        "y": 630,
-        "w": 712,
-        "h": 68,
+        "x": 380,
+        "y": 1670,
+        "w": 100,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Опишіть ділянку зони приземлення та навколишню місцевість. Якщо зможете, опишіть місцезнаходження своєї ділянки відносно помітного топографічного орієнтира (озеро, гора, башта).",
+      "content": "M",
       "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "МИРНИЙ ЧАС :..",
-      "type": "text",
-      "rect": {
-        "x": 375,
-        "y": 630,
-        "w": 155,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "МИРНИЙ ЧАС :",
-      "format": {
-        "size": 20,
-        "align": "left",
+        "size": 80,
+        "align": "center",
         "bold": true,
         "italic": false,
         "underline": false,
@@ -810,7 +432,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -818,159 +440,23 @@
       }
     },
     {
-      "name": "_____________..",
+      "name": "S..",
       "type": "text",
       "rect": {
-        "x": 375,
-        "y": 630,
-        "w": 155,
-        "h": 28,
+        "x": 380,
+        "y": 1930,
+        "w": 100,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_____________",
+      "content": "S",
       "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "C = хiмiчне забруднення..",
-      "type": "text",
-      "rect": {
-        "x": 955,
-        "y": 579,
-        "w": 260,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "C = хiмiчне забруднення",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "B = Бiологiчне забрудненн..",
-      "type": "text",
-      "rect": {
-        "x": 669,
-        "y": 579,
-        "w": 274,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "B = Бiологiчне забруднення",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "N = Ядерне забруднення..",
-      "type": "text",
-      "rect": {
-        "x": 403,
-        "y": 579,
-        "w": 253,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "N = Ядерне забруднення",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "M =..",
-      "type": "text",
-      "rect": {
-        "x": 131,
-        "y": 892,
-        "w": 57,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "M =",
-      "format": {
-        "size": 20,
-        "align": "left",
+        "size": 80,
+        "align": "center",
         "bold": true,
         "italic": false,
         "underline": false,
@@ -989,7 +475,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -997,23 +483,23 @@
       }
     },
     {
-      "name": "S =..",
+      "name": "I..",
       "type": "text",
       "rect": {
-        "x": 131,
-        "y": 950,
-        "w": 57,
-        "h": 28,
+        "x": 380,
+        "y": 1800,
+        "w": 100,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "S =",
+      "content": "I",
       "format": {
-        "size": 20,
-        "align": "left",
+        "size": 80,
+        "align": "center",
         "bold": true,
         "italic": false,
         "underline": false,
@@ -1032,7 +518,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1040,23 +526,23 @@
       }
     },
     {
-      "name": "I =..",
+      "name": "T..",
       "type": "text",
       "rect": {
-        "x": 131,
-        "y": 921,
-        "w": 57,
-        "h": 28,
+        "x": 380,
+        "y": 2060,
+        "w": 100,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "I =",
+      "content": "T",
       "format": {
-        "size": 20,
-        "align": "left",
+        "size": 80,
+        "align": "center",
         "bold": true,
         "italic": false,
         "underline": false,
@@ -1075,572 +561,10 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
-        }
-      }
-    },
-    {
-      "name": "T =..",
-      "type": "text",
-      "rect": {
-        "x": 131,
-        "y": 979,
-        "w": 57,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "T =",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Bключайте цей рядок лише ..",
-      "type": "text",
-      "rect": {
-        "x": 573,
-        "y": 529,
-        "w": 636,
-        "h": 48,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Bключайте цей рядок лише за потреби. Використовуйте лише загальноприйняті скорочення.",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ВІЙСЬКОВИЙ ЧАС : ..",
-      "type": "text",
-      "rect": {
-        "x": 375,
-        "y": 529,
-        "w": 202,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ВІЙСЬКОВИЙ ЧАС : ",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "_________________..",
-      "type": "text",
-      "rect": {
-        "x": 375,
-        "y": 529,
-        "w": 202,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "_________________",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "E = Полонений ворог..",
-      "type": "text",
-      "rect": {
-        "x": 913,
-        "y": 484,
-        "w": 233,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "E = Полонений ворог",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "D = Невійськовий іноземец..",
-      "type": "text",
-      "rect": {
-        "x": 403,
-        "y": 463,
-        "w": 355,
-        "h": 48,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "D = Невійськовий іноземець (цивільний / гуманітарний працівник)",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "C = Військові іноземні (с..",
-      "type": "text",
-      "rect": {
-        "x": 913,
-        "y": 413,
-        "w": 217,
-        "h": 48,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "C = Військові іноземні (союзницькі)",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "B = Україна невійськовий ..",
-      "type": "text",
-      "rect": {
-        "x": 648,
-        "y": 413,
-        "w": 245,
-        "h": 48,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "B = Україна невійськовий (цивільний)",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Не потрібно повідомляти к..",
-      "type": "text",
-      "rect": {
-        "x": 375,
-        "y": 363,
-        "w": 620,
-        "h": 48,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Не потрібно повідомляти кількість пацієнтів кожної категорії.\nВикористовуйте лише умовні скорочення.",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "A = Військові України..",
-      "type": "text",
-      "rect": {
-        "x": 403,
-        "y": 416,
-        "w": 218,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "A = Військові України",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Опис місцевості, включаюч..",
-      "type": "text",
-      "rect": {
-        "x": 37,
-        "y": 659,
-        "w": 299,
-        "h": 48,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Опис місцевості, включаючи військові небезпеки.",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "NBC-контамінація..",
-      "type": "text",
-      "rect": {
-        "x": 37,
-        "y": 558,
-        "w": 190,
-        "h": 28,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "NBC-контамінація",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Національність та статус ..",
-      "type": "text",
-      "rect": {
-        "x": 37,
-        "y": 395,
-        "w": 244,
-        "h": 48,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Національність та статус пацієнта.",
-      "format": {
-        "size": 20,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "РЯДОК 08 -..",
-      "type": "text",
-      "rect": {
-        "x": 37,
-        "y": 363,
-        "w": 173,
-        "h": 35,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "РЯДОК 08 -",
-      "format": {
-        "size": 25,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "РЯДОК 09 - ВКЛЮЧАТИ..",
-      "type": "text",
-      "rect": {
-        "x": 37,
-        "y": 627,
-        "w": 309,
-        "h": 35,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "РЯДОК 09 - ВКЛЮЧАТИ",
-      "format": {
-        "size": 25,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "РЯДОК 09 -..",
-      "type": "text",
-      "rect": {
-        "x": 37,
-        "y": 526,
-        "w": 173,
-        "h": 35,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "РЯДОК 09 -",
-      "format": {
-        "size": 25,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
         }
       }
     },
@@ -1658,7 +582,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-10-15T19:56:53Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-21T16:06:29Z",
       "format": {
         "size": 64,
         "align": "left",
