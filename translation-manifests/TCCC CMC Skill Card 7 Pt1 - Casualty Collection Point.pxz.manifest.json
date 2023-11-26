@@ -1,0 +1,1691 @@
+{
+  "id": "16c9a93d-80ce-496c-b242-2240591836b2",
+  "name": "7 Pt1 Casualty Collection Point PNG",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "a90aa71f4f80.png"
+    },
+    {
+      "name": "ПРИМІТКА :..",
+      "type": "text",
+      "rect": {
+        "x": 374,
+        "y": 1071,
+        "w": 4575,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА :",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Shape 83",
+      "type": "shape",
+      "rect": {
+        "x": 3424,
+        "y": 5005,
+        "w": 256,
+        "h": 101,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 76",
+      "type": "shape",
+      "rect": {
+        "x": 4326,
+        "y": 2239,
+        "w": 639,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "M 0,50 C 0,0 0,0 50,0 c 50,0 50,0 50,50 0,50 0,50 -50,50 C 0,100 0,100 0,50",
+      "format": {
+        "variant": "path",
+        "fill": {
+          "type": "color",
+          "value": "#bb3335"
+        }
+      }
+    },
+    {
+      "name": "Shape 76 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 3005,
+        "y": 4854,
+        "w": 639,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "M 0,50 C 0,0 0,0 50,0 c 50,0 50,0 50,50 0,50 0,50 -50,50 C 0,100 0,100 0,50",
+      "format": {
+        "variant": "path",
+        "fill": {
+          "type": "color",
+          "value": "#bb3335"
+        }
+      }
+    },
+    {
+      "name": "Shape 76 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4326,
+        "y": 2400,
+        "w": 639,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "M 0,50 C 0,0 0,0 50,0 c 50,0 50,0 50,50 0,50 0,50 -50,50 C 0,100 0,100 0,50",
+      "format": {
+        "variant": "path",
+        "fill": {
+          "type": "color",
+          "value": "#eb9336"
+        }
+      }
+    },
+    {
+      "name": "Shape 76 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 3241,
+        "y": 5191,
+        "w": 639,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "M 0,50 C 0,0 0,0 50,0 c 50,0 50,0 50,50 0,50 0,50 -50,50 C 0,100 0,100 0,50",
+      "format": {
+        "variant": "path",
+        "fill": {
+          "type": "color",
+          "value": "#eb9336"
+        }
+      }
+    },
+    {
+      "name": "Shape 76 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4326,
+        "y": 2555,
+        "w": 639,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "M 0,50 C 0,0 0,0 50,0 c 50,0 50,0 50,50 0,50 0,50 -50,50 C 0,100 0,100 0,50",
+      "format": {
+        "variant": "path",
+        "fill": {
+          "type": "color",
+          "value": "#958e5f"
+        }
+      }
+    },
+    {
+      "name": "Shape 76 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 3177,
+        "y": 5908,
+        "w": 639,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "M 0,50 C 0,0 0,0 50,0 c 50,0 50,0 50,50 0,50 0,50 -50,50 C 0,100 0,100 0,50",
+      "format": {
+        "variant": "path",
+        "fill": {
+          "type": "color",
+          "value": "#958e5f"
+        }
+      }
+    },
+    {
+      "name": "Shape 76 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 3388,
+        "y": 5523,
+        "w": 639,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "M 0,50 C 0,0 0,0 50,0 c 50,0 50,0 50,50 0,50 0,50 -50,50 C 0,100 0,100 0,50",
+      "format": {
+        "variant": "path",
+        "fill": {
+          "type": "color",
+          "value": "#958e5f"
+        }
+      }
+    },
+    {
+      "name": "Shape 74",
+      "type": "shape",
+      "rect": {
+        "x": 1964,
+        "y": 2938,
+        "w": 661,
+        "h": 170,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 71",
+      "type": "shape",
+      "rect": {
+        "x": 3496,
+        "y": 5668,
+        "w": 112,
+        "h": 84,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ЗВИЧАЙНА ..",
+      "type": "text",
+      "rect": {
+        "x": 3488,
+        "y": 5547,
+        "w": 499,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗВИЧАЙНА ",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ЗВИЧАЙНА ..",
+      "type": "text",
+      "rect": {
+        "x": 3265,
+        "y": 5938,
+        "w": 535,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗВИЧАЙНА ",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРІОРИТЕТНА..",
+      "type": "text",
+      "rect": {
+        "x": 3292,
+        "y": 5215,
+        "w": 541,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРІОРИТЕТНА",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "НЕВІДКЛАДНА..",
+      "type": "text",
+      "rect": {
+        "x": 3044,
+        "y": 4884,
+        "w": 648,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НЕВІДКЛАДНА",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.01,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Термінові поранені..",
+      "type": "text",
+      "rect": {
+        "x": 3012,
+        "y": 5000,
+        "w": 845,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Термінові поранені",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 39",
+      "type": "shape",
+      "rect": {
+        "x": 3600,
+        "y": 5352,
+        "w": 72,
+        "h": 72,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Відтерміновані поранені..",
+      "type": "text",
+      "rect": {
+        "x": 3266,
+        "y": 5333,
+        "w": 972,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Відтерміновані поранені",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Легкі поранені..",
+      "type": "text",
+      "rect": {
+        "x": 3429,
+        "y": 5655,
+        "w": 748,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Легкі поранені",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Очікувальні поранені..",
+      "type": "text",
+      "rect": {
+        "x": 3252,
+        "y": 6073,
+        "w": 1058,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Очікувальні поранені",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 35",
+      "type": "shape",
+      "rect": {
+        "x": 1876,
+        "y": 5932,
+        "w": 428,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Медичні запаси..",
+      "type": "text",
+      "rect": {
+        "x": 1774,
+        "y": 5932,
+        "w": 632,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Медичні запаси",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "МОРГ ДЛЯ ВБИТИХ У БОЮ..",
+      "type": "text",
+      "rect": {
+        "x": 1495,
+        "y": 5384,
+        "w": 795,
+        "h": 187,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "МОРГ ДЛЯ ВБИТИХ У БОЮ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Вибуття поранених ..",
+      "type": "text",
+      "rect": {
+        "x": 3112,
+        "y": 4208,
+        "w": 768,
+        "h": 187,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Вибуття поранених ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ТОЧКА ВХОДУ/ВИХОДУ..",
+      "type": "text",
+      "rect": {
+        "x": 1939,
+        "y": 4684,
+        "w": 1086,
+        "h": 124,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ТОЧКА ВХОДУ/ВИХОДУ",
+      "format": {
+        "size": 90,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 30",
+      "type": "shape",
+      "rect": {
+        "x": 2644,
+        "y": 4496,
+        "w": 44,
+        "h": 80,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 29",
+      "type": "shape",
+      "rect": {
+        "x": 2272,
+        "y": 4500,
+        "w": 56,
+        "h": 80,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "СОРТУВАННЯ..",
+      "type": "text",
+      "rect": {
+        "x": 2143,
+        "y": 4483,
+        "w": 788,
+        "h": 124,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СОРТУВАННЯ",
+      "format": {
+        "size": 90,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#bb3335"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.01,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Надходження поранених..",
+      "type": "text",
+      "rect": {
+        "x": 1212,
+        "y": 4208,
+        "w": 688,
+        "h": 211,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Надходження поранених",
+      "format": {
+        "size": 90,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#bb3335"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.01,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Лінійний пункт збору пора..",
+      "type": "text",
+      "rect": {
+        "x": 1676,
+        "y": 3779,
+        "w": 2650,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Лінійний пункт збору поранених зі спільними входом та виходом",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Пункт збору поранених: ..",
+      "type": "text",
+      "rect": {
+        "x": 412,
+        "y": 3776,
+        "w": 932,
+        "h": 197,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Пункт збору поранених: ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ЗВИЧАЙНА ..",
+      "type": "text",
+      "rect": {
+        "x": 4429,
+        "y": 2578,
+        "w": 505,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗВИЧАЙНА ",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРІОРИТЕТНА..",
+      "type": "text",
+      "rect": {
+        "x": 4384,
+        "y": 2425,
+        "w": 595,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРІОРИТЕТНА",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "НЕВІДКЛАДНА..",
+      "type": "text",
+      "rect": {
+        "x": 4380,
+        "y": 2259,
+        "w": 603,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НЕВІДКЛАДНА",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.01,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Вибуття поранених ..",
+      "type": "text",
+      "rect": {
+        "x": 3814,
+        "y": 2355,
+        "w": 494,
+        "h": 187,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Вибуття поранених ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ТОЧКА ВХОДУ..",
+      "type": "text",
+      "rect": {
+        "x": 1138,
+        "y": 2016,
+        "w": 672,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ТОЧКА ВХОДУ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ТЕРМІНОВІ ПОРАНЕНІ..",
+      "type": "text",
+      "rect": {
+        "x": 2864,
+        "y": 2660,
+        "w": 880,
+        "h": 187,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ТЕРМІНОВІ ПОРАНЕНІ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#bb3335"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.01,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ВІДТЕРМІНОВАНІ ПОРАНЕНІ..",
+      "type": "text",
+      "rect": {
+        "x": 2712,
+        "y": 2355,
+        "w": 732,
+        "h": 187,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІДТЕРМІНОВАНІ ПОРАНЕНІ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ec943b"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ЛЕГКІ/ ОЧІКУВАЛЬНІ ПОРАНЕ..",
+      "type": "text",
+      "rect": {
+        "x": 2304,
+        "y": 2028,
+        "w": 660,
+        "h": 264,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЛЕГКІ/ ОЧІКУВАЛЬНІ ПОРАНЕНІ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#958e5f"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "МОРГ ДЛЯ ВБИТИХ У БОЮ..",
+      "type": "text",
+      "rect": {
+        "x": 1988,
+        "y": 2935,
+        "w": 656,
+        "h": 187,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "МОРГ ДЛЯ ВБИТИХ У БОЮ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ТОЧКА ВИХОДУ..",
+      "type": "text",
+      "rect": {
+        "x": 3464,
+        "y": 1904,
+        "w": 513,
+        "h": 230,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ТОЧКА ВИХОДУ",
+      "format": {
+        "size": 90,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СОРТУВАННЯ..",
+      "type": "text",
+      "rect": {
+        "x": 1104,
+        "y": 1904,
+        "w": 828,
+        "h": 124,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СОРТУВАННЯ",
+      "format": {
+        "size": 90,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#bb3335"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.01,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Надходження поранених..",
+      "type": "text",
+      "rect": {
+        "x": 708,
+        "y": 2400,
+        "w": 680,
+        "h": 211,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Надходження поранених",
+      "format": {
+        "size": 90,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#bb3335"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.01,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Лінійний пункт збору пора..",
+      "type": "text",
+      "rect": {
+        "x": 1676,
+        "y": 1324,
+        "w": 2616,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Лінійний пункт збору поранених з окремими входом та виходом",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Пункт збору поранених: ..",
+      "type": "text",
+      "rect": {
+        "x": 412,
+        "y": 1324,
+        "w": 1096,
+        "h": 106,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Пункт збору поранених: ",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "__________ План організац..",
+      "type": "text",
+      "rect": {
+        "x": 374,
+        "y": 1071,
+        "w": 4151,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "__________ План організації пункту збору поранених може змінюватися в залежності від стандартних операційних процедур (СОП) підрозділу, бойового завдання, тактичної ситуації, рельєфу місцевості тощо.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПУНКТ ЗБОРУ ПОРАНЕНИХ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 768,
+        "w": 3308,
+        "h": 273,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПУНКТ ЗБОРУ ПОРАНЕНИХ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Ukraine Medical Triage Upscale PNG.png",
+      "type": "image",
+      "rect": {
+        "x": 3016,
+        "y": 376,
+        "w": 1892,
+        "h": 700,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "content": "88ea9c984162.png"
+    },
+    {
+      "name": "Ця діаграма IV категорії ..",
+      "type": "text",
+      "rect": {
+        "x": 3232,
+        "y": 1076,
+        "w": 1460,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "content": "Ця діаграма IV категорії світло-зелена",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#bbb4a5"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.35000000000000003,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:42Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}
