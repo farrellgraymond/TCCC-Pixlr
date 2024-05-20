@@ -37,10 +37,18 @@
   },
   {
     "content": "ПРИМІТКА: Якщо кровотеча не зупиняється, продовжуйте затягувати турнікет із зубчастим механізмом, поки вона не зупиниться.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ПРИМІТКА:",
     "fillValue": "#f00505"
   },
   {
     "content": "ПРИМІТКА: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ПРИМІТКА:",
     "fillValue": "#f00505"
   },
   {
@@ -52,7 +60,7 @@
     "fillValue": "#000000"
   },
   {
-    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-18T23:16:00Z",
+    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-20T17:12:48Z",
     "fillValue": "#000000"
   }
 ]
