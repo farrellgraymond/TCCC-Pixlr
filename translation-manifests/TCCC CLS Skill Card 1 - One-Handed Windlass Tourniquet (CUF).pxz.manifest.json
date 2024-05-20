@@ -20,10 +20,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "0f7d9f954856.png"
+      "content": "57188e85484f.png"
     },
     {
-      "name": "ДІСТАНЬТЕ турнікет з..",
+      "name": "ДІСТАНЬТЕ турнікет з такт..",
       "type": "text",
       "rect": {
         "x": 324,
@@ -57,7 +57,7 @@
       }
     },
     {
-      "name": "ПРОСУНЬТЕ поранену к..",
+      "name": "ПРОСУНЬТЕ поранену кінців..",
       "type": "text",
       "rect": {
         "x": 1865,
@@ -91,7 +91,7 @@
       }
     },
     {
-      "name": "РОЗМІСТІТЬ турнікет ..",
+      "name": "РОЗМІСТІТЬ турнікет над м..",
       "type": "text",
       "rect": {
         "x": 3387,
@@ -125,7 +125,7 @@
       }
     },
     {
-      "name": "Перед затягуванням т..",
+      "name": "Перед затягуванням турнік..",
       "type": "text",
       "rect": {
         "x": 324,
@@ -159,7 +159,7 @@
       }
     },
     {
-      "name": "ЗАКРУЧУЙТЕ вороток д..",
+      "name": "ЗАКРУЧУЙТЕ вороток до тих..",
       "type": "text",
       "rect": {
         "x": 1865,
@@ -193,7 +193,7 @@
       }
     },
     {
-      "name": "ЗАКРІПІТЬ вороток за..",
+      "name": "ЗАКРІПІТЬ вороток за допо..",
       "type": "text",
       "rect": {
         "x": 3387,
@@ -227,7 +227,7 @@
       }
     },
     {
-      "name": "ПРОВЕДІТЬ самоклеючу..",
+      "name": "ПРОВЕДІТЬ самоклеючу стрі..",
       "type": "text",
       "rect": {
         "x": 324,
@@ -261,13 +261,13 @@
       }
     },
     {
-      "name": "ЗАКРІПІТЬ усе фіксую..",
+      "name": "ЗАКРІПІТЬ усе фіксуючою с..",
       "type": "text",
       "rect": {
         "x": 1865,
         "y": 5433,
         "w": 1429,
-        "h": 242,
+        "h": 171,
         "r": 0
       },
       "opacity": 1,
@@ -295,7 +295,7 @@
       }
     },
     {
-      "name": "Якщо відсутні ознаки..",
+      "name": "Якщо відсутні ознаки інши..",
       "type": "text",
       "rect": {
         "x": 3387,
@@ -335,7 +335,7 @@
         "x": 1865,
         "y": 5630,
         "w": 1429,
-        "h": 264,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
@@ -344,7 +344,41 @@
       "link": "",
       "content": "ПРИМІТКА: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 1865,
+        "y": 5630,
+        "w": 1429,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -359,15 +393,6 @@
         "fill": {
           "type": "color",
           "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
         }
       }
     },
@@ -487,7 +512,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-18T22:35:47Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-20T17:09:18Z",
       "format": {
         "size": 64,
         "align": "left",
