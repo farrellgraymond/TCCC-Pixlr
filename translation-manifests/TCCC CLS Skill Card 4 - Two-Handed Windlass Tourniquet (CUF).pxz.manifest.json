@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792041",
+  "id": "f249c1fe-6052-47f4-81a4-c9660b5fcb91",
   "name": "TCCC CLS Skill Card 4 - Two-Handed Windlass Tourniquet (CUF)",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,492 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4041.png"
+      "content": "1cf7b2154550.png"
+    },
+    {
+      "name": "ХВИЛИНА..",
+      "type": "text",
+      "rect": {
+        "x": 3521,
+        "y": 3619,
+        "w": 252,
+        "h": 65,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ХВИЛИНА",
+      "format": {
+        "size": 48,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "НАКЛАДАННЯ ТУРНІКЕТА З ВО..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 883,
+        "w": 4414,
+        "h": 494,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НАКЛАДАННЯ ТУРНІКЕТА З ВОРОТКОМ І ПРЯЖКОЮ ДВОМА РУКАМИ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ДІСТАНЬТЕ турнікет з такт..",
+      "type": "text",
+      "rect": {
+        "x": 307,
+        "y": 2610,
+        "w": 1429,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДІСТАНЬТЕ турнікет з тактичної індивідуальної аптечки (JFAK) та/або підсумка.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРОСУНЬТЕ поранену кінців..",
+      "type": "text",
+      "rect": {
+        "x": 1872,
+        "y": 2610,
+        "w": 1429,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРОСУНЬТЕ поранену кінцівку крізь петлю, яку утворює самоклеюча стрічка (турнікет у вигляді замкнутої петлі).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОБГОРНІТЬ ремінь навколо ..",
+      "type": "text",
+      "rect": {
+        "x": 3361,
+        "y": 2610,
+        "w": 1429,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОБГОРНІТЬ ремінь навколо кінцівки; просуньте його кінець крізь отвір пряжки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "РОЗМІСТІТЬ турнікет над м..",
+      "type": "text",
+      "rect": {
+        "x": 307,
+        "y": 3834,
+        "w": 1429,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РОЗМІСТІТЬ турнікет над місцем кровотечі, високо на кінцівці поверх одягу/уніформи.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Перед затягуванням турнік..",
+      "type": "text",
+      "rect": {
+        "x": 1854,
+        "y": 3834,
+        "w": 1429,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Перед затягуванням турнікета та закручуванням воротка ПЕРЕКОНАЙТЕСЯ, що стрічка протягнута крізь пряжку без провисань.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАКРУЧУЙТЕ вороток до тих..",
+      "type": "text",
+      "rect": {
+        "x": 3394,
+        "y": 3834,
+        "w": 1429,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАКРУЧУЙТЕ вороток до тих пір, поки кровотеча не зупиниться (кроки 1-5 слід виконати менш, ніж за 1 хв).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАКРІПІТЬ вороток за допо..",
+      "type": "text",
+      "rect": {
+        "x": 307,
+        "y": 5065,
+        "w": 1429,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАКРІПІТЬ вороток за допомогою фіксатора.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРОВЕДІТЬ самоклеючу стрі..",
+      "type": "text",
+      "rect": {
+        "x": 1872,
+        "y": 5065,
+        "w": 1429,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРОВЕДІТЬ самоклеючу стрічку навколо воротка та між фіксуючими скобами.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАКРІПІТЬ усе фіксуючою с..",
+      "type": "text",
+      "rect": {
+        "x": 3394,
+        "y": 5065,
+        "w": 1429,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАКРІПІТЬ усе фіксуючою стрічкою.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо відсутні ознаки інши..",
+      "type": "text",
+      "rect": {
+        "x": 307,
+        "y": 6198,
+        "w": 1429,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо відсутні ознаки інших масивних кровотеч, ПЕРЕМІСТІТЬ ПОРАНЕНОГО В УКРИТТЯ.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "АБО..",
+      "type": "text",
+      "rect": {
+        "x": 3140,
+        "y": 2103,
+        "w": 364,
+        "h": 133,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "АБО",
+      "format": {
+        "size": 100,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "(ДОПОМОГА ПІД ВОГНЕМ, CUF..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1377,
+        "w": 4241,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(ДОПОМОГА ПІД ВОГНЕМ, CUF)",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +521,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-27T11:29:43Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-20T17:26:46Z",
       "format": {
         "size": 64,
         "align": "left",
