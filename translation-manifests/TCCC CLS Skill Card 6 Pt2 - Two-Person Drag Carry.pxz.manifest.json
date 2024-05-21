@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792062",
+  "id": "55b3e357-9f2e-4b37-8a30-5ff88288134d",
   "name": "TCCC CLS Skill Card 6 Pt2 - Two-Person Drag Carry",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,465 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4062.png"
+      "content": "ad13b20e4cd2.png"
+    },
+    {
+      "name": "ПРИМІТКА: Підтримування д..",
+      "type": "text",
+      "rect": {
+        "x": 326,
+        "y": 1533,
+        "w": 2180,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Підтримування двома особами може використовуватися для переміщення притомних та непритомних поранених.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 10",
+      "type": "shape",
+      "rect": {
+        "x": 1246,
+        "y": 2283,
+        "w": 340,
+        "h": 340,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "ellipse",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Якщо поранений у свідомос..",
+      "type": "text",
+      "rect": {
+        "x": 594,
+        "y": 2041,
+        "w": 1815,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо поранений у свідомості, ПОСТАВТЕ його на ноги та підтримуйте, обхопивши своїми руками за його пояс.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо поранений без свідом..",
+      "type": "text",
+      "rect": {
+        "x": 594,
+        "y": 2532,
+        "w": 1815,
+        "h": 384,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо поранений без свідомості, то рятувальники мають СТАТИ НА КОЛІНО з обох боків від нього та ПІДНЯТИ пораненого в сидяче положення обличчям у тому ж напрямку, що й обличчя рятувальників.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВІЗЬМІТЬ пораненого за за..",
+      "type": "text",
+      "rect": {
+        "x": 594,
+        "y": 3202,
+        "w": 1815,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІЗЬМІТЬ пораненого за зап’ястя та закиньте кожен собі на шию ближчу до вас руку пораненого (Якщо поранений може, то нехай обхопить вас обох руками).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Розмістіть вашу другу рук..",
+      "type": "text",
+      "rect": {
+        "x": 594,
+        "y": 3817,
+        "w": 1815,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Розмістіть вашу другу руку довкола пояса пораненого та ВІЗЬМІТЬСЯ за його ремінь (якщо такий є) або за одяг/спорядження, якщо це можливо.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА Якщо поранений н..",
+      "type": "text",
+      "rect": {
+        "x": 363,
+        "y": 4407,
+        "w": 2047,
+        "h": 384,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА Якщо поранений непритомний або вищий за вас обох, ви можете, замість підтримки за пояс, розташувати свої руки нижче, позаду/попід стегнами пораненого. Це необхідно зробити для того, щоб його ноги не волочилися по землі.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПІДІЙМІТЬ ТА ПІДТРИМУЙТЕ ..",
+      "type": "text",
+      "rect": {
+        "x": 580,
+        "y": 5104,
+        "w": 1830,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПІДІЙМІТЬ ТА ПІДТРИМУЙТЕ пораненого  під час руху вперед в унісон.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ..",
+      "type": "text",
+      "rect": {
+        "x": 363,
+        "y": 4407,
+        "w": 2047,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "Shape 10 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1246,
+        "y": 2235,
+        "w": 274,
+        "h": 274,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "ellipse",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 12,
+          "color": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "АБО..",
+      "type": "text",
+      "rect": {
+        "x": 1140,
+        "y": 2300,
+        "w": 492,
+        "h": 145,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "АБО",
+      "format": {
+        "size": 106,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: ..",
+      "type": "text",
+      "rect": {
+        "x": 326,
+        "y": 1533,
+        "w": 2180,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕНЕСЕННЯ/ПЕРЕТЯГУВАННЯ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 699,
+        "w": 4414,
+        "h": 494,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕНЕСЕННЯ/ПЕРЕТЯГУВАННЯ ПОРАНЕНОГО ДВОМА ОСОБАМИ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕНЕСЕННЯ МЕТОДОМ ПІДТР..",
+      "type": "text",
+      "rect": {
+        "x": 326,
+        "y": 1193,
+        "w": 4213,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕНЕСЕННЯ МЕТОДОМ ПІДТРИМУВАННЯ ",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +494,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-27T11:29:44Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-21T18:56:00Z",
       "format": {
         "size": 64,
         "align": "left",

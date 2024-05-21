@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792063",
+  "id": "c7282398-2e72-4f3a-aa27-eea2b31ce9f4",
   "name": "TCCC CLS Skill Card 6 Pt3 - Two-Person Drag Carry",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,313 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4063.png"
+      "content": "5c70827c4503.png"
+    },
+    {
+      "name": "ПЕРЕНЕСЕННЯ/ПЕРЕТЯГУВАННЯ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 699,
+        "w": 4414,
+        "h": 494,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕНЕСЕННЯ/ПЕРЕТЯГУВАННЯ ПОРАНЕНОГО ДВОМА ОСОБАМИ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕНЕСЕННЯ ПІД ПАХВИ ТА ..",
+      "type": "text",
+      "rect": {
+        "x": 326,
+        "y": 1193,
+        "w": 4213,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕНЕСЕННЯ ПІД ПАХВИ ТА ЗА НОГИ ",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОКЛАДІТЬ пораненого на с..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 1671,
+        "w": 1132,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОКЛАДІТЬ пораненого на спину, руки по сторонах вздовж тіла.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Вищий з двох рятувальникі..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 2157,
+        "w": 1132,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Вищий з двох рятувальників СТАЄ НА КОЛІНО біля голови пораненого, обличчям до його ніг.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Цей же рятувальник (той, ..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 2718,
+        "w": 1132,
+        "h": 384,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Цей же рятувальник (той, який вищий) просуває руки під пахвами пораненого та ЗМИКАЄ ЇХ В ЗАМОК на грудях пораненого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Другий рятувальник розсув..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 3354,
+        "w": 1132,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Другий рятувальник розсуває ноги пораненого та СТАЄ НА КОЛІНО між ними спиною до пораненого. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Після цього другий рятува..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 4007,
+        "w": 1132,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Після цього другий рятувальник ХАПАЄ ноги пораненого під його колінами.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПІДНІМІТЬСЯ ОДНОЧАСНО на ..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 4643,
+        "w": 1132,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПІДНІМІТЬСЯ ОДНОЧАСНО на рахунок три.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "РУХАЙТЕСЯ ВПЕРЕД в унісон..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 5036,
+        "w": 1132,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РУХАЙТЕСЯ ВПЕРЕД в унісон, несучи пораненого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +342,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-27T11:29:44Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-21T18:56:00Z",
       "format": {
         "size": 64,
         "align": "left",
