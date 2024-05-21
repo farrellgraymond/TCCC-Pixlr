@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792052",
+  "id": "92055e78-8084-49ba-af0b-78a40fa38ce5",
   "name": "TCCC CLS Skill Card 5 Pt2 - One-Person Drag Carry",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,653 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4052.png"
+      "content": "48aaacc74733.png"
+    },
+    {
+      "name": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 711,
+        "w": 4414,
+        "h": 494,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕТЯГУВАННЯ НА ШИЇ РЯТУ..",
+      "type": "text",
+      "rect": {
+        "x": 325,
+        "y": 1205,
+        "w": 4048,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕТЯГУВАННЯ НА ШИЇ РЯТУВАЛЬНИКА",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Перетягування п..",
+      "type": "text",
+      "rect": {
+        "x": 407,
+        "y": 1449,
+        "w": 2733,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Перетягування пораненого на шиї рятувальника є корисним методом на полі бою, оскільки мінімізує видимість пораненого та рятувальника й, відповідно, знижує їх ризик потрапити під ворожий обстріл.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Попросіть пораненого ТРИМ..",
+      "type": "text",
+      "rect": {
+        "x": 607,
+        "y": 3277,
+        "w": 1127,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Попросіть пораненого ТРИМАТИ руки разом або зв'яжіть його зап'ястя.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СТАНЬТЕ над пораненим на ..",
+      "type": "text",
+      "rect": {
+        "x": 2129,
+        "y": 3277,
+        "w": 1127,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СТАНЬТЕ над пораненим на коліна обличчям до нього.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРОСУНЬТЕ через голову на..",
+      "type": "text",
+      "rect": {
+        "x": 3660,
+        "y": 3277,
+        "w": 1127,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРОСУНЬТЕ через голову на шию зв’язані на зап'ястях руки пораненого (якщо він непритомний)",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОВЗІТЬ вперед, тягнучи п..",
+      "type": "text",
+      "rect": {
+        "x": 578,
+        "y": 5631,
+        "w": 1127,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОВЗІТЬ вперед, тягнучи пораненого на собі.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СЛІДКУЙТЕ, щоб поранений ..",
+      "type": "text",
+      "rect": {
+        "x": 2129,
+        "y": 5596,
+        "w": 1127,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СЛІДКУЙТЕ, щоб поранений залишався в положенні на спині.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Це може бути ви..",
+      "type": "text",
+      "rect": {
+        "x": 325,
+        "y": 5932,
+        "w": 4287,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Це може бути виснажливим для рятувальника, якщо поранений важкий або має багато спорядження.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 325,
+        "y": 5932,
+        "w": 4287,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Такий метод нем..",
+      "type": "text",
+      "rect": {
+        "x": 325,
+        "y": 6065,
+        "w": 4287,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Такий метод неможливо використати, якщо поранений має важкі травми верхньої кінцівки або ампутацію.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 325,
+        "y": 6065,
+        "w": 4287,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо поранений ..",
+      "type": "text",
+      "rect": {
+        "x": 325,
+        "y": 6195,
+        "w": 4287,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо поранений НЕПРИТОМНИЙ, його голова повинна бути захищена від контакту з землею.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 325,
+        "y": 6195,
+        "w": 4287,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Може виникнути ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3767,
+        "w": 1536,
+        "h": 455,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Може виникнути затримка, якщо поранений непритомний та не може тримати руки разом самостійно. \nУ цьому випадку зв'яжіть руки пораненого разом довкола шиї рятувальника.\n",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3767,
+        "w": 1536,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "НЕПРИТОМНИЙ ..",
+      "type": "text",
+      "rect": {
+        "x": 325,
+        "y": 1741,
+        "w": 764,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НЕПРИТОМНИЙ ",
+      "format": {
+        "size": 76,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИТОМНИЙ..",
+      "type": "text",
+      "rect": {
+        "x": 1179,
+        "y": 1741,
+        "w": 764,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИТОМНИЙ",
+      "format": {
+        "size": 76,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: ..",
+      "type": "text",
+      "rect": {
+        "x": 407,
+        "y": 1449,
+        "w": 2733,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +682,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-27T11:29:43Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-20T17:31:50Z",
       "format": {
         "size": 64,
         "align": "left",

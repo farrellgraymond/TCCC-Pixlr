@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792055",
+  "id": "d0bf5ead-b3df-48d1-9a5e-f268c07bfc0b",
   "name": "TCCC CLS Skill Card 5 Pt5 - One-Person Drag Carry",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,279 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4055.png"
+      "content": "42b9859b4f4b.png"
+    },
+    {
+      "name": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 766,
+        "w": 4414,
+        "h": 494,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕНЕСЕННЯ МЕТОДОМ ПІДТР..",
+      "type": "text",
+      "rect": {
+        "x": 307,
+        "y": 1279,
+        "w": 3758,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕНЕСЕННЯ МЕТОДОМ ПІДТРИМУВАННЯ ",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Цей метод може ..",
+      "type": "text",
+      "rect": {
+        "x": 334,
+        "y": 1521,
+        "w": 2656,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Цей метод може використовуватися лише для ПРИТОМНИХ поранених.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ДОПОМОЖІТЬ пораненому вст..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 1838,
+        "w": 1871,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДОПОМОЖІТЬ пораненому встати з землі.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Своєю домінантною рукою В..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 2201,
+        "w": 1871,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Своєю домінантною рукою ВІЗЬМІТЬ зап'ястя тієї ж руки пораненого та розмістіть його навколо своєї шиї.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОБХОПІТЬ другою вашою рук..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 2658,
+        "w": 1871,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОБХОПІТЬ другою вашою рукою пояс постраждалого та візьміться за його ремінь або одяг в ділянці пряжки ременя.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Будьте опорою для поранен..",
+      "type": "text",
+      "rect": {
+        "x": 571,
+        "y": 3093,
+        "w": 1871,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Будьте опорою для пораненого, ЙДУЧИ разом із ним.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: ..",
+      "type": "text",
+      "rect": {
+        "x": 334,
+        "y": 1521,
+        "w": 2656,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +308,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-27T11:29:44Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-20T17:31:50Z",
       "format": {
         "size": 64,
         "align": "left",
