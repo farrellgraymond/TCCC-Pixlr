@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792112",
+  "id": "252e9b7a-d463-4e41-b728-e32d4817bb19",
   "name": "TCCC CLS Skill Card 11 Pt2 - Inguinal Hemorrhage Control",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,313 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4112.png"
+      "content": "011ead2c4dc9.png"
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 336,
+        "y": 1605,
+        "w": 3156,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження…",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗУПИНКА ВУЗЛОВОЇ ПАХОВОЇ ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 768,
+        "w": 4414,
+        "h": 722,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗУПИНКА ВУЗЛОВОЇ ПАХОВОЇ КРОВОТЕЧІ ЗА ДОПОМОГОЮ ІМПРОВІЗОВАНОГО ПРИСТРОЮ ДЛЯ СТВОРЕННЯ ТИСКУ (ПСТ)",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "РОЗТАШУЙТЕ турнікет із зу..",
+      "type": "text",
+      "rect": {
+        "x": 308,
+        "y": 2948,
+        "w": 1427,
+        "h": 526,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РОЗТАШУЙТЕ турнікет із зубчастим механізмом або турнікет з воротком і пряжкою безпосередньо над серединою ПСТ; упевніться, що зубчастий механізм/вороток розташований у напрямку досередини тіла.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Перед затягуванням турнік..",
+      "type": "text",
+      "rect": {
+        "x": 1837,
+        "y": 2948,
+        "w": 1427,
+        "h": 384,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Перед затягуванням турнікета УСУНЬТЕ всі провисання ременя/самоклейкої стрічки, виконуючи штовхаючі рухи впоперек тіла пораненого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАТЯГНІТЬ турнікет до при..",
+      "type": "text",
+      "rect": {
+        "x": 3388,
+        "y": 2948,
+        "w": 1427,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАТЯГНІТЬ турнікет до припинення кровотечі та зникнення дистального пульсу на кінцівці.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 11: Якщ..",
+      "type": "text",
+      "rect": {
+        "x": 3388,
+        "y": 3254,
+        "w": 1427,
+        "h": 668,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 11: Якщо кровотеча не зупинилася та не зник дистальний пульс нижче накладання турнікета, усуньте всі залишкові провисання ременя (якщо це можливо) і сильніше закрутіть вороток або затягніть зубчастий механізм турнікета, доки кровотечу не буде зупинено та доки не зникне дистальний пульс.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОГЛЯНЬТЕ розташування обл..",
+      "type": "text",
+      "rect": {
+        "x": 308,
+        "y": 4418,
+        "w": 1427,
+        "h": 384,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОГЛЯНЬТЕ розташування обладнання та переконайтеся, що ПСТ не змістився, а зубчастий механізм/вороток і пряжка знаходяться в належній позиції над пристроєм.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
+      "type": "text",
+      "rect": {
+        "x": 1837,
+        "y": 4418,
+        "w": 1427,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 11:..",
+      "type": "text",
+      "rect": {
+        "x": 3388,
+        "y": 3254,
+        "w": 1427,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 11:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +342,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-27T11:29:40Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-22T15:15:15Z",
       "format": {
         "size": 64,
         "align": "left",
