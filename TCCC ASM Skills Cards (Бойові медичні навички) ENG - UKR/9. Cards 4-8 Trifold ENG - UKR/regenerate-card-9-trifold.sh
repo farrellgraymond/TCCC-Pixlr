@@ -1,10 +1,10 @@
 #!/bin/bash
 
-CARD4_PNG='../4. Rapid Casualty Assessment ENG - UKR/TCCC ASM Skill Card 4 UKR - Rapid Casualty Assessment.png'
-CARD5_PNG='../5. Tourniquet Application ENG - UKR/TCCC ASM Skill Card 5 UKR - Tourniquet Application.png'
-CARD6_PNG='../6. Pressure Bandage ENG - UKR/TCCC ASM Skill Card 6 UKR - Pressure Bandage.png'
-CARD7_PNG='../7. Wound Packing ENG - UKR/TCCC ASM Skill Card 7 UKR - Wound Packing.png'
-CARD8_PNG='../8. Airway Maneuvers ENG - UKR/TCCC ASM Skill Card 8 UKR - Airway Maneuvers.png'
+CARD4_PNG='../4. Rapid Casualty Assessment ENG - UKR/4 UKR Rapid Casualty Assessment PNG.png'
+CARD5_PNG='../5. Tourniquet Application ENG - UKR/5 UKR Tourniquet Application PNG.png'
+CARD6_PNG='../6. Pressure Bandage ENG - UKR/6 UKR Pressure Bandage PNG.png'
+CARD7_PNG='../7. Wound Packing ENG - UKR/7 UKR Wound Packing PNG.png'
+CARD8_PNG='../8. Airway Maneuvers ENG - UKR/8 UKR Airway Maneuvers PNG.png'
 CARD9_PNG='./9 UKR Cards 4-8 Trifold Cover Page PNG.png'
 
 TRIFOLD_P1_PNG='9 Pt1 UKR Cards 4-8 Trifold PNG.png'
