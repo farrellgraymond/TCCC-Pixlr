@@ -1,6 +1,6 @@
 {
   "id": "3f53975b-4215-46d5-8e18-3bd4ee39e3fe",
-  "name": "43 Pt1 ENG Open Abdominal Wound PNG(5)",
+  "name": "43 Pt1 Open Abdominal Wound PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -45,314 +45,6 @@
       }
     },
     {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 3384,
-        "y": 5968,
-        "w": 1484,
-        "h": 236,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 524,
-        "y": 5588,
-        "w": 2708,
-        "h": 344,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 3352,
-        "y": 4168,
-        "w": 1464,
-        "h": 548,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 3592,
-        "y": 3960,
-        "w": 1228,
-        "h": 316,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 1812,
-        "y": 4172,
-        "w": 1468,
-        "h": 1380,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 2056,
-        "y": 3960,
-        "w": 1220,
-        "h": 304,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 272,
-        "y": 4176,
-        "w": 1440,
-        "h": 364,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 524,
-        "y": 3960,
-        "w": 1184,
-        "h": 352,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 3596,
-        "y": 2468,
-        "w": 1304,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 1820,
-        "y": 2684,
-        "w": 2888,
-        "h": 416,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 2056,
-        "y": 2468,
-        "w": 1232,
-        "h": 332,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 520,
-        "y": 2472,
-        "w": 1144,
-        "h": 336,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 572,
-        "y": 1300,
-        "w": 2540,
-        "h": 280,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 240,
-        "y": 792,
-        "w": 3628,
-        "h": 472,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "clipboard",
       "type": "image",
       "rect": {
@@ -369,22 +61,22 @@
       "content": "a91e83ea45e9.png"
     },
     {
-      "name": "продовження на наступній ..",
+      "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3420,
-        "y": 5996,
+        "x": 3460,
+        "y": 6004,
         "w": 1576,
-        "h": 116,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "продовження на наступній сторінці...",
+      "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -403,22 +95,201 @@
       }
     },
     {
-      "name": "ДИВИТИСЯ КАРТКУ 44 - Об'є..",
+      "name": "Зафіксуйте усі предмети, ..",
       "type": "text",
       "rect": {
-        "x": 536,
-        "y": 5504,
-        "w": 1888,
-        "h": 116,
+        "x": 520,
+        "y": 5388,
+        "w": 1324,
+        "h": 352,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДИВИТИСЯ КАРТКУ 44 - Об'єкт Пірсинг тіла",
+      "content": "Зафіксуйте усі предмети, що стирчать з рани (див. Картку практичної навички «Стороннє тіло в рані»).",
       "format": {
-        "size": 80,
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо вправлення було успі..",
+      "type": "text",
+      "rect": {
+        "x": 3580,
+        "y": 3952,
+        "w": 1264,
+        "h": 904,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо вправлення було успішним, ЗВЕДІТЬ краї шкіри, використовуючи доступний матеріал; перевага надається адгезивним пов’язкам (торакальна оклюзійна наліпка, наприклад), або зведіть краї рани за допомогою скоб, наклавши шви чи застосувавши пристрій для закриття ран.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ: НЕ ВПРАВ..",
+      "type": "text",
+      "rect": {
+        "x": 1836,
+        "y": 4872,
+        "w": 1432,
+        "h": 464,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ: НЕ ВПРАВЛЯЙТЕ СИЛОЮ в черевну порожнину нутрощі, що активно кровоточать, чи евентровані частини і не видаляйте сторонні тіла.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 1836,
+        "y": 4872,
+        "w": 1432,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ: НЕ НАМАГ..",
+      "type": "text",
+      "rect": {
+        "x": 1836,
+        "y": 4408,
+        "w": 1440,
+        "h": 464,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ: НЕ НАМАГАЙТЕСЬ вправити кишечник, якщо є докази його розриву (шлункова/кишкова рідина чи витік калу з рани) або активна кровотеча.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 1836,
+        "y": 4408,
+        "w": 1440,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ:",
+      "format": {
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -438,7 +309,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -446,210 +317,22 @@
       }
     },
     {
-      "name": "СТАБІЛІЗУЙТЕ будь-які вис..",
+      "name": "Якщо немає ознак розриву ..",
       "type": "text",
       "rect": {
-        "x": 536,
-        "y": 5396,
-        "w": 1864,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "СТАБІЛІЗУЙТЕ будь-які виступаючі предмети",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Зробіть це за допомогою к..",
-      "type": "text",
-      "rect": {
-        "x": 3604,
-        "y": 4252,
-        "w": 1204,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Зробіть це за допомогою клейкої пов’язки. Може включати стрічку, клейку грудну клітку, затискачі для закриття рани.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Якщо заміна кишечника про..",
-      "type": "text",
-      "rect": {
-        "x": 3604,
-        "y": 3968,
-        "w": 1104,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Якщо заміна кишечника пройшла успішно, закрийте шкіру в місці розриву.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "УВАГА. НЕ ЗАСТОСОВУЙТЕ СИ..",
-      "type": "text",
-      "rect": {
-        "x": 1860,
-        "y": 4840,
-        "w": 1384,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "УВАГА. НЕ ЗАСТОСОВУЙТЕ СИЛУ, щоб замінити вміст черевної порожнини. Не використовуйте силу для видалення сторонніх предметів.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ПОПЕРЕДЖЕННЯ - НЕ ЗАМІНЮЙ..",
-      "type": "text",
-      "rect": {
-        "x": 1852,
-        "y": 4428,
-        "w": 1428,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПОПЕРЕДЖЕННЯ - НЕ ЗАМІНЮЙТЕ, якщо є будь-які ознаки витоку кишечника або активної кровотечі.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Якщо НЕМАЄ доказів витоку..",
-      "type": "text",
-      "rect": {
-        "x": 2068,
-        "y": 3968,
+        "x": 2032,
+        "y": 3952,
         "w": 1308,
-        "h": 452,
+        "h": 432,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо НЕМАЄ доказів витоку кишечника та кровотечі, можна зробити швидку (до 60 секунд) спробу зменшити кількість кишечника за межами тіла.",
+      "content": "Якщо немає ознак розриву кишечника та всі кровотечі зупинені, можна зробити одну швидку спробу (<60 секунд), щоб вправити евентровані органи. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -668,28 +351,62 @@
       }
     },
     {
-      "name": "\nЗАСТОСУЙТЕ чисту марлю, ..",
+      "name": "ПРИМІТКА ДО КРОКУ 3: Зас..",
       "type": "text",
       "rect": {
-        "x": 536,
-        "y": 3892,
+        "x": 512,
+        "y": 3968,
         "w": 1208,
-        "h": 536,
+        "h": 552,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "\nЗАСТОСУЙТЕ чисту марлю, гемостатичну пов’язку та кровоспинний засіб до будь-якої неконтрольованої кровотечі.",
+      "content": "ПРИМІТКА ДО КРОКУ 3: Застосуйте гемостатичний бинт чи рекомендовану CoTCCC гемостатичну пов’язку або гемостатичний засіб у разі будь-якої незупиненої кровотечі.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 3:..",
+      "type": "text",
+      "rect": {
+        "x": 512,
+        "y": 3968,
+        "w": 1208,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 3:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -703,7 +420,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -711,22 +428,22 @@
       }
     },
     {
-      "name": "ПРОМИЙТЕ місце рани чисто..",
+      "name": "ПРОМИЙТЕ рану чистою (по ..",
       "type": "text",
       "rect": {
-        "x": 3604,
-        "y": 2476,
-        "w": 1204,
-        "h": 368,
+        "x": 3580,
+        "y": 2472,
+        "w": 1172,
+        "h": 352,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРОМИЙТЕ місце рани чистою (якщо можливо ТЕПЛОЮ) водою, щоб зменшити забруднення.",
+      "content": "ПРОМИЙТЕ рану чистою (по можливості теплою) рідиною, щоб видалити значне забруднення.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -745,65 +462,22 @@
       }
     },
     {
-      "name": "ПЕРЕВІРТЕ на наявність де..",
+      "name": "ОГЛЯНЬТЕ ділянку пораненн..",
       "type": "text",
       "rect": {
-        "x": 1816,
-        "y": 2696,
-        "w": 1716,
-        "h": 368,
+        "x": 2044,
+        "y": 2468,
+        "w": 1284,
+        "h": 592,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕВІРТЕ на наявність деформації, синців, садна, проколотого предмета, опіків, рваних ран. ВАЖЛИВО, перевірте жорсткість, розтягнення або пульсуючу масу.",
+      "content": "ОГЛЯНЬТЕ ділянку поранення на предмет деформацій, забоїв, саден, пенетрацій, опіків, рваних ран та набряку, а також, що найважливіше, на наявність чутливості, ригідності, розтягнень та пульсуючих утворень.",
       "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "ВИКРИТИ травму та знайти ..",
-      "type": "text",
-      "rect": {
-        "x": 2068,
-        "y": 2476,
-        "w": 1212,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ВИКРИТИ травму та знайти джерело кровотечі.",
-      "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -822,22 +496,22 @@
       }
     },
     {
-      "name": "\nРОЗМІЩІТЬ пораненого в п..",
+      "name": "РОЗМІСТІТЬ пораненого в п..",
       "type": "text",
       "rect": {
-        "x": 536,
-        "y": 2392,
+        "x": 512,
+        "y": 2468,
         "w": 1160,
-        "h": 368,
+        "h": 272,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "\nРОЗМІЩІТЬ пораненого в положення лежачи із зігнутими колінами.",
+      "content": "РОЗМІСТІТЬ пораненого в положення лежачи на спині з зігнутими колінами.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -856,11 +530,45 @@
       }
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
-        "x": 596,
-        "y": 1344,
+        "x": 572,
+        "y": 1300,
+        "w": 2212,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 572,
+        "y": 1412,
         "w": 2212,
         "h": 200,
         "r": 0
@@ -869,15 +577,15 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -885,34 +593,102 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "ВАЖЛИВО. Розмір рани НЕ д..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
-        "x": 280,
-        "y": 1140,
-        "w": 3000,
-        "h": 116,
+        "x": 572,
+        "y": 1412,
+        "w": 2212,
+        "h": 112,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВАЖЛИВО. Розмір рани НЕ дає належної оцінки тяжкості.",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ: Розмір з..",
+      "type": "text",
+      "rect": {
+        "x": 328,
+        "y": 1116,
+        "w": 3540,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ: Розмір зовнішньої рани не є надійним орієнтиром для оцінки її тяжкості",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 328,
+        "y": 1116,
+        "w": 3540,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ:",
       "format": {
         "size": 80,
         "align": "left",
@@ -934,7 +710,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -942,22 +718,22 @@
       }
     },
     {
-      "name": "Відкрита рана живота..",
+      "name": "Відкрита рана черевної по..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 780,
+        "x": 240,
+        "y": 764,
         "w": 4252,
-        "h": 328,
+        "h": 280,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Відкрита рана живота",
+      "content": "Відкрита рана черевної порожнини",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -972,6 +748,90 @@
         "fill": {
           "type": "color",
           "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "03.1..",
+      "type": "text",
+      "rect": {
+        "x": 3380,
+        "y": 2510,
+        "w": 181,
+        "h": 126,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "03.1",
+      "format": {
+        "size": 92,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "background": {
+          "type": "full",
+          "color": "#423e3b",
+          "punch": false,
+          "offset": 0
+        }
+      }
+    },
+    {
+      "name": "03.2..",
+      "type": "text",
+      "rect": {
+        "x": 308,
+        "y": 4000,
+        "w": 181,
+        "h": 126,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "03.2",
+      "format": {
+        "size": 92,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "background": {
+          "type": "full",
+          "color": "#423e3b",
+          "punch": false,
+          "offset": 0
         }
       }
     },
@@ -989,7 +849,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:39Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:50Z",
       "format": {
         "size": 64,
         "align": "left",

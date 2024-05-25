@@ -1,6 +1,6 @@
 {
-  "id": "82efc325-412a-4d48-b285-e1902e28791c",
-  "name": "23 ENG Nasopharyngeal Airway PNG(2)(2)",
+  "id": "0d267ef3-7a71-488e-a1dd-0d93dd84fcbe",
+  "name": "23 Nasopharyngeal Airway PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,16 +20,16 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "54e6af344e79.png"
+      "content": "6490a6bd4522.png"
     },
     {
-      "name": "Shape 38",
+      "name": "Shape 56",
       "type": "shape",
       "rect": {
-        "x": 3336,
-        "y": 6192,
-        "w": 324,
-        "h": 216,
+        "x": 1785,
+        "y": 6002,
+        "w": 237,
+        "h": 204,
         "r": 0
       },
       "opacity": 1,
@@ -45,13 +45,13 @@
       }
     },
     {
-      "name": "Shape 37",
+      "name": "Shape 52",
       "type": "shape",
       "rect": {
-        "x": 3568,
-        "y": 6012,
-        "w": 1252,
-        "h": 372,
+        "x": 1796,
+        "y": 3318,
+        "w": 263,
+        "h": 261,
         "r": 0
       },
       "opacity": 1,
@@ -67,13 +67,13 @@
       }
     },
     {
-      "name": "Shape 36",
+      "name": "Shape 50",
       "type": "shape",
       "rect": {
-        "x": 1808,
-        "y": 6200,
-        "w": 1432,
-        "h": 296,
+        "x": 237,
+        "y": 2697,
+        "w": 1531,
+        "h": 829,
         "r": 0
       },
       "opacity": 1,
@@ -89,13 +89,29 @@
       }
     },
     {
-      "name": "Shape 35",
+      "name": "Screen Shot 2023-10-06 at 12.03.28 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 292,
+        "y": 3155,
+        "w": 185,
+        "h": 182,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "36fabf0748e8.png"
+    },
+    {
+      "name": "Shape 46",
       "type": "shape",
       "rect": {
-        "x": 2028,
-        "y": 6016,
-        "w": 1208,
-        "h": 216,
+        "x": 3330,
+        "y": 2051,
+        "w": 261,
+        "h": 236,
         "r": 0
       },
       "opacity": 1,
@@ -111,13 +127,13 @@
       }
     },
     {
-      "name": "Shape 34",
+      "name": "Shape 44",
       "type": "shape",
       "rect": {
-        "x": 488,
-        "y": 6016,
-        "w": 1216,
-        "h": 324,
+        "x": 3347,
+        "y": 1664,
+        "w": 1481,
+        "h": 408,
         "r": 0
       },
       "opacity": 1,
@@ -133,306 +149,265 @@
       }
     },
     {
-      "name": "Shape 33",
-      "type": "shape",
+      "name": "Screen Shot 2023-10-05 at 10.32.07 PM.png",
+      "type": "image",
       "rect": {
-        "x": 260,
-        "y": 4816,
-        "w": 4564,
-        "h": 396,
+        "x": 3375,
+        "y": 1827,
+        "w": 181,
+        "h": 181,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "7393acf041aa.png"
+    },
+    {
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
+      "type": "text",
+      "rect": {
+        "x": 3556,
+        "y": 6008,
+        "w": 1264,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 32",
-      "type": "shape",
+      "name": "ПОСАДІТЬ пораненого або п..",
+      "type": "text",
       "rect": {
-        "x": 492,
+        "x": 1856,
+        "y": 6008,
+        "w": 1501,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОСАДІТЬ пораненого або переведіть його у стабільне бокове положення.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОКЛАДІТЬ непритомного по..",
+      "type": "text",
+      "rect": {
+        "x": 1660,
+        "y": 6187,
+        "w": 1804,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОКЛАДІТЬ непритомного пораненого у стабільне бокове положення з метою запобігання аспірації крові, слизу чи блювоти.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-10-06 at 12.20.55 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 1660,
+        "y": 6006,
+        "w": 187,
+        "h": 183,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "708496da45e7.png"
+    },
+    {
+      "name": "ПОВТОРНО ОЦІНІТЬ дихання ..",
+      "type": "text",
+      "rect": {
+        "x": 482,
+        "y": 5998,
+        "w": 1127,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОВТОРНО ОЦІНІТЬ дихання за допомогою техніки БАЧУ, ЧУЮ, ВІДЧУВАЮ.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ: Ніколи н..",
+      "type": "text",
+      "rect": {
+        "x": 322,
+        "y": 4808,
+        "w": 4456,
+        "h": 416,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ: Ніколи не використовуйте силу при введенні NPA в ніздрю. Якщо виникає опір, спробуйте, злегка прокручуючи, відтягнути повітропровід назад і знову обережно ввести. Якщо повітровід введено успішно, але пацієнт починає задихатися або давитися, злегка відтягніть NPA назад і залиште його введеним. Якщо не вдається успішно ввести NPA в праву ніздрю, повністю витягніть його і спробуйте ввести в ліву ніздрю. При введенні в ліву ніздрю, вам потрібно буде повернути NPA після того, як він зайде приблизно на 5 см в носовий хід пораненого, щоб вигин NPA був спрямований дугою вниз.",
+      "format": {
+        "size": 74,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 322,
+        "y": 4808,
+        "w": 4456,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ:",
+      "format": {
+        "size": 74,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "...доки дистальний кінець..",
+      "type": "text",
+      "rect": {
+        "x": 3296,
         "y": 4544,
-        "w": 4308,
-        "h": 352,
+        "w": 1584,
+        "h": 264,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 3560,
-        "y": 3328,
-        "w": 1336,
-        "h": 300,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 3328,
-        "w": 1224,
-        "h": 292,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 280,
-        "y": 3508,
-        "w": 4600,
-        "h": 220,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 488,
-        "y": 3332,
-        "w": 1332,
-        "h": 228,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 3344,
-        "y": 2260,
-        "w": 1500,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 2080,
-        "w": 1252,
-        "h": 232,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 2084,
-        "w": 1220,
-        "h": 340,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 2084,
-        "w": 1248,
-        "h": 308,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 592,
-        "y": 1076,
-        "w": 2424,
-        "h": 212,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 3740,
-        "y": 952,
-        "w": 848,
-        "h": 164,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 280,
-        "y": 772,
-        "w": 4308,
-        "h": 252,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
-      "type": "text",
-      "rect": {
-        "x": 3572,
-        "y": 6012,
-        "w": 1232,
-        "h": 352,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "...доки дистальний кінець не зрівняється з ніздрею; вводьте в напрямку поверхні землі, а не маківки голови.",
       "format": {
         "size": 80,
         "align": "left",
@@ -453,210 +428,22 @@
       }
     },
     {
-      "name": "ПОМІЩІТЬ пораненого без с..",
-      "type": "text",
-      "rect": {
-        "x": 2036,
-        "y": 6012,
-        "w": 1364,
-        "h": 352,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПОМІЩІТЬ пораненого без свідомості в положення ВІДНОВЛЕННЯ на боці. Запобігайте аспірації рідин.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ПЕРЕВІРТЕ дихання поранен..",
-      "type": "text",
-      "rect": {
-        "x": 496,
-        "y": 6012,
-        "w": 1252,
-        "h": 352,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПЕРЕВІРТЕ дихання пораненого, ПОДИВІТЬСЯ, СЛУХАЙТЕ, ПОМАЦАЙТЕ.\n",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ЯКЩО права ніздря НЕ ВДАЄ..",
-      "type": "text",
-      "rect": {
-        "x": 308,
-        "y": 5008,
-        "w": 4456,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ЯКЩО права ніздря НЕ ВДАЄТЬСЯ, спробуйте ліву ніздрю - трубку потрібно буде повернути, щоб вирівняти її з лівою стороною. Якщо у пораненого кляпи, видаліть трубку на 1-3 см.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "УВАГА. НІКОЛИ не вставляй..",
-      "type": "text",
-      "rect": {
-        "x": 308,
-        "y": 4892,
-        "w": 4456,
-        "h": 112,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "УВАГА. НІКОЛИ не вставляйте трубку в ніздрю постраждалого з силою. Якщо відчувається опір, злегка поверніть.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Продовжуйте вводити, поки..",
-      "type": "text",
-      "rect": {
-        "x": 3376,
-        "y": 4540,
-        "w": 1400,
-        "h": 352,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Продовжуйте вводити, поки фланець не буде на одному рівні з ніздрею. Продовжуйте вставляти під кутом 90 градусів до голови.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Плавно КОВЗАЙТЕ трубку, т..",
+      "name": "...зі скошеним кінчиком, ..",
       "type": "text",
       "rect": {
         "x": 1864,
         "y": 4540,
         "w": 1344,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Плавно КОВЗАЙТЕ трубку, трубка повинна залишатися, як показано. Скос до середини.",
+      "content": "...зі скошеним кінчиком, спрямованим до середини носа. Плавними рухами ВВОДЬТЕ NPA,...",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -675,22 +462,22 @@
       }
     },
     {
-      "name": "ВСТАВТЕ дихальний шланг п..",
+      "name": "ВСТАВТЕ NPA у праву ніздр..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 4540,
-        "w": 1136,
-        "h": 272,
+        "x": 488,
+        "y": 4530,
+        "w": 1272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВСТАВТЕ дихальний шланг під кутом 90 градусів до обличчя пораненого.",
+      "content": "ВСТАВТЕ NPA у праву ніздрю (під кутом 90 градусів до обличчя пораненого)…",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -709,22 +496,22 @@
       }
     },
     {
-      "name": "РОЗТАШУЙТЕ трубку, як пок..",
+      "name": "РОЗТАШУЙТЕ повітровід ско..",
       "type": "text",
       "rect": {
         "x": 3556,
-        "y": 3328,
-        "w": 1324,
-        "h": 272,
+        "y": 3320,
+        "w": 1288,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "РОЗТАШУЙТЕ трубку, як показано. Розріз повинен знаходитися по центру.",
+      "content": "РОЗТАШУЙТЕ повітровід скошеним кінчиком до носової перегородки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -743,22 +530,22 @@
       }
     },
     {
-      "name": "ВІДКРИТИ праву ніздрю, об..",
+      "name": "ВІДКРИЙТЕ для введення по..",
       "type": "text",
       "rect": {
-        "x": 2036,
-        "y": 3328,
-        "w": 1172,
-        "h": 272,
+        "x": 1929,
+        "y": 3320,
+        "w": 1435,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВІДКРИТИ праву ніздрю, обережно потягнувши кінчик носа вгору.",
+      "content": "ВІДКРИЙТЕ для введення повітроводу отвір правої ніздрі пораненого, злегка піднявши  кінчик його носа доверху. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -777,28 +564,62 @@
       }
     },
     {
-      "name": "КРОК 4 ВАЖЛИВО – НЕ викор..",
+      "name": "ПРИМІТКА ДО КРОКУ 4: Не ..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 3528,
-        "w": 1324,
-        "h": 192,
+        "x": 308,
+        "y": 3554,
+        "w": 2861,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 4 ВАЖЛИВО – НЕ використовуйте кров чи слину.",
+      "content": "ПРИМІТКА ДО КРОКУ 4: Не використовуйте кров або речовини не на водній основі, однак можете використовувати слину пораненого (не вашу).",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 4:..",
+      "type": "text",
+      "rect": {
+        "x": 308,
+        "y": 3554,
+        "w": 2861,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 4:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -812,7 +633,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -820,22 +641,22 @@
       }
     },
     {
-      "name": "ЗМАСТЕ трубку гелем у наб..",
+      "name": "ЗМАСТІТЬ кінець повітрово..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 3328,
-        "w": 1252,
-        "h": 192,
+        "x": 477,
+        "y": 3150,
+        "w": 1524,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗМАСТЕ трубку гелем у наборі або водою.",
+      "content": "ЗМАСТІТЬ кінець повітроводу стерильним лубрикантом на водній основі (з тактичної  індивідуальної аптечки бійця) або водою. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -854,28 +675,78 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Стандартна труб..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-06 at 12.02.23 AM.png",
+      "type": "image",
       "rect": {
-        "x": 3376,
-        "y": 2260,
-        "w": 1088,
-        "h": 272,
+        "x": 286,
+        "y": 2377,
+        "w": 1448,
+        "h": 773,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Стандартна трубка (32 Fr) у наборах підходить більшості людей.",
+      "content": "da3b8d654710.png"
+    },
+    {
+      "name": "ПРИМІТКА: Стандартний NP..",
+      "type": "text",
+      "rect": {
+        "x": 3554,
+        "y": 2107,
+        "w": 1328,
+        "h": 437,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Стандартний NPA (розмір 32 Fr), який міститься в більшості аптечок, підходить для військовослужбовців середньої тілобудови.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 3554,
+        "y": 2107,
+        "w": 1328,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -889,7 +760,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -897,22 +768,22 @@
       }
     },
     {
-      "name": "ЗНАЙДІТЬ і ВІДКРИТЬ дихал..",
+      "name": "РОЗПАКУЙТЕ назофарингеаль..",
       "type": "text",
       "rect": {
         "x": 3556,
-        "y": 2080,
+        "y": 1827,
         "w": 1324,
-        "h": 192,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗНАЙДІТЬ і ВІДКРИТЬ дихальну трубку з аптечки.",
+      "content": "РОЗПАКУЙТЕ назофарингеальний повітровід, що міститься в тактичній індивідуальній аптечці пораненого. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -931,22 +802,38 @@
       }
     },
     {
-      "name": "ПЕРЕВІРТЕ ніс і внутрішні..",
+      "name": "Screen Shot 2023-10-05 at 11.55.01 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 3357,
+        "y": 1057,
+        "w": 1463,
+        "h": 770,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "fad6a14d40a1.png"
+    },
+    {
+      "name": "ОГЛЯНЬТЕ ніс та носові хо..",
       "type": "text",
       "rect": {
-        "x": 2036,
+        "x": 2020,
         "y": 2080,
         "w": 1236,
-        "h": 192,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕВІРТЕ ніс і внутрішні ніздрі на наявність перешкод.",
+      "content": "ОГЛЯНЬТЕ ніс та носові ходи на наявність будь-яких перешкод, які можуть завадити введенню повітропроводу. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -965,22 +852,22 @@
       }
     },
     {
-      "name": "ПОКЛАДІТЬ пораненого на с..",
+      "name": " ПОКЛАДІТЬ пораненого на ..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 2080,
+        "x": 488,
+        "y": 2070,
         "w": 1252,
-        "h": 272,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОКЛАДІТЬ пораненого на спину з нейтральною позицією шиї.",
+      "content": " ПОКЛАДІТЬ пораненого на спину, розташувавши його голову в нейтральному положенні.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -999,62 +886,96 @@
       }
     },
     {
-      "name": "Nasopharyngeal Airway (NP..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
-        "x": 3208,
-        "y": 976,
-        "w": 1520,
-        "h": 312,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Nasopharyngeal Airway (NPA)",
-      "format": {
-        "size": 120,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Розгляньте можливість вик..",
-      "type": "text",
-      "rect": {
-        "x": 600,
-        "y": 1088,
+        "x": 587,
+        "y": 1035,
         "w": 2488,
-        "h": 192,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
         "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 587,
+        "y": 1135,
+        "w": 2488,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 587,
+        "y": 1135,
+        "w": 2488,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1068,7 +989,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1076,22 +997,38 @@
       }
     },
     {
-      "name": "Назофарингеальний дихальн..",
+      "name": "Screen Shot 2023-10-04 at 8.45.07 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 1748,
+        "y": 3320,
+        "w": 187,
+        "h": 187,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "0183a48547d8.png"
+    },
+    {
+      "name": "НАЗОФАРИНГЕАЛЬНИЙ ПОВІТРО..",
       "type": "text",
       "rect": {
         "x": 256,
-        "y": 720,
+        "y": 746,
         "w": 4588,
-        "h": 332,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Назофарингеальний дихальний шлях",
+      "content": "НАЗОФАРИНГЕАЛЬНИЙ ПОВІТРОВІД (NPA)",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1113,33 +1050,17 @@
       "name": "Nasopharyngeal Airway YouTube QR PNG.png",
       "type": "image",
       "rect": {
-        "x": 2928,
-        "y": 116,
-        "w": 472,
-        "h": 472,
+        "x": 2886,
+        "y": 100,
+        "w": 574,
+        "h": 574,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "2147a6334f00.png"
-    },
-    {
-      "name": "unnamed-removebg-preview.png Copy",
-      "type": "image",
-      "rect": {
-        "x": 2616,
-        "y": -20,
-        "w": 440,
-        "h": 744,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "7b00bc594d88.png"
+      "content": "e82192144864.png"
     },
     {
       "name": "LAST UPDATED",
@@ -1155,7 +1076,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:36Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:46Z",
       "format": {
         "size": 64,
         "align": "left",

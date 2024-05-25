@@ -1,6 +1,6 @@
 {
   "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792b18",
-  "name": "One Handed Windlass Tourniquet PNG",
+  "name": "1 One-Handed Windlass Tourniquet PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -207,7 +207,7 @@
       }
     },
     {
-      "name": "__________ Не документуйт..",
+      "name": "ПРИМІТКА: Не документуйт..",
       "type": "text",
       "rect": {
         "x": 3400,
@@ -220,7 +220,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+      "content": "ПРИМІТКА: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
       "format": {
         "size": 76,
         "align": "left",
@@ -716,7 +716,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -738,7 +738,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -759,7 +759,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:33Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:43Z",
       "format": {
         "size": 64,
         "align": "left",

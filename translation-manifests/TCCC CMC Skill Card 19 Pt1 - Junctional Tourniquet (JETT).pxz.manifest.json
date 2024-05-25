@@ -325,7 +325,7 @@
       "content": "ed7e8c8f416a.png"
     },
     {
-      "name": "__________ Переконайтеся,..",
+      "name": "ПРИМІТКА: Переконайтеся,..",
       "type": "text",
       "rect": {
         "x": 3517,
@@ -338,7 +338,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Переконайтеся, що етикетка з написом «Цією стороною до пораненого» спрямована догори і до пораненого.",
+      "content": "ПРИМІТКА: Переконайтеся, що етикетка з написом «Цією стороною до пораненого» спрямована догори і до пораненого.",
       "format": {
         "size": 76,
         "align": "left",
@@ -359,7 +359,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 3517,
@@ -372,7 +372,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -394,7 +394,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -622,7 +622,7 @@
       }
     },
     {
-      "name": "__________ Можливо, вам б..",
+      "name": "ПРИМІТКА: Можливо, вам б..",
       "type": "text",
       "rect": {
         "x": 2808,
@@ -635,7 +635,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Можливо, вам буде потрібно зрізати одяг, щоб належним чином відкрити доступ до рани.",
+      "content": "ПРИМІТКА: Можливо, вам буде потрібно зрізати одяг, щоб належним чином відкрити доступ до рани.",
       "format": {
         "size": 76,
         "align": "left",
@@ -656,7 +656,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 2808,
@@ -669,7 +669,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -691,7 +691,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -733,7 +733,7 @@
       }
     },
     {
-      "name": "__________ Якщо доступний..",
+      "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
         "x": 608,
@@ -746,7 +746,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -767,7 +767,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 608,
@@ -780,7 +780,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 76,
         "align": "left",
@@ -802,7 +802,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -810,7 +810,7 @@
       }
     },
     {
-      "name": "__________ Вузлові турнік..",
+      "name": "ПРИМІТКА: Вузлові турнік..",
       "type": "text",
       "rect": {
         "x": 420,
@@ -823,7 +823,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Вузлові турнікети повинні накладатися після належного тампонування рани.",
+      "content": "ПРИМІТКА: Вузлові турнікети повинні накладатися після належного тампонування рани.",
       "format": {
         "size": 80,
         "align": "left",
@@ -844,7 +844,7 @@
       }
     },
     {
-      "name": "ПРИМІТКА :..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
         "x": 420,
@@ -857,7 +857,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА :",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 80,
         "align": "left",
@@ -879,7 +879,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1110,7 +1110,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:35Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:45Z",
       "format": {
         "size": 64,
         "align": "left",

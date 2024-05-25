@@ -1,6 +1,6 @@
 {
-  "id": "4fa720d8-fd27-4f0f-82bc-0dd142a94bdd",
-  "name": "28 Pt1 ENG Chest Seal PNG(2)",
+  "id": "f40bdbcd-16be-45fb-babb-80177617f92d",
+  "name": "28 Pt1 Chest Seal PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,399 +20,25 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "2a44acd54a8b.png"
+      "content": "c5b1ab034d51.png"
     },
     {
-      "name": "Shape 36",
-      "type": "shape",
-      "rect": {
-        "x": 224,
-        "y": 5892,
-        "w": 4624,
-        "h": 476,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 35",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 5336,
-        "w": 1260,
-        "h": 532,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 34",
-      "type": "shape",
-      "rect": {
-        "x": 1800,
-        "y": 5532,
-        "w": 1452,
-        "h": 424,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 5336,
-        "w": 1212,
-        "h": 324,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 276,
-        "y": 5536,
-        "w": 1452,
-        "h": 388,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 5340,
-        "w": 1240,
-        "h": 352,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 3572,
-        "y": 3772,
-        "w": 1212,
-        "h": 380,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 2036,
-        "y": 3780,
-        "w": 1180,
-        "h": 500,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 264,
-        "y": 3972,
-        "w": 1480,
-        "h": 500,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 496,
-        "y": 3780,
-        "w": 1244,
-        "h": 344,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 2312,
-        "w": 1196,
-        "h": 396,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 1824,
-        "y": 2504,
-        "w": 1480,
-        "h": 408,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 2048,
-        "y": 2316,
-        "w": 1160,
-        "h": 288,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 284,
-        "y": 2500,
-        "w": 1452,
-        "h": 404,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 504,
-        "y": 2316,
-        "w": 1188,
-        "h": 292,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 568,
-        "y": 1140,
-        "w": 2560,
-        "h": 292,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 260,
-        "y": 768,
-        "w": 1764,
-        "h": 352,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "продовження на наступній ..",
+      "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3424,
-        "y": 6232,
+        "x": 3439,
+        "y": 6263,
         "w": 1404,
-        "h": 116,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "продовження на наступній сторінці...",
+      "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -431,28 +57,62 @@
       }
     },
     {
-      "name": "КРОК 9. ДИВІТЬСЯ ДОДАТКОВ..",
+      "name": "ПРИМІТКА ДО КРОКУ 9: Під..",
       "type": "text",
       "rect": {
-        "x": 3576,
-        "y": 5624,
-        "w": 1228,
-        "h": 200,
+        "x": 3410,
+        "y": 5662,
+        "w": 1433,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 9. ДИВІТЬСЯ ДОДАТКОВІ ІНСТРУКЦІЇ НИЖЧЕ.",
+      "content": "ПРИМІТКА ДО КРОКУ 9: Під час вдиху пораненого наліпка має втягуватися в рану, запобігаючи входу повітря.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 9:..",
+      "type": "text",
+      "rect": {
+        "x": 3410,
+        "y": 5662,
+        "w": 1433,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -466,7 +126,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -474,28 +134,62 @@
       }
     },
     {
-      "name": "КРОК 9 ВАЖЛИВО. Вентильов..",
+      "name": "ПРИМІТКА ДО КРОКУ 9: Під..",
       "type": "text",
       "rect": {
-        "x": 312,
-        "y": 6032,
-        "w": 4248,
-        "h": 200,
+        "x": 2982,
+        "y": 5956,
+        "w": 1963,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КРОК 9 ВАЖЛИВО. Вентильована прокладка повинна перешкоджати проникненню повітря в грудну клітку під час вдиху та дозволяти повітрю виходити під час видиху.",
+      "content": "ПРИМІТКА ДО КРОКУ 9: Під час видиху пораненого, повітря, яке накопичилося в порожнині грудної клітки, повинне виходити з рани через клапан наліпки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 9:..",
+      "type": "text",
+      "rect": {
+        "x": 2982,
+        "y": 5956,
+        "w": 1963,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -509,7 +203,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -517,22 +211,22 @@
       }
     },
     {
-      "name": "ОЦІНИТИ ефективність вент..",
+      "name": "ПЕРЕВІРТЕ ефективність то..",
       "type": "text",
       "rect": {
-        "x": 3576,
-        "y": 5340,
-        "w": 1284,
-        "h": 284,
+        "x": 3564,
+        "y": 5335,
+        "w": 1381,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОЦІНИТИ ефективність вентильованої пов'язки під час дихання пораненого.",
+      "content": "ПЕРЕВІРТЕ ефективність торакальної оклюзійної наліпки з клапаном під час дихання пораненого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -551,28 +245,62 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Стрічка може бу..",
+      "name": "ПРИМІТКА: За потреби мож..",
       "type": "text",
       "rect": {
-        "x": 1872,
-        "y": 5624,
+        "x": 1893,
+        "y": 5588,
         "w": 1432,
-        "h": 368,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Стрічка може бути використана для кріплення вентильованої перев’язної подушечки, якщо це необхідно.",
+      "content": "ПРИМІТКА: За потреби можна зафіксувати краї оклюзійної наліпки пластиром.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 1893,
+        "y": 5588,
+        "w": 1432,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -586,7 +314,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -594,22 +322,22 @@
       }
     },
     {
-      "name": "ПЕРЕКОНАЙТЕСЯ, ЩО клейкий..",
+      "name": "ПЕРЕКОНАЙТЕСЬ, що вся кле..",
       "type": "text",
       "rect": {
-        "x": 2032,
-        "y": 5340,
+        "x": 2024,
+        "y": 5335,
         "w": 1176,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕКОНАЙТЕСЯ, ЩО клейкий край повністю прикріплений до шкіри.",
+      "content": "ПЕРЕКОНАЙТЕСЬ, що вся клейка поверхня наліпки щільно прилягає до шкіри. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -628,22 +356,22 @@
       }
     },
     {
-      "name": "РОЗМІЩІТЬ клейку сторону ..",
+      "name": "НАКЛАДІТЬ наліпку клейкою..",
       "type": "text",
       "rect": {
-        "x": 504,
-        "y": 5340,
+        "x": 482,
+        "y": 5335,
         "w": 1192,
-        "h": 620,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "РОЗМІЩІТЬ клейку сторону безпосередньо над отвором, коли поранений видихає, міцно натискаючи, щоб закріпити пов’язку. Латка повинна закривати отвір на 5 см.",
+      "content": "НАКЛАДІТЬ наліпку клейкою стороною донизу безпосередньо на отвір рани, під час видиху пораненого, міцно притиснувши.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -662,22 +390,99 @@
       }
     },
     {
-      "name": "ВИКРИТИ клейку частину ге..",
+      "name": "ПРИМІТКА: Перевірте, щоб..",
       "type": "text",
       "rect": {
-        "x": 3576,
-        "y": 3784,
+        "x": 363,
+        "y": 5662,
+        "w": 1374,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Перевірте, щоб краї оклюзійної наліпки виходили за межі рани на 5 см.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 363,
+        "y": 5662,
+        "w": 1374,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ВІДКЛЕЙТЕ захисне покритт..",
+      "type": "text",
+      "rect": {
+        "x": 3564,
+        "y": 3780,
         "w": 1324,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВИКРИТИ клейку частину герметизуючої пов’язки.",
+      "content": "ВІДКЛЕЙТЕ захисне покриття з клейкої сторони наліпки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -696,22 +501,22 @@
       }
     },
     {
-      "name": "Використовуючи марлю з уп..",
+      "name": "ВІЗЬМІТЬ марлеву серветку..",
       "type": "text",
       "rect": {
-        "x": 2048,
-        "y": 3784,
+        "x": 2024,
+        "y": 3772,
         "w": 1176,
-        "h": 452,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Використовуючи марлю з упаковки грудного бинта або іншу марлю, очистіть ділянку від будь-якого бруду або рідини.",
+      "content": "ВІЗЬМІТЬ марлеву серветку з упаковки (або будь-яку іншу), щоб витерти бруд, кров та інші рідини з ділянки рани.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -730,28 +535,62 @@
       }
     },
     {
-      "name": "Якщо вентильована нагрудн..",
+      "name": "ПРИМІТКА: Якщо немає нал..",
       "type": "text",
       "rect": {
-        "x": 312,
-        "y": 4068,
-        "w": 1436,
-        "h": 368,
+        "x": 328,
+        "y": 4247,
+        "w": 1820,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо вентильована нагрудна прокладка недоступна, використовуйте невентиляційну прокладку.",
+      "content": "ПРИМІТКА: Якщо немає наліпки з клапаном, використовуйте наліпку без клапана.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 328,
+        "y": 4247,
+        "w": 1565,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -765,7 +604,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -773,22 +612,22 @@
       }
     },
     {
-      "name": "ВІДКРИТИ упаковку, тримаю..",
+      "name": "ВІДКРИЙТЕ повністю зовніш..",
       "type": "text",
       "rect": {
-        "x": 504,
-        "y": 3784,
-        "w": 1308,
-        "h": 284,
+        "x": 482,
+        "y": 3772,
+        "w": 1353,
+        "h": 475,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВІДКРИТИ упаковку, тримаючи вентильовану нагрудну прокладку.",
+      "content": "ВІДКРИЙТЕ повністю зовнішню упаковку торакальної оклюзійної наліпки з клапаном або іншого повітронепроникного матеріалу з індивідуальної тактичної аптечки пораненого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -807,22 +646,22 @@
       }
     },
     {
-      "name": "МІСЦЕ покладіть руку на в..",
+      "name": "ПОКЛАДІТЬ долоню або тиль..",
       "type": "text",
       "rect": {
-        "x": 3576,
-        "y": 2320,
-        "w": 1168,
-        "h": 368,
+        "x": 3564,
+        "y": 2316,
+        "w": 1252,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "МІСЦЕ покладіть руку на відкриту рану грудної клітки, щоб сформувати тимчасове ущільнення.",
+      "content": "ПОКЛАДІТЬ долоню або тильну сторону кисті на відкриту рану грудної клітки для створення тимчасового її щільного закриття.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -841,22 +680,22 @@
       }
     },
     {
-      "name": "Перевірте наявність ознак..",
+      "name": "ПЕРЕВІРТЕ наявність ознак..",
       "type": "text",
       "rect": {
-        "x": 2048,
-        "y": 2320,
-        "w": 1064,
-        "h": 200,
+        "x": 2024,
+        "y": 2306,
+        "w": 1270,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Перевірте наявність ознак відкритих ран грудей.",
+      "content": "ПЕРЕВІРТЕ наявність ознак відкритого поранення грудної клітки та/або рани, що всмоктує повітря.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -875,28 +714,62 @@
       }
     },
     {
-      "name": "Якщо ви не впевнені, що р..",
+      "name": "ПРИМІТКА: Якщо ви не впе..",
       "type": "text",
       "rect": {
-        "x": 1872,
-        "y": 2520,
-        "w": 1292,
-        "h": 368,
+        "x": 1835,
+        "y": 2633,
+        "w": 1459,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Якщо ви не впевнені, що рана повністю проходить через стінку грудної клітки, розглядайте як відкритий пневмоторакс.",
+      "content": "ПРИМІТКА: Якщо ви не впевнені, чи рана проникаюча, надавайте допомогу так, як при відкритій рані грудної клітки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 1835,
+        "y": 2633,
+        "w": 1459,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -910,7 +783,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -918,28 +791,62 @@
       }
     },
     {
-      "name": "ПРИМІТКА. Якщо виявлено к..",
+      "name": "ПРИМІТКА: Якщо виявлено ..",
       "type": "text",
       "rect": {
-        "x": 312,
-        "y": 2548,
-        "w": 1384,
-        "h": 284,
+        "x": 328,
+        "y": 2633,
+        "w": 1444,
+        "h": 271,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА. Якщо виявлено кілька ран, обробіть їх у тому порядку, в якому вони були знайдені.",
+      "content": "ПРИМІТКА: Якщо виявлено множинні поранення, надавайте допомогу в порядку їх виявлення.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 328,
+        "y": 2633,
+        "w": 1444,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -953,7 +860,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -961,22 +868,22 @@
       }
     },
     {
-      "name": "ВИКРИТИ будь-які рани гру..",
+      "name": "ВІДКРИЙТЕ та ОГЛЯНЬТЕ всі..",
       "type": "text",
       "rect": {
-        "x": 504,
-        "y": 2320,
-        "w": 1148,
-        "h": 200,
+        "x": 482,
+        "y": 2306,
+        "w": 1290,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВИКРИТИ будь-які рани грудей, задню та передню.",
+      "content": "ВІДКРИЙТЕ та ОГЛЯНЬТЕ всі поранення на передній та задній поверхні грудної клітки, а також у ділянках під руками. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -995,22 +902,22 @@
       }
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1176,
+        "y": 1163,
         "w": 2280,
-        "h": 200,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1024,13 +931,81 @@
         },
         "fill": {
           "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 596,
+        "y": 1268,
+        "w": 2280,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 596,
+        "y": 1268,
+        "w": 2280,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
           "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1038,22 +1013,22 @@
       }
     },
     {
-      "name": "Оклюзійна пов'язка на гру..",
+      "name": "Торакальна оклюзійна налі..",
       "type": "text",
       "rect": {
-        "x": 252,
-        "y": 792,
+        "x": 222,
+        "y": 768,
         "w": 4656,
-        "h": 328,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Оклюзійна пов'язка на грудну клітку",
+      "content": "Торакальна оклюзійна наліпка",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1085,7 +1060,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:37Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:47Z",
       "format": {
         "size": 64,
         "align": "left",
