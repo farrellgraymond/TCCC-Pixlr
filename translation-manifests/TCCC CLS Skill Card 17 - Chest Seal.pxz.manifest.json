@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792171",
+  "id": "1f7d0967-833e-41cd-be59-43016e74c2ae",
   "name": "TCCC CLS Skill Card 17 - Chest Seal",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,517 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4171.png"
+      "content": "6bfdad734ce9.png"
+    },
+    {
+      "name": "ТОРАКАЛЬНА ОКЛЮЗІЙНА НАЛІ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 736,
+        "w": 4414,
+        "h": 266,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ТОРАКАЛЬНА ОКЛЮЗІЙНА НАЛІПКА",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВІДКРИЙТЕ та ОГЛЯНЬТЕ всі..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1902,
+        "w": 1429,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІДКРИЙТЕ та ОГЛЯНЬТЕ всі поранення на передній та задній поверхні грудної клітки, а також у ділянках під руками. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОКЛАДІТЬ долоню або тиль..",
+      "type": "text",
+      "rect": {
+        "x": 1836,
+        "y": 1902,
+        "w": 1429,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОКЛАДІТЬ долоню або тильну сторону кисті на відкриту рану грудної клітки для створення тимчасового її щільного закриття.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВІДКРИЙТЕ повністю зовніш..",
+      "type": "text",
+      "rect": {
+        "x": 3367,
+        "y": 1902,
+        "w": 1429,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІДКРИЙТЕ повністю зовнішню упаковку торакальної оклюзійної наліпки або іншого повітронепроникного матеріалу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВІЗЬМІТЬ марлеву серветку..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2993,
+        "w": 1429,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІЗЬМІТЬ марлеву серветку з упаковки, щоб витерти бруд, кров та інші рідини з ділянки рани.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВІДКЛЕЙТЕ захисне покритт..",
+      "type": "text",
+      "rect": {
+        "x": 1836,
+        "y": 2993,
+        "w": 1429,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІДКЛЕЙТЕ захисне покриття з клейкої сторони наліпки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "НАКЛАДІТЬ наліпку клейкою..",
+      "type": "text",
+      "rect": {
+        "x": 3367,
+        "y": 2993,
+        "w": 1429,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НАКЛАДІТЬ наліпку клейкою стороною донизу безпосередньо на отвір рани, під час видиху пораненого, міцно притиснувши.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕКОНАЙТЕСЬ, що вся кле..",
+      "type": "text",
+      "rect": {
+        "x": 297,
+        "y": 4087,
+        "w": 1429,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕКОНАЙТЕСЬ, що вся клейка поверхня наліпки щільно прилягає до шкіри. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕВІРТЕ ефективність то..",
+      "type": "text",
+      "rect": {
+        "x": 1836,
+        "y": 4087,
+        "w": 1429,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВІРТЕ ефективність торакальної оклюзійної наліпки з клапаном під час дихання пораненого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕВЕДІТЬ притомного пор..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 5180,
+        "w": 1429,
+        "h": 384,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВЕДІТЬ притомного пораненого в сидяче положення. Непритомному пораненому слід надати стабільне бокове положення (пошкодженою стороною донизу).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СПОСТЕРІГАЙТЕ за появою о..",
+      "type": "text",
+      "rect": {
+        "x": 1836,
+        "y": 5180,
+        "w": 1429,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СПОСТЕРІГАЙТЕ за появою ознак напруженого пневмотораксу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо ознаки напруженого п..",
+      "type": "text",
+      "rect": {
+        "x": 578,
+        "y": 5792,
+        "w": 4193,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо ознаки напруженого пневмотораксу зберігаються, незважаючи на випускання повітря з-під наліпки, ПРОВЕДІТЬ голкову декомпресію грудної клітки (див. Інструкцію з проведення голкової декомпресії грудної клітки).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Задокументуйте результати..",
+      "type": "text",
+      "rect": {
+        "x": 578,
+        "y": 6101,
+        "w": 4193,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Задокументуйте результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо виникли ознаки напру..",
+      "type": "text",
+      "rect": {
+        "x": 3375,
+        "y": 5178,
+        "w": 1513,
+        "h": 597,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо виникли ознаки напруженого пневмотораксу, ВІДКЛЕЙТЕ з одного краю оклюзійну наліпку, таким чином дозволивши повітрю вийти з-під наліпки (провівши декомпресію), а потім приклейте наліпку назад, щільно ПРИТИСНУВШИ для відновлення герметичності.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕВЕРНІТЬ пораненого, щ..",
+      "type": "text",
+      "rect": {
+        "x": 3367,
+        "y": 4087,
+        "w": 1492,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВЕРНІТЬ пораненого, щоб оглянути щодо наявності інших відкритих ран (передня та задня поверхні грудної клітки, ділянки під руками).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +546,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-27T11:29:41Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-23T14:59:10Z",
       "format": {
         "size": 64,
         "align": "left",
