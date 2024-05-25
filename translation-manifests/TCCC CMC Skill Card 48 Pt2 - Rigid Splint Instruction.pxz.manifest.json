@@ -1,6 +1,6 @@
 {
-  "id": "4d74c40c-23b0-48c3-b7c4-7c6944321e49",
-  "name": "48 Pt2 ENG Rigid Splint Instruction PNG(2)",
+  "id": "db3609da-f29d-4d66-b1eb-8ee1584f1064",
+  "name": "48 Pt2 Rigid Splint Instruction PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,267 +20,25 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "86c1834e4114.png"
+      "content": "46b78437467a.png"
     },
     {
-      "name": "Shape 21",
-      "type": "shape",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
+      "type": "text",
       "rect": {
-        "x": 252,
-        "y": 4832,
-        "w": 1488,
-        "h": 244,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 500,
+        "x": 492,
         "y": 4644,
-        "w": 1220,
-        "h": 256,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 508,
-        "y": 3180,
-        "w": 3908,
-        "h": 492,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 3316,
-        "y": 2672,
-        "w": 1516,
-        "h": 604,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 3336,
-        "y": 2392,
-        "w": 1476,
-        "h": 340,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 16",
-      "type": "shape",
-      "rect": {
-        "x": 3576,
-        "y": 2196,
-        "w": 1232,
-        "h": 384,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 15",
-      "type": "shape",
-      "rect": {
-        "x": 1820,
-        "y": 2388,
-        "w": 1440,
-        "h": 212,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 14",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 2192,
-        "w": 1200,
-        "h": 236,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 13",
-      "type": "shape",
-      "rect": {
-        "x": 284,
-        "y": 2396,
-        "w": 1452,
-        "h": 144,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 12",
-      "type": "shape",
-      "rect": {
-        "x": 504,
-        "y": 2200,
         "w": 1276,
-        "h": 272,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 11",
-      "type": "shape",
-      "rect": {
-        "x": 260,
-        "y": 716,
-        "w": 4036,
-        "h": 536,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
-      "type": "text",
-      "rect": {
-        "x": 516,
-        "y": 4656,
-        "w": 1276,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
-      "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -299,22 +57,22 @@
       }
     },
     {
-      "name": "Введіть знеболюючі. Антиб..",
+      "name": "ВВЕДІТЬ знеболювальні пре..",
       "type": "text",
       "rect": {
-        "x": 520,
-        "y": 3472,
+        "x": 492,
+        "y": 3477,
         "w": 2672,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Введіть знеболюючі. Антибіотики при відкритих переломах. Перевірте локальні протоколи. Зверніться до лікаря-консультанта.",
+      "content": "ВВЕДІТЬ знеболювальні препарати за потреби та антибіотики при будь-яких відкритих переломах.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -333,22 +91,22 @@
       }
     },
     {
-      "name": "ПОВТОРНО ОЦІНЬТЕ пульс, р..",
+      "name": "ПОВТОРНО ОЦІНІТЬ ПМС (якщ..",
       "type": "text",
       "rect": {
-        "x": 520,
-        "y": 3220,
+        "x": 492,
+        "y": 3227,
         "w": 2756,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОВТОРНО ОЦІНЬТЕ пульс, рухливість і відчуття дотику, дистально, нижче перелому. Якщо їх немає, послабте та знову накладіть шину.",
+      "content": "ПОВТОРНО ОЦІНІТЬ ПМС (якщо ПМС більше не визначається, послабте шину, відрегулюйте положення та знову накладіть її)",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -367,28 +125,62 @@
       }
     },
     {
-      "name": "ПРИМІТКА ВАЖЛИВО. Якщо дл..",
+      "name": "ПРИМІТКА: Під час перемі..",
       "type": "text",
       "rect": {
-        "x": 3360,
-        "y": 2716,
+        "x": 3348,
+        "y": 2798,
         "w": 1460,
-        "h": 452,
+        "h": 354,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА ВАЖЛИВО. Якщо для фіксації кінцівки використовуються ремені, переконайтеся, що на область перелому не чиниться прямий тиск.",
+      "content": "ПРИМІТКА: Під час переміщення фіксувати кінцівку можуть ремені нош, але переконайтеся, що ремінь не тисне безпосередньо на місце перелому.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 3348,
+        "y": 2798,
+        "w": 1460,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -402,7 +194,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -410,22 +202,22 @@
       }
     },
     {
-      "name": "У разі перелому руки зафі..",
+      "name": "ЗАФІКСУЙТЕ травмовану кін..",
       "type": "text",
       "rect": {
-        "x": 3592,
+        "x": 3560,
         "y": 2200,
-        "w": 1164,
-        "h": 452,
+        "w": 1291,
+        "h": 549,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "У разі перелому руки зафіксуйте всю травмовану кінцівку, використовуючи пращу та перев’язавши її на грудях.",
+      "content": "ЗАФІКСУЙТЕ травмовану кінцівку повністю (за необхідності). Наприклад, для стабілізації перелому руки під час транспортування може знадобитися фіксація руки до тулуба за допомогою двох косинок.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -444,22 +236,22 @@
       }
     },
     {
-      "name": "ПЕРЕКОНАЙТЕСЬ, щоб суглоб..",
+      "name": "ПЕРЕКОНАЙТЕСЬ, що суглоби..",
       "type": "text",
       "rect": {
-        "x": 2028,
-        "y": 2200,
-        "w": 1216,
-        "h": 284,
+        "x": 2026,
+        "y": 2192,
+        "w": 1270,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕКОНАЙТЕСЬ, щоб суглоби як над, так і під переломом були знерухомлені.",
+      "content": "ПЕРЕКОНАЙТЕСЬ, що суглоби вище і нижче від перелому знерухомлені за допомогою шини.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -478,22 +270,22 @@
       }
     },
     {
-      "name": "Заправте всі вільні кінці..",
+      "name": "СХОВАЙТЕ кінці косинок, щ..",
       "type": "text",
       "rect": {
-        "x": 504,
-        "y": 2200,
-        "w": 1288,
-        "h": 284,
+        "x": 492,
+        "y": 2192,
+        "w": 1257,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Заправте всі вільні кінці, щоб вони не зачепилися за речі під час транспортування.",
+      "content": "СХОВАЙТЕ кінці косинок, щоб вони не зачепилися за перешкоди під час руху.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -512,24 +304,24 @@
       }
     },
     {
-      "name": "Продовження зі сторінки 1..",
+      "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 280,
-        "y": 972,
+        "x": 361,
+        "y": 1052,
         "w": 3400,
-        "h": 328,
+        "h": 212,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження зі сторінки 1",
+      "content": "Продовження…",
       "format": {
-        "size": 240,
+        "size": 160,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -546,22 +338,22 @@
       }
     },
     {
-      "name": "Жорстка шина при перелома..",
+      "name": "ІНСТРУКЦІЯ З НАКЛАДАННЯ Ж..",
       "type": "text",
       "rect": {
-        "x": 280,
-        "y": 712,
-        "w": 4252,
-        "h": 328,
+        "x": 224,
+        "y": 755,
+        "w": 4721,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Жорстка шина при переломах кісток",
+      "content": "ІНСТРУКЦІЯ З НАКЛАДАННЯ ЖОРСТКОЇ ШИНИ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -593,7 +385,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:40Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:51Z",
       "format": {
         "size": 64,
         "align": "left",

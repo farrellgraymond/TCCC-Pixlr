@@ -1,6 +1,6 @@
 {
-  "id": "e665f0b5-e3b5-4780-8da0-7ec23d61675e",
-  "name": "21 ENG Head-Tilt : Chin-Lift Airway Maneuver PNG(2)(2)",
+  "id": "cd1eb874-c2b3-4db3-a4a9-0eb14fb2aa63",
+  "name": "21 Head-Tilt Chin-Lift Airway Maneuver PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,16 +20,16 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "6e09a7904c4c.png"
+      "content": "8aa48a364f02.png"
     },
     {
-      "name": "Shape 36",
+      "name": "Shape 56",
       "type": "shape",
       "rect": {
-        "x": 2024,
-        "y": 6116,
-        "w": 1280,
-        "h": 420,
+        "x": 1780,
+        "y": 3251,
+        "w": 1545,
+        "h": 950,
         "r": 0
       },
       "opacity": 1,
@@ -45,13 +45,13 @@
       }
     },
     {
-      "name": "Shape 35",
+      "name": "Shape 52",
       "type": "shape",
       "rect": {
-        "x": 500,
-        "y": 6116,
-        "w": 1188,
-        "h": 216,
+        "x": 206,
+        "y": 3446,
+        "w": 1594,
+        "h": 743,
         "r": 0
       },
       "opacity": 1,
@@ -67,13 +67,45 @@
       }
     },
     {
-      "name": "Shape 34",
+      "name": "Screen Shot 2023-10-06 at 12.03.28 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 304,
+        "y": 3571,
+        "w": 188,
+        "h": 185,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "b50484c14ab9.png"
+    },
+    {
+      "name": "Screen Shot 2023-10-06 at 1.52.54 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 297,
+        "y": 2740,
+        "w": 1464,
+        "h": 831,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "4d2a8e3745ce.png"
+    },
+    {
+      "name": "Shape 47",
       "type": "shape",
       "rect": {
-        "x": 3560,
-        "y": 5060,
-        "w": 1236,
-        "h": 220,
+        "x": 3319,
+        "y": 1841,
+        "w": 1554,
+        "h": 515,
         "r": 0
       },
       "opacity": 1,
@@ -89,167 +121,13 @@
       }
     },
     {
-      "name": "Shape 33",
+      "name": "Shape 45",
       "type": "shape",
       "rect": {
-        "x": 2024,
-        "y": 5060,
-        "w": 1224,
-        "h": 208,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 5064,
-        "w": 1288,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 3560,
-        "y": 3848,
-        "w": 1296,
-        "h": 380,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 1808,
-        "y": 4036,
-        "w": 1524,
-        "h": 188,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 2032,
-        "y": 3848,
-        "w": 1256,
-        "h": 268,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 496,
-        "y": 3844,
-        "w": 1276,
-        "h": 372,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 3344,
-        "y": 2548,
-        "w": 1524,
-        "h": 472,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 3564,
+        "x": 3341,
         "y": 2352,
-        "w": 1400,
-        "h": 248,
+        "w": 233,
+        "h": 238,
         "r": 0
       },
       "opacity": 1,
@@ -265,13 +143,13 @@
       }
     },
     {
-      "name": "Shape 25",
+      "name": "Shape 39",
       "type": "shape",
       "rect": {
-        "x": 2032,
-        "y": 2356,
-        "w": 1248,
-        "h": 356,
+        "x": 247,
+        "y": 1194,
+        "w": 430,
+        "h": 318,
         "r": 0
       },
       "opacity": 1,
@@ -287,88 +165,22 @@
       }
     },
     {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 496,
-        "y": 2360,
-        "w": 1152,
-        "h": 324,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 576,
-        "y": 1228,
-        "w": 2408,
-        "h": 252,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 296,
-        "y": 792,
-        "w": 2864,
-        "h": 416,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ДОКУМЕНТУЙТЕ травму та лі..",
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
       "type": "text",
       "rect": {
-        "x": 2032,
-        "y": 6124,
-        "w": 1268,
-        "h": 352,
+        "x": 2024,
+        "y": 6116,
+        "w": 1666,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ДОКУМЕНТУЙТЕ травму та лікування на картці (або безпосередньо на пораненому), залиште картку з пораненим.",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -387,22 +199,22 @@
       }
     },
     {
-      "name": "Виміряйте частоту дихання..",
+      "name": "ПІДРАХУЙТЕ частоту диханн..",
       "type": "text",
       "rect": {
         "x": 492,
-        "y": 6124,
-        "w": 1096,
-        "h": 192,
+        "y": 6116,
+        "w": 1233,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Виміряйте частоту дихання пораненого.",
+      "content": "ПІДРАХУЙТЕ частоту дихання.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -417,28 +229,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 460,
-        "y": 5920,
-        "w": 160,
-        "h": 64,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -449,7 +239,7 @@
         "x": 416,
         "y": 5924,
         "w": 248,
-        "h": 64,
+        "h": 65,
         "r": 0
       },
       "opacity": 1,
@@ -477,20 +267,20 @@
       }
     },
     {
-      "name": "Відчуйте, як повітря тече..",
+      "name": "ВІДЧУВАЙТЕ потік повітря ..",
       "type": "text",
       "rect": {
-        "x": 3568,
+        "x": 3545,
         "y": 5060,
         "w": 1220,
-        "h": 192,
+        "h": 187,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Відчуйте, як повітря тече збоку вашого обличчя.",
+      "content": "ВІДЧУВАЙТЕ потік повітря своєю щокою.",
       "format": {
         "size": 80,
         "align": "left",
@@ -511,22 +301,22 @@
       }
     },
     {
-      "name": "Прислухайтеся до виходу п..",
+      "name": "СЛУХАЙТЕ, чи виходить пов..",
       "type": "text",
       "rect": {
-        "x": 2024,
+        "x": 2018,
         "y": 5060,
-        "w": 1056,
-        "h": 192,
+        "w": 1276,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Прислухайтеся до виходу повітря під час дихання.",
+      "content": "СЛУХАЙТЕ, чи виходить повітря під час видиху.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -545,22 +335,22 @@
       }
     },
     {
-      "name": "Спостерігайте, як підніма..",
+      "name": "СПОСТЕРІГАЙТЕ за підняття..",
       "type": "text",
       "rect": {
         "x": 480,
         "y": 5060,
         "w": 1304,
-        "h": 192,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Спостерігайте, як піднімаються та опускаються груди пораненого.",
+      "content": "СПОСТЕРІГАЙТЕ за підняттям та опусканням грудної клітки.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -579,22 +369,22 @@
       }
     },
     {
-      "name": "Тримаючи дихальні шляхи в..",
+      "name": "Підтримуючи таким чином д..",
       "type": "text",
       "rect": {
-        "x": 3568,
+        "x": 3545,
         "y": 3840,
         "w": 1328,
-        "h": 352,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Тримаючи дихальні шляхи відкритими, притуліть вухо до рота пораненого та подивіться на грудну клітку/живіт.",
+      "content": "Підтримуючи таким чином дихальні шляхи пораненого відкритими, НАБЛИЗЬТЕ ваше вухо до його рота і носа, дивлячись у напрямку грудної клітки та живота.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -613,56 +403,94 @@
       }
     },
     {
-      "name": "Shape 13",
-      "type": "shape",
+      "name": "Screen Shot 2023-10-06 at 1.56.49 AM.png",
+      "type": "image",
       "rect": {
-        "x": 1868,
-        "y": 3604,
-        "w": 1376,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 0.7,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#bdbdbd"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 1,
-          "color": "#f00505"
-        }
-      }
-    },
-    {
-      "name": "НЕ використовуйте великий..",
-      "type": "text",
-      "rect": {
-        "x": 1868,
-        "y": 3608,
-        "w": 1400,
-        "h": 192,
+        "x": 1830,
+        "y": 2883,
+        "w": 1467,
+        "h": 835,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НЕ використовуйте великий палець, щоб підняти.",
+      "content": "de61a0c74252.png"
+    },
+    {
+      "name": "Screen Shot 2023-10-04 at 8.45.07 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 1838,
+        "y": 3712,
+        "w": 186,
+        "h": 186,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "83fba4b24cfb.png"
+    },
+    {
+      "name": "ПРИМІТКА: Не використовуй..",
+      "type": "text",
+      "rect": {
+        "x": 1893,
+        "y": 4039,
+        "w": 1419,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Не використовуйте великий палець, щоб вивести підборіддя.",
       "format": {
-        "size": 80,
+        "size": 74,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 1893,
+        "y": 4039,
+        "w": 1419,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 74,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -676,7 +504,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -684,22 +512,22 @@
       }
     },
     {
-      "name": "Помістіть кінчики пальців..",
+      "name": "ПОКЛАДІТЬ кінчики пальців..",
       "type": "text",
       "rect": {
         "x": 2024,
-        "y": 3840,
-        "w": 1192,
-        "h": 352,
+        "y": 3712,
+        "w": 1288,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Помістіть кінчики пальців іншої руки під кістку нижньої щелепи і підніміть, витягуючи щелепу пацієнта вперед.",
+      "content": "ПОКЛАДІТЬ кінчики пальців іншої руки під кісткову частину підборіддя та підніміть його, виводячи підборіддя доверху.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -718,22 +546,22 @@
       }
     },
     {
-      "name": "Покладіть одну руку на чо..",
+      "name": "ПОКЛАДІТЬ одну руку на чо..",
       "type": "text",
       "rect": {
         "x": 492,
-        "y": 3840,
-        "w": 1416,
-        "h": 352,
+        "y": 3571,
+        "w": 1292,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Покладіть одну руку на чоло пораненого. Натисніть долонею, щоб відвести голову пораненого назад.",
+      "content": "ПОКЛАДІТЬ одну руку на чоло пораненого. НАТИСНІТЬ долонею в напрямку донизу, щоб розігнути голову.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -752,28 +580,62 @@
       }
     },
     {
-      "name": "Важливо. НЕ можна проводи..",
+      "name": "ПРИМІТКА: НЕ шукайте сто..",
       "type": "text",
       "rect": {
-        "x": 2128,
-        "y": 2728,
-        "w": 1180,
-        "h": 192,
+        "x": 3344,
+        "y": 2828,
+        "w": 1572,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Важливо. НЕ можна проводити наосліп пальцями.",
+      "content": "ПРИМІТКА: НЕ шукайте сторонні тіла в ротовій порожнині пальцем наосліп.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 3344,
+        "y": 2828,
+        "w": 1572,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -787,7 +649,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -795,28 +657,78 @@
       }
     },
     {
-      "name": "ПРИМІТКА - якщо виявлено ..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-05 at 8.45.59 PM.png",
+      "type": "image",
       "rect": {
-        "x": 3368,
-        "y": 2644,
-        "w": 1504,
-        "h": 352,
+        "x": 3360,
+        "y": 1324,
+        "w": 1461,
+        "h": 832,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА - якщо виявлено будь-які сторонні уламки, видаліть їх якомога швидше (зламані зуби, опіки, набряки, блювоту).",
+      "content": "3cf9882541c6.png"
+    },
+    {
+      "name": "ПРИМІТКА: Якщо в ротовій..",
+      "type": "text",
+      "rect": {
+        "x": 3344,
+        "y": 2557,
+        "w": 1564,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо в ротовій порожнині наявні сторонні тіла чи блювота, видаліть їх якомога швидше. ",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 3344,
+        "y": 2557,
+        "w": 1564,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -830,7 +742,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -838,56 +750,72 @@
       }
     },
     {
-      "name": "Відкрийте рот пораненого ..",
+      "name": "ВІДКРИЙТЕ рот пораненого ..",
       "type": "text",
       "rect": {
-        "x": 3568,
+        "x": 3344,
+        "y": 2156,
+        "w": 1564,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІДКРИЙТЕ рот пораненого та ОГЛЯНЬТЕ, чи немає видимої обструкції дихальних шляхів (напр., рвані рани, зламані зуби, опіки, набряк або інші залишки, наприклад блювота). ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-10-05 at 8.42.25 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 3146,
         "y": 2360,
-        "w": 1244,
-        "h": 272,
+        "w": 186,
+        "h": 184,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Відкрийте рот пораненого та подивіться на будь-які видимі перешкоди.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
+      "content": "1bb9ba544d9b.png"
     },
     {
-      "name": "встаньте на коліна на рів..",
+      "name": "СТАНЬТЕ на коліна на рівн..",
       "type": "text",
       "rect": {
-        "x": 2040,
-        "y": 2348,
+        "x": 2024,
+        "y": 2360,
         "w": 1228,
-        "h": 352,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "встаньте на коліна на рівні плечей пораненого. Розташуйтеся збоку від пораненого",
+      "content": "СТАНЬТЕ на коліна на рівні плечей пораненого, збоку від нього.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -906,28 +834,28 @@
       }
     },
     {
-      "name": "Переверніть пораненого на..",
+      "name": "ПЕРЕВЕРНІТЬ пораненого на..",
       "type": "text",
       "rect": {
         "x": 492,
         "y": 2360,
         "w": 1112,
-        "h": 272,
+        "h": 354,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Переверніть пораненого на спину і покладіть на тверду рівну поверхню.",
+      "content": "ПЕРЕВЕРНІТЬ пораненого на спину, якщо необхідно, і ПОКЛАДІТЬ його на тверду рівну поверхню.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -940,28 +868,28 @@
       }
     },
     {
-      "name": "ВАЖЛИВО - НЕ використовуй..",
+      "name": "ПРИМІТКА: НЕ застосовуйт..",
       "type": "text",
       "rect": {
-        "x": 296,
-        "y": 1064,
-        "w": 4224,
-        "h": 140,
+        "x": 356,
+        "y": 1293,
+        "w": 2063,
+        "h": 197,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ВАЖЛИВО - НЕ використовуйте, якщо є підозра на травму хребта або шиї.",
+      "content": "ПРИМІТКА: НЕ застосовуйте цей прийом, якщо є підозра на травму хребта або шиї.",
       "format": {
-        "size": 100,
+        "size": 80,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -969,34 +897,25 @@
         },
         "fill": {
           "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
-        "x": 604,
-        "y": 1268,
-        "w": 2212,
-        "h": 192,
+        "x": 356,
+        "y": 1293,
+        "w": 2063,
+        "h": 110,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПРИМІТКА:",
       "format": {
         "size": 80,
         "align": "left",
@@ -1018,7 +937,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1026,28 +945,28 @@
       }
     },
     {
-      "name": "нахил голови/підняття пид..",
+      "name": "РОЗГИНАННЯ ГОЛОВИ / ВИВЕД..",
       "type": "text",
       "rect": {
         "x": 256,
-        "y": 736,
-        "w": 4764,
-        "h": 332,
+        "y": 752,
+        "w": 3416,
+        "h": 498,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "нахил голови/підняття пидбориддя",
+      "content": "РОЗГИНАННЯ ГОЛОВИ / ВИВЕДЕННЯ ПІДБОРІДДЯ",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.05,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1056,6 +975,133 @@
         "fill": {
           "type": "color",
           "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-10-03 at 9.34.31 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 3459,
+        "y": 849,
+        "w": 284,
+        "h": 279,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "db55b96c467a.png"
+    },
+    {
+      "name": "ПОДБАЙТЕ про засоби індив..",
+      "type": "text",
+      "rect": {
+        "x": 3755,
+        "y": 849,
+        "w": 1033,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 3755,
+        "y": 1053,
+        "w": 1117,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 3755,
+        "y": 1053,
+        "w": 1284,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
         }
       }
     },
@@ -1073,7 +1119,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:36Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:46Z",
       "format": {
         "size": 64,
         "align": "left",

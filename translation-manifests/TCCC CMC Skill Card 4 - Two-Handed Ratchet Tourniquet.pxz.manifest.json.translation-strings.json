@@ -1,14 +1,10 @@
 [
   {
-    "content": "Примітка :",
-    "fillValue": "#f00505"
-  },
-  {
     "content": "Якщо відсутня інша значна кровотеча, перемістіть пораненого в укриття.",
     "fillValue": "#000000"
   },
   {
-    "content": "_________ Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+    "content": "Примітка: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
     "fillValue": "#000000"
   },
   {
@@ -64,7 +60,11 @@
     "fillValue": "#000000"
   },
   {
-    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:39Z",
+    "content": "Примітка:",
+    "fillValue": "#f00505"
+  },
+  {
+    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:50Z",
     "fillValue": "#000000"
   }
 ]

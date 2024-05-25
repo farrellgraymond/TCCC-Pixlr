@@ -1,5 +1,5 @@
 {
-  "id": "2d26eeb3-ca92-46da-984b-7f516c2f30f1",
+  "id": "a162f63a-f105-4388-9c2b-2eaede104e6f",
   "name": "33 Pt1 Pixlr Sternal Intraosseous (FAST1)",
   "type": "document",
   "unit": "pixel",
@@ -20,16 +20,16 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "2ac0bc4643e8.png"
+      "content": "5547b7994135.png"
     },
     {
-      "name": "Shape 40",
+      "name": "Shape 46",
       "type": "shape",
       "rect": {
-        "x": 3412,
-        "y": 6248,
-        "w": 1428,
-        "h": 188,
+        "x": 3339,
+        "y": 1166,
+        "w": 245,
+        "h": 322,
         "r": 0
       },
       "opacity": 1,
@@ -45,13 +45,13 @@
       }
     },
     {
-      "name": "Shape 39",
+      "name": "Shape 44",
       "type": "shape",
       "rect": {
-        "x": 3576,
-        "y": 5928,
-        "w": 1232,
-        "h": 328,
+        "x": 246,
+        "y": 3865,
+        "w": 1516,
+        "h": 1154,
         "r": 0
       },
       "opacity": 1,
@@ -60,6 +60,7 @@
       "link": "",
       "format": {
         "variant": "rectangle",
+        "radii": 20,
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -67,352 +68,22 @@
       }
     },
     {
-      "name": "Shape 38",
-      "type": "shape",
-      "rect": {
-        "x": 488,
-        "y": 5932,
-        "w": 2744,
-        "h": 344,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 37",
-      "type": "shape",
-      "rect": {
-        "x": 488,
-        "y": 4752,
-        "w": 1204,
-        "h": 304,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 36",
-      "type": "shape",
-      "rect": {
-        "x": 3560,
-        "y": 4756,
-        "w": 1256,
-        "h": 240,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 35",
-      "type": "shape",
-      "rect": {
-        "x": 2020,
-        "y": 4752,
-        "w": 1256,
-        "h": 312,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 34",
-      "type": "shape",
-      "rect": {
-        "x": 3348,
-        "y": 3656,
-        "w": 1436,
-        "h": 220,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 3564,
-        "y": 3464,
-        "w": 1232,
-        "h": 300,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 1804,
-        "y": 3656,
-        "w": 1476,
-        "h": 220,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 2024,
-        "y": 3472,
-        "w": 1256,
-        "h": 248,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 268,
-        "y": 3656,
-        "w": 1508,
-        "h": 232,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 484,
-        "y": 3472,
-        "w": 1292,
-        "h": 228,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 3572,
-        "y": 2368,
-        "w": 1196,
-        "h": 232,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 2364,
-        "w": 1232,
-        "h": 232,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 1164,
-        "w": 1248,
-        "h": 320,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 580,
-        "y": 1112,
-        "w": 1900,
-        "h": 320,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 252,
-        "y": 800,
-        "w": 4728,
-        "h": 336,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "продовження на наступній ..",
+      "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3416,
-        "y": 6276,
+        "x": 3446,
+        "y": 6290,
         "w": 1424,
-        "h": 116,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "продовження на наступній сторінці...",
+      "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -431,22 +102,22 @@
       }
     },
     {
-      "name": "Під’єднайте інфузійну тру..",
+      "name": "ПІД’ЄДНАЙТЕ подовжувач дл..",
       "type": "text",
       "rect": {
-        "x": 3580,
-        "y": 5932,
+        "x": 3564,
+        "y": 5920,
         "w": 1216,
-        "h": 200,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Під’єднайте інфузійну трубку до кутового роз’єму на патчі.",
+      "content": "ПІД’ЄДНАЙТЕ подовжувач для інфузії до прямокутного перехідника на наліпці-орієнтирі.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -465,22 +136,22 @@
       }
     },
     {
-      "name": "Вставте голки інтродьюсер..",
+      "name": "ВСТАВТЕ голки пристрою в ..",
       "type": "text",
       "rect": {
-        "x": 492,
-        "y": 5932,
+        "x": 488,
+        "y": 5920,
         "w": 2728,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Вставте голки інтродьюсера в поролонову пробку, яка входить в комплект поставки. Утилізуйте, як і гострі предмети, у відповідний контейнер.",
+      "content": "ВСТАВТЕ голки пристрою в пінопластову заглушку, яка додається до набору, одягніть захисний ковпачок для запобігання контакту з голками. Викиньте у контейнер для утилізації гострих предметів.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -499,22 +170,22 @@
       }
     },
     {
-      "name": "Обережно вийміть інтродью..",
+      "name": "ОБЕРЕЖНО вийміть пристрій..",
       "type": "text",
       "rect": {
-        "x": 3580,
-        "y": 4756,
+        "x": 3550,
+        "y": 4745,
         "w": 1420,
-        "h": 200,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Обережно вийміть інтродьюсер, потягнувши прямо назад.",
+      "content": "ОБЕРЕЖНО вийміть пристрій, потягнувши його прямо назад.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -533,22 +204,22 @@
       }
     },
     {
-      "name": "Збільшуйте тиск на інтрод..",
+      "name": "ЗАСТОСУЙТЕ наростаючий ти..",
       "type": "text",
       "rect": {
-        "x": 2024,
-        "y": 4756,
+        "x": 2016,
+        "y": 4745,
         "w": 1272,
-        "h": 284,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Збільшуйте тиск на інтродьюсер пучка голок прямо вниз, доки не відчуєте та не почуєте відпуск.",
+      "content": "ЗАСТОСУЙТЕ наростаючий тиск вздовж осі введення, доки не відчуєте та не почуєте втрату опору.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -567,56 +238,38 @@
       }
     },
     {
-      "name": "Зберігайте кут 90 градусі..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-07 at 9.08.48 PM.png",
+      "type": "image",
       "rect": {
-        "x": 492,
-        "y": 4756,
-        "w": 1212,
-        "h": 284,
+        "x": 292,
+        "y": 4844,
+        "w": 187,
+        "h": 185,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Зберігайте кут 90 градусів до грудей, застосовуючи пучок голок (інтродьюсер).",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
+      "content": "ee33b8ce4454.png"
     },
     {
-      "name": "Зніміть кришку з пристрою..",
+      "name": "ЗНІМІТЬ ковпачок із прист..",
       "type": "text",
       "rect": {
-        "x": 3580,
-        "y": 3468,
+        "x": 3550,
+        "y": 3459,
         "w": 1216,
-        "h": 284,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Зніміть кришку з пристрою FAST1 і помістіть кластер голки в цільову зону пластиру.",
+      "content": "ЗНІМІТЬ ковпачок із пристрою FAST1 і розташуйте пристрій, спрямувавши кінець з голками в цільову зону наліпки-орієнтира.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -635,158 +288,140 @@
       }
     },
     {
-      "name": "ПЕРЕВІРТЕ цільову ділянку..",
+      "name": "ПЕРЕВІРТЕ розташування на..",
+      "type": "text",
+      "rect": {
+        "x": 2011,
+        "y": 3459,
+        "w": 1324,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВІРТЕ розташування наліпки-орієнтира, переконавшись, що цільова зона знаходиться по серединній лінії над рукояткою груднини.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Спочатку ЗНІМІТЬ верхню ч..",
+      "type": "text",
+      "rect": {
+        "x": 474,
+        "y": 3459,
+        "w": 1375,
+        "h": 549,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Спочатку ЗНІМІТЬ верхню частину захисного покриття наліпки-орієнтира, прикладіть наліпку-орієнтир до яремної вирізки та зніміть нижню половину захисного покриття наліпки, повністю приклеївши її.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-10-07 at 9.10.10 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 278,
+        "y": 3987,
+        "w": 1466,
+        "h": 857,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "cf2b85c94fe4.png"
+    },
+    {
+      "name": "ПРОТРІТЬ ділянку серветко..",
+      "type": "text",
+      "rect": {
+        "x": 3564,
+        "y": 2367,
+        "w": 1188,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРОТРІТЬ ділянку серветкою, змоченою спиртом або повідон-йодом.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗНАЙДІТЬ орієнтир – яремн..",
       "type": "text",
       "rect": {
         "x": 2024,
-        "y": 3468,
-        "w": 1268,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПЕРЕВІРТЕ цільову ділянку, переконавшись, що цільова зона знаходиться по середній лінії над манубрієм.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Розташуйте пластир на над..",
-      "type": "text",
-      "rect": {
-        "x": 320,
-        "y": 3636,
-        "w": 1488,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Розташуйте пластир на надгрудинній вирізці, потім зніміть нижню половину підкладки.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Зніміть верхню половину к..",
-      "type": "text",
-      "rect": {
-        "x": 492,
-        "y": 3468,
-        "w": 1332,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Зніміть верхню половину клейкої основи цільового пластиру.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Очистіть місце спиртом аб..",
-      "type": "text",
-      "rect": {
-        "x": 3580,
-        "y": 2368,
-        "w": 1188,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Очистіть місце спиртом або повідон-йодом.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Знайдіть надгруднинну виї..",
-      "type": "text",
-      "rect": {
-        "x": 2036,
-        "y": 2368,
+        "y": 2367,
         "w": 1184,
-        "h": 116,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Знайдіть надгруднинну виїмку.",
+      "content": "ЗНАЙДІТЬ орієнтир – яремну вирізку.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -831,7 +466,7 @@
       "type": "image",
       "rect": {
         "x": 288,
-        "y": 2308,
+        "y": 2284,
         "w": 192,
         "h": 192,
         "r": 0
@@ -840,25 +475,25 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "77dabb234ee4.png"
+      "content": "0dab993342cc.png"
     },
     {
-      "name": "Підготуйте трубку, прикрі..",
+      "name": "ПІД’ЄДНАЙТЕ контейнер/пак..",
       "type": "text",
       "rect": {
-        "x": 472,
-        "y": 2300,
-        "w": 1368,
-        "h": 284,
+        "x": 474,
+        "y": 2293,
+        "w": 1404,
+        "h": 327,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Підготуйте трубку, прикріпіть до пакета для внутрішньовенної інфузії.",
+      "content": "ПІД’ЄДНАЙТЕ контейнер/пакет з розчином для внутрішньовенної (ВВ) інфузії до належно підготовленої системи для ВВ інфузій.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -877,22 +512,22 @@
       }
     },
     {
-      "name": "Зберіть і підготуйте обла..",
+      "name": "ЗБЕРІТЬ, ПІДГОТУЙТЕ та ПЕ..",
       "type": "text",
       "rect": {
-        "x": 3580,
-        "y": 1184,
+        "x": 3584,
+        "y": 1278,
         "w": 1216,
-        "h": 284,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Зберіть і підготуйте обладнання. Огляньте його на недоліки.",
+      "content": "ЗБЕРІТЬ, ПІДГОТУЙТЕ та ПЕРЕВІРТЕ необхідне обладнання.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -911,49 +546,11 @@
       }
     },
     {
-      "name": "Shape 6",
-      "type": "shape",
-      "rect": {
-        "x": 212,
-        "y": 1084,
-        "w": 432,
-        "h": 428,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "clipboard",
       "type": "image",
       "rect": {
-        "x": 284,
-        "y": 1156,
-        "w": 304,
-        "h": 304,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "499e9c2b4d5b.png"
-    },
-    {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 284,
-        "y": 1460,
+        "x": 288,
+        "y": 1432,
         "w": 1456,
         "h": 852,
         "r": 0
@@ -962,31 +559,99 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "5976ab0a4338.png"
+      "content": "8e74be114c51.png"
     },
     {
-      "name": "Розгляньте можливість вик..",
+      "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
-        "x": 604,
-        "y": 1176,
-        "w": 1744,
-        "h": 284,
+        "x": 588,
+        "y": 1164,
+        "w": 1876,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
         "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 588,
+        "y": 1261,
+        "w": 1876,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 588,
+        "y": 1261,
+        "w": 1876,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1000,7 +665,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1008,28 +673,28 @@
       }
     },
     {
-      "name": "FAST1 IO - Sternal Intrao..",
+      "name": "СИСТЕМА FAST1®IO ДЛЯ ВНУТ..",
       "type": "text",
       "rect": {
-        "x": 284,
-        "y": 1000,
-        "w": 2524,
-        "h": 220,
+        "x": 212,
+        "y": 739,
+        "w": 4922,
+        "h": 417,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "FAST1 IO - Sternal Intraosseous",
+      "content": "СИСТЕМА FAST1®IO ДЛЯ ВНУТРІШНЬОКІСТКОВОГО ВВЕДЕННЯ В ГРУДНИНУ",
       "format": {
-        "size": 160,
+        "size": 180,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": 0,
+        "linespace": -0.22,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1042,22 +707,38 @@
       }
     },
     {
-      "name": "Стернальний внутрішньокіс..",
-      "type": "text",
+      "name": "Screen Shot 2023-10-02 at 12.58.46 AM.png",
+      "type": "image",
       "rect": {
-        "x": 240,
-        "y": 716,
-        "w": 4024,
-        "h": 328,
+        "x": 3366,
+        "y": 1283,
+        "w": 194,
+        "h": 187,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Стернальний внутрішньокістковий",
+      "content": "ebfca0de4a40.png"
+    },
+    {
+      "name": "ТРИМАЙТЕ пристрій перпенд..",
+      "type": "text",
+      "rect": {
+        "x": 488,
+        "y": 4840,
+        "w": 1377,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ТРИМАЙТЕ пристрій перпендикулярно до поверхні груднини.",
       "format": {
-        "size": 240,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1089,7 +770,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:38Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:48Z",
       "format": {
         "size": 64,
         "align": "left",

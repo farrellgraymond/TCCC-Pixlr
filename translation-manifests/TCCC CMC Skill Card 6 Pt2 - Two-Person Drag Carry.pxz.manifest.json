@@ -23,49 +23,6 @@
       "content": "ec73a8c94d18.png"
     },
     {
-      "name": "ПРИМІТКА :..",
-      "type": "text",
-      "rect": {
-        "x": 410,
-        "y": 1507,
-        "w": 2180,
-        "h": 100,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
       "name": "ПІДІЙМІТЬ ТА ПІДТРИМУЙТЕ ..",
       "type": "text",
       "rect": {
@@ -338,7 +295,7 @@
       }
     },
     {
-      "name": "__________ Підтримування ..",
+      "name": "ПРИМІТКА: Підтримування ..",
       "type": "text",
       "rect": {
         "x": 410,
@@ -351,7 +308,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "__________ Підтримування двома особами може використовуватися для переміщення притомних та непритомних поранених.",
+      "content": "ПРИМІТКА: Підтримування двома особами може використовуватися для переміщення притомних та непритомних поранених.",
       "format": {
         "size": 76,
         "align": "left",
@@ -440,6 +397,49 @@
       }
     },
     {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 410,
+        "y": 1507,
+        "w": 2180,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -453,7 +453,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:42Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:53Z",
       "format": {
         "size": 64,
         "align": "left",

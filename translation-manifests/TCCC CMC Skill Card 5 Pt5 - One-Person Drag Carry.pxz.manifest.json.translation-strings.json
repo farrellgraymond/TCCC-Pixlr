@@ -1,9 +1,5 @@
 [
   {
-    "content": "ПРИМІТКА :",
-    "fillValue": "#f00505"
-  },
-  {
     "content": "Будьте опорою для пораненого, ЙДУЧИ разом із ним.",
     "fillValue": "#000000"
   },
@@ -20,8 +16,12 @@
     "fillValue": "#000000"
   },
   {
-    "content": "__________ Цей метод може використовуватися лише для ПРИТОМНИХ поранених.",
+    "content": "ПРИМІТКА: Цей метод може використовуватися лише для ПРИТОМНИХ поранених.",
     "fillValue": "#000000"
+  },
+  {
+    "content": "ПРИМІТКА:",
+    "fillValue": "#f00505"
   },
   {
     "content": "ПЕРЕНЕСЕННЯ МЕТОДОМ ПІДТРИМУВАННЯ ",
@@ -32,7 +32,7 @@
     "fillValue": "#000000"
   },
   {
-    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:42Z",
+    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:52Z",
     "fillValue": "#000000"
   }
 ]

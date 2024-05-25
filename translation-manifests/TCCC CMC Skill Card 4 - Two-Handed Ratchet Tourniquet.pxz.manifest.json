@@ -23,49 +23,6 @@
       "content": "0cdf8192449d.png"
     },
     {
-      "name": "Примітка :..",
-      "type": "text",
-      "rect": {
-        "x": 442,
-        "y": 5613,
-        "w": 2218,
-        "h": 105,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Примітка :",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
       "name": "Shape 32",
       "type": "shape",
       "rect": {
@@ -122,7 +79,7 @@
       }
     },
     {
-      "name": "_________ Не документуйте..",
+      "name": "Примітка: Не документуйте..",
       "type": "text",
       "rect": {
         "x": 442,
@@ -135,7 +92,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "_________ Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+      "content": "Примітка: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
       "format": {
         "size": 76,
         "align": "left",
@@ -293,7 +250,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -667,6 +624,49 @@
       }
     },
     {
+      "name": "Примітка:..",
+      "type": "text",
+      "rect": {
+        "x": 442,
+        "y": 5619,
+        "w": 2218,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Примітка:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -680,7 +680,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:39Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:50Z",
       "format": {
         "size": 64,
         "align": "left",

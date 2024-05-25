@@ -1,6 +1,6 @@
 {
-  "id": "d7acc724-5d80-4141-b87b-8df5809d9250",
-  "name": "27 Pt1 ENG Extraglottic Airway PNG(2)",
+  "id": "004d839e-7437-4792-ba9f-5d3d9cf1be88",
+  "name": "27 Pt1 Extraglottic Airway PNG",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -20,498 +20,59 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "56b0bc674992.png"
+      "content": "1a82a57c48c9.png"
     },
     {
-      "name": "Shape 35",
-      "type": "shape",
+      "name": "Продовження на наступній ..",
+      "type": "text",
       "rect": {
-        "x": 3396,
-        "y": 5908,
-        "w": 1428,
-        "h": 204,
+        "x": 3452,
+        "y": 6150,
+        "w": 1448,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "Продовження на наступній сторінці…",
       "format": {
-        "variant": "rectangle",
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
     {
-      "name": "Shape 34",
-      "type": "shape",
+      "name": "Розмістіть повітровід так..",
+      "type": "text",
       "rect": {
-        "x": 3364,
-        "y": 5480,
-        "w": 1436,
-        "h": 184,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 33",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
+        "x": 3562,
         "y": 5296,
-        "w": 1236,
-        "h": 252,
+        "w": 1228,
+        "h": 253,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
+      "content": "Розмістіть повітровід так, щоб отвір манжети був спрямований до підборіддя.",
       "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 32",
-      "type": "shape",
-      "rect": {
-        "x": 1812,
-        "y": 5484,
-        "w": 1476,
-        "h": 296,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 2016,
-        "y": 5304,
-        "w": 1276,
-        "h": 260,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 30",
-      "type": "shape",
-      "rect": {
-        "x": 264,
-        "y": 5484,
-        "w": 1424,
-        "h": 204,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 29",
-      "type": "shape",
-      "rect": {
-        "x": 496,
-        "y": 5300,
-        "w": 1176,
-        "h": 256,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 28",
-      "type": "shape",
-      "rect": {
-        "x": 3568,
-        "y": 3816,
-        "w": 1232,
-        "h": 224,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 27",
-      "type": "shape",
-      "rect": {
-        "x": 1808,
-        "y": 4004,
-        "w": 1448,
-        "h": 212,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 2020,
-        "y": 3816,
-        "w": 1256,
-        "h": 288,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 280,
-        "y": 4004,
-        "w": 1472,
-        "h": 192,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 24",
-      "type": "shape",
-      "rect": {
-        "x": 500,
-        "y": 3816,
-        "w": 1252,
-        "h": 236,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 23",
-      "type": "shape",
-      "rect": {
-        "x": 3580,
-        "y": 2476,
-        "w": 1188,
-        "h": 168,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 22",
-      "type": "shape",
-      "rect": {
-        "x": 1808,
-        "y": 2672,
-        "w": 1488,
-        "h": 208,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 21",
-      "type": "shape",
-      "rect": {
-        "x": 2028,
-        "y": 2476,
-        "w": 1208,
-        "h": 248,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 20",
-      "type": "shape",
-      "rect": {
-        "x": 492,
-        "y": 2476,
-        "w": 1216,
-        "h": 304,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 19",
-      "type": "shape",
-      "rect": {
-        "x": 584,
-        "y": 1140,
-        "w": 2520,
-        "h": 308,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 18",
-      "type": "shape",
-      "rect": {
-        "x": 244,
-        "y": 784,
-        "w": 4152,
-        "h": 304,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "EXTRAGLOTTIC AIRWAY..",
-      "type": "text",
-      "rect": {
-        "x": 2756,
-        "y": 1136,
-        "w": 1044,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "EXTRAGLOTTIC AIRWAY",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "продовження на наступній ..",
-      "type": "text",
-      "rect": {
-        "x": 3416,
-        "y": 5928,
-        "w": 1448,
-        "h": 116,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "продовження на наступній сторінці...",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "РОЗТАШУЙТЕ повітропровідн..",
-      "type": "text",
-      "rect": {
-        "x": 3572,
-        "y": 5300,
-        "w": 1364,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "РОЗТАШУЙТЕ повітропровідну трубку так, щоб манжета була спрямована до підборіддя пораненого.",
-      "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -536,7 +97,7 @@
         "x": 504,
         "y": 4580,
         "w": 640,
-        "h": 76,
+        "h": 65,
         "r": 36.77
       },
       "opacity": 1,
@@ -573,124 +134,124 @@
       }
     },
     {
-      "name": "МІЦНО ТРИМАЙТЕ трубку дих..",
-      "type": "text",
-      "rect": {
-        "x": 2008,
-        "y": 5300,
-        "w": 1264,
-        "h": 452,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "МІЦНО ТРИМАЙТЕ трубку дихальних шляхів основною рукою. Дотримуйтесь інтегрованого блокування прикусу.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ЗМАЩІТЬ дистальний кінець..",
-      "type": "text",
-      "rect": {
-        "x": 496,
-        "y": 5300,
-        "w": 1132,
-        "h": 368,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ЗМАЩІТЬ дистальний кінець (нижню частину) стерильним мастильним гелем на водній основі.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ПЕРЕВІРТЕ та випробуйте о..",
-      "type": "text",
-      "rect": {
-        "x": 3572,
-        "y": 3820,
-        "w": 1356,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПЕРЕВІРТЕ та випробуйте обладнання.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ОБЕРІТЬ відповідний прист..",
+      "name": "Домінантною рукою МІЦНО В..",
       "type": "text",
       "rect": {
         "x": 2016,
-        "y": 3820,
+        "y": 5300,
+        "w": 1264,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Домінантною рукою МІЦНО ВІЗЬМІТЬ надгортанний повітровід вздовж інтегрованого захисного блоку.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Змастіть дистальний кінец..",
+      "type": "text",
+      "rect": {
+        "x": 481,
+        "y": 5300,
+        "w": 1132,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Змастіть дистальний кінець надгортанного повітроводу стерильним лубрикантом на водній основі.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Огляньте та перевірте обл..",
+      "type": "text",
+      "rect": {
+        "x": 3562,
+        "y": 3816,
+        "w": 1356,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Огляньте та перевірте обладнання.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Оберіть надгортанний пові..",
+      "type": "text",
+      "rect": {
+        "x": 2016,
+        "y": 3816,
         "w": 1232,
-        "h": 368,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОБЕРІТЬ відповідний пристрій залежно від ваги пораненого. Часто розмір 4 підходить для більшості військових.",
+      "content": "Оберіть надгортанний повітровід відповідного розміру, виходячи з ваги пораненого. Розмір 4 підходить для більшості військових.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -709,22 +270,22 @@
       }
     },
     {
-      "name": "Гіпервентилюйте пораненог..",
+      "name": "Гіпервентилюйте постражда..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 3820,
+        "x": 492,
+        "y": 3816,
         "w": 1204,
-        "h": 368,
+        "h": 401,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Гіпервентилюйте пораненого протягом щонайменше 30 секунд, використовуючи маску та кисень, якщо є.",
+      "content": "Гіпервентилюйте постраждалого протягом щонайменше 30 секунд, використовуючи мішок типу Амбу з маскою і кисень, якщо він доступний.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -743,22 +304,22 @@
       }
     },
     {
-      "name": "Відкрити рот / дихальні ш..",
+      "name": "Відкрийте дихальні шляхи...",
       "type": "text",
       "rect": {
-        "x": 3572,
-        "y": 2484,
+        "x": 3562,
+        "y": 2476,
         "w": 1280,
-        "h": 116,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Відкрити рот / дихальні шляхи.",
+      "content": "Відкрийте дихальні шляхи.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -777,28 +338,62 @@
       }
     },
     {
-      "name": "Альтернатива — нейтральне..",
+      "name": "ПРИМІТКА: Альтернативою ..",
       "type": "text",
       "rect": {
         "x": 1824,
         "y": 2684,
         "w": 1748,
-        "h": 200,
+        "h": 188,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Альтернатива — нейтральне положення, підкладка під плечима з підголовником.",
+      "content": "ПРИМІТКА: Альтернативою є нейтральне положення голови.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 1824,
+        "y": 2684,
+        "w": 1748,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -812,7 +407,7 @@
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -820,22 +415,22 @@
       }
     },
     {
-      "name": "ПОЗИЦІЯ. Голова пораненог..",
+      "name": "Розташуйте голову постраж..",
       "type": "text",
       "rect": {
-        "x": 2036,
-        "y": 2484,
-        "w": 1352,
-        "h": 200,
+        "x": 2020,
+        "y": 2476,
+        "w": 1285,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОЗИЦІЯ. Голова пораненого нахилена, ніби принюхується.",
+      "content": "Розташуйте голову постраждалого в положенні «принюхування».",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -854,22 +449,22 @@
       }
     },
     {
-      "name": "ПЕРЕВІРТЕ порожнину рота ..",
+      "name": "Огляньте верхні дихальні ..",
       "type": "text",
       "rect": {
-        "x": 496,
-        "y": 2484,
-        "w": 1132,
-        "h": 284,
+        "x": 492,
+        "y": 2476,
+        "w": 1204,
+        "h": 179,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПЕРЕВІРТЕ порожнину рота та дихальні шляхи на наявність обструкції.",
+      "content": "Огляньте верхні дихальні шляхи на предмет видимої обструкції.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -888,65 +483,22 @@
       }
     },
     {
-      "name": "ВАЖЛИВО: існують незначні..",
-      "type": "text",
-      "rect": {
-        "x": 2756,
-        "y": 1252,
-        "w": 2424,
-        "h": 284,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ВАЖЛИВО: існують незначні відмінності між багатьма дихальними пристроями. Переконайтеся, що ви використовуєте правильний тип.",
-      "format": {
-        "size": 80,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Розгляньте можливість вик..",
+      "name": "Подбайте про заходи індив..",
       "type": "text",
       "rect": {
         "x": 584,
-        "y": 1152,
-        "w": 1552,
-        "h": 284,
+        "y": 1187,
+        "w": 1776,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Розгляньте можливість використання медичних рукавичок для захисту. Якщо є МЕДИК, попросіть його допомогти.",
+      "content": "Подбайте про заходи індивідуального захисту.",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -960,13 +512,81 @@
         },
         "fill": {
           "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 584,
+        "y": 1310,
+        "w": 1776,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 584,
+        "y": 1310,
+        "w": 1776,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
           "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#000000",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -974,22 +594,22 @@
       }
     },
     {
-      "name": "дихальні шляхи надглотков..",
+      "name": "НАДГОРТАННИЙ ПОВІТРОВІД..",
       "type": "text",
       "rect": {
-        "x": 268,
-        "y": 740,
+        "x": 244,
+        "y": 784,
         "w": 4244,
-        "h": 328,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "дихальні шляхи надглоткового типу",
+      "content": "НАДГОРТАННИЙ ПОВІТРОВІД",
       "format": {
-        "size": 240,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1021,7 +641,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-05T14:36:37Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:47Z",
       "format": {
         "size": 64,
         "align": "left",
