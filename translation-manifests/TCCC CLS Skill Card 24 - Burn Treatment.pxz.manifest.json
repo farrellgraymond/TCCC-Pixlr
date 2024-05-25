@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792241",
+  "id": "414ed061-101b-44f4-8f6c-a4f906033220",
   "name": "TCCC CLS Skill Card 24 - Burn Treatment",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,483 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4241.png"
+      "content": "368e9f07465f.png"
+    },
+    {
+      "name": "НАДАННЯ ДОПОМОГИ ПРИ ОПІК..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 791,
+        "w": 4393,
+        "h": 266,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НАДАННЯ ДОПОМОГИ ПРИ ОПІКАХ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Навіть якщо пор..",
+      "type": "text",
+      "rect": {
+        "x": 360,
+        "y": 1148,
+        "w": 3522,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Навіть якщо поранений має опіки, йому можна проводити всі медичні втручання.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: ..",
+      "type": "text",
+      "rect": {
+        "x": 360,
+        "y": 1148,
+        "w": 1363,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "ЛІКВІДУЙТЕ джерело опіку...",
+      "type": "text",
+      "rect": {
+        "x": 300,
+        "y": 2171,
+        "w": 1483,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЛІКВІДУЙТЕ джерело опіку.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Після того, як постраждал..",
+      "type": "text",
+      "rect": {
+        "x": 3393,
+        "y": 2171,
+        "w": 1483,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Після того, як постраждалий був усунутий від джерела опіку, слід ОГОЛИТИ всі обпечені ділянки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Обріжте одяг довкола діля..",
+      "type": "text",
+      "rect": {
+        "x": 427,
+        "y": 3420,
+        "w": 1483,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Обріжте одяг довкола ділянки опіку.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Обережно заберіть одяг з ..",
+      "type": "text",
+      "rect": {
+        "x": 427,
+        "y": 3621,
+        "w": 1483,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Обережно заберіть одяг з обпеченої ділянки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо кисті та зап’ястя по..",
+      "type": "text",
+      "rect": {
+        "x": 1978,
+        "y": 3420,
+        "w": 1483,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо кисті та зап’ястя пораненого обпечені, зніміть прикраси (персні, годинник).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "НАКЛАДІТЬ сухі стерильні ..",
+      "type": "text",
+      "rect": {
+        "x": 3393,
+        "y": 3389,
+        "w": 1382,
+        "h": 171,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НАКЛАДІТЬ сухі стерильні пов’язки на ділянки опіків.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Подбайте, щоб поранений б..",
+      "type": "text",
+      "rect": {
+        "x": 300,
+        "y": 4915,
+        "w": 1382,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Подбайте, щоб поранений був у теплі та ПРОВЕДІТЬ ПРОФІЛАКТИКУ гіпотермії.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
+      "type": "text",
+      "rect": {
+        "x": 318,
+        "y": 6040,
+        "w": 1382,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ: ___________..",
+      "type": "text",
+      "rect": {
+        "x": 378,
+        "y": 3865,
+        "w": 4307,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ: __________________________________________",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ: ..",
+      "type": "text",
+      "rect": {
+        "x": 378,
+        "y": 3865,
+        "w": 1236,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ: ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "Уважно СПОСТЕРІГАЙТЕ за п..",
+      "type": "text",
+      "rect": {
+        "x": 1886,
+        "y": 4915,
+        "w": 2843,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Уважно СПОСТЕРІГАЙТЕ за пораненим на предмет виникнення загрозливих для життя станів, перевірте наявність інших поранень та надайте допомогу при шоку (якщо потрібно).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +512,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-27T11:29:42Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T00:53:05Z",
       "format": {
         "size": 64,
         "align": "left",
