@@ -401,7 +401,7 @@
       "type": "text",
       "rect": {
         "x": 252,
-        "y": 788,
+        "y": 900,
         "w": 4248,
         "h": 273,
         "r": 0
@@ -427,74 +427,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА: Якщо доступний ..",
-      "type": "text",
-      "rect": {
-        "x": 627,
-        "y": 1206,
-        "w": 2201,
-        "h": 179,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ПРИМІТКА:..",
-      "type": "text",
-      "rect": {
-        "x": 627,
-        "y": 1206,
-        "w": 2201,
-        "h": 105,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ПРИМІТКА:",
-      "format": {
-        "size": 76,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#f00505"
         }
       }
     },
@@ -682,7 +614,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T23:32:03Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-26T04:42:21Z",
       "format": {
         "size": 64,
         "align": "left",
