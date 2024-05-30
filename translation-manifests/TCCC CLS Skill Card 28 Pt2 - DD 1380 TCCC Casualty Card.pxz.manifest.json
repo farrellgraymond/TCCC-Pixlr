@@ -20,15 +20,15 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "1029baf04311.png"
+      "content": "255897b94b29.png"
     },
     {
-      "name": "TCCC Form DD1380 UKR Back PNG.png",
+      "name": "DD1380 Back Skills Card AUMF PNG.png",
       "type": "image",
       "rect": {
         "x": 1889,
         "y": 1138,
-        "w": 3156,
+        "w": 3155,
         "h": 4447,
         "r": 0
       },
@@ -36,48 +36,14 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "8b689d5349fe.png"
-    },
-    {
-      "name": "КАРТКА ПОРАНЕНОГО ФОРМА..",
-      "type": "text",
-      "rect": {
-        "x": 292,
-        "y": 750,
-        "w": 4248,
-        "h": 405,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "КАРТКА ПОРАНЕНОГО ФОРМА DD 1380",
-      "format": {
-        "size": 160,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
+      "content": "95c6bb2340dc.png"
     },
     {
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 424,
-        "y": 972,
+        "x": 1889,
+        "y": 918,
         "w": 973,
         "h": 166,
         "r": 0
@@ -111,9 +77,9 @@
       "type": "shape",
       "rect": {
         "x": 1889,
-        "y": 1138,
+        "y": 1409,
         "w": 3156,
-        "h": 577,
+        "h": 306,
         "r": 0
       },
       "opacity": 1,
@@ -135,9 +101,9 @@
       "type": "shape",
       "rect": {
         "x": 1889,
-        "y": 1138,
+        "y": 1409,
         "w": 3156,
-        "h": 577,
+        "h": 306,
         "r": 0
       },
       "opacity": 0.15,
@@ -192,7 +158,7 @@
         "h": 1470,
         "r": 0
       },
-      "opacity": 0.14,
+      "opacity": 0.15,
       "locked": false,
       "visible": true,
       "link": "",
@@ -321,7 +287,7 @@
         "x": 1889,
         "y": 5292,
         "w": 3156,
-        "h": 262,
+        "h": 214,
         "r": 0
       },
       "opacity": 1,
@@ -345,7 +311,7 @@
         "x": 1889,
         "y": 5292,
         "w": 3156,
-        "h": 262,
+        "h": 214,
         "r": 0
       },
       "opacity": 0.15,
@@ -367,282 +333,36 @@
       }
     },
     {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 4868,
-        "y": 1152,
-        "w": 163,
-        "h": 166,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#eb5b2e"
-        }
-      }
-    },
-    {
-      "name": "4..",
+      "name": "КАРТКА ПОРАНЕНОГО ФОРМА D..",
       "type": "text",
       "rect": {
-        "x": 4868,
-        "y": 1152,
-        "w": 163,
-        "h": 166,
+        "x": 1116,
+        "y": 686,
+        "w": 4248,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "4",
+      "content": "КАРТКА ПОРАНЕНОГО ФОРМА DD 1380 ",
       "format": {
-        "size": 120,
-        "align": "center",
-        "bold": false,
+        "size": 200,
+        "align": "left",
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
         "linespace": 0,
         "letterspace": 0,
         "font": {
-          "name": "Helvetica-bold",
-          "content": "helveticabold.ttf"
+          "name": "Arial",
+          "content": "arial.woff"
         },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 4868,
-        "y": 1729,
-        "w": 163,
-        "h": 166,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#7e4664"
-        }
-      }
-    },
-    {
-      "name": "5..",
-      "type": "text",
-      "rect": {
-        "x": 4868,
-        "y": 1729,
-        "w": 163,
-        "h": 166,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "5",
-      "format": {
-        "size": 120,
-        "align": "center",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Helvetica-bold",
-          "content": "helveticabold.ttf"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 4868,
-        "y": 3199,
-        "w": 163,
-        "h": 166,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#e6007d"
-        }
-      }
-    },
-    {
-      "name": "6..",
-      "type": "text",
-      "rect": {
-        "x": 4868,
-        "y": 3199,
-        "w": 163,
-        "h": 166,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "6",
-      "format": {
-        "size": 120,
-        "align": "center",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Helvetica-bold",
-          "content": "helveticabold.ttf"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 4868,
-        "y": 4710,
-        "w": 163,
-        "h": 166,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#39646e"
-        }
-      }
-    },
-    {
-      "name": "7..",
-      "type": "text",
-      "rect": {
-        "x": 4868,
-        "y": 4710,
-        "w": 163,
-        "h": 166,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "7",
-      "format": {
-        "size": 120,
-        "align": "center",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Helvetica-bold",
-          "content": "helveticabold.ttf"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 31",
-      "type": "shape",
-      "rect": {
-        "x": 4868,
-        "y": 5306,
-        "w": 163,
-        "h": 166,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ecb237"
-        }
-      }
-    },
-    {
-      "name": "8..",
-      "type": "text",
-      "rect": {
-        "x": 4868,
-        "y": 5306,
-        "w": 163,
-        "h": 166,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "8",
-      "format": {
-        "size": 120,
-        "align": "center",
-        "bold": false,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Helvetica-bold",
-          "content": "helveticabold.ttf"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       }
     },
@@ -715,7 +435,7 @@
       }
     },
     {
-      "name": "НАДАНА ДОПОМОГА..",
+      "name": "ЛІКИ..",
       "type": "text",
       "rect": {
         "x": 495,
@@ -728,7 +448,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НАДАНА ДОПОМОГА",
+      "content": "ЛІКИ",
       "format": {
         "size": 76,
         "align": "left",
@@ -817,20 +537,20 @@
       }
     },
     {
-      "name": "Індивідуальний номер війс..",
+      "name": "Складається з ініціалів б..",
       "type": "text",
       "rect": {
         "x": 292,
-        "y": 1368,
+        "y": 1444,
         "w": 1574,
-        "h": 449,
+        "h": 379,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Індивідуальний номер військовослужбовця – Складається з ініціалів бійця  (ім’я та прізвище) та 4 останніх цифр номера соціального страхування з  ідентифікаційного жетона військового (наприклад, Джон Доу 123-12-1234 буде  мати номер #ДД1234). ",
+      "content": "Складається з ініціалів бійця  (ім’я та прізвище) та 4 останніх цифр номера соціального страхування з  ідентифікаційного жетона військового (наприклад, Джон Доу 123-12-1234 буде  мати номер #ДД1234). ",
       "format": {
         "size": 72,
         "align": "left",
@@ -857,14 +577,14 @@
         "x": 292,
         "y": 2195,
         "w": 1574,
-        "h": 239,
+        "h": 309,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "C (Circulation) - Масивна кровотеча: \nПозначте знаком «X» проведені втручання з зупинки кровотечі. ",
+      "content": "C (Circulation) - Масивна кровотеча: \nПозначте знаком «X» проведені втручання з зупинки кровотечі. \n",
       "format": {
         "size": 72,
         "align": "left",
@@ -1095,14 +815,14 @@
         "x": 292,
         "y": 2475,
         "w": 1574,
-        "h": 309,
+        "h": 379,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "A (Airway) - Дихальні шляхи: \nПозначте знаком «X» проведені втручання з забезпечення прохідності дихальних шляхів та зазначте використані засоби.",
+      "content": "A (Airway) - Дихальні шляхи: \nПозначте знаком «X» проведені втручання з забезпечення прохідності дихальних шляхів та зазначте використані засоби.\n",
       "format": {
         "size": 72,
         "align": "left",
@@ -1163,14 +883,14 @@
         "x": 292,
         "y": 2819,
         "w": 1574,
-        "h": 309,
+        "h": 379,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "B (Breathing) - Дихання: \nПозначте знаком «X» проведені втручання при порушеннях дихання та зазначте використані засоби.",
+      "content": "B (Breathing) - Дихання: \nПозначте знаком «X» проведені втручання при порушеннях дихання та зазначте використані засоби. \n",
       "format": {
         "size": 72,
         "align": "left",
@@ -1231,14 +951,14 @@
         "x": 292,
         "y": 3169,
         "w": 1574,
-        "h": 239,
+        "h": 309,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "C. Інфузійні розчини та препарати крові: \nРідинна ресусцитація. Запишіть назву, об’єм, шлях і час введення всіх рідин.",
+      "content": "C. Інфузійні розчини та препарати крові:\nРідинна ресусцитація. Запишіть назву, об’єм, шлях і час введення всіх рідин. \n",
       "format": {
         "size": 72,
         "align": "left",
@@ -1297,7 +1017,7 @@
       "type": "text",
       "rect": {
         "x": 292,
-        "y": 1368,
+        "y": 1345,
         "w": 1574,
         "h": 99,
         "r": 0
@@ -1327,6 +1047,286 @@
       }
     },
     {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 1409,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eb5b2e"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 1715,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#7e4664"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 3185,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#e6007d"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 4696,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#39646e"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 5292,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ecb237"
+        }
+      }
+    },
+    {
+      "name": "4..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 1411,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "4",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "5..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 1717,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "5",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "6..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 3187,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "6",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "7..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 4698,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "7",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "8..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 5294,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "8",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1340,7 +1340,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-28T03:38:23Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-30T19:10:10Z",
       "format": {
         "size": 64,
         "align": "left",

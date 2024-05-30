@@ -1,0 +1,3889 @@
+{
+  "id": "302de1f9-c487-42ee-b26b-8f336ed893f9",
+  "name": "tccc-card-form-1380-ua-images-1-transformed(6)",
+  "type": "document",
+  "unit": "pixel",
+  "width": 2482,
+  "height": 3498,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 2482,
+        "h": 3498,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "400da6da4a44.png"
+    },
+    {
+      "name": "Shape 108",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 2811,
+        "w": 2482,
+        "h": 652,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 96",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 1605,
+        "w": 2482,
+        "h": 1206,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 28",
+      "type": "shape",
+      "rect": {
+        "x": 153,
+        "y": 1626,
+        "w": 2176,
+        "h": 871,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 29",
+      "type": "shape",
+      "rect": {
+        "x": 153,
+        "y": 1626,
+        "w": 458,
+        "h": 871,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 29 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 153,
+        "y": 1626,
+        "w": 450,
+        "h": 175,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 29 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 1626,
+        "w": 807,
+        "h": 871,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 29 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1402,
+        "y": 1626,
+        "w": 307,
+        "h": 871,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 29 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1701,
+        "y": 1626,
+        "w": 335,
+        "h": 871,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 29 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 2028,
+        "y": 1626,
+        "w": 301,
+        "h": 871,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 26",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 466,
+        "w": 2482,
+        "h": 1151,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 16",
+      "type": "shape",
+      "rect": {
+        "x": 601,
+        "y": 1026,
+        "w": 1728,
+        "h": 173,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 15",
+      "type": "shape",
+      "rect": {
+        "x": 153,
+        "y": 1191,
+        "w": 2176,
+        "h": 395,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 15 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 153,
+        "y": 1191,
+        "w": 2176,
+        "h": 395,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 7",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 2482,
+        "h": 485,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙС..",
+      "type": "text",
+      "rect": {
+        "x": -112,
+        "y": 239,
+        "w": 2706,
+        "h": 85,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ ________________________",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Терапія/надана допомога: ..",
+      "type": "text",
+      "rect": {
+        "x": 40,
+        "y": 478,
+        "w": 670,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Терапія/надана допомога: ",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "НОТАТКИ:..",
+      "type": "text",
+      "rect": {
+        "x": 40,
+        "y": 2826,
+        "w": 670,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НОТАТКИ:",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "НОТАТКИ: ________________..",
+      "type": "text",
+      "rect": {
+        "x": 40,
+        "y": 3308,
+        "w": 1475,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НОТАТКИ: __________________________________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Останні 4 цифри номера со..",
+      "type": "text",
+      "rect": {
+        "x": 1506,
+        "y": 3274,
+        "w": 509,
+        "h": 104,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Останні 4 цифри номера соціального страхування:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "________________..",
+      "type": "text",
+      "rect": {
+        "x": 2000,
+        "y": 3308,
+        "w": 480,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПІБ (Прізвище, ім’я)..",
+      "type": "text",
+      "rect": {
+        "x": 40,
+        "y": 3364,
+        "w": 670,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПІБ (Прізвище, ім’я)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "С: Турнікет -        Для ..",
+      "type": "text",
+      "rect": {
+        "x": 40,
+        "y": 562,
+        "w": 1777,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "С: Турнікет -        Для кінцівки        Вузловий        На тулуб(truncal)",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Пов’язка -        Гемоста..",
+      "type": "text",
+      "rect": {
+        "x": 105,
+        "y": 642,
+        "w": 1777,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Пов’язка -        Гемостатична        Тиснуча        Інша",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "А:        Неушкоджені    ..",
+      "type": "text",
+      "rect": {
+        "x": 40,
+        "y": 753,
+        "w": 1863,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "А:        Неушкоджені       Назофарингеальний повітровід       Крікотиреотомія ",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "B:        О2       Голков..",
+      "type": "text",
+      "rect": {
+        "x": 40,
+        "y": 932,
+        "w": 1863,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "B:        О2       Голкова декомпресія       Дренаж       Оклюзійна наліпка",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "НШЕ:        Ліки з Військ..",
+      "type": "text",
+      "rect": {
+        "x": 153,
+        "y": 2523,
+        "w": 1770,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НШЕ:        Ліки з Військового набору таблеток для лікування ран",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Щиток на око (       прав..",
+      "type": "text",
+      "rect": {
+        "x": 394,
+        "y": 2603,
+        "w": 1922,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Щиток на око (       праве       ліве)        Шина",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Метод попередження гіпоте..",
+      "type": "text",
+      "rect": {
+        "x": 394,
+        "y": 2686,
+        "w": 1922,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Метод попередження гіпотермії          Тип: ______________________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "C:..",
+      "type": "text",
+      "rect": {
+        "x": 40,
+        "y": 1053,
+        "w": 113,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "C:",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "___________________..",
+      "type": "text",
+      "rect": {
+        "x": 1891,
+        "y": 557,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "___________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "___________________..",
+      "type": "text",
+      "rect": {
+        "x": 1891,
+        "y": 637,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "___________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "___________________..",
+      "type": "text",
+      "rect": {
+        "x": 1891,
+        "y": 748,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "___________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "___________________..",
+      "type": "text",
+      "rect": {
+        "x": 1891,
+        "y": 828,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "___________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "___________________..",
+      "type": "text",
+      "rect": {
+        "x": 1891,
+        "y": 922,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "___________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Ендотрахеальна трубка    ..",
+      "type": "text",
+      "rect": {
+        "x": 197,
+        "y": 828,
+        "w": 1863,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Ендотрахеальна трубка       Надгортанний повітровід",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Тип..",
+      "type": "text",
+      "rect": {
+        "x": 2132,
+        "y": 485,
+        "w": 270,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Тип",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(позначте “Х” все, що пот..",
+      "type": "text",
+      "rect": {
+        "x": 671,
+        "y": 485,
+        "w": 1046,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(позначте “Х” все, що потрібно та заповніть таблиці)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 8 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 40,
+        "y": 85,
+        "w": 2402,
+        "h": 129,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 4,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "КАРТКА ТССС  -  сторінка ..",
+      "type": "text",
+      "rect": {
+        "x": -15,
+        "y": 91,
+        "w": 2497,
+        "h": 128,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КАРТКА ТССС  -  сторінка 2",
+      "format": {
+        "size": 94,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "DD1380..",
+      "type": "text",
+      "rect": {
+        "x": -131,
+        "y": 0,
+        "w": 623,
+        "h": 83,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "DD1380",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#888888"
+        }
+      }
+    },
+    {
+      "name": "tccc.org.ua..",
+      "type": "text",
+      "rect": {
+        "x": 1971,
+        "y": 0,
+        "w": 623,
+        "h": 83,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "tccc.org.ua",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#888888"
+        }
+      }
+    },
+    {
+      "name": "ЕВАКУАЦІЯ:        НЕВІДКЛ..",
+      "type": "text",
+      "rect": {
+        "x": -112,
+        "y": 341,
+        "w": 2706,
+        "h": 85,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЕВАКУАЦІЯ:        НЕВІДКЛАДНА        ПРІОРИТЕТНА        ЗВИЧАЙНА",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 673,
+        "y": 348,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 371,
+        "y": 562,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 779,
+        "y": 562,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1120,
+        "y": 562,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 381,
+        "y": 642,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 127,
+        "y": 753,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 546,
+        "y": 753,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1391,
+        "y": 753,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 127,
+        "y": 833,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 792,
+        "y": 833,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 127,
+        "y": 932,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 321,
+        "y": 2518,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 321,
+        "y": 2603,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 779,
+        "y": 2603,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1015,
+        "y": 2603,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1232,
+        "y": 2603,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 321,
+        "y": 2686,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 295,
+        "y": 932,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 891,
+        "y": 932,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1176,
+        "y": 932,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 822,
+        "y": 642,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1125,
+        "y": 642,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1232,
+        "y": 348,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1792,
+        "y": 348,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17",
+      "type": "shape",
+      "rect": {
+        "x": 156,
+        "y": 1191,
+        "w": 453,
+        "h": 395,
+        "r": 0
+      },
+      "opacity": 0.12,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 601,
+        "y": 1191,
+        "w": 809,
+        "h": 395,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 601,
+        "y": 1191,
+        "w": 809,
+        "h": 395,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1402,
+        "y": 1026,
+        "w": 364,
+        "h": 560,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1758,
+        "y": 1026,
+        "w": 364,
+        "h": 560,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 2114,
+        "y": 1191,
+        "w": 215,
+        "h": 395,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 153,
+        "y": 1384,
+        "w": 2176,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 153,
+        "y": 1801,
+        "w": 2176,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 153,
+        "y": 2086,
+        "w": 2176,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 153,
+        "y": 2288,
+        "w": 2176,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 1288,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 1191,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 1483,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 1893,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 1993,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 2187,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 2385,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "...........................",
+      "type": "text",
+      "rect": {
+        "x": -112,
+        "y": 373,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": ".............................................................................................................",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Об’єм..",
+      "type": "text",
+      "rect": {
+        "x": 1429,
+        "y": 1053,
+        "w": 756,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Об’єм",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Шлях введення..",
+      "type": "text",
+      "rect": {
+        "x": 1792,
+        "y": 1053,
+        "w": 256,
+        "h": 120,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Шлях введення",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Шлях введення..",
+      "type": "text",
+      "rect": {
+        "x": 1732,
+        "y": 1648,
+        "w": 256,
+        "h": 120,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Шлях введення",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Час..",
+      "type": "text",
+      "rect": {
+        "x": 2139,
+        "y": 1053,
+        "w": 256,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Час",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Час..",
+      "type": "text",
+      "rect": {
+        "x": 2060,
+        "y": 1648,
+        "w": 256,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Час",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Назва..",
+      "type": "text",
+      "rect": {
+        "x": 620,
+        "y": 1053,
+        "w": 756,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Назва",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Назва..",
+      "type": "text",
+      "rect": {
+        "x": 628,
+        "y": 1648,
+        "w": 756,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Назва",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Дозування..",
+      "type": "text",
+      "rect": {
+        "x": 1420,
+        "y": 1648,
+        "w": 756,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Дозування",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Медикаменти:..",
+      "type": "text",
+      "rect": {
+        "x": 153,
+        "y": 1648,
+        "w": 428,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Медикаменти:",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Антибіотик \n..",
+      "type": "text",
+      "rect": {
+        "x": 175,
+        "y": 2094,
+        "w": 428,
+        "h": 130,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Антибіотик \n",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(напр.,\nмоксифлоксацин, е..",
+      "type": "text",
+      "rect": {
+        "x": 175,
+        "y": 2153,
+        "w": 498,
+        "h": 136,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(напр.,\nмоксифлоксацин, ертапенем)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продукт крові..",
+      "type": "text",
+      "rect": {
+        "x": 175,
+        "y": 1453,
+        "w": 756,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продукт крові",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "_ _ _ _ _ _ _ _ _ _ _ _ _..",
+      "type": "text",
+      "rect": {
+        "x": -112,
+        "y": 2714,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "_ _ _ _ _ _ _ _ _ _ _ _ _..",
+      "type": "text",
+      "rect": {
+        "x": -112,
+        "y": 3162,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ФОРМА DD 1380, ЧЕРВЕНЬ 20..",
+      "type": "text",
+      "rect": {
+        "x": 45,
+        "y": 3440,
+        "w": 635,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ФОРМА DD 1380, ЧЕРВЕНЬ 2014",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "КАРТКА ПОРАНЕНОГО ТССС..",
+      "type": "text",
+      "rect": {
+        "x": 1959,
+        "y": 3440,
+        "w": 635,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КАРТКА ПОРАНЕНОГО ТССС",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 96 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 161,
+        "y": 1199,
+        "w": 2160,
+        "h": 185,
+        "r": 0
+      },
+      "opacity": 0.4,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#bbbbbb"
+        }
+      }
+    },
+    {
+      "name": "Shape 96 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 161,
+        "y": 1809,
+        "w": 2160,
+        "h": 277,
+        "r": 0
+      },
+      "opacity": 0.4,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#bbbbbb"
+        }
+      }
+    },
+    {
+      "name": "Shape 96 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 161,
+        "y": 2296,
+        "w": 2160,
+        "h": 193,
+        "r": 0
+      },
+      "opacity": 0.4,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#bbbbbb"
+        }
+      }
+    },
+    {
+      "name": "Інше..",
+      "type": "text",
+      "rect": {
+        "x": 175,
+        "y": 2304,
+        "w": 428,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Інше",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(напр., кетамін, фентаніл..",
+      "type": "text",
+      "rect": {
+        "x": 175,
+        "y": 1892,
+        "w": 428,
+        "h": 104,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(напр., кетамін, фентаніл)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(напр., ТХА)..",
+      "type": "text",
+      "rect": {
+        "x": 175,
+        "y": 2366,
+        "w": 498,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(напр., ТХА)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Анальгетик..",
+      "type": "text",
+      "rect": {
+        "x": 175,
+        "y": 1830,
+        "w": 428,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Анальгетик",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Назва..",
+      "type": "text",
+      "rect": {
+        "x": 175,
+        "y": 1257,
+        "w": 756,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Назва",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 1893,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 601,
+        "y": 1288,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 505,
+        "y": 1288,
+        "w": 200,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 507,
+        "y": 2389,
+        "w": 200,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1306,
+        "y": 2387,
+        "w": 200,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1605,
+        "y": 2390,
+        "w": 200,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1932,
+        "y": 2385,
+        "w": 200,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1306,
+        "y": 1288,
+        "w": 200,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1662,
+        "y": 1288,
+        "w": 200,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 2018,
+        "y": 1288,
+        "w": 200,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 457,
+        "y": 1940,
+        "w": 300,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1256,
+        "y": 1940,
+        "w": 300,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1555,
+        "y": 1940,
+        "w": 300,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1882,
+        "y": 1947,
+        "w": 300,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 1993,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 603,
+        "y": 2385,
+        "w": 1726,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 89 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 2482,
+        "h": 3498,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 4,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 100 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 31,
+        "y": 482,
+        "w": 49,
+        "h": 63,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 100 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 29,
+        "y": 466,
+        "w": 49,
+        "h": 63,
+        "r": 31.7
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "T..",
+      "type": "text",
+      "rect": {
+        "x": 33,
+        "y": 467,
+        "w": 823,
+        "h": 85,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "content": "T",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-30T19:10:10Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}
