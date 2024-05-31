@@ -3,7 +3,6 @@
 # First, extract the manifest.json from every Pixlr file in the repository, to ease tracking of contents changes in each card
 MANIFEST_DIR="translation-manifests"
 PIXLR_FILES_DIR="Pixlr Source Files"
-XARGS_SH_CMD="unzip -p '{}' manifest.json | jq . | tee '../${MANIFEST_DIR}/{}.manifest.json'"
 
 # This ended up being a bad idea when the manifests folder started being used
 # for other files and purposes, and those files disappeared unexpectedly :/
