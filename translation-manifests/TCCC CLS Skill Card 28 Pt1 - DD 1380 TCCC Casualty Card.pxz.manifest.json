@@ -1,5 +1,5 @@
 {
-  "id": "2f08e77b-ff6c-45d3-b2d3-a82d8d792281",
+  "id": "c8a7b6cd-87ae-4285-b14b-5bbcbfe05328",
   "name": "TCCC CLS Skill Card 28 Pt1 - DD 1380 TCCC Casualty Card",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,1077 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "29b0be8f4281.png"
+      "content": "b4c5ab544da7.png"
+    },
+    {
+      "name": "КАРТКА ПОРАНЕНОГО ФОРМА D..",
+      "type": "text",
+      "rect": {
+        "x": 1107,
+        "y": 624,
+        "w": 4248,
+        "h": 273,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КАРТКА ПОРАНЕНОГО ФОРМА DD 1380 ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "TCCC Form DD1380 UKR Front PNG.png",
+      "type": "image",
+      "rect": {
+        "x": 1717,
+        "y": 990,
+        "w": 3255,
+        "h": 4588,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "content": "8ebab34d48db.png"
+    },
+    {
+      "name": "DD1380 Front Skills Card AUMF PNG.png",
+      "type": "image",
+      "rect": {
+        "x": 1709,
+        "y": 992,
+        "w": 3336,
+        "h": 4702,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "02919b5c4a38.png"
+    },
+    {
+      "name": "Shape 4",
+      "type": "shape",
+      "rect": {
+        "x": 1684,
+        "y": 1269,
+        "w": 3388,
+        "h": 677,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 20,
+          "color": "#3ea535"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1684,
+        "y": 1269,
+        "w": 3388,
+        "h": 677,
+        "r": 0
+      },
+      "opacity": 0.15,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#3ea535"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 20,
+          "color": "#3ea535"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1684,
+        "y": 1946,
+        "w": 3388,
+        "h": 2347,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 20,
+          "color": "#d7343a"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1684,
+        "y": 1946,
+        "w": 3388,
+        "h": 2347,
+        "r": 0
+      },
+      "opacity": 0.15,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#d7343a"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 20,
+          "color": "#d7343a"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1684,
+        "y": 4293,
+        "w": 3388,
+        "h": 1310,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 20,
+          "color": "#697a8f"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1684,
+        "y": 4293,
+        "w": 3388,
+        "h": 1310,
+        "r": 0
+      },
+      "opacity": 0.15,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#697a8f"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 20,
+          "color": "#697a8f"
+        }
+      }
+    },
+    {
+      "name": "дані про його підрозділ р..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1318,
+        "w": 1371,
+        "h": 449,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "дані про його підрозділ разом із датою  (ДД-ММ-РР) та часом отримання травми.  Використовуйте 24-годинний формат часу, з позначкою «L» (Local - місцевий час) або «Z» (час зулу), наприклад «1300Z».",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ндивідуальний номер війсь..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1803,
+        "w": 1371,
+        "h": 589,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ндивідуальний номер військовослужбовця –  складається з ініціалів бійця  (імені та прізвища) та 4 останніх цифр номера соціального страхування з  ідентифікаційного жетона військового (наприклад, Джон Доу 123-12-1234 буде  мати номер #ДД1234).",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ндивідуальний номер війсь..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1803,
+        "w": 1371,
+        "h": 169,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ндивідуальний номер військовослужбовця – ",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#3ea535"
+        }
+      }
+    },
+    {
+      "name": "Невідкладна евакуація (< ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2473,
+        "w": 1371,
+        "h": 379,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Невідкладна евакуація (< 1 години)  \nЕвакуація в межах однієї години для  запобігання втраті життя, кінцівки або  зору. \n",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Пріоритетна евакуація (<4..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2808,
+        "w": 1371,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Пріоритетна евакуація (<4 годин) \nЕвакуація в межах чотирьох годин для  попередження погіршення стану постраждалого до невідкладного. \n",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Пріоритетна евакуація (<4..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2808,
+        "w": 1371,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Пріоритетна евакуація (<4 годин) \n",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#3ea535"
+        }
+      }
+    },
+    {
+      "name": "Звичайна евакуація (<24 г..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3166,
+        "w": 1371,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Звичайна евакуація (<24 год) \nДля всіх інших ситуацій, має бути виконана  в межах 24 годин.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Механізм поранення: Позна..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3634,
+        "w": 1371,
+        "h": 993,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Механізм поранення: Позначте знаком  «Х» у відповідній комірці (наприклад, травма внаслідок артилерійського обстрілу; тупа травма; опік; падіння з висоти; травма внаслідок вибуху гранати; вогнепальна травма; травма, спричинена саморобним вибуховим пристроєм (СВП); травма внаслідок вибуху протипіхотної міни; дорожньо-транспортна пригода; травма, спричинена РПГ; та інші (уточнити)). ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Механізм поранення: ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3634,
+        "w": 1371,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Механізм поранення: ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#d7343a"
+        }
+      }
+    },
+    {
+      "name": "Інформація про поранення:..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 4637,
+        "w": 1371,
+        "h": 845,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Інформація про поранення: Позначте все, що підходить.  Позначте місця пошкодження на  зображенні тіла людини знаком «Х».  У випадку наявності опіків, обведіть відсоток загальної площі отриманих опіків на малюнку. При комбінованих травмах та  множинних пошкодженнях з’єднайте лініями механізм травмування та частину тіла на малюнку. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Інформація про поранення:..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 4637,
+        "w": 1371,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Інформація про поранення:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#d7343a"
+        }
+      }
+    },
+    {
+      "name": "Якщо на кінцівку накладен..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 5469,
+        "w": 1371,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо на кінцівку накладений турнікет –  у відповідному полі позначте час і місце його накладання, а також тип турнікета.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Запишіть життєві показник..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 5973,
+        "w": 4737,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Запишіть життєві показники (локалізація та частота пульсу, артеріальний тиск, частота дихання, насичення  крові киснем [сатурація]), вказавши час їх вимірювання у верхньому рядку.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Визначте рівень свідомост..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6152,
+        "w": 4377,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Визначте рівень свідомості (AVPU: притомний, реагує на слова, реагує на больову стимуляцію, не реагує) і рівень болю (за  шкалою від 0 до 10, де 0 означає відсутність болю, а 10 – найсильніший біль), зазначте час.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження на наступній ..",
+      "type": "text",
+      "rect": {
+        "x": 3863,
+        "y": 6331,
+        "w": 1420,
+        "h": 83,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження на наступній сторінці…",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Звичайна евакуація (<24 г..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3166,
+        "w": 1186,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Звичайна евакуація (<24 год) \n\n",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#3ea535"
+        }
+      }
+    },
+    {
+      "name": "ІНФОРМАЦІЯ ПРО ПОРАНЕННЯ..",
+      "type": "text",
+      "rect": {
+        "x": 472,
+        "y": 3493,
+        "w": 1212,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ІНФОРМАЦІЯ ПРО ПОРАНЕННЯ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#d7343a"
+        }
+      }
+    },
+    {
+      "name": "СИМПТОМИ ТА ОЗНАКИ..",
+      "type": "text",
+      "rect": {
+        "x": 472,
+        "y": 5838,
+        "w": 1212,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СИМПТОМИ ТА ОЗНАКИ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#697a8f"
+        }
+      }
+    },
+    {
+      "name": "Невідкладна евакуація (< ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2473,
+        "w": 1371,
+        "h": 169,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Невідкладна евакуація (< 1 години)  \n",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#3ea535"
+        }
+      }
+    },
+    {
+      "name": "ДАНІ ПОСТРАЖДАЛОГО..",
+      "type": "text",
+      "rect": {
+        "x": 472,
+        "y": 1164,
+        "w": 1371,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДАНІ ПОСТРАЖДАЛОГО",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#3ea535"
+        }
+      }
+    },
+    {
+      "name": "Shape 31",
+      "type": "shape",
+      "rect": {
+        "x": 4909,
+        "y": 1269,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#3ea535"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4909,
+        "y": 1946,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#d7343a"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4909,
+        "y": 4293,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#697a8f"
+        }
+      }
+    },
+    {
+      "name": "1..",
+      "type": "text",
+      "rect": {
+        "x": 4892,
+        "y": 1271,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "2..",
+      "type": "text",
+      "rect": {
+        "x": 4892,
+        "y": 1948,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "3..",
+      "type": "text",
+      "rect": {
+        "x": 4892,
+        "y": 4295,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -36,7 +1106,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-27T11:29:43Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-30T19:10:10Z",
       "format": {
         "size": 64,
         "align": "left",
