@@ -1,6 +1,6 @@
 {
   "id": "493146f0-6bee-4206-9b00-2e09133207e3",
-  "name": "tccc-card-form-1380-ua-images-0-transformed(6)(17)",
+  "name": "TCCC 1380 Casualty Card Front",
   "type": "document",
   "unit": "pixel",
   "width": 2482,
@@ -171,7 +171,7 @@
       "type": "shape",
       "rect": {
         "x": 40,
-        "y": 98,
+        "y": 85,
         "w": 2402,
         "h": 129,
         "r": 0
@@ -198,8 +198,8 @@
       "name": "Shape 13",
       "type": "shape",
       "rect": {
-        "x": 675,
-        "y": 355,
+        "x": 673,
+        "y": 348,
         "w": 60,
         "h": 60,
         "r": 0
@@ -590,8 +590,8 @@
       "name": "Shape 13 Copy",
       "type": "shape",
       "rect": {
-        "x": 1239,
-        "y": 355,
+        "x": 1232,
+        "y": 348,
         "w": 60,
         "h": 60,
         "r": 0
@@ -618,8 +618,8 @@
       "name": "Shape 13 Copy",
       "type": "shape",
       "rect": {
-        "x": 1802,
-        "y": 355,
+        "x": 1792,
+        "y": 348,
         "w": 60,
         "h": 60,
         "r": 0
@@ -679,7 +679,7 @@
       "type": "text",
       "rect": {
         "x": 1971,
-        "y": 15,
+        "y": 0,
         "w": 623,
         "h": 83,
         "r": 0
@@ -713,7 +713,7 @@
       "type": "text",
       "rect": {
         "x": -131,
-        "y": 15,
+        "y": 0,
         "w": 623,
         "h": 83,
         "r": 0
@@ -747,7 +747,7 @@
       "type": "text",
       "rect": {
         "x": -112,
-        "y": 238,
+        "y": 239,
         "w": 2706,
         "h": 85,
         "r": 0
@@ -1528,8 +1528,8 @@
       "name": "ФОРМА DD 1380, ЧЕРВЕНЬ 20..",
       "type": "text",
       "rect": {
-        "x": 164,
-        "y": 3432,
+        "x": 45,
+        "y": 3440,
         "w": 635,
         "h": 42,
         "r": 0
@@ -1562,8 +1562,8 @@
       "name": "КАРТКА ПОРАНЕНОГО ТССС..",
       "type": "text",
       "rect": {
-        "x": 1871,
-        "y": 3432,
+        "x": 1959,
+        "y": 3440,
         "w": 635,
         "h": 42,
         "r": 0
@@ -1766,9 +1766,9 @@
       "name": "ЕВАКУАЦІЯ:         НЕВІДК..",
       "type": "text",
       "rect": {
-        "x": -170,
-        "y": 342,
-        "w": 2822,
+        "x": -112,
+        "y": 341,
+        "w": 2706,
         "h": 85,
         "r": 0
       },
@@ -1776,7 +1776,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЕВАКУАЦІЯ:         НЕВІДКЛАДНА        ПРІОРИТЕТНА        ЗВИЧАЙНА",
+      "content": "ЕВАКУАЦІЯ:        НЕВІДКЛАДНА        ПРІОРИТЕТНА        ЗВИЧАЙНА",
       "format": {
         "size": 60,
         "align": "center",
@@ -1801,7 +1801,7 @@
       "type": "text",
       "rect": {
         "x": -15,
-        "y": 110,
+        "y": 91,
         "w": 2497,
         "h": 128,
         "r": 0
@@ -2816,7 +2816,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
       "format": {
         "variant": "rectangle",
@@ -2838,7 +2838,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
       "format": {
         "variant": "rectangle",
@@ -2860,7 +2860,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
       "format": {
         "variant": "rectangle",
@@ -2882,7 +2882,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
       "content": "С",
       "format": {
@@ -2925,7 +2925,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
       "content": "І",
       "format": {
@@ -2968,7 +2968,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
       "content": "М",
       "format": {
@@ -3013,7 +3013,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-30T19:10:10Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-08T00:29:26Z",
       "format": {
         "size": 64,
         "align": "left",
