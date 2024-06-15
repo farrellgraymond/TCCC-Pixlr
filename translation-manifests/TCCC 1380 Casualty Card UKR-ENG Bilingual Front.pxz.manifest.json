@@ -1,0 +1,4002 @@
+{
+  "id": "063015a3-5c66-444a-b8b1-ccb5187c2211",
+  "name": "TCCC 1380 Casualty Card UKR-ENG Bilingual Front",
+  "type": "document",
+  "unit": "pixel",
+  "width": 2245,
+  "height": 3175,
+  "stack": [
+    {
+      "name": "Shape 118",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 2245,
+        "h": 3175,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Симптоми та ознаки (запов..",
+      "type": "text",
+      "rect": {
+        "x": 35,
+        "y": 2202,
+        "w": 1040,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Симптоми та ознаки (заповніть таблицю)",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Signs and Symptoms (Fill ..",
+      "type": "text",
+      "rect": {
+        "x": 1065,
+        "y": 2209,
+        "w": 1040,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Signs and Symptoms (Fill in the Table)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Тип: ______________..",
+      "type": "text",
+      "rect": {
+        "x": 45,
+        "y": 1307,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Тип: ______________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 85,
+        "w": 2250,
+        "h": 85,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ: ______________________",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "DD 1380..",
+      "type": "text",
+      "rect": {
+        "x": 35,
+        "y": 23,
+        "w": 623,
+        "h": 55,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "DD 1380",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#888888"
+        }
+      }
+    },
+    {
+      "name": "Form DD 1380, June 2014..",
+      "type": "text",
+      "rect": {
+        "x": 548,
+        "y": 3118,
+        "w": 676,
+        "h": 43,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Form DD 1380, June 2014",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Battle Roster Number:..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 143,
+        "w": 1879,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Battle Roster Number:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Name (Last, First):      ..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 414,
+        "w": 2222,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Name (Last, First):                                                                                            Last 4 Digits IPN:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Gender:              M   ..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 525,
+        "w": 2222,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Gender:             M           F     Date (DD-MM-YY):                                                                           Time:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Mechanism of Injury (X al..",
+      "type": "text",
+      "rect": {
+        "x": 1310,
+        "y": 721,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Mechanism of Injury (X all that apply)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Injury (\"X\" all that appl..",
+      "type": "text",
+      "rect": {
+        "x": 1038,
+        "y": 1102,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Injury (\"X\" all that apply)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Tourniquet: Right Arm..",
+      "type": "text",
+      "rect": {
+        "x": 53,
+        "y": 1266,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Tourniquet: Right Arm",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Tourniquet: Right Leg..",
+      "type": "text",
+      "rect": {
+        "x": 53,
+        "y": 1728,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Tourniquet: Right Leg",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Tourniquet: Left Leg..",
+      "type": "text",
+      "rect": {
+        "x": 1174,
+        "y": 1728,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Tourniquet: Left Leg",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Tourniquet: Left Arm..",
+      "type": "text",
+      "rect": {
+        "x": 1174,
+        "y": 1266,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Tourniquet: Left Arm",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Type:..",
+      "type": "text",
+      "rect": {
+        "x": 53,
+        "y": 1361,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Type:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Type:..",
+      "type": "text",
+      "rect": {
+        "x": 53,
+        "y": 1825,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Type:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Type:..",
+      "type": "text",
+      "rect": {
+        "x": 1174,
+        "y": 1825,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Type:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Type:..",
+      "type": "text",
+      "rect": {
+        "x": 1174,
+        "y": 1361,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Type:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Time:..",
+      "type": "text",
+      "rect": {
+        "x": 53,
+        "y": 1461,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Time:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Time:..",
+      "type": "text",
+      "rect": {
+        "x": 53,
+        "y": 1924,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Time:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Time..",
+      "type": "text",
+      "rect": {
+        "x": 66,
+        "y": 2336,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Time",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Time:..",
+      "type": "text",
+      "rect": {
+        "x": 1174,
+        "y": 1924,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Time:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Time:..",
+      "type": "text",
+      "rect": {
+        "x": 1174,
+        "y": 1461,
+        "w": 695,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Time:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Artillery                ..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 839,
+        "w": 2118,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Artillery                    Blunt Trauma           Burn           Fall From Height                   Grenade",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "IED           Landmine   ..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 954,
+        "w": 2118,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "IED            Landmine                                MVC          RPG          Gunshot Wound",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Service:                 ..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 633,
+        "w": 2222,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Service:                                            Unit:                                                             Allergies:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Evac. Category:          ..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 266,
+        "w": 2163,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Evac. Category:                   Urgent                                        Priority                                       Routine",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЕВАКУАЦІЯ:        НЕВІДКЛ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 199,
+        "w": 2082,
+        "h": 85,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЕВАКУАЦІЯ:        НЕВІДКЛАДНА        ПРІОРИТЕТНА        ЗВИЧАЙНА",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "...........................",
+      "type": "text",
+      "rect": {
+        "x": -230,
+        "y": 266,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "......................................................................................................",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПІБ (ПРІЗВИЩЕ, ІМ’Я): ___..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 357,
+        "w": 2706,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПІБ (ПРІЗВИЩЕ, ІМ’Я): ____________________________ ОСТАННІ 4 ЦИФРИ ІПН: ________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "СТАТЬ:        Ч        Ж..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 470,
+        "w": 2439,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СТАТЬ:        Ч        Ж   ДАТА (ДД-ММ-РР): ________________________   ЧАС: ____________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "РІД ВІЙСЬК: __________   ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 577,
+        "w": 3014,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РІД ВІЙСЬК: __________   ПІДРОЗДІЛ: _______________   АЛЕРГІЯ: ___________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "_ _ _ _ _ _ _ _ _ _ _ _ _..",
+      "type": "text",
+      "rect": {
+        "x": -230,
+        "y": 615,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Турнікет: Права рука..",
+      "type": "text",
+      "rect": {
+        "x": 45,
+        "y": 1211,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Турнікет: Права рука",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Тип: ______________..",
+      "type": "text",
+      "rect": {
+        "x": 45,
+        "y": 1772,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Тип: ______________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Тип: ______________..",
+      "type": "text",
+      "rect": {
+        "x": 1169,
+        "y": 1307,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Тип: ______________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Тип: ______________..",
+      "type": "text",
+      "rect": {
+        "x": 1169,
+        "y": 1772,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Тип: ______________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Час: ______________..",
+      "type": "text",
+      "rect": {
+        "x": 45,
+        "y": 1406,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Час: ______________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Час: ______________..",
+      "type": "text",
+      "rect": {
+        "x": 45,
+        "y": 1873,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Час: ______________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Час: ______________..",
+      "type": "text",
+      "rect": {
+        "x": 1169,
+        "y": 1406,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Час: ______________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Час: ______________..",
+      "type": "text",
+      "rect": {
+        "x": 1169,
+        "y": 1873,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Час: ______________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 655,
+        "y": 1155,
+        "w": 479,
+        "h": 1012,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "35129e0541ac.png"
+    },
+    {
+      "name": "clipboard Copy",
+      "type": "image",
+      "rect": {
+        "x": 1728,
+        "y": 1155,
+        "w": 472,
+        "h": 1012,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "418f865048a1.png"
+    },
+    {
+      "name": "Інформація про поранення ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 1095,
+        "w": 1038,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Інформація про поранення (позначте “Х”)",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "_ _ _ _ _ _ _ _ _ _ _ _ _..",
+      "type": "text",
+      "rect": {
+        "x": -230,
+        "y": 2114,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 39 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 45,
+        "y": 2388,
+        "w": 2155,
+        "h": 716,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 41 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1810,
+        "y": 2272,
+        "w": 390,
+        "h": 832,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 41 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1428,
+        "y": 2272,
+        "w": 390,
+        "h": 832,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 41 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1046,
+        "y": 2272,
+        "w": 390,
+        "h": 832,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 41 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 664,
+        "y": 2272,
+        "w": 390,
+        "h": 832,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Час..",
+      "type": "text",
+      "rect": {
+        "x": 63,
+        "y": 2287,
+        "w": 592,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Час",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Respiratory Rate..",
+      "type": "text",
+      "rect": {
+        "x": 66,
+        "y": 2699,
+        "w": 503,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Respiratory Rate",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Pulse Ox% O2 Sat...",
+      "type": "text",
+      "rect": {
+        "x": 66,
+        "y": 2814,
+        "w": 503,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Pulse Ox% O2 Sat.",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Частота дихання..",
+      "type": "text",
+      "rect": {
+        "x": 63,
+        "y": 2642,
+        "w": 763,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Частота дихання",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Сатурація О2 %..",
+      "type": "text",
+      "rect": {
+        "x": 63,
+        "y": 2758,
+        "w": 763,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Сатурація О2 %",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ФОРМА DD 1380, ЧЕРВЕНЬ 20..",
+      "type": "text",
+      "rect": {
+        "x": 45,
+        "y": 3118,
+        "w": 635,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ФОРМА DD 1380, ЧЕРВЕНЬ 2014",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "КАРТКА ПОРАНЕНОГО ТССС..",
+      "type": "text",
+      "rect": {
+        "x": 1750,
+        "y": 3118,
+        "w": 635,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КАРТКА ПОРАНЕНОГО ТССС",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "КАРТКА ПОРАНЕНОГО ТССС - ..",
+      "type": "text",
+      "rect": {
+        "x": 565,
+        "y": 23,
+        "w": 1115,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КАРТКА ПОРАНЕНОГО ТССС - CASUALTY CARD TCCC",
+      "format": {
+        "size": 40,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Турнікет: Ліва рука..",
+      "type": "text",
+      "rect": {
+        "x": 1169,
+        "y": 1211,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Турнікет: Ліва рука",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Турнікет: Права нога..",
+      "type": "text",
+      "rect": {
+        "x": 45,
+        "y": 1671,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Турнікет: Права нога",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Турнікет: Ліва нога..",
+      "type": "text",
+      "rect": {
+        "x": 1169,
+        "y": 1671,
+        "w": 581,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Турнікет: Ліва нога",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "МЕХАНІЗМ ПОРАНЕННЯ (позна..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 714,
+        "w": 1370,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "МЕХАНІЗМ ПОРАНЕННЯ (позначте “Х” все потрібне)",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Артобстріл       Тупа тра..",
+      "type": "text",
+      "rect": {
+        "x": 195,
+        "y": 784,
+        "w": 1954,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Артобстріл       Тупа трама       Опік       Падіння з висоти       Граната",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "СВП       Протипіхотна мі..",
+      "type": "text",
+      "rect": {
+        "x": 195,
+        "y": 901,
+        "w": 1924,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СВП       Протипіхотна міна       ДТП       РПГ       Вогнепальна рана",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Інше            _________..",
+      "type": "text",
+      "rect": {
+        "x": 195,
+        "y": 1016,
+        "w": 2050,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Інше            ______________________________________________________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "(Other):..",
+      "type": "text",
+      "rect": {
+        "x": 326,
+        "y": 1023,
+        "w": 2118,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(Other):",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "_ _ _ _ _ _ _ _ _ _ _ _ _..",
+      "type": "text",
+      "rect": {
+        "x": -230,
+        "y": 1005,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 45,
+        "y": 2864,
+        "w": 2155,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 80",
+      "type": "shape",
+      "rect": {
+        "x": 31,
+        "y": 1194,
+        "w": 560,
+        "h": 335,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 80 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1156,
+        "y": 1194,
+        "w": 560,
+        "h": 335,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 80 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1156,
+        "y": 1656,
+        "w": 560,
+        "h": 335,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 80 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 31,
+        "y": 1656,
+        "w": 560,
+        "h": 335,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 45,
+        "y": 2748,
+        "w": 2155,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 45,
+        "y": 2632,
+        "w": 2155,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 45,
+        "y": 2388,
+        "w": 2155,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "tccc.org.ua..",
+      "type": "text",
+      "rect": {
+        "x": 1818,
+        "y": 23,
+        "w": 385,
+        "h": 55,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "tccc.org.ua",
+      "format": {
+        "size": 40,
+        "align": "right",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#888888"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 458,
+        "y": 199,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 266,
+        "y": 465,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 121,
+        "y": 779,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 488,
+        "y": 779,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 852,
+        "y": 779,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1054,
+        "y": 779,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1557,
+        "y": 779,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 121,
+        "y": 894,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 121,
+        "y": 1005,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 333,
+        "y": 894,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 861,
+        "y": 894,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1060,
+        "y": 894,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1253,
+        "y": 894,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 415,
+        "y": 465,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1023,
+        "y": 199,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1576,
+        "y": 199,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 96 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 53,
+        "y": 2396,
+        "w": 2139,
+        "h": 236,
+        "r": 0
+      },
+      "opacity": 0.4,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#bbbbbb"
+        }
+      }
+    },
+    {
+      "name": "Shape 96 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 53,
+        "y": 2872,
+        "w": 2139,
+        "h": 224,
+        "r": 0
+      },
+      "opacity": 0.4,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#bbbbbb"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 45,
+        "y": 2980,
+        "w": 2155,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 45,
+        "y": 2516,
+        "w": 2155,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 252,
+        "y": 2684,
+        "w": 832,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 634,
+        "y": 2684,
+        "w": 832,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1016,
+        "y": 2684,
+        "w": 832,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1398,
+        "y": 2684,
+        "w": 832,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": " (частота та локалізація)..",
+      "type": "text",
+      "rect": {
+        "x": 228,
+        "y": 2409,
+        "w": 763,
+        "h": 50,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": " (частота та локалізація)",
+      "format": {
+        "size": 35,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Пульс..",
+      "type": "text",
+      "rect": {
+        "x": 63,
+        "y": 2399,
+        "w": 395,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Пульс",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Blood Pressure..",
+      "type": "text",
+      "rect": {
+        "x": 66,
+        "y": 2583,
+        "w": 503,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Blood Pressure",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Pain Scale (0-10)..",
+      "type": "text",
+      "rect": {
+        "x": 66,
+        "y": 3045,
+        "w": 503,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Pain Scale (0-10)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Pulse..",
+      "type": "text",
+      "rect": {
+        "x": 66,
+        "y": 2461,
+        "w": 138,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Pulse",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(Rate and Location)..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 2468,
+        "w": 363,
+        "h": 43,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(Rate and Location)",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Артеріальний тиск..",
+      "type": "text",
+      "rect": {
+        "x": 63,
+        "y": 2526,
+        "w": 763,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Артеріальний тиск",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Рівень свідомості - AVPU..",
+      "type": "text",
+      "rect": {
+        "x": 63,
+        "y": 2875,
+        "w": 763,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Рівень свідомості - AVPU",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "/..",
+      "type": "text",
+      "rect": {
+        "x": 692,
+        "y": 2545,
+        "w": 331,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "/",
+      "format": {
+        "size": 50,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "/..",
+      "type": "text",
+      "rect": {
+        "x": 1083,
+        "y": 2545,
+        "w": 331,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "/",
+      "format": {
+        "size": 50,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "/..",
+      "type": "text",
+      "rect": {
+        "x": 1458,
+        "y": 2545,
+        "w": 331,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "/",
+      "format": {
+        "size": 50,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "/..",
+      "type": "text",
+      "rect": {
+        "x": 1840,
+        "y": 2545,
+        "w": 331,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "/",
+      "format": {
+        "size": 50,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Response Level - AVPU..",
+      "type": "text",
+      "rect": {
+        "x": 66,
+        "y": 2930,
+        "w": 503,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Response Level - AVPU",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Шкала болю (0-10)..",
+      "type": "text",
+      "rect": {
+        "x": 63,
+        "y": 2992,
+        "w": 763,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Шкала болю (0-10)",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-15T04:55:29Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

@@ -1,57 +1,19 @@
 {
   "id": "302de1f9-c487-42ee-b26b-8f336ed893f9",
-  "name": "tccc-card-form-1380-ua-images-1-transformed(6)",
+  "name": "TCCC 1380 Casualty Card UKR Back",
   "type": "document",
   "unit": "pixel",
   "width": 2482,
   "height": 3498,
   "stack": [
     {
-      "name": "Background",
-      "type": "image",
+      "name": "Shape 108",
+      "type": "shape",
       "rect": {
         "x": 0,
         "y": 0,
         "w": 2482,
         "h": 3498,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": true,
-      "visible": true,
-      "link": "",
-      "content": "400da6da4a44.png"
-    },
-    {
-      "name": "Shape 108",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 2811,
-        "w": 2482,
-        "h": 652,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 96",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 1605,
-        "w": 2482,
-        "h": 1206,
         "r": 0
       },
       "opacity": 1,
@@ -126,10 +88,10 @@
       "name": "Shape 29 Copy",
       "type": "shape",
       "rect": {
-        "x": 153,
-        "y": 1626,
-        "w": 450,
-        "h": 175,
+        "x": 152,
+        "y": 1625,
+        "w": 451,
+        "h": 176,
         "r": 0
       },
       "opacity": 1,
@@ -178,7 +140,7 @@
       "rect": {
         "x": 1402,
         "y": 1626,
-        "w": 307,
+        "w": 364,
         "h": 871,
         "r": 0
       },
@@ -204,9 +166,9 @@
       "name": "Shape 29 Copy",
       "type": "shape",
       "rect": {
-        "x": 1701,
+        "x": 1758,
         "y": 1626,
-        "w": 335,
+        "w": 364,
         "h": 871,
         "r": 0
       },
@@ -232,9 +194,9 @@
       "name": "Shape 29 Copy",
       "type": "shape",
       "rect": {
-        "x": 2028,
+        "x": 2114,
         "y": 1626,
-        "w": 301,
+        "w": 215,
         "h": 871,
         "r": 0
       },
@@ -253,28 +215,6 @@
         "outline": {
           "size": 8,
           "color": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 466,
-        "w": 2482,
-        "h": 1151,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -363,29 +303,7 @@
       }
     },
     {
-      "name": "Shape 7",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 0,
-        "w": 2482,
-        "h": 485,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙС..",
+      "name": "ОСОБИСТИЙ НОМЕР ВІЙС..",
       "type": "text",
       "rect": {
         "x": -112,
@@ -398,7 +316,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ ________________________",
+      "content": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ ______________________________",
       "format": {
         "size": 60,
         "align": "center",
@@ -487,7 +405,7 @@
       }
     },
     {
-      "name": "НОТАТКИ: ________________..",
+      "name": "РЯТУВАЛЬНИК: ________________..",
       "type": "text",
       "rect": {
         "x": 40,
@@ -500,7 +418,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НОТАТКИ: __________________________________________",
+      "content": "РЯТУВАЛЬНИК: _____________________________________",
       "format": {
         "size": 50,
         "align": "left",
@@ -521,12 +439,12 @@
       }
     },
     {
-      "name": "Останні 4 цифри номера со..",
+      "name": "ОСТАННІ 4 ЦИФРИ ІПН:..",
       "type": "text",
       "rect": {
         "x": 1506,
-        "y": 3274,
-        "w": 509,
+        "y": 3308,
+        "w": 1000,
         "h": 104,
         "r": 0
       },
@@ -534,41 +452,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Останні 4 цифри номера соціального страхування:",
-      "format": {
-        "size": 40,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Helvetica",
-          "content": "helvetica.ttf"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "________________..",
-      "type": "text",
-      "rect": {
-        "x": 2000,
-        "y": 3308,
-        "w": 480,
-        "h": 70,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "________________",
+      "content": "ОСТАННІ 4 ЦИФРИ ІПН: ____________",
       "format": {
         "size": 50,
         "align": "left",
@@ -636,7 +520,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "С: Турнікет -        Для кінцівки        Вузловий        На тулуб(truncal)",
+      "content": "С: Турнікет -        Для кінцівки        Вузловий        На тулуб",
       "format": {
         "size": 50,
         "align": "left",
@@ -759,7 +643,7 @@
       }
     },
     {
-      "name": "НШЕ:        Ліки з Військ..",
+      "name": "ІНШЕ:       Ліки з Військ..",
       "type": "text",
       "rect": {
         "x": 153,
@@ -772,7 +656,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НШЕ:        Ліки з Військового набору таблеток для лікування ран",
+      "content": "ІНШЕ:       Ліки з Військового набору таблеток для лікування ран",
       "format": {
         "size": 50,
         "align": "left",
@@ -1195,7 +1079,7 @@
       }
     },
     {
-      "name": "КАРТКА ТССС  -  сторінка ..",
+      "name": "КАРТКА ПОРАНЕНОГО ТССС..",
       "type": "text",
       "rect": {
         "x": -15,
@@ -1208,7 +1092,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КАРТКА ТССС  -  сторінка 2",
+      "content": "КАРТКА ПОРАНЕНОГО ТССС",
       "format": {
         "size": 94,
         "align": "center",
@@ -2003,34 +1887,6 @@
       }
     },
     {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 156,
-        "y": 1191,
-        "w": 453,
-        "h": 395,
-        "r": 0
-      },
-      "opacity": 0.12,
-      "locked": false,
-      "visible": false,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 8,
-          "color": "#000000"
-        }
-      }
-    },
-    {
       "name": "Shape 17 Copy",
       "type": "shape",
       "rect": {
@@ -2584,7 +2440,7 @@
       "name": "Шлях введення..",
       "type": "text",
       "rect": {
-        "x": 1732,
+        "x": 1792,
         "y": 1648,
         "w": 256,
         "h": 120,
@@ -2652,7 +2508,7 @@
       "name": "Час..",
       "type": "text",
       "rect": {
-        "x": 2060,
+        "x": 2139,
         "y": 1648,
         "w": 256,
         "h": 70,
@@ -2788,7 +2644,7 @@
       "name": "Медикаменти:..",
       "type": "text",
       "rect": {
-        "x": 153,
+        "x": 40,
         "y": 1648,
         "w": 428,
         "h": 70,
@@ -3259,7 +3115,7 @@
       }
     },
     {
-      "name": "Назва..",
+      "name": "Рідина..",
       "type": "text",
       "rect": {
         "x": 175,
@@ -3272,7 +3128,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Назва",
+      "content": "Рідина",
       "format": {
         "size": 50,
         "align": "left",
@@ -3436,7 +3292,7 @@
       "name": "Shape 50 Copy",
       "type": "shape",
       "rect": {
-        "x": 1605,
+        "x": 1662,
         "y": 2390,
         "w": 200,
         "h": 8,
@@ -3464,7 +3320,7 @@
       "name": "Shape 50 Copy",
       "type": "shape",
       "rect": {
-        "x": 1932,
+        "x": 2018,
         "y": 2385,
         "w": 200,
         "h": 8,
@@ -3632,7 +3488,7 @@
       "name": "Shape 50 Copy",
       "type": "shape",
       "rect": {
-        "x": 1555,
+        "x": 1612,
         "y": 1940,
         "w": 300,
         "h": 8,
@@ -3660,7 +3516,7 @@
       "name": "Shape 50 Copy",
       "type": "shape",
       "rect": {
-        "x": 1882,
+        "x": 1968,
         "y": 1947,
         "w": 300,
         "h": 8,
@@ -3776,7 +3632,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
       "format": {
         "variant": "rectangle",
@@ -3798,7 +3654,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
       "format": {
         "variant": "rectangle",
@@ -3820,7 +3676,7 @@
       },
       "opacity": 1,
       "locked": false,
-      "visible": false,
+      "visible": true,
       "link": "",
       "content": "T",
       "format": {
@@ -3865,7 +3721,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-30T19:10:10Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-15T04:55:29Z",
       "format": {
         "size": 64,
         "align": "left",

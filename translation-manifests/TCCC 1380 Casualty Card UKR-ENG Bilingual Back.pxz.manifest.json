@@ -1,0 +1,4825 @@
+{
+  "id": "f9c43464-2b77-41f5-8612-36dac12ad1aa",
+  "name": "TCCC 1380 Casualty Card UKR-ENG Bilingual Back",
+  "type": "document",
+  "unit": "pixel",
+  "width": 2245,
+  "height": 3175,
+  "stack": [
+    {
+      "name": "Shape 2",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 2245,
+        "h": 3175,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "DD 1380..",
+      "type": "text",
+      "rect": {
+        "x": 35,
+        "y": 23,
+        "w": 623,
+        "h": 55,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "DD 1380",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#888888"
+        }
+      }
+    },
+    {
+      "name": "КАРТКА ПОРАНЕНОГО ТССС - ..",
+      "type": "text",
+      "rect": {
+        "x": 565,
+        "y": 23,
+        "w": 1115,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КАРТКА ПОРАНЕНОГО ТССС - CASUALTY CARD TCCC",
+      "format": {
+        "size": 40,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "tccc.org.ua..",
+      "type": "text",
+      "rect": {
+        "x": 1818,
+        "y": 23,
+        "w": 385,
+        "h": 55,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "tccc.org.ua",
+      "format": {
+        "size": 40,
+        "align": "right",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#888888"
+        }
+      }
+    },
+    {
+      "name": "...........................",
+      "type": "text",
+      "rect": {
+        "x": -230,
+        "y": 266,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "......................................................................................................",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 85,
+        "w": 2250,
+        "h": 85,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ: ______________________",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Battle Roster Number:..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 143,
+        "w": 1879,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Battle Roster Number:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЕВАКУАЦІЯ:        НЕВІДКЛ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 199,
+        "w": 2082,
+        "h": 85,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЕВАКУАЦІЯ:        НЕВІДКЛАДНА        ПРІОРИТЕТНА        ЗВИЧАЙНА",
+      "format": {
+        "size": 60,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Терапія/надана допомога:..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 354,
+        "w": 644,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Терапія/надана допомога:",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "(позначте “Х” все, що пот..",
+      "type": "text",
+      "rect": {
+        "x": 672,
+        "y": 361,
+        "w": 1317,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(позначте “Х” все, що потрібно та заповніть таблиці)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Treatments:              ..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 412,
+        "w": 1317,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Treatments:                                      (X all that apply, fill in the table)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Tourniquet -            E..",
+      "type": "text",
+      "rect": {
+        "x": 106,
+        "y": 527,
+        "w": 1317,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Tourniquet -            Extremity                      Junctional              Truncal",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Dressing -               ..",
+      "type": "text",
+      "rect": {
+        "x": 106,
+        "y": 620,
+        "w": 1317,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Dressing -               Hemostatic                      Pressure            Other",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Intact                   ..",
+      "type": "text",
+      "rect": {
+        "x": 201,
+        "y": 731,
+        "w": 1317,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Intact                             Nasopharyngeal Airway",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Cricothyrotomy           ..",
+      "type": "text",
+      "rect": {
+        "x": 201,
+        "y": 848,
+        "w": 1556,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Cricothyrotomy                    ET-Tube                 Supralaryngeal Airway",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "O2          Needle-Decomp..",
+      "type": "text",
+      "rect": {
+        "x": 201,
+        "y": 964,
+        "w": 1556,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "O2          Needle-Decompression                Chest-Tube       Chest-Seal",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Type..",
+      "type": "text",
+      "rect": {
+        "x": 1959,
+        "y": 404,
+        "w": 300,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Type",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Other:            Combat ..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 2626,
+        "w": 2135,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Other:            Combat Pill Pack                                                                                                 Splint",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "С: Турнікет -        Для ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 473,
+        "w": 1777,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "С: Турнікет -        Для кінцівки        Вузловий        На тулуб",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Пов’язка -        Гемоста..",
+      "type": "text",
+      "rect": {
+        "x": 98,
+        "y": 575,
+        "w": 1777,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Пов’язка -        Гемостатична        Тиснуча        Інша _____________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "А:        Неушкоджені    ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 676,
+        "w": 1863,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "А:        Неушкоджені       Назофарингеальний повітровід",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Крікотиреотомія       ЕT ..",
+      "type": "text",
+      "rect": {
+        "x": 196,
+        "y": 792,
+        "w": 1863,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Крікотиреотомія       ЕT трубка       Надгортанний повітровід",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "B:        О2       Голков..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 906,
+        "w": 1863,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "B:        О2       Голкова декомпресія       Дренаж       Оклюзійна наліпка",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Тип..",
+      "type": "text",
+      "rect": {
+        "x": 1750,
+        "y": 394,
+        "w": 270,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Тип",
+      "format": {
+        "size": 50,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "________________..",
+      "type": "text",
+      "rect": {
+        "x": 1628,
+        "y": 473,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "________________",
+      "format": {
+        "size": 50,
+        "align": "right",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "________________..",
+      "type": "text",
+      "rect": {
+        "x": 1628,
+        "y": 575,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "________________",
+      "format": {
+        "size": 50,
+        "align": "right",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Shape 15 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 35,
+        "y": 1140,
+        "w": 2176,
+        "h": 472,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 28 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 35,
+        "y": 1745,
+        "w": 2176,
+        "h": 820,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1239,
+        "y": 1024,
+        "w": 364,
+        "h": 588,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 407,
+        "y": 1024,
+        "w": 840,
+        "h": 588,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 407,
+        "y": 1629,
+        "w": 840,
+        "h": 936,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1595,
+        "y": 1024,
+        "w": 364,
+        "h": 588,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1595,
+        "y": 1629,
+        "w": 364,
+        "h": 936,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1239,
+        "y": 1629,
+        "w": 364,
+        "h": 936,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1951,
+        "y": 1024,
+        "w": 260,
+        "h": 588,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1951,
+        "y": 1629,
+        "w": 260,
+        "h": 936,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 96 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 43,
+        "y": 2333,
+        "w": 2160,
+        "h": 224,
+        "r": 0
+      },
+      "opacity": 0.4,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#bbbbbb"
+        }
+      }
+    },
+    {
+      "name": "Shape 96 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 43,
+        "y": 1753,
+        "w": 2160,
+        "h": 340,
+        "r": 0
+      },
+      "opacity": 0.4,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#bbbbbb"
+        }
+      }
+    },
+    {
+      "name": "Shape 96 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 43,
+        "y": 1148,
+        "w": 2160,
+        "h": 224,
+        "r": 0
+      },
+      "opacity": 0.4,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#bbbbbb"
+        }
+      }
+    },
+    {
+      "name": "________________..",
+      "type": "text",
+      "rect": {
+        "x": 1628,
+        "y": 676,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "________________",
+      "format": {
+        "size": 50,
+        "align": "right",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "________________..",
+      "type": "text",
+      "rect": {
+        "x": 1628,
+        "y": 778,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "________________",
+      "format": {
+        "size": 50,
+        "align": "right",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "________________..",
+      "type": "text",
+      "rect": {
+        "x": 1628,
+        "y": 890,
+        "w": 576,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "________________",
+      "format": {
+        "size": 50,
+        "align": "right",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Evac. Category:          ..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 266,
+        "w": 2163,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Evac. Category:                   Urgent                                        Priority                                       Routine",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ІНШЕ:       Ліки з Військ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 2578,
+        "w": 2167,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ІНШЕ:       Ліки з Військового набору таблеток для лікування ран       Шина",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Щиток на око             ..",
+      "type": "text",
+      "rect": {
+        "x": 276,
+        "y": 2675,
+        "w": 2002,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Щиток на око                     (       праве                   ліве       )",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Eye Shield..",
+      "type": "text",
+      "rect": {
+        "x": 623,
+        "y": 2685,
+        "w": 262,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Eye Shield",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Right..",
+      "type": "text",
+      "rect": {
+        "x": 1160,
+        "y": 2685,
+        "w": 262,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Right",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Left..",
+      "type": "text",
+      "rect": {
+        "x": 1520,
+        "y": 2685,
+        "w": 262,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Left",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Метод попередження гіпоте..",
+      "type": "text",
+      "rect": {
+        "x": 276,
+        "y": 2755,
+        "w": 3185,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Метод попередження гіпотермії                                  Тип:          ________________",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Hypothermia Treatment..",
+      "type": "text",
+      "rect": {
+        "x": 1052,
+        "y": 2762,
+        "w": 486,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Hypothermia Treatment",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Type:..",
+      "type": "text",
+      "rect": {
+        "x": 1628,
+        "y": 2762,
+        "w": 486,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Type:",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "НОТАТКИ          :..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 2856,
+        "w": 670,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НОТАТКИ          :",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "(Notes)..",
+      "type": "text",
+      "rect": {
+        "x": 284,
+        "y": 2861,
+        "w": 670,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(Notes)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "First Responder, Full Nam..",
+      "type": "text",
+      "rect": {
+        "x": 41,
+        "y": 3075,
+        "w": 2157,
+        "h": 43,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "First Responder, Full Name (Last, First):                                                                                                              Last 4 Digits IPN:",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ФОРМА DD 1380, ЧЕРВЕНЬ 20..",
+      "type": "text",
+      "rect": {
+        "x": 45,
+        "y": 3118,
+        "w": 635,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ФОРМА DD 1380, ЧЕРВЕНЬ 2014",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Form DD 1380, June 2014..",
+      "type": "text",
+      "rect": {
+        "x": 548,
+        "y": 3118,
+        "w": 676,
+        "h": 43,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Form DD 1380, June 2014",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "КАРТКА ПОРАНЕНОГО ТССС..",
+      "type": "text",
+      "rect": {
+        "x": 1750,
+        "y": 3118,
+        "w": 635,
+        "h": 42,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КАРТКА ПОРАНЕНОГО ТССС",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 408,
+        "y": 1488,
+        "w": 1801,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 407,
+        "y": 1140,
+        "w": 1801,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 402,
+        "y": 1745,
+        "w": 1808,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 407,
+        "y": 1861,
+        "w": 1801,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 407,
+        "y": 1977,
+        "w": 1804,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 407,
+        "y": 2093,
+        "w": 1801,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 409,
+        "y": 2209,
+        "w": 1804,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 409,
+        "y": 2325,
+        "w": 1801,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 407,
+        "y": 2441,
+        "w": 1801,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 407,
+        "y": 1372,
+        "w": 1801,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 408,
+        "y": 1256,
+        "w": 1801,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "РЯТУВАЛЬНИК, ПІБ (Прізвищ..",
+      "type": "text",
+      "rect": {
+        "x": 37,
+        "y": 3024,
+        "w": 1639,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РЯТУВАЛЬНИК, ПІБ (Прізвище, ім’я): ________________________________",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ОСТАННІ 4 ЦИФРИ ІПН: ____..",
+      "type": "text",
+      "rect": {
+        "x": 1490,
+        "y": 3029,
+        "w": 739,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОСТАННІ 4 ЦИФРИ ІПН: __________",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "_ _ _ _ _ _ _ _ _ _ _ _ _..",
+      "type": "text",
+      "rect": {
+        "x": -230,
+        "y": 2917,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "_ _ _ _ _ _ _ _ _ _ _ _ _..",
+      "type": "text",
+      "rect": {
+        "x": -230,
+        "y": 2758,
+        "w": 2706,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 38,
+        "y": 1372,
+        "w": 2170,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 35,
+        "y": 2093,
+        "w": 2176,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 35,
+        "y": 2325,
+        "w": 2176,
+        "h": 8,
+        "r": 360
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Назва..",
+      "type": "text",
+      "rect": {
+        "x": 721,
+        "y": 1034,
+        "w": 213,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Назва",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Об’єм..",
+      "type": "text",
+      "rect": {
+        "x": 1322,
+        "y": 1034,
+        "w": 199,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Об’єм",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Дозування..",
+      "type": "text",
+      "rect": {
+        "x": 1285,
+        "y": 1642,
+        "w": 300,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Дозування",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Шлях введення..",
+      "type": "text",
+      "rect": {
+        "x": 1624,
+        "y": 1034,
+        "w": 365,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Шлях введення",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Шлях введення..",
+      "type": "text",
+      "rect": {
+        "x": 1624,
+        "y": 1642,
+        "w": 365,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Шлях введення",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Час..",
+      "type": "text",
+      "rect": {
+        "x": 2032,
+        "y": 1034,
+        "w": 256,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Час",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Час..",
+      "type": "text",
+      "rect": {
+        "x": 2032,
+        "y": 1642,
+        "w": 256,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Час",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Анальгетик..",
+      "type": "text",
+      "rect": {
+        "x": 50,
+        "y": 1789,
+        "w": 428,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Анальгетик",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "(напр., кетамін, фентаніл..",
+      "type": "text",
+      "rect": {
+        "x": 50,
+        "y": 1839,
+        "w": 428,
+        "h": 104,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(напр., кетамін, фентаніл)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "(e.g. Ketamine, Fentanyl,..",
+      "type": "text",
+      "rect": {
+        "x": 55,
+        "y": 1994,
+        "w": 362,
+        "h": 80,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(e.g. Ketamine, Fentanyl, Morphine)",
+      "format": {
+        "size": 30,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Analgesic..",
+      "type": "text",
+      "rect": {
+        "x": 55,
+        "y": 1943,
+        "w": 428,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Analgesic",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Антибіотик \n..",
+      "type": "text",
+      "rect": {
+        "x": 50,
+        "y": 2102,
+        "w": 428,
+        "h": 130,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Антибіотик \n",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Antibiotic..",
+      "type": "text",
+      "rect": {
+        "x": 55,
+        "y": 2279,
+        "w": 428,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Antibiotic",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(напр.,\nмоксифлоксацин, е..",
+      "type": "text",
+      "rect": {
+        "x": 50,
+        "y": 2152,
+        "w": 498,
+        "h": 136,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(напр.,\nмоксифлоксацин, ертапенем)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Інше..",
+      "type": "text",
+      "rect": {
+        "x": 50,
+        "y": 2349,
+        "w": 428,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Інше",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "(напр., ТХА)..",
+      "type": "text",
+      "rect": {
+        "x": 50,
+        "y": 2398,
+        "w": 498,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(напр., ТХА)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Other..",
+      "type": "text",
+      "rect": {
+        "x": 55,
+        "y": 2454,
+        "w": 498,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Other",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(e.g. TXA)..",
+      "type": "text",
+      "rect": {
+        "x": 55,
+        "y": 2501,
+        "w": 498,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(e.g. TXA)",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.2,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Рідина..",
+      "type": "text",
+      "rect": {
+        "x": 50,
+        "y": 1208,
+        "w": 317,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Рідина",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Продукт крові..",
+      "type": "text",
+      "rect": {
+        "x": 50,
+        "y": 1428,
+        "w": 756,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продукт крові",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Назва..",
+      "type": "text",
+      "rect": {
+        "x": 721,
+        "y": 1642,
+        "w": 440,
+        "h": 70,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Назва",
+      "format": {
+        "size": 50,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.08,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Name..",
+      "type": "text",
+      "rect": {
+        "x": 721,
+        "y": 1087,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Name",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Name..",
+      "type": "text",
+      "rect": {
+        "x": 721,
+        "y": 1693,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Name",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Fluid..",
+      "type": "text",
+      "rect": {
+        "x": 55,
+        "y": 1271,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Fluid",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Blood Product..",
+      "type": "text",
+      "rect": {
+        "x": 55,
+        "y": 1498,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Blood Product",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Volume..",
+      "type": "text",
+      "rect": {
+        "x": 1322,
+        "y": 1087,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Volume",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Dose..",
+      "type": "text",
+      "rect": {
+        "x": 1285,
+        "y": 1693,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Dose",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Time..",
+      "type": "text",
+      "rect": {
+        "x": 2032,
+        "y": 1087,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Time",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Time..",
+      "type": "text",
+      "rect": {
+        "x": 2032,
+        "y": 1693,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Time",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Rate..",
+      "type": "text",
+      "rect": {
+        "x": 1624,
+        "y": 1087,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Rate",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Rate..",
+      "type": "text",
+      "rect": {
+        "x": 1624,
+        "y": 1693,
+        "w": 269,
+        "h": 56,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Rate",
+      "format": {
+        "size": 40,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica",
+          "content": "helvetica.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 458,
+        "y": 199,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 378,
+        "y": 473,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 785,
+        "y": 473,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1121,
+        "y": 473,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 386,
+        "y": 571,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 129,
+        "y": 674,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 548,
+        "y": 674,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 129,
+        "y": 788,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 129,
+        "y": 904,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 298,
+        "y": 904,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 894,
+        "y": 904,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1179,
+        "y": 904,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 216,
+        "y": 2583,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1603,
+        "y": 2583,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 216,
+        "y": 2677,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 942,
+        "y": 2677,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1340,
+        "y": 2677,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 216,
+        "y": 2760,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 620,
+        "y": 797,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 959,
+        "y": 788,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 827,
+        "y": 571,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1130,
+        "y": 571,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1023,
+        "y": 199,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 13 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1576,
+        "y": 199,
+        "w": 60,
+        "h": 60,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1093,
+        "y": 1259,
+        "w": 300,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1449,
+        "y": 1259,
+        "w": 300,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1805,
+        "y": 1270,
+        "w": 300,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 261,
+        "y": 1256,
+        "w": 300,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 237,
+        "y": 1917,
+        "w": 348,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1069,
+        "y": 1920,
+        "w": 348,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1425,
+        "y": 1922,
+        "w": 348,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1781,
+        "y": 1921,
+        "w": 348,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 237,
+        "y": 2387,
+        "w": 348,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1069,
+        "y": 2387,
+        "w": 348,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1425,
+        "y": 2387,
+        "w": 348,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 50 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1781,
+        "y": 2387,
+        "w": 348,
+        "h": 8,
+        "r": 270
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "line",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 8,
+          "color": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 152",
+      "type": "shape",
+      "rect": {
+        "x": 394,
+        "y": 2441,
+        "w": 899,
+        "h": 124,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#444444"
+        }
+      }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-15T04:55:29Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}
