@@ -1,6 +1,6 @@
 [
   {
-    "content": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ ________________________",
+    "content": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ ______________________________",
     "fillValue": "#000000"
   },
   {
@@ -16,11 +16,7 @@
     "fillValue": "#000000"
   },
   {
-    "content": "Останні 4 цифри номера соціального страхування:",
-    "fillValue": "#000000"
-  },
-  {
-    "content": "________________",
+    "content": "ОСТАННІ 4 ЦИФРИ ІПН: ____________",
     "fillValue": "#000000"
   },
   {
@@ -92,7 +88,7 @@
     "fillValue": "#000000"
   },
   {
-    "content": "КАРТКА ТССС  -  сторінка 2",
+    "content": "КАРТКА ПОРАНЕНОГО ТССС",
     "fillValue": "#000000"
   },
   {
@@ -200,7 +196,7 @@
     "fillValue": "#000000"
   },
   {
-    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-12T18:48:15Z",
+    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-15T04:55:29Z",
     "fillValue": "#000000"
   }
 ]

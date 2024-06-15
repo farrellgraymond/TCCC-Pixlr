@@ -171,7 +171,7 @@
       }
     },
     {
-      "name": "НОМЕР ОПЕРАЦІЇ: _________..",
+      "name": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ..",
       "type": "text",
       "rect": {
         "x": 37,
@@ -184,7 +184,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НОМЕР ОПЕРАЦІЇ: ________________________________________________",
+      "content": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ: ______________________",
       "format": {
         "size": 60,
         "align": "left",
@@ -2646,12 +2646,12 @@
       }
     },
     {
-      "name": "Об’єм..",
+      "name": "Дозування..",
       "type": "text",
       "rect": {
-        "x": 1322,
+        "x": 1285,
         "y": 1642,
-        "w": 199,
+        "w": 300,
         "h": 70,
         "r": 0
       },
@@ -2659,7 +2659,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Об’єм",
+      "content": "Дозування",
       "format": {
         "size": 50,
         "align": "left",
@@ -3588,10 +3588,10 @@
       }
     },
     {
-      "name": "Volume..",
+      "name": "Dose..",
       "type": "text",
       "rect": {
-        "x": 1322,
+        "x": 1285,
         "y": 1693,
         "w": 269,
         "h": 56,
@@ -3601,7 +3601,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Volume",
+      "content": "Dose",
       "format": {
         "size": 40,
         "align": "left",
@@ -4801,7 +4801,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-12T18:48:15Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-15T04:55:29Z",
       "format": {
         "size": 64,
         "align": "left",

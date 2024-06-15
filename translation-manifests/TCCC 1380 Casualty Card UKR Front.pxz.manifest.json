@@ -7,51 +7,13 @@
   "height": 3498,
   "stack": [
     {
-      "name": "Background",
-      "type": "image",
+      "name": "Shape 59",
+      "type": "shape",
       "rect": {
         "x": 0,
         "y": 0,
         "w": 2482,
         "h": 3498,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": true,
-      "visible": true,
-      "link": "",
-      "content": "78278a8d40bb.png"
-    },
-    {
-      "name": "Shape 59",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 1151,
-        "w": 2482,
-        "h": 1357,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 57",
-      "type": "shape",
-      "rect": {
-        "x": 63,
-        "y": 2482,
-        "w": 2383,
-        "h": 978,
         "r": 0
       },
       "opacity": 1,
@@ -119,50 +81,6 @@
         "outline": {
           "size": 8,
           "color": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 25",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 691,
-        "w": 2480,
-        "h": 496,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 10",
-      "type": "shape",
-      "rect": {
-        "x": 65,
-        "y": 227,
-        "w": 2353,
-        "h": 500,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
         }
       }
     },
@@ -743,7 +661,7 @@
       }
     },
     {
-      "name": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙС..",
+      "name": "ОСОБИСТИЙ НОМЕР ВІЙС..",
       "type": "text",
       "rect": {
         "x": -112,
@@ -756,7 +674,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ ________________________",
+      "content": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ ______________________________",
       "format": {
         "size": 60,
         "align": "center",
@@ -926,7 +844,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПІБ (ПРІЗВИЩЕ, ІМ’Я) ____________________________________  ОСТАННІ 4 ЦИФРИ НСС ________",
+      "content": "ПІБ (ПРІЗВИЩЕ, ІМ’Я) ____________________________________  ОСТАННІ 4 ЦИФРИ ІПН _________",
       "format": {
         "size": 50,
         "align": "left",
@@ -960,7 +878,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "СТАТЬ:         Ч        Ж     ДАТА (ДД-ММ-РР): __________________________   ЧАС: _________________",
+      "content": "СТАТЬ:       Ч        Ж    ДАТА (ДД-ММ-РР): ___________________________  ЧАС: __________________",
       "format": {
         "size": 50,
         "align": "left",
@@ -1742,7 +1660,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "СВП       Протипіхотна міна       ДТП       РПГ       Інше ___________________________________",
+      "content": "СВП       Протипіхотна міна       ДТП       РПГ       Інше _____________________________________",
       "format": {
         "size": 50,
         "align": "left",
@@ -1797,7 +1715,7 @@
       }
     },
     {
-      "name": "КАРТКА ТССС ..",
+      "name": "КАРТКА ПОРАНЕНОГО ТССС..",
       "type": "text",
       "rect": {
         "x": -15,
@@ -1810,7 +1728,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КАРТКА ТССС ",
+      "content": "КАРТКА ПОРАНЕНОГО ТССС",
       "format": {
         "size": 94,
         "align": "center",
@@ -1918,34 +1836,6 @@
       "link": "",
       "format": {
         "variant": "rectangle"
-      },
-      "style": {
-        "outline": {
-          "size": 8,
-          "color": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 41",
-      "type": "shape",
-      "rect": {
-        "x": 164,
-        "y": 2714,
-        "w": 643,
-        "h": 709,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": false,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
       },
       "style": {
         "outline": {
@@ -2603,7 +2493,7 @@
       }
     },
     {
-      "name": "AVPU..",
+      "name": "Рівень свідомості - AVPU..",
       "type": "text",
       "rect": {
         "x": 178,
@@ -2616,7 +2506,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "AVPU",
+      "content": "Рівень свідомості - AVPU",
       "format": {
         "size": 50,
         "align": "left",
@@ -3013,7 +2903,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-12T18:48:15Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-15T04:55:29Z",
       "format": {
         "size": 64,
         "align": "left",

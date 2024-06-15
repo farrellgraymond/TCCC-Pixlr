@@ -155,7 +155,7 @@
       }
     },
     {
-      "name": "НОМЕР ОПЕРАЦІЇ: _________..",
+      "name": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ..",
       "type": "text",
       "rect": {
         "x": 37,
@@ -168,7 +168,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "НОМЕР ОПЕРАЦІЇ: ________________________________________________",
+      "content": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ: ______________________",
       "format": {
         "size": 60,
         "align": "left",
@@ -3682,7 +3682,7 @@
       }
     },
     {
-      "name": "Рівень сьідомості - AVPU..",
+      "name": "Рівень свідомості - AVPU..",
       "type": "text",
       "rect": {
         "x": 63,
@@ -3695,7 +3695,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Рівень сьідомості - AVPU",
+      "content": "Рівень свідомості - AVPU",
       "format": {
         "size": 50,
         "align": "left",
@@ -3978,7 +3978,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-12T18:48:15Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-15T04:55:29Z",
       "format": {
         "size": 64,
         "align": "left",

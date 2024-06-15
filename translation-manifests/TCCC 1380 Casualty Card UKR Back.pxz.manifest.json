@@ -7,51 +7,13 @@
   "height": 3498,
   "stack": [
     {
-      "name": "Background",
-      "type": "image",
+      "name": "Shape 108",
+      "type": "shape",
       "rect": {
         "x": 0,
         "y": 0,
         "w": 2482,
         "h": 3498,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": true,
-      "visible": true,
-      "link": "",
-      "content": "400da6da4a44.png"
-    },
-    {
-      "name": "Shape 108",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 2811,
-        "w": 2482,
-        "h": 652,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "Shape 96",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 1605,
-        "w": 2482,
-        "h": 1206,
         "r": 0
       },
       "opacity": 1,
@@ -257,28 +219,6 @@
       }
     },
     {
-      "name": "Shape 26",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 466,
-        "w": 2482,
-        "h": 1151,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
       "name": "Shape 16",
       "type": "shape",
       "rect": {
@@ -363,29 +303,7 @@
       }
     },
     {
-      "name": "Shape 7",
-      "type": "shape",
-      "rect": {
-        "x": 0,
-        "y": 0,
-        "w": 2482,
-        "h": 485,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      }
-    },
-    {
-      "name": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙС..",
+      "name": "ОСОБИСТИЙ НОМЕР ВІЙС..",
       "type": "text",
       "rect": {
         "x": -112,
@@ -398,7 +316,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ ________________________",
+      "content": "ОСОБИСТИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ ______________________________",
       "format": {
         "size": 60,
         "align": "center",
@@ -521,12 +439,12 @@
       }
     },
     {
-      "name": "Останні 4 цифри номера со..",
+      "name": "ОСТАННІ 4 ЦИФРИ ІПН:..",
       "type": "text",
       "rect": {
         "x": 1506,
-        "y": 3274,
-        "w": 509,
+        "y": 3308,
+        "w": 1000,
         "h": 104,
         "r": 0
       },
@@ -534,41 +452,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Останні 4 цифри номера соціального страхування:",
-      "format": {
-        "size": 40,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Helvetica",
-          "content": "helvetica.ttf"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "________________..",
-      "type": "text",
-      "rect": {
-        "x": 2000,
-        "y": 3308,
-        "w": 480,
-        "h": 70,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "________________",
+      "content": "ОСТАННІ 4 ЦИФРИ ІПН: ____________",
       "format": {
         "size": 50,
         "align": "left",
@@ -1195,7 +1079,7 @@
       }
     },
     {
-      "name": "КАРТКА ТССС  -  сторінка ..",
+      "name": "КАРТКА ПОРАНЕНОГО ТССС..",
       "type": "text",
       "rect": {
         "x": -15,
@@ -1208,7 +1092,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КАРТКА ТССС  -  сторінка 2",
+      "content": "КАРТКА ПОРАНЕНОГО ТССС",
       "format": {
         "size": 94,
         "align": "center",
@@ -1987,34 +1871,6 @@
       "opacity": 1,
       "locked": false,
       "visible": true,
-      "link": "",
-      "format": {
-        "variant": "rectangle",
-        "fill": {
-          "type": "color",
-          "value": "#ffffff"
-        }
-      },
-      "style": {
-        "outline": {
-          "size": 8,
-          "color": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Shape 17",
-      "type": "shape",
-      "rect": {
-        "x": 156,
-        "y": 1191,
-        "w": 453,
-        "h": 395,
-        "r": 0
-      },
-      "opacity": 0.12,
-      "locked": false,
-      "visible": false,
       "link": "",
       "format": {
         "variant": "rectangle",
@@ -3865,7 +3721,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-12T18:48:15Z",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-06-15T04:55:29Z",
       "format": {
         "size": 64,
         "align": "left",
