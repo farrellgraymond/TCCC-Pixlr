@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This script can be applied to all images in a given subdirectory by using an invocation like this:
+# find . -name '*PNG Template.png' -print0 | xargs -0 -n 1 ./apply-cpp-template-headers.sh
+
 TEMPLATE_IN=$1
 TEMPLATE_OUT=`echo $1 | sed -e 's/PNG Template\.png/Template\.png/'`
 
