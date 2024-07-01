@@ -1,0 +1,710 @@
+{
+  "id": "383a0bff-fd9b-4700-a6b5-f38050eae420",
+  "name": "36 Pt2 Eldon Card - Determining Blood Type",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "1100931049b7.png"
+    },
+    {
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
+      "type": "text",
+      "rect": {
+        "x": 3572,
+        "y": 4772,
+        "w": 1296,
+        "h": 352,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати у картці пораненого форми DD 1380 та прикріпіть її до постраждалого (якщо це можливо).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "РОЗМІСТІТЬ захисну плівку..",
+      "type": "text",
+      "rect": {
+        "x": 2024,
+        "y": 4764,
+        "w": 1256,
+        "h": 432,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РОЗМІСТІТЬ захисну плівку поверх використаної картки та переконайтеся, що її прикріплено до картки пораненого форми DD 1380.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАПИШІТЬ на картці групу ..",
+      "type": "text",
+      "rect": {
+        "x": 492,
+        "y": 4772,
+        "w": 1244,
+        "h": 272,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАПИШІТЬ на картці групу крові за системою А-В-О та резус-фактор.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 13: Аг..",
+      "type": "text",
+      "rect": {
+        "x": 1592,
+        "y": 3360,
+        "w": 3132,
+        "h": 288,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 13: Аглютинація має бути завжди відсутня в контрольній лунці, інакше тест є недійсним. Якщо аглютинація в лунках на картці співпадає зі зразком недійсного результату, тест необхідно провести повторно, використовуючи новий набір.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 13:..",
+      "type": "text",
+      "rect": {
+        "x": 1592,
+        "y": 3360,
+        "w": 3132,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 13:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 13: На..",
+      "type": "text",
+      "rect": {
+        "x": 1592,
+        "y": 3184,
+        "w": 3208,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 13: Намагайтеся оцінити результати, поки картка все ще волога.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 13:..",
+      "type": "text",
+      "rect": {
+        "x": 1592,
+        "y": 3184,
+        "w": 2044,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 13:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПОРІВНЯЙТЕ усі чотири лун..",
+      "type": "text",
+      "rect": {
+        "x": 3572,
+        "y": 2608,
+        "w": 1308,
+        "h": 512,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОРІВНЯЙТЕ усі чотири лунки (анти-А, анти-В, анти-D та контрольну лунку) з таблицею, що входить до складу набору, оцінюючи наявність або відсутність аглютинації. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Після використання усіх ч..",
+      "type": "text",
+      "rect": {
+        "x": 2016,
+        "y": 2588,
+        "w": 1252,
+        "h": 352,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Після використання усіх чотирьох паличок та змішування крові з реагентами на картці, ВІЗЬМІТЬ таблицю відповідності груп крові.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОБЕРЕЖНО НАХИЛЯЙТЕ КАРТКУ..",
+      "type": "text",
+      "rect": {
+        "x": 484,
+        "y": 2608,
+        "w": 1224,
+        "h": 512,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОБЕРЕЖНО НАХИЛЯЙТЕ КАРТКУ на 4 сторони, тримаючи впродовж 10 секунд на кожній стороні (в загальному – 40 с), щоб стимулювати процеси змішування/аглютинації.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 7",
+      "type": "shape",
+      "rect": {
+        "x": 664,
+        "y": 2100,
+        "w": 256,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#efefef"
+        }
+      }
+    },
+    {
+      "name": "Shape 7 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4036,
+        "y": 1964,
+        "w": 232,
+        "h": 68,
+        "r": 17.97
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#efefef"
+        }
+      }
+    },
+    {
+      "name": "Shape 5",
+      "type": "shape",
+      "rect": {
+        "x": 2108,
+        "y": 4260,
+        "w": 260,
+        "h": 104,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#f1f1f3"
+        }
+      }
+    },
+    {
+      "name": "Shape 11 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 528,
+        "y": 4252,
+        "w": 232,
+        "h": 84,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#efefef"
+        }
+      }
+    },
+    {
+      "name": "Oleh. P...",
+      "type": "text",
+      "rect": {
+        "x": 616,
+        "y": 2040,
+        "w": 416,
+        "h": 216,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Oleh. P.",
+      "format": {
+        "size": 92,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Bellquinas",
+          "content": "bellquinas.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#040404"
+        }
+      }
+    },
+    {
+      "name": "Oleh. P...",
+      "type": "text",
+      "rect": {
+        "x": 484,
+        "y": 4232,
+        "w": 320,
+        "h": 164,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Oleh. P.",
+      "format": {
+        "size": 72,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Bellquinas",
+          "content": "bellquinas.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#040404"
+        }
+      }
+    },
+    {
+      "name": "Oleh. P...",
+      "type": "text",
+      "rect": {
+        "x": 2088,
+        "y": 4220,
+        "w": 372,
+        "h": 192,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Oleh. P.",
+      "format": {
+        "size": 84,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Bellquinas",
+          "content": "bellquinas.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#040404"
+        }
+      }
+    },
+    {
+      "name": "Oleh. P...",
+      "type": "text",
+      "rect": {
+        "x": 4000,
+        "y": 1936,
+        "w": 296,
+        "h": 148,
+        "r": 17.46
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Oleh. P.",
+      "format": {
+        "size": 64,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Bellquinas",
+          "content": "bellquinas.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#040404"
+        }
+      }
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 352,
+        "y": 1480,
+        "w": 3036,
+        "h": 220,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження…",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ІНСТРУКЦІЯ З ВИЗНАЧЕННЯ Г..",
+      "type": "text",
+      "rect": {
+        "x": 240,
+        "y": 768,
+        "w": 4380,
+        "h": 760,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ІНСТРУКЦІЯ З ВИЗНАЧЕННЯ ГРУПИ КРОВІ ПРИ НАДАННІ ДОПОМОГИ В ПОЛЬОВИХ УМОВАХ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-01T03:27:46Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "98784d79-4bc3-4dbb-94a2-018e5a20508d",
+  "name": "50 Pt2 Burn Treatment PNG",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "1f10ac1e48e3.png"
+    },
+    {
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
+      "type": "text",
+      "rect": {
+        "x": 2038,
+        "y": 3764,
+        "w": 1240,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Уважно СПОСТЕРІГАЙТЕ за п..",
+      "type": "text",
+      "rect": {
+        "x": 500,
+        "y": 3764,
+        "w": 1283,
+        "h": 475,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Уважно СПОСТЕРІГАЙТЕ за пораненим на предмет виникнення загрозливих для життя станів, перевірте наявність інших поранень та надайте допомогу при шоку (якщо потрібно).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Пацієнти з опіками дуже с..",
+      "type": "text",
+      "rect": {
+        "x": 3580,
+        "y": 2328,
+        "w": 1208,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Пацієнти з опіками дуже схильні до розвитку гіпотермії. Особливу увагу слід приділити ЗАПОБІГАННЮ ВТРАТИ ТЕПЛА.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо є проникаючі поранен..",
+      "type": "text",
+      "rect": {
+        "x": 2038,
+        "y": 2328,
+        "w": 1356,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо є проникаючі поранення, ВВЕДІТЬ АНТИБІОТИК з метою попередження розвитку інфекції.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Для лікування болю при оп..",
+      "type": "text",
+      "rect": {
+        "x": 496,
+        "y": 2328,
+        "w": 1060,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Для лікування болю при опіках МОЖНА ВИКОНАТИ ЗНЕБОЛЕННЯ.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 456,
+        "y": 1143,
+        "w": 3072,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження…",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "НАДАННЯ ДОПОМОГИ ПРИ ОПІК..",
+      "type": "text",
+      "rect": {
+        "x": 268,
+        "y": 783,
+        "w": 4046,
+        "h": 273,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НАДАННЯ ДОПОМОГИ ПРИ ОПІКАХ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-01T03:27:50Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

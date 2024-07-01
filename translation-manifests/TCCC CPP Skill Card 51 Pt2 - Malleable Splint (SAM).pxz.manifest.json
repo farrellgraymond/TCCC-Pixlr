@@ -1,0 +1,536 @@
+{
+  "id": "baaf3d20-f955-4d6e-9d99-d5f99db126f9",
+  "name": "51 Pt2 Malleable Splint",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "afe891e84ed3.png"
+    },
+    {
+      "name": "ЗАДОКУМЕНТУЙТЕ результати..",
+      "type": "text",
+      "rect": {
+        "x": 480,
+        "y": 5448,
+        "w": 1384,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВВЕДІТЬ знеболювальні пре..",
+      "type": "text",
+      "rect": {
+        "x": 485,
+        "y": 4277,
+        "w": 2538,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВВЕДІТЬ знеболювальні препарати за потреби та антибіотики при будь-яких відкритих переломах.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОВТОРНО ОЦІНІТЬ ПМС (якщ..",
+      "type": "text",
+      "rect": {
+        "x": 485,
+        "y": 4034,
+        "w": 2871,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОВТОРНО ОЦІНІТЬ ПМС (якщо ПМС більше не визначається, послабте шину, відрегулюйте положення та знову накладіть її)",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Під час перемі..",
+      "type": "text",
+      "rect": {
+        "x": 2022,
+        "y": 3436,
+        "w": 2460,
+        "h": 354,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Під час переміщення, кінцівку постраждалого можуть утримувати в нерухомому положенні ремені нош, але переконайтеся, що ремінь не тисне безпосередньо на місце перелому.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 2022,
+        "y": 3436,
+        "w": 2460,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ЗАФІКСУЙТЕ травмовану кін..",
+      "type": "text",
+      "rect": {
+        "x": 2027,
+        "y": 3059,
+        "w": 2352,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАФІКСУЙТЕ травмовану кінцівку повністю (якщо це можливо). Наприклад, для стабілізації перелому руки під час транспортування може знадобитися фіксація руки до тулуба за допомогою двох косинок.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА до КРОКУ 9: Під..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 2724,
+        "w": 3226,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА до КРОКУ 9: Під час використання косинок одну слід розташувати проксимальніше, а іншу — дистальніше перелому (якщо можливо), розуміючи, що у випадку дуже проксимального або дистального перелому це може бути неможливим.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА до КРОКУ 9:..",
+      "type": "text",
+      "rect": {
+        "x": 333,
+        "y": 2724,
+        "w": 3226,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА до КРОКУ 9:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕКОНАЙТЕСЬ, що суглоби..",
+      "type": "text",
+      "rect": {
+        "x": 3576,
+        "y": 2196,
+        "w": 1236,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕКОНАЙТЕСЬ, що суглоби вище і нижче від перелому знерухомлені за допомогою шини, коли це можливо.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СХОВАЙТЕ кінці косинок, щ..",
+      "type": "text",
+      "rect": {
+        "x": 2022,
+        "y": 2192,
+        "w": 1284,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СХОВАЙТЕ кінці косинок, щоб вони не зачепилися за перешкоди під час руху.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗВ’ЯЖІТЬ косинки або смуж..",
+      "type": "text",
+      "rect": {
+        "x": 480,
+        "y": 2192,
+        "w": 1304,
+        "h": 475,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗВ’ЯЖІТЬ косинки або смужки тканини (і переконайтеся, що вузли зав’язані поверх шини, а не на самій руці) або обмотайте еластичні бинти навколо шини, щоб зафіксувати її на місці.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 434,
+        "y": 1036,
+        "w": 1904,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження…",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ІНСТРУКЦІЯ З НАКЛАДАННЯ Г..",
+      "type": "text",
+      "rect": {
+        "x": 241,
+        "y": 763,
+        "w": 4734,
+        "h": 273,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ІНСТРУКЦІЯ З НАКЛАДАННЯ ГНУЧКОЇ ШИНИ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "SAM Malleable Splint YouTube QR PNG.png Copy",
+      "type": "image",
+      "rect": {
+        "x": 2886,
+        "y": 100,
+        "w": 574,
+        "h": 574,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "b5d3896347f3.png"
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-01T03:27:50Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

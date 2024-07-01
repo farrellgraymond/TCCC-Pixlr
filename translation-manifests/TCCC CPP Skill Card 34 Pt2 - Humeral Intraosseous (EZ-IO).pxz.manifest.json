@@ -1,0 +1,736 @@
+{
+  "id": "8dc4673d-c87c-4f9f-aeef-328c28cd7a03",
+  "name": "34 Pt2 Humeral Intraosseous (EZ-IO)",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "85edb351494c.png"
+    },
+    {
+      "name": "Shape 42",
+      "type": "shape",
+      "rect": {
+        "x": 1795,
+        "y": 3565,
+        "w": 235,
+        "h": 211,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 39",
+      "type": "shape",
+      "rect": {
+        "x": 1827,
+        "y": 2108,
+        "w": 239,
+        "h": 247,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ЗАДОКУМЕНТУЙТЕ всі резуль..",
+      "type": "text",
+      "rect": {
+        "x": 2018,
+        "y": 6179,
+        "w": 1984,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ всі результати огляду та надану допомогу в Картці пораненого Форма DD 1380 та прикріпіть її до постраждалого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПІДГОТУЙТЕСЯ до введення ..",
+      "type": "text",
+      "rect": {
+        "x": 484,
+        "y": 6188,
+        "w": 1312,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПІДГОТУЙТЕСЯ до введення розчинів або медикаментів.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОЦІНІТЬ на наявність озна..",
+      "type": "text",
+      "rect": {
+        "x": 3553,
+        "y": 4820,
+        "w": 1348,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОЦІНІТЬ на наявність ознак інфільтрації або ускладнень.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 15",
+      "type": "shape",
+      "rect": {
+        "x": 1812,
+        "y": 4820,
+        "w": 216,
+        "h": 208,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 1696,
+        "y": 4824,
+        "w": 196,
+        "h": 192,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "903890814777.png"
+    },
+    {
+      "name": "Виконайте АСПІРАЦІЙНУ про..",
+      "type": "text",
+      "rect": {
+        "x": 1892,
+        "y": 4824,
+        "w": 1444,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Виконайте АСПІРАЦІЙНУ пробу, щоб переконатися, що голка знаходиться в кістковому мозку (повинен аспіруватися кров’янистий вміст). Промийте катетер 10 мл розчину методом швидкої інфузії.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПІД’ЄДНАЙТЕ заповнений ВВ..",
+      "type": "text",
+      "rect": {
+        "x": 484,
+        "y": 4828,
+        "w": 1132,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПІД’ЄДНАЙТЕ заповнений ВВ розчином подовжувач, прямокутним кінцем до роз’єму Люер-Лок (Luer-Lock) ВК катетера.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: За відсутності..",
+      "type": "text",
+      "rect": {
+        "x": 1918,
+        "y": 3681,
+        "w": 3056,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: За відсутності стабілізатора зафіксуйте ВК катетер за допомогою об’ємної пов’язки і лейкопластиру, щоб запобігти зміщенню виступаючої частини подовжувача ВК катетера під час надання допомоги або переміщення пораненого.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 1918,
+        "y": 3681,
+        "w": 3056,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-10-08 at 2.33.34 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 1732,
+        "y": 3573,
+        "w": 182,
+        "h": 181,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3a6eb5b74acc.png"
+    },
+    {
+      "name": "ЗАФІКСУЙТЕ ВК катетер за ..",
+      "type": "text",
+      "rect": {
+        "x": 1914,
+        "y": 3576,
+        "w": 3002,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАФІКСУЙТЕ ВК катетер за допомогою стабілізатора EZ-IO, якщо він є в комплекті.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОКЛАДІТЬ стилет у контей..",
+      "type": "text",
+      "rect": {
+        "x": 484,
+        "y": 3571,
+        "w": 1280,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОКЛАДІТЬ стилет у контейнер для гострих предметів.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВІДКРУТІТЬ стилет проти г..",
+      "type": "text",
+      "rect": {
+        "x": 3553,
+        "y": 2117,
+        "w": 1267,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІДКРУТІТЬ стилет проти годинникової стрілки та зніміть його з ВК катетера. Якщо використовувався механічний дриль, обережно від’єднайте його.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 12: Пр..",
+      "type": "text",
+      "rect": {
+        "x": 1533,
+        "y": 2551,
+        "w": 1943,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 12: При досягненні потрібної глибини ви відчуєте втрату опору або легенький звук.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 12:..",
+      "type": "text",
+      "rect": {
+        "x": 1533,
+        "y": 2551,
+        "w": 2104,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 12:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Докладаючи рівномірного п..",
+      "type": "text",
+      "rect": {
+        "x": 1918,
+        "y": 2112,
+        "w": 1468,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Докладаючи рівномірного постійного тиску вниз, прокручуйте голку рухами туди й назад (або натискайте на пусковий механізм дриля), поки голка не пройде крізь кортикальний шар кістки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-10-08 at 12.48.21 AM.png",
+      "type": "image",
+      "rect": {
+        "x": 1732,
+        "y": 2117,
+        "w": 186,
+        "h": 184,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3d9dbe5e4f28.png"
+    },
+    {
+      "name": "ОБЕРЕЖНО ПРОКОЛІТЬ шкіру ..",
+      "type": "text",
+      "rect": {
+        "x": 484,
+        "y": 2112,
+        "w": 1228,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОБЕРЕЖНО ПРОКОЛІТЬ шкіру та  просувайте голку вручну або увімкнувши дриль, поки її кінчик не доторкнеться до кістки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 384,
+        "y": 1108,
+        "w": 2024,
+        "h": 187,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження…",
+      "format": {
+        "size": 140,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІ..",
+      "type": "text",
+      "rect": {
+        "x": 272,
+        "y": 734,
+        "w": 4795,
+        "h": 405,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІШНЬОКІСТКОВОГО ВВЕДЕННЯ В ПЛЕЧОВУ КІСТКУ",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-01T03:27:45Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1479 @@
+{
+  "id": "76ea53b3-a66b-4d1e-ae5e-10354f4a4921",
+  "name": "7 Two-Handed Windlass Tourniquet (TFC) PNG",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "b1de9b2b44a7.png"
+    },
+    {
+      "name": "Shape 73",
+      "type": "shape",
+      "rect": {
+        "x": 1770,
+        "y": 6065,
+        "w": 265,
+        "h": 224,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 71",
+      "type": "shape",
+      "rect": {
+        "x": 3332,
+        "y": 4886,
+        "w": 258,
+        "h": 217,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 65",
+      "type": "shape",
+      "rect": {
+        "x": 1403,
+        "y": 2734,
+        "w": 244,
+        "h": 221,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Shape 61",
+      "type": "shape",
+      "rect": {
+        "x": 267,
+        "y": 1406,
+        "w": 335,
+        "h": 335,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ЗАДОКУМЕНТУЙТЕ результати ..",
+      "type": "text",
+      "rect": {
+        "x": 3560,
+        "y": 6068,
+        "w": 1330,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАДОКУМЕНТУЙТЕ результати огляду та надану допомогу в Картці пораненого Форма DD 1380 і прикріпіть її до постраждалого. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАПИШІТЬ час накладання т..",
+      "type": "text",
+      "rect": {
+        "x": 1880,
+        "y": 6068,
+        "w": 1416,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАПИШІТЬ час накладання турнікета на білій стрічці (чи лобі пораненого), завершивши виконання всього процесу за 3 хвилини. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-09-29 at 11.52.16 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 1688,
+        "y": 6068,
+        "w": 192,
+        "h": 189,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "0289900a4c5c.png"
+    },
+    {
+      "name": "хвилини..",
+      "type": "text",
+      "rect": {
+        "x": 1910,
+        "y": 5892,
+        "w": 277,
+        "h": 76,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "хвилини",
+      "format": {
+        "size": 55,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАКРІПІТЬ усе фіксуючою с..",
+      "type": "text",
+      "rect": {
+        "x": 500,
+        "y": 6076,
+        "w": 1252,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАКРІПІТЬ усе фіксуючою стрічкою. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 30",
+      "type": "shape",
+      "rect": {
+        "x": 1856,
+        "y": 4884,
+        "w": 196,
+        "h": 220,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 1716,
+        "y": 4884,
+        "w": 200,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "8ecb837149ec.png"
+    },
+    {
+      "name": "ПРИМІТКА ДО 9 КРОКУ: Якщ..",
+      "type": "text",
+      "rect": {
+        "x": 1550,
+        "y": 5104,
+        "w": 3430,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО 9 КРОКУ: Якщо кровотеча не зупинилась та/або наявний дистальний пульс, продовжуйте закручувати вороток чи накладіть другий турнікет вище місця накладання першого. ",
+      "format": {
+        "size": 74,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОБГОРНІТЬ самоклеючу стрі..",
+      "type": "text",
+      "rect": {
+        "x": 3391,
+        "y": 4892,
+        "w": 1528,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОБГОРНІТЬ самоклеючу стрічку навколо воротка та між фіксуючими скобами.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-09-29 at 11.49.11 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 3207,
+        "y": 4890,
+        "w": 193,
+        "h": 189,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "8495abc54ae7.png"
+    },
+    {
+      "name": "ЗАКРІПІТЬ вороток за допо..",
+      "type": "text",
+      "rect": {
+        "x": 1916,
+        "y": 4884,
+        "w": 1396,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАКРІПІТЬ вороток за допомогою фіксатора. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "хвилини..",
+      "type": "text",
+      "rect": {
+        "x": 380,
+        "y": 4688,
+        "w": 272,
+        "h": 76,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "хвилини",
+      "format": {
+        "size": 55,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАКРУЧУЙТЕ вороток до тих..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 4892,
+        "w": 1059,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАКРУЧУЙТЕ вороток до тих пір, поки кровотеча не зупиниться (Кроки 1-8 слід виконати менш ніж за 1 хв).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 22",
+      "type": "shape",
+      "rect": {
+        "x": 3348,
+        "y": 3852,
+        "w": 224,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 3228,
+        "y": 3848,
+        "w": 212,
+        "h": 204,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "06d6a2f14842.png"
+    },
+    {
+      "name": "ЗАФІКСУЙТЕ самоклеючу стр..",
+      "type": "text",
+      "rect": {
+        "x": 3428,
+        "y": 3848,
+        "w": 1556,
+        "h": 242,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАФІКСУЙТЕ самоклеючу стрічку по всій довжині навколо кінцівки (але не над скобами, які фіксують вороток).",
+      "format": {
+        "size": 74,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЩІЛЬНО ЗАТЯГНІТЬ самоклею..",
+      "type": "text",
+      "rect": {
+        "x": 2024,
+        "y": 3844,
+        "w": 1240,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЩІЛЬНО ЗАТЯГНІТЬ самоклеючу стрічку, аби усунути будь-які провисання. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "РОЗМІСТІТЬ турнікет на 5 ..",
+      "type": "text",
+      "rect": {
+        "x": 480,
+        "y": 3848,
+        "w": 1264,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РОЗМІСТІТЬ турнікет на 5 - 8 см вище від рани безпосередньо на шкірі. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 17",
+      "type": "shape",
+      "rect": {
+        "x": 2552,
+        "y": 2736,
+        "w": 236,
+        "h": 216,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 2524,
+        "y": 2736,
+        "w": 200,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "a089afea4de0.png"
+    },
+    {
+      "name": "\nОБГОРНІТЬ ремінь навколо..",
+      "type": "text",
+      "rect": {
+        "x": 3862,
+        "y": 2736,
+        "w": 1066,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "\nОБГОРНІТЬ ремінь навколо кінцівки і протягніть крізь отвір пряжки.\n",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "АБО",
+      "type": "text",
+      "rect": {
+        "x": 3612,
+        "y": 2304,
+        "w": 200,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "АБО",
+      "format": {
+        "size": 80,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРОСУНЬТЕ поранену кінців..",
+      "type": "text",
+      "rect": {
+        "x": 2727,
+        "y": 2736,
+        "w": 1076,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРОСУНЬТЕ поранену кінцівку крізь петлю ременя турнікета (турнікет у вигляді замкнутої петлі).",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ДІСТАНЬТЕ турнікет із так..",
+      "type": "text",
+      "rect": {
+        "x": 1537,
+        "y": 2736,
+        "w": 1015,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДІСТАНЬТЕ турнікет із тактичної індивідуальної аптечки пораненого та/або з підсумка. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТОСУЙТЕ прямий тиск, щ..",
+      "type": "text",
+      "rect": {
+        "x": 480,
+        "y": 2744,
+        "w": 1000,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТОСУЙТЕ прямий тиск, щоб зупинити кровотечу. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Screen Shot 2023-09-29 at 11.22.10 PM.png",
+      "type": "image",
+      "rect": {
+        "x": 1338,
+        "y": 2744,
+        "w": 199,
+        "h": 192,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2f18a83b439b.png"
+    },
+    {
+      "name": "ТИСК..",
+      "type": "text",
+      "rect": {
+        "x": 380,
+        "y": 2572,
+        "w": 220,
+        "h": 83,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": false,
+      "link": "",
+      "content": "ТИСК",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "РОЗКРИЙТЕ місце поранення..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 1708,
+        "w": 2224,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РОЗКРИЙТЕ місце поранення та огляньте джерело кровотечі.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Можливо, вам п..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 1799,
+        "w": 2268,
+        "h": 186,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Можливо, вам прийдеться розрізати одяг, щоб належним чином оглянути рану.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОДБАЙТЕ про засоби індив..",
+      "type": "text",
+      "rect": {
+        "x": 600,
+        "y": 1395,
+        "w": 1788,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Якщо доступний..",
+      "type": "text",
+      "rect": {
+        "x": 600,
+        "y": 1497,
+        "w": 1788,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Повторно оглян..",
+      "type": "text",
+      "rect": {
+        "x": 3440,
+        "y": 1362,
+        "w": 1385,
+        "h": 603,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Повторно огляньте кожен турнікет, накладений у фазі Допомоги під вогнем, і, за неефективності його накладання, сильніше затягніть (якщо можливо) та накладіть другий турнікет поруч з першим, якщо кровотеча не зупинилась. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 55 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 473,
+        "y": 1999,
+        "w": 841,
+        "h": 120,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 20,
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 16,
+          "color": "#bd1c1e"
+        }
+      }
+    },
+    {
+      "name": "ПРОДОВЖУЙТЕ ТИСНУТИ..",
+      "type": "text",
+      "rect": {
+        "x": 473,
+        "y": 2026,
+        "w": 842,
+        "h": 83,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРОДОВЖУЙТЕ ТИСНУТИ",
+      "format": {
+        "size": 60,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 600,
+        "y": 1497,
+        "w": 2127,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 478,
+        "y": 1799,
+        "w": 2127,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО 9 КРОКУ:..",
+      "type": "text",
+      "rect": {
+        "x": 1550,
+        "y": 5104,
+        "w": 2127,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО 9 КРОКУ:",
+      "format": {
+        "size": 74,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 3440,
+        "y": 1362,
+        "w": 2127,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "АБО..",
+      "type": "text",
+      "rect": {
+        "x": 3875,
+        "y": 2736,
+        "w": 1142,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "АБО",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.3,
+          "color": "#f00505",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "clipboard",
+      "type": "image",
+      "rect": {
+        "x": 292,
+        "y": 1372,
+        "w": 308,
+        "h": 313,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "91d7aa994373.png"
+    },
+    {
+      "name": "(Допомога в польових умов..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1150,
+        "w": 4252,
+        "h": 212,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(Допомога в польових умовах, TFC)",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Накладання турнікета з во..",
+      "type": "text",
+      "rect": {
+        "x": 210,
+        "y": 695,
+        "w": 4680,
+        "h": 455,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Накладання турнікета з воротком і пряжкою двома руками під час надання допомоги в польових умовах.",
+      "format": {
+        "size": 180,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Two-Handed Windlass YouTube QR.png",
+      "type": "image",
+      "rect": {
+        "x": 2886,
+        "y": 100,
+        "w": 574,
+        "h": 574,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "998486a742bf.png"
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-01T03:27:52Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}
