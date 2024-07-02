@@ -1,0 +1,592 @@
+{
+  "id": "e27e56a8-c5f8-4721-b28a-91496015bc05",
+  "name": "6 Pt1 Tactical Trauma Assessment Guide",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "c8448420486d.png"
+    },
+    {
+      "name": "3...",
+      "type": "text",
+      "rect": {
+        "x": 964,
+        "y": 5174,
+        "w": 80,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Накладіть турнікет на кін..",
+      "type": "text",
+      "rect": {
+        "x": 1064,
+        "y": 5174,
+        "w": 2820,
+        "h": 437,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Накладіть турнікет на кінцівку поверх одягу проксимальніше від джерела кровотечі. Якщо джерела загрозливої для життя кровотечі не видно з першого погляду - накладіть турнікет на поранену кінцівку якомога вище та максимально туго (принцип “високо і туго”) і перемістіть пораненого в укриття. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "2...",
+      "type": "text",
+      "rect": {
+        "x": 964,
+        "y": 4983,
+        "w": 80,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Використовуйте турнікет д..",
+      "type": "text",
+      "rect": {
+        "x": 1064,
+        "y": 4983,
+        "w": 2824,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Використовуйте турнікет для кінцівок (рекомендований Комітетом ТССС),  щоб зупинити кровотечу, якщо це анатомічно можливо.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "1...",
+      "type": "text",
+      "rect": {
+        "x": 964,
+        "y": 4863,
+        "w": 80,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Накажіть пораненому зупин..",
+      "type": "text",
+      "rect": {
+        "x": 1064,
+        "y": 4863,
+        "w": 2940,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Накажіть пораненому зупинити кровотечу самостійно, якщо можливо. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Зупиніть зовнішню загрозл..",
+      "type": "text",
+      "rect": {
+        "x": 888,
+        "y": 4704,
+        "w": 3368,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Зупиніть зовнішню загрозливу для життя кровотечу, якщо дозволяє тактична обстановка:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Зупиніть загрозливу для ж..",
+      "type": "text",
+      "rect": {
+        "x": 888,
+        "y": 4404,
+        "w": 3376,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Зупиніть загрозливу для життя кровотечу: накладіть високо і туго на кінцівку турнікет з тактичної індивідуальної аптечки пораненого та/або медичних запасів.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Витягніть поранених з пол..",
+      "type": "text",
+      "rect": {
+        "x": 884,
+        "y": 3891,
+        "w": 3540,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Витягніть поранених з полум’я, погасіть на них вогонь, якщо необхідно, та перемістіть до відносно безпечного місця.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Перетягніть/перенесіть по..",
+      "type": "text",
+      "rect": {
+        "x": 888,
+        "y": 3379,
+        "w": 3536,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Перетягніть/перенесіть пораненого в укриття або безпечне місце (в залежності від тактичної обстановки), якщо він непритомний/не реагує або не може рухатися самостійно.   ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Накажіть пораненому продо..",
+      "type": "text",
+      "rect": {
+        "x": 888,
+        "y": 2879,
+        "w": 3684,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Накажіть пораненому продовжувати вести бій, якщо він здатний; або переміститись в укриття та надати собі першу медичну допомогу, якщо це можливо. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Відкрийте вогонь у відпов..",
+      "type": "text",
+      "rect": {
+        "x": 888,
+        "y": 2456,
+        "w": 3656,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Відкрийте вогонь у відповідь та сховайтесь в укриття – допоможіть встановити вогневу перевагу. ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Довідник із проведення оц..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1777,
+        "w": 4252,
+        "h": 197,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Довідник із проведення оцінки травм у тактичних умовах (ТТА) допоможе курсантам та інструкторам виконувати/демонструвати оцінку стану пораненого під час фази надання допомоги в польових умовах TCCC.",
+      "format": {
+        "size": 80,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 6",
+      "type": "shape",
+      "rect": {
+        "x": 344,
+        "y": 2068,
+        "w": 3452,
+        "h": 164,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#292d2c"
+        }
+      }
+    },
+    {
+      "name": "ДІЇ У ФАЗІ ДОПОМОГИ ПІД В..",
+      "type": "text",
+      "rect": {
+        "x": 424,
+        "y": 2060,
+        "w": 4252,
+        "h": 181,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДІЇ У ФАЗІ ДОПОМОГИ ПІД ВОГНЕМ (CUF)/ПІД ЗАГРОЗОЮ",
+      "format": {
+        "size": 132,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ОЦІНКА ТРАВМ У ТАКТИЧНИХ ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 829,
+        "w": 4132,
+        "h": 741,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОЦІНКА ТРАВМ У ТАКТИЧНИХ УМОВАХ (TACTICAL TRAUMA ASSESSMENT, TTA): ДОВІДНИК",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-01T03:27:52Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

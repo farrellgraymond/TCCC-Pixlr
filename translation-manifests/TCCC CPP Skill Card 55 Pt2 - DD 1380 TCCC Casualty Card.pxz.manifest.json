@@ -1,0 +1,1364 @@
+{
+  "id": "29e25515-0f15-46c7-a480-8b9455c7d83b",
+  "name": "55 Pt2 DD 1380 TCCC Casualty Card",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "255897b94b29.png"
+    },
+    {
+      "name": "DD1380 Back Skills Card AUMF PNG.png",
+      "type": "image",
+      "rect": {
+        "x": 1889,
+        "y": 1138,
+        "w": 3155,
+        "h": 4447,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "95c6bb2340dc.png"
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 1889,
+        "y": 918,
+        "w": 973,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження…",
+      "format": {
+        "size": 120,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 1409,
+        "w": 3156,
+        "h": 306,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#eb5b2e"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 1409,
+        "w": 3156,
+        "h": 306,
+        "r": 0
+      },
+      "opacity": 0.15,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eb5b2e"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#eb5b2e"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 1715,
+        "w": 3156,
+        "h": 1470,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#7e4664"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 1715,
+        "w": 3156,
+        "h": 1470,
+        "r": 0
+      },
+      "opacity": 0.15,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#7e4664"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#7e4664"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 3185,
+        "w": 3156,
+        "h": 1511,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#e6007d"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 3185,
+        "w": 3156,
+        "h": 1511,
+        "r": 0
+      },
+      "opacity": 0.15,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#e6007d"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#e6007d"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 4696,
+        "w": 3156,
+        "h": 596,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#39646e"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 4696,
+        "w": 3156,
+        "h": 596,
+        "r": 0
+      },
+      "opacity": 0.15,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#39646e"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#39646e"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 5292,
+        "w": 3156,
+        "h": 214,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle"
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#ecb237"
+        }
+      }
+    },
+    {
+      "name": "Shape 4 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 1889,
+        "y": 5292,
+        "w": 3156,
+        "h": 214,
+        "r": 0
+      },
+      "opacity": 0.15,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ecb237"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 15,
+          "color": "#ecb237"
+        }
+      }
+    },
+    {
+      "name": "КАРТКА ПОРАНЕНОГО ФОРМА D..",
+      "type": "text",
+      "rect": {
+        "x": 1116,
+        "y": 686,
+        "w": 4248,
+        "h": 273,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "КАРТКА ПОРАНЕНОГО ФОРМА DD 1380 ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙС..",
+      "type": "text",
+      "rect": {
+        "x": 495,
+        "y": 1138,
+        "w": 1371,
+        "h": 195,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ІНДИВІДУАЛЬНИЙ НОМЕР ВІЙСЬКОВОСЛУЖБОВЦЯ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#eb5b2e"
+        }
+      }
+    },
+    {
+      "name": "НАДАНА ДОПОМОГА..",
+      "type": "text",
+      "rect": {
+        "x": 495,
+        "y": 2030,
+        "w": 1371,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НАДАНА ДОПОМОГА",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#7e4664"
+        }
+      }
+    },
+    {
+      "name": "ЛІКИ..",
+      "type": "text",
+      "rect": {
+        "x": 495,
+        "y": 3706,
+        "w": 1371,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЛІКИ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#e6007d"
+        }
+      }
+    },
+    {
+      "name": "НОТАТКИ..",
+      "type": "text",
+      "rect": {
+        "x": 495,
+        "y": 4905,
+        "w": 1371,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "НОТАТКИ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#39646e"
+        }
+      }
+    },
+    {
+      "name": "ДАНІ ОСОБИ, ЯКА НАДАЄ ДОП..",
+      "type": "text",
+      "rect": {
+        "x": 495,
+        "y": 5960,
+        "w": 1722,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДАНІ ОСОБИ, ЯКА НАДАЄ ДОПОМОГУ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ecb237"
+        }
+      }
+    },
+    {
+      "name": "Складається з ініціалів б..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1444,
+        "w": 1574,
+        "h": 379,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Складається з ініціалів бійця  (ім’я та прізвище) та 4 останніх цифр номера соціального страхування з  ідентифікаційного жетона військового (наприклад, Джон Доу 123-12-1234 буде  мати номер #ДД1234). ",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "C (Circulation) - Масивна..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2195,
+        "w": 1574,
+        "h": 309,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "C (Circulation) - Масивна кровотеча: \nПозначте знаком «X» проведені втручання з зупинки кровотечі. \n",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Задокументуйте усі ліки, ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3880,
+        "w": 1574,
+        "h": 309,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Задокументуйте усі ліки, введені постраждалому. Вкажіть назву, дозування, шлях та час введення анальгетиків, антибіотиків або інших медикаментів. ",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Позначте знаком «X» накла..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 4221,
+        "w": 1574,
+        "h": 379,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Позначте знаком «X» накладання жорсткого щитка на око,  шинування переломів на кінцівках або використання методу профілактики та лікування гіпотермії (активний або пасивний).",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Використайте цю частину д..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 5047,
+        "w": 1574,
+        "h": 169,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Використайте цю частину для запису іншої потрібної інформації та/або роз’яснень. ",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Якщо для запису потрібно ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 5234,
+        "w": 1574,
+        "h": 379,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо для запису потрібно більше  місця, прикріпіть ще одну Картку пораненого Форма DD 1380 до першої.  Позначте другу Картку як «№2». Вкажіть на ній ПІБ та підрозділ бійця.",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Заповніть особисті дані о..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6103,
+        "w": 2430,
+        "h": 169,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Заповніть особисті дані особи, що надала допомогу постраждалому, включаючи 4 останні цифри її номера соціального страхування.",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "C (Circulation) - Масивна..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2195,
+        "w": 1574,
+        "h": 169,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "C (Circulation) - Масивна кровотеча: \n",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#7e4664"
+        }
+      }
+    },
+    {
+      "name": "A (Airway) - Дихальні шля..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2475,
+        "w": 1574,
+        "h": 379,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "A (Airway) - Дихальні шляхи: \nПозначте знаком «X» проведені втручання з забезпечення прохідності дихальних шляхів та зазначте використані засоби.\n",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "A (Airway) - Дихальні шля..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2475,
+        "w": 1574,
+        "h": 169,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "A (Airway) - Дихальні шляхи: \n",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#7e4664"
+        }
+      }
+    },
+    {
+      "name": "B (Breathing) - Дихання: ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2819,
+        "w": 1574,
+        "h": 379,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "B (Breathing) - Дихання: \nПозначте знаком «X» проведені втручання при порушеннях дихання та зазначте використані засоби. \n",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "B (Breathing) - Дихання: ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 2819,
+        "w": 1574,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "B (Breathing) - Дихання: ",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#7e4664"
+        }
+      }
+    },
+    {
+      "name": "C. Інфузійні розчини та п..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3169,
+        "w": 1574,
+        "h": 309,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "C. Інфузійні розчини та препарати крові:\nРідинна ресусцитація. Запишіть назву, об’єм, шлях і час введення всіх рідин. \n",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "C. Інфузійні розчини та п..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 3169,
+        "w": 1625,
+        "h": 169,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "C. Інфузійні розчини та препарати крові: \n",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#7e4664"
+        }
+      }
+    },
+    {
+      "name": "Індивідуальний номер війс..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1345,
+        "w": 1574,
+        "h": 99,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Індивідуальний номер військовослужбовця – ",
+      "format": {
+        "size": 72,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#eb5b2e"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 1409,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eb5b2e"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 1715,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#7e4664"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 3185,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#e6007d"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 4696,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#39646e"
+        }
+      }
+    },
+    {
+      "name": "Shape 31 Copy",
+      "type": "shape",
+      "rect": {
+        "x": 4882,
+        "y": 5292,
+        "w": 163,
+        "h": 166,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ecb237"
+        }
+      }
+    },
+    {
+      "name": "4..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 1411,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "4",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "5..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 1717,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "5",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "6..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 3187,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "6",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "7..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 4698,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "7",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "8..",
+      "type": "text",
+      "rect": {
+        "x": 4865,
+        "y": 5294,
+        "w": 198,
+        "h": 163,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "8",
+      "format": {
+        "size": 120,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Helvetica-bold",
+          "content": "helveticabold.ttf"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "LAST UPDATED",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 6440,
+        "w": 3200,
+        "h": 92,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-01T03:27:51Z",
+      "format": {
+        "size": 64,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}
