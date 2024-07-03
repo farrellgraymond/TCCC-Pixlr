@@ -12,7 +12,7 @@ unzip -t "${PXZ_FILENAME}" > /dev/null 2>&1
 LASTMOD_STR=`date -u '+%Y-%m-%dT%H:%M:%SZ'`
 echo "------ Last modified date string calculated as: [${LASTMOD_STR}]"
 
-LASTMOD_CONTENT="${REPO_URL}                     LAST UPDATED: ${LASTMOD_STR}"
+LASTMOD_CONTENT="LAST UPDATED: ${LASTMOD_STR}"
 
 # Create our last-updated text element 
 LASTMOD_JSON="{
@@ -21,7 +21,7 @@ LASTMOD_JSON="{
       \"rect\": {
         \"x\": 292,
         \"y\": 6440,
-        \"w\": 3200,
+        \"w\": 2900,
         \"h\": 92,
         \"r\": 0
       },
@@ -32,7 +32,7 @@ LASTMOD_JSON="{
       \"content\": \"${LASTMOD_CONTENT}\",
       \"format\": {
         \"size\": 64,
-        \"align\": \"left\",
+        \"align\": \"right\",
         \"bold\": true,
         \"italic\": false,
         \"underline\": false,
@@ -53,7 +53,7 @@ LASTMOD_JSON="{
 echo "------ Extracting old manifest and updating with detected last-modified time..."
 # Extract the manifest file we plan to update from the source file, and pump it straight through jq
 # to insert or update our last-modified time before echoing it out as a file
-unzip -p "${PXZ_FILENAME}" ${MANIFEST_FILENAME} | jq "del(.stack[] | select(.type==\"text\") | select(.content | startswith(\"${REPO_URL}\"))) | .stack += [${LASTMOD_JSON}]" > ${MANIFEST_FILENAME}
+unzip -p "${PXZ_FILENAME}" ${MANIFEST_FILENAME} | jq "del(.stack[] | select(.type==\"text\") | select(.content | contains(\"LAST UPDATED:\"))) | .stack += [${LASTMOD_JSON}]" > ${MANIFEST_FILENAME}
 
 # Well this is strange - why do we do this? Why explicitly set the time on the manifest
 # to a fixed time?
