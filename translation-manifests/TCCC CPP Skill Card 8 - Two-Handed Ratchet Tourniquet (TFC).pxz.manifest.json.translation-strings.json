@@ -8,7 +8,7 @@
     "fillValue": "#000000"
   },
   {
-    "content": "хвилини",
+    "content": "хвилина",
     "fillValue": "#000000"
   },
   {
@@ -76,10 +76,6 @@
     "fillValue": "#000000"
   },
   {
-    "content": "ТИСК",
-    "fillValue": "#000000"
-  },
-  {
     "content": "РОЗКРИЙТЕ місце поранення та огляньте джерело кровотечі. ",
     "fillValue": "#000000"
   },
@@ -104,7 +100,7 @@
     "fillValue": "#000000"
   },
   {
-    "content": "ПРОДОВЖУЙТЕ ТИСНУТИ",
+    "content": "УТРИМУЙТЕ ТИСК",
     "fillValue": "#000000"
   },
   {
@@ -120,7 +116,19 @@
     "fillValue": "#f00505"
   },
   {
-    "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-01T03:27:52Z",
+    "content": "Переклад tccc.org.ua",
+    "fillValue": "#777777"
+  },
+  {
+    "content": "#TCCC-CPP-SC-08",
+    "fillValue": "#999999"
+  },
+  {
+    "content": "10 MAY 2023",
+    "fillValue": "#999999"
+  },
+  {
+    "content": "LAST UPDATED: 2024-07-02T21:23:31Z",
     "fillValue": "#000000"
   }
 ]
