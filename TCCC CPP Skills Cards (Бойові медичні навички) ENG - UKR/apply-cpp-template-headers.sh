@@ -4,7 +4,7 @@
 # find . -name '*PNG Template.png' -print0 | xargs -0 -n 1 ./apply-cpp-template-headers.sh
 
 TEMPLATE_IN=$1
-TEMPLATE_OUT=`echo $1 | sed -e 's/PNG Template\.png/Template\.png/'`
+TEMPLATE_OUT=`echo $1 | sed -e 's/\.png/-2\.png/'`
 
 HEADER_LEFT="TCCC CPP upper left logo.png"
 HEADER_RIGHT="TCCC CPP upper right text.png"
