@@ -36,7 +36,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОВЕРНІТЬ скальпель горизонтально та проколіть крікотиреоїдну мембрану, роблячи розріз довжиною 1.5 см.",
+      "content": "ПОВЕРНІТЬ скальпель горизонтально та проколіть крікотиреоїдну мембрану, роблячи розріз довжиною 1,5 см.",
       "format": {
         "size": 76,
         "align": "left",
@@ -206,7 +206,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ЗАСТЕРЕЖЕННЯ: Не робіть розріз глибше, ніж 1.2-1.5 см від поверхні шкіри, тому що ви можете пошкодити стравохід.",
+      "content": "ЗАСТЕРЕЖЕННЯ: Не робіть розріз глибше, ніж 1,2-1,5 см від поверхні шкіри, тому що ви можете пошкодити стравохід.",
       "format": {
         "size": 76,
         "align": "left",
@@ -342,7 +342,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Якщо використовується ендотрахеальна трубка, вводьте її на глибину 0.6-2.5 см над манжетою.",
+      "content": "ПРИМІТКА: Якщо використовується ендотрахеальна трубка, вводьте її на глибину 0,6-2,5 см над манжетою.",
       "format": {
         "size": 76,
         "align": "left",
@@ -750,7 +750,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження…",
+      "content": "...продовження",
       "format": {
         "size": 160,
         "align": "left",
@@ -821,40 +821,6 @@
       "content": "(Відкрита хірургічна техніка)",
       "format": {
         "size": 200,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Продовження на наступній ..",
-      "type": "text",
-      "rect": {
-        "x": 3477,
-        "y": 6335,
-        "w": 1420,
-        "h": 105,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Продовження на наступній сторінці…",
-      "format": {
-        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -997,7 +963,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-03T16:23:50Z",
+      "content": "LAST UPDATED: 2024-07-04T04:12:50Z",
       "format": {
         "size": 64,
         "align": "right",
