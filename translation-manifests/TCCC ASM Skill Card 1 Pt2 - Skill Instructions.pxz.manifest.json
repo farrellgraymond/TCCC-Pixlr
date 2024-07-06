@@ -574,13 +574,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#da6849"
+          "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#da6849",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -660,13 +660,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#da6849"
+          "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#da6849",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -703,13 +703,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#da6849"
+          "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#da6849",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -746,13 +746,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#da6849"
+          "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#da6849",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -789,13 +789,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#da6849"
+          "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#da6849",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -832,13 +832,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#da6849"
+          "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#da6849",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -986,13 +986,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#da6849"
+          "value": "#f00505"
         }
       },
       "style": {
         "outline": {
           "size": 0.3,
-          "color": "#da6849",
+          "color": "#f00505",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1005,7 +1005,7 @@
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -1013,10 +1013,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2023-11-12T09:13:38Z",
+      "content": "LAST UPDATED: 2024-07-05T23:31:50Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,
