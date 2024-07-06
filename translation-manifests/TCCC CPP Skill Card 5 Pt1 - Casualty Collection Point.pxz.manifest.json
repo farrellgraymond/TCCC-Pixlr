@@ -1142,13 +1142,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#ec943b"
+          "value": "#eb9336"
         }
       },
       "style": {
         "outline": {
           "size": 0.2,
-          "color": "#ec943b",
+          "color": "#eb9336",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1672,7 +1672,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:27Z",
+      "content": "LAST UPDATED: 2024-07-05T23:31:51Z",
       "format": {
         "size": 64,
         "align": "right",
