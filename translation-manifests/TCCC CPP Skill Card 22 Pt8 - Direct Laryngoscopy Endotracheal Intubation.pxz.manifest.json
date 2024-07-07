@@ -1,5 +1,5 @@
 {
-  "id": "5555593d-80ce-496c-b242-324059183228",
+  "id": "dbfeb1e2-9c66-4a42-ab4f-4b08f3db2603",
   "name": "22 Pt8 Direct Laryngoscopy Endotracheal Intubation",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,730 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "a90aa71f4f80.png"
+      "content": "dd06a0854b73.png"
+    },
+    {
+      "name": "(e) Вводьте клинок ларинг..",
+      "type": "text",
+      "rect": {
+        "x": 316,
+        "y": 2436,
+        "w": 1392,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(e) Вводьте клинок ларингоскопа глибше, у задню частину ротоглотки, щоб візуалізувати голосові зв'язки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(ii) Якщо використовуєте ..",
+      "type": "text",
+      "rect": {
+        "x": 1854,
+        "y": 2436,
+        "w": 1392,
+        "h": 475,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(ii) Якщо використовуєте клинок Міллера (прямий), введіть кінчик клинка за надгортанник та підтягніть доверху, щоб притиснути надгортанник та візуалізувати голосові зв'язки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Коли голосові зв'язки віз..",
+      "type": "text",
+      "rect": {
+        "x": 491,
+        "y": 4267,
+        "w": 1217,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Коли голосові зв'язки візуалізовано:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВИЙМІТЬ ларингоскоп з\nдих..",
+      "type": "text",
+      "rect": {
+        "x": 2029,
+        "y": 4267,
+        "w": 1217,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВИЙМІТЬ ларингоскоп з дихальних шляхів.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "УТРИМУЮЧИ ЕТТ на місці пр..",
+      "type": "text",
+      "rect": {
+        "x": 3569,
+        "y": 4267,
+        "w": 1217,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "УТРИМУЮЧИ ЕТТ на місці правою рукою, вийміть стилет лівою рукою.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "РОЗДУЙТЕ манжету ЕТТ, вві..",
+      "type": "text",
+      "rect": {
+        "x": 491,
+        "y": 5915,
+        "w": 1217,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РОЗДУЙТЕ манжету ЕТТ, ввівши за допомогою шприца необхідну кількість повітря (5-10 мл) для досягнення герметичності.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИЄДНАЙТЕ за наявності д..",
+      "type": "text",
+      "rect": {
+        "x": 2029,
+        "y": 5915,
+        "w": 1217,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИЄДНАЙТЕ за наявності детектор EtCO2 між ЕТТ та мішком типу Амбу. За відсутності приєднайте мішок типу Амбу до ЕТТ.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕВІРТЕ розміщення ЕТТ,..",
+      "type": "text",
+      "rect": {
+        "x": 3569,
+        "y": 5915,
+        "w": 1217,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВІРТЕ розміщення ЕТТ, під'єднавши мішок типу Амбу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(f) Введіть клинок трохи ..",
+      "type": "text",
+      "rect": {
+        "x": 3394,
+        "y": 2436,
+        "w": 1392,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(f) Введіть клинок трохи глибше, щоб бачити надгортанник.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(g) Підтягніть надгортанн..",
+      "type": "text",
+      "rect": {
+        "x": 3394,
+        "y": 2645,
+        "w": 1392,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(g) Підтягніть надгортанник догори та візуалізуйте голосові зв'язки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ: Щоб побачит..",
+      "type": "text",
+      "rect": {
+        "x": 3394,
+        "y": 2860,
+        "w": 1392,
+        "h": 475,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ: Щоб побачити голосову щілину, використовуйте рух рукою догори. НІКОЛИ не використовуйте ручку як важіль. НЕ використовуйте зуби постраждалого як точку опори.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАСТЕРЕЖЕННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 3394,
+        "y": 2860,
+        "w": 1392,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТЕРЕЖЕННЯ:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "(i) Якщо використовуєте к..",
+      "type": "text",
+      "rect": {
+        "x": 316,
+        "y": 2750,
+        "w": 1450,
+        "h": 623,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(i) Якщо використовуєте клинок Макінтоша (вигнутий), кінчиком клинка, введеним у валекулу (заглиблення між коренем язика і надгортанником), натисніть допереду. Таким чином ви змістите надгортанник і відкриєте для огляду голосову щілину.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(a) Візьміть ЕТТ у праву ..",
+      "type": "text",
+      "rect": {
+        "x": 316,
+        "y": 4478,
+        "w": 1392,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(a) Візьміть ЕТТ у праву руку.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(b) Обережно спрямуйте кі..",
+      "type": "text",
+      "rect": {
+        "x": 316,
+        "y": 4623,
+        "w": 1392,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(b) Обережно спрямуйте кінець трубки в голосову щілину та вводьте вглиб, допоки манжета не опиниться трохи нижче рівня голосових зв'язок.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЕНДОТРАХЕАЛЬНА ІНТУБАЦІЯ ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 663,
+        "w": 4248,
+        "h": 465,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЕНДОТРАХЕАЛЬНА ІНТУБАЦІЯ ЗА ДОПОМОГОЮ ПРЯМОЇ ЛАРИНГОСКОПІЇ",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(Ендотрахеальна трубка зі..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 1100,
+        "w": 4248,
+        "h": 273,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(Ендотрахеальна трубка зі стилетом)",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 424,
+        "y": 1330,
+        "w": 4252,
+        "h": 218,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "...продовження",
+      "format": {
+        "size": 160,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CPP-SC-66",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#999999"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.15,
+          "color": "#999999",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1 SEP 2023",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#999999"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -28,7 +751,7 @@
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -36,10 +759,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-02T04:16:32Z",
+      "content": "LAST UPDATED: 2024-07-07T04:32:13Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,
