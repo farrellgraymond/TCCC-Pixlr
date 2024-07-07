@@ -1,5 +1,5 @@
 {
-  "id": "5555593d-80ce-496c-b242-324059183571",
+  "id": "7d2a88a9-5ffe-4abd-bc09-fd51b4fd6c02",
   "name": "57 Pt1 After Action Report",
   "type": "document",
   "unit": "pixel",
@@ -20,7 +20,594 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "a90aa71f4f80.png"
+      "content": "d933a3394ed0.png"
+    },
+    {
+      "name": "ПРИМІТКА: Форма Звіту про..",
+      "type": "text",
+      "rect": {
+        "x": 367,
+        "y": 1265,
+        "w": 4367,
+        "h": 549,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Форма Звіту про проведені дії TCCC (After Action Report, AAR) дозволяє більш детально та повно задокументувати надання допомоги на догоспітальному етапі, зробивши це  якомога швидше після завершення виконання бойового завдання. Якщо рятувальник, який надавав першу допомогу, не зміг задокументувати цього в Картці пораненого Форма DD 1380 на місці отримання поранення (point of injury, POI) через брак часу або інші обмеження, бойовий медик може використати форму AAR, щоб задокументувати допомогу ретроспективно. Незалежно від того, чи була заповнена Картка пораненого Форма DD 1380 в польових умовах, Звіт про проведені дії повинен бути поданий відповідно до цих інструкцій.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 367,
+        "y": 1265,
+        "w": 4367,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Форму TCCC AAR ..",
+      "type": "text",
+      "rect": {
+        "x": 367,
+        "y": 1937,
+        "w": 4367,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Форму TCCC AAR можна заповнити, використовуючи попередньо роздруковану  копію, або заповнити в електронному вигляді, залежно від інтернет-підключення та доступних ресурсів.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВІЗЬМІТЬ попередньо роздр..",
+      "type": "text",
+      "rect": {
+        "x": 614,
+        "y": 2279,
+        "w": 4120,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІЗЬМІТЬ попередньо роздруковану копію форми TCCC AAR або знайдіть електронну форму, увійшовши на головну сторінку Об’єднаної системи лікування травм (JTS) за посиланням https://jts.amedd.army.mil/ ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(a) Перейдіть за гіперпос..",
+      "type": "text",
+      "rect": {
+        "x": 614,
+        "y": 2526,
+        "w": 4120,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(a) Перейдіть за гіперпосиланням «Документи» у верхній частині головної сторінки.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(b) Виберіть «Форми та по..",
+      "type": "text",
+      "rect": {
+        "x": 614,
+        "y": 2672,
+        "w": 4120,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(b) Виберіть «Форми та подання Звіту про проведені дії».",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "(c) Виберіть «Форма POI T..",
+      "type": "text",
+      "rect": {
+        "x": 614,
+        "y": 2829,
+        "w": 4120,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "(c) Виберіть «Форма POI TCCC AAR» у «Допомога пораненим в умовах бойових дій (TCCC)».",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ВВЕДІТЬ персональні дані ..",
+      "type": "text",
+      "rect": {
+        "x": 576,
+        "y": 4656,
+        "w": 1879,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВВЕДІТЬ персональні дані пораненого, інформацію про оцінку його стану та надану допомогу якомога повніше, рухаючись зліва направо та зверху вниз.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗБЕРЕЖІТЬ форму TCCC AAR ..",
+      "type": "text",
+      "rect": {
+        "x": 576,
+        "y": 5204,
+        "w": 1879,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗБЕРЕЖІТЬ форму TCCC AAR (у паперовій або електронній формі) для подання до JTS якнайшвидше (в межах  72 годин) відповідно до стандартних операційних процедур підрозділу.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження на наступній ..",
+      "type": "text",
+      "rect": {
+        "x": 3456,
+        "y": 6189,
+        "w": 1420,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження на наступній сторінці…",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Можливо, прості..",
+      "type": "text",
+      "rect": {
+        "x": 614,
+        "y": 4363,
+        "w": 4120,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Можливо, простіше буде завантажити форму, залежно від вашого підключення.",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: ..",
+      "type": "text",
+      "rect": {
+        "x": 614,
+        "y": 4363,
+        "w": 2444,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: ",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 367,
+        "y": 1937,
+        "w": 4367,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "ЗАПОВНЕННЯ ТА ПОДАННЯ ЗВІ..",
+      "type": "text",
+      "rect": {
+        "x": 292,
+        "y": 663,
+        "w": 4248,
+        "h": 465,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАПОВНЕННЯ ТА ПОДАННЯ ЗВІТУ ПРО ПРОВЕДЕНІ ДІЇ ТССС (AAR)",
+      "format": {
+        "size": 200,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CPP-SC-62",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#999999"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.15,
+          "color": "#999999",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "23 MAY 2023",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#999999"
+        }
+      }
     },
     {
       "name": "LAST UPDATED",
@@ -28,7 +615,7 @@
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -36,10 +623,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-07-02T04:16:34Z",
+      "content": "LAST UPDATED: 2024-07-07T15:40:30Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,
