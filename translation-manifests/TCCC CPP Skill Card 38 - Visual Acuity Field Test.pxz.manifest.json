@@ -1,6 +1,6 @@
 {
   "id": "f341cd69-bdb0-4842-9435-8c6647e33d5c",
-  "name": "38 Visual Acuity Field Test",
+  "name": "38 UKR Visual Acuity Field Test",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -1341,40 +1341,6 @@
       }
     },
     {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
-    },
-    {
       "name": "VERSION LABEL",
       "type": "text",
       "rect": {
@@ -1452,6 +1418,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1465,7 +1465,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:24Z",
+      "content": "LAST UPDATED: 2024-07-13T21:41:31Z",
       "format": {
         "size": 64,
         "align": "right",

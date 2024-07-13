@@ -1,6 +1,6 @@
 {
   "id": "f00c1f9a-7038-4d6b-85a5-55d9ee0ef915",
-  "name": "29 Pt1 Tube Thoracostomy",
+  "name": "29 Pt1 UKR Tube Thoracostomy",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -673,40 +673,6 @@
       "content": "0520b5a64ac8.png"
     },
     {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
-    },
-    {
       "name": "VERSION LABEL",
       "type": "text",
       "rect": {
@@ -784,6 +750,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -797,7 +797,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-04T20:27:37Z",
+      "content": "LAST UPDATED: 2024-07-13T21:41:29Z",
       "format": {
         "size": 64,
         "align": "right",

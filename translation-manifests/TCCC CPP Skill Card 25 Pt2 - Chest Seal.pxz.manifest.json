@@ -1,6 +1,6 @@
 {
   "id": "ca4b2c3e-05e6-44ae-97a6-b75fa20f6f5a",
-  "name": "25 Pt2 Chest Seal",
+  "name": "25 Pt2 UKR Chest Seal",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -372,40 +372,6 @@
       }
     },
     {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
-    },
-    {
       "name": "VERSION LABEL",
       "type": "text",
       "rect": {
@@ -483,6 +449,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -496,7 +496,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:22Z",
+      "content": "LAST UPDATED: 2024-07-13T21:41:28Z",
       "format": {
         "size": 64,
         "align": "right",
