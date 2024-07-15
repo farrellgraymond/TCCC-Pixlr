@@ -1,6 +1,6 @@
 {
-  "id": "ec05ecd1-8d13-49f4-9236-40c2cee722b1",
-  "name": "2 One-Handed Ratchet Tourniquet PNG",
+  "id": "ec05ecd1-8d13-49f4-9236-50c2cee722b1",
+  "name": "2 UKR One-Handed Ratchet Tourniquet",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -26,10 +26,10 @@
       "name": "(ДОПОМОГА ПІД ВОГНЕМ, CUF..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 1419,
-        "w": 3000,
-        "h": 218,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
+        "h": 273,
         "r": 0
       },
       "opacity": 1,
@@ -329,7 +329,7 @@
       }
     },
     {
-      "name": "хвилини..",
+      "name": "хвилина..",
       "type": "text",
       "rect": {
         "x": 3460,
@@ -342,7 +342,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "хвилини",
+      "content": "хвилина",
       "format": {
         "size": 60,
         "align": "center",
@@ -434,9 +434,9 @@
       "name": "НАКЛАДАННЯ ТУРНІКЕТА З ЗУ..",
       "type": "text",
       "rect": {
-        "x": 280,
-        "y": 859,
-        "w": 4739,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -497,15 +497,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -540,13 +532,116 @@
           "value": "#f00505"
         }
       },
+      "style": {}
+    },
+    {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CMC-SC-02",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#f00505",
+          "size": 0.15,
+          "color": "#85242B",
           "punch": false,
           "distance": 0,
           "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "5 MAR 2021",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
         }
       }
     },
@@ -556,7 +651,7 @@
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -564,10 +659,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:46Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:08Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,

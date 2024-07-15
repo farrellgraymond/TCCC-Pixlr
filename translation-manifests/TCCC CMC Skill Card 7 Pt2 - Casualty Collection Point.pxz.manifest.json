@@ -1,6 +1,6 @@
 {
-  "id": "9cdd6b59-94c2-4f6e-badb-f02b2b2643b3",
-  "name": "7 Pt2 Casualty Collection Point PNG",
+  "id": "9cdd6b59-94c2-4f6e-badb-002b2b2643b3",
+  "name": "7 Pt2 UKR Casualty Collection Point",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -925,9 +925,9 @@
       "name": "ПУНКТ ЗБОРУ ПОРАНЕНИХ..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 859,
-        "w": 3312,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -990,22 +990,22 @@
       }
     },
     {
-      "name": "Продовження..",
+      "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 372,
-        "y": 1132,
-        "w": 4252,
-        "h": 166,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження",
+      "content": "...продовження",
       "format": {
-        "size": 120,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1584,12 +1584,123 @@
       }
     },
     {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CMC-SC-14",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.15,
+          "color": "#85242B",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "8 DEC 2021",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -1597,10 +1708,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:53Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:19Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,

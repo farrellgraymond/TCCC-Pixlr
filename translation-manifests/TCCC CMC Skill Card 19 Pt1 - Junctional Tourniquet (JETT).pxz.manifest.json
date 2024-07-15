@@ -1,6 +1,6 @@
 {
-  "id": "d1028929-5019-428d-9ef5-b2b05bc4e12b",
-  "name": "19 Pt1 Junctional Tourniquet (JETT) PNG",
+  "id": "d1028929-5019-428d-9ef5-c2b05bc4e12b",
+  "name": "19 Pt1 UKR Junctional Tourniquet (JETT)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -49,9 +49,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 2651,
-        "y": 3204,
-        "w": 841,
+        "x": 2627,
+        "y": 3857,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -391,15 +391,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ВІДКРИЙТЕ та РОЗКРУТІТЬ п..",
@@ -688,15 +680,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПОДБАЙТЕ про засоби індив..",
@@ -799,15 +783,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА: Вузлові турнік..",
@@ -876,23 +852,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ВУЗЛОВИЙ ТУРНІКЕТ JETT (J..",
       "type": "text",
       "rect": {
-        "x": 220,
-        "y": 800,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 465,
         "r": 0
       },
@@ -908,7 +876,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -924,9 +892,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 331,
-        "y": 5448,
-        "w": 841,
+        "x": 307,
+        "y": 5422,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -953,9 +921,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 3644,
-        "y": 5448,
-        "w": 841,
+        "x": 3534,
+        "y": 5417,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -982,9 +950,9 @@
       "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 2650,
-        "y": 3233,
-        "w": 842,
+        "x": 2627,
+        "y": 3885,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1016,9 +984,9 @@
       "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 331,
-        "y": 5475,
-        "w": 842,
+        "x": 307,
+        "y": 5450,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1050,9 +1018,9 @@
       "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 3644,
-        "y": 5467,
-        "w": 842,
+        "x": 3534,
+        "y": 5445,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1097,12 +1065,123 @@
       "content": "3cadacce48cf.png"
     },
     {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CMC-SC-28",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.15,
+          "color": "#85242B",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9 JUN 2021",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -1110,10 +1189,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:45Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:08Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,

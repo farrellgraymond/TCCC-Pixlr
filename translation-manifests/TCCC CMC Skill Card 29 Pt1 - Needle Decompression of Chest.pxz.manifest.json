@@ -1,6 +1,6 @@
 {
-  "id": "016f5b7b-63e7-419e-a142-e509011d34a9",
-  "name": "29 Pt1 Needle Compression of Chest PNG",
+  "id": "016f5b7b-63e7-419e-a142-f509011d34a9",
+  "name": "29 Pt1 UKR Needle Compression of Chest",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -64,9 +64,9 @@
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3454,
-        "y": 6231,
-        "w": 1428,
+        "x": 3412,
+        "y": 6303,
+        "w": 1440,
         "h": 105,
         "r": 0
       },
@@ -297,15 +297,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ВІЗЬМІТЬ декомпресійний к..",
@@ -442,15 +434,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "2. П’яте міжребер’я по пе..",
@@ -733,15 +717,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ОГЛЯНЬТЕ постраждалого що..",
@@ -781,9 +757,9 @@
       "name": "Голкова декомпресія грудн..",
       "type": "text",
       "rect": {
-        "x": 258,
-        "y": 823,
-        "w": 4252,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -791,7 +767,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Голкова декомпресія грудної клітки",
+      "content": "ГОЛКОВА ДЕКОМПРЕСІЯ ГРУДНОЇ КЛІТКИ",
       "format": {
         "size": 200,
         "align": "left",
@@ -833,7 +809,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -851,7 +827,7 @@
       "rect": {
         "x": 604,
         "y": 1509,
-        "w": 2332,
+        "w": 3200,
         "h": 188,
         "r": 0
       },
@@ -867,7 +843,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -912,21 +888,13 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Needle Chest Decompression 1 YouTube QR PNG.png",
       "type": "image",
       "rect": {
-        "x": 1886,
+        "x": 2010,
         "y": 100,
         "w": 574,
         "h": 574,
@@ -939,12 +907,123 @@
       "content": "356e81b24fcf.png"
     },
     {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CMC-SC-26",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.15,
+          "color": "#85242B",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "7 MAY 2021",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -952,10 +1031,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:47Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:10Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,

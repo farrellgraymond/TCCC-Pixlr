@@ -204,15 +204,6 @@
           "type": "color",
           "value": "#f00505"
         }
-      },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#000000",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
       }
     },
     {
@@ -1051,7 +1042,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-15T02:51:49Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:20Z",
       "format": {
         "size": 64,
         "align": "right",
