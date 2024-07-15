@@ -1239,7 +1239,7 @@
       "type": "text",
       "rect": {
         "x": 325,
-        "y": 1056,
+        "y": 1100,
         "w": 3468,
         "h": 110,
         "r": 0
@@ -1273,7 +1273,7 @@
       "type": "text",
       "rect": {
         "x": 325,
-        "y": 1056,
+        "y": 1100,
         "w": 2491,
         "h": 110,
         "r": 0
@@ -1342,9 +1342,9 @@
       "name": "SAM Junctional Tourniquet..",
       "type": "text",
       "rect": {
-        "x": 3652,
-        "y": 639,
-        "w": 1224,
+        "x": 250,
+        "y": 870,
+        "w": 3000,
         "h": 394,
         "r": 0
       },
@@ -1352,11 +1352,11 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "SAM Junctional Tourniquet",
+      "content": "(SAM JUNCTIONAL TOURNIQUET)",
       "format": {
         "size": 160,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -1392,9 +1392,9 @@
       "name": "ВУЗЛОВИЙ ТУРНІКЕТ SAM..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 783,
-        "w": 4244,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -1547,7 +1547,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:07Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:51Z",
       "format": {
         "size": 64,
         "align": "right",

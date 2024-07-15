@@ -26,8 +26,8 @@
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3458,
-        "y": 6246,
+        "x": 3412,
+        "y": 6303,
         "w": 1440,
         "h": 105,
         "r": 0
@@ -522,7 +522,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -540,7 +540,7 @@
       "rect": {
         "x": 656,
         "y": 1292,
-        "w": 2268,
+        "w": 3200,
         "h": 188,
         "r": 0
       },
@@ -556,7 +556,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -607,9 +607,9 @@
       "name": "ІНСТРУКЦІЯ З НАКЛАДАННЯ Ж..",
       "type": "text",
       "rect": {
-        "x": 216,
-        "y": 791,
-        "w": 4640,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -762,7 +762,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:08Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:53Z",
       "format": {
         "size": 64,
         "align": "right",

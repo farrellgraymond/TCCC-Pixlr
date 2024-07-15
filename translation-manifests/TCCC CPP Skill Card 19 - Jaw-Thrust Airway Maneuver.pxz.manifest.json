@@ -1055,9 +1055,9 @@
       "name": "ВИВЕДЕННЯ НИЖНЬОЇ ЩЕЛЕПИ..",
       "type": "text",
       "rect": {
-        "x": 228,
-        "y": 692,
-        "w": 4168,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -1099,7 +1099,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1107,7 +1107,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1141,7 +1141,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1313,7 +1313,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:02Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:43Z",
       "format": {
         "size": 64,
         "align": "right",

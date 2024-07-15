@@ -42,19 +42,19 @@
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 1889,
-        "y": 918,
-        "w": 973,
-        "h": 166,
+        "x": 250,
+        "y": 870,
+        "w": 4600,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження…",
+      "content": "...продовження",
       "format": {
-        "size": 120,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -336,9 +336,9 @@
       "name": "КАРТКА ПОРАНЕНОГО ФОРМА D..",
       "type": "text",
       "rect": {
-        "x": 1116,
-        "y": 686,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -1451,7 +1451,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T21:41:37Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:54Z",
       "format": {
         "size": 64,
         "align": "right",

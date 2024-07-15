@@ -173,9 +173,9 @@
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 4052,
-        "y": 6256,
-        "w": 976,
+        "x": 3752,
+        "y": 6303,
+        "w": 1440,
         "h": 192,
         "r": 0
       },
@@ -191,7 +191,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -954,7 +954,7 @@
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1432,
+        "y": 1400,
         "w": 1932,
         "h": 112,
         "r": 0
@@ -971,7 +971,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -988,7 +988,7 @@
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1552,
+        "y": 1500,
         "w": 2980,
         "h": 112,
         "r": 0
@@ -1005,7 +1005,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1022,7 +1022,7 @@
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1552,
+        "y": 1500,
         "w": 1932,
         "h": 112,
         "r": 0
@@ -1039,7 +1039,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1056,9 +1056,9 @@
       "name": "ІНСТРУКЦІЯ З ВИЗНАЧЕННЯ Г..",
       "type": "text",
       "rect": {
-        "x": 196,
-        "y": 772,
-        "w": 4712,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 520,
         "r": 0
       },
@@ -1211,7 +1211,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:04Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:48Z",
       "format": {
         "size": 64,
         "align": "right",

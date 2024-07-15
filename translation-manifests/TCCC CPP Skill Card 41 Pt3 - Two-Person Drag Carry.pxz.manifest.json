@@ -230,9 +230,9 @@
       "name": "ПЕРЕНЕСЕННЯ ПІД ПАХВИ ТА ..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 1284,
-        "w": 2427,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 166,
         "r": 0
       },
@@ -242,7 +242,7 @@
       "link": "",
       "content": "ПЕРЕНЕСЕННЯ ПІД ПАХВИ ТА ЗА НОГИ ",
       "format": {
-        "size": 120,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -264,9 +264,9 @@
       "name": "ПЕРЕНЕСЕННЯ/ПЕРЕТЯГУВАННЯ..",
       "type": "text",
       "rect": {
-        "x": 220,
-        "y": 777,
-        "w": 4115,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -419,7 +419,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T21:41:33Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:50Z",
       "format": {
         "size": 64,
         "align": "right",

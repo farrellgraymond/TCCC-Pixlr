@@ -1129,9 +1129,9 @@
       "name": "ПЕРЕТЯГУВАННЯ ЗА ДОПОМОГО..",
       "type": "text",
       "rect": {
-        "x": 267,
-        "y": 1206,
-        "w": 2986,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 166,
         "r": 0
       },
@@ -1141,7 +1141,7 @@
       "link": "",
       "content": "ПЕРЕТЯГУВАННЯ ЗА ДОПОМОГОЮ РЕМЕНЯ",
       "format": {
-        "size": 120,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1163,9 +1163,9 @@
       "name": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ..",
       "type": "text",
       "rect": {
-        "x": 267,
-        "y": 751,
-        "w": 3880,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 455,
         "r": 0
       },
@@ -1175,7 +1175,7 @@
       "link": "",
       "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
       "format": {
-        "size": 180,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1318,7 +1318,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:06Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:50Z",
       "format": {
         "size": 64,
         "align": "right",

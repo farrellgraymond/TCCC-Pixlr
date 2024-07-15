@@ -26,9 +26,9 @@
       "name": "АВТОМАТИЗОВАНА ВЕНТИЛЯЦІЯ..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 795,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -44,7 +44,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -60,9 +60,9 @@
       "name": "для пацієнта..",
       "type": "text",
       "rect": {
-        "x": 345,
-        "y": 1046,
-        "w": 4252,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 218,
         "r": 0
       },
@@ -70,7 +70,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "для пацієнта з апное та без свідомості",
+      "content": "ДЛЯ ПАЦІЄНТА З АПНОЕ ТА БЕЗ СВІДОМОСТІ",
       "format": {
         "size": 160,
         "align": "left",
@@ -112,7 +112,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1098,7 +1098,41 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження на наступній ..",
+      "type": "text",
+      "rect": {
+        "x": 3412,
+        "y": 6303,
+        "w": 1440,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження на наступній сторінці…",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1235,7 +1269,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T21:41:28Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:46Z",
       "format": {
         "size": 64,
         "align": "right",

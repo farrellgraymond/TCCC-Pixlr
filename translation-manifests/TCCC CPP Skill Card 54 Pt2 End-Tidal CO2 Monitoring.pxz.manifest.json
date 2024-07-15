@@ -546,17 +546,17 @@
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 416,
-        "y": 1696,
-        "w": 3216,
-        "h": 220,
+        "x": 250,
+        "y": 1330,
+        "w": 4600,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження…",
+      "content": "...продовження",
       "format": {
         "size": 160,
         "align": "left",
@@ -581,8 +581,8 @@
       "type": "text",
       "rect": {
         "x": 200,
-        "y": 840,
-        "w": 4244,
+        "y": 650,
+        "w": 4700,
         "h": 760,
         "r": 0
       },
@@ -735,7 +735,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:09Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:54Z",
       "format": {
         "size": 64,
         "align": "right",

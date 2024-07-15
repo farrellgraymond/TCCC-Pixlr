@@ -700,7 +700,7 @@
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1358,
+        "y": 1260,
         "w": 2296,
         "h": 105,
         "r": 0
@@ -734,7 +734,7 @@
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1463,
+        "y": 1360,
         "w": 3170,
         "h": 105,
         "r": 0
@@ -768,7 +768,7 @@
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1463,
+        "y": 1360,
         "w": 3170,
         "h": 105,
         "r": 0
@@ -802,9 +802,9 @@
       "name": "ШВИДКЕ ТЕСТУВАННЯ ГОСТРОТ..",
       "type": "text",
       "rect": {
-        "x": 240,
-        "y": 855,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -820,7 +820,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.2,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1417,7 +1417,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:05Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:49Z",
       "format": {
         "size": 64,
         "align": "right",

@@ -48,9 +48,9 @@
       "name": "ТОРАКОСТОМІЯ ЗІ ВСТАНОВЛЕ..",
       "type": "text",
       "rect": {
-        "x": 292,
+        "x": 200,
         "y": 650,
-        "w": 4248,
+        "w": 4700,
         "h": 465,
         "r": 0
       },
@@ -66,7 +66,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -100,7 +100,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -126,7 +126,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРИМІТКА: Якщо є доступний боєць-рятувальник, скеруйте його вам на допомогу.",
+      "content": "ПРИМІТКА: Якщо доступний боєць-рятувальник, скеруйте його вам на допомогу.",
       "format": {
         "size": 76,
         "align": "left",
@@ -134,7 +134,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -673,6 +673,40 @@
       "content": "0520b5a64ac8.png"
     },
     {
+      "name": "Продовження на наступній ..",
+      "type": "text",
+      "rect": {
+        "x": 3412,
+        "y": 6303,
+        "w": 1440,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження на наступній сторінці…",
+      "format": {
+        "size": 76,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
       "name": "VERSION LABEL",
       "type": "text",
       "rect": {
@@ -797,7 +831,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T21:41:29Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:46Z",
       "format": {
         "size": 64,
         "align": "right",

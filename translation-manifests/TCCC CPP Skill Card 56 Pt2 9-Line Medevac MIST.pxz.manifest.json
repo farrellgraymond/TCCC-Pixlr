@@ -26,9 +26,9 @@
       "name": "ПІДГОТОВКА ЗАПИТУ НА ЕВАК..",
       "type": "text",
       "rect": {
-        "x": 25,
-        "y": 810,
-        "w": 5050,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 476,
         "r": 0
       },
@@ -38,7 +38,7 @@
       "link": "",
       "content": "ПІДГОТОВКА ЗАПИТУ НА ЕВАКУАЦІЮ ТА ЗВІТУ MIST",
       "format": {
-        "size": 195,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -661,7 +661,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:09Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:55Z",
       "format": {
         "size": 64,
         "align": "right",

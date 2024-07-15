@@ -340,29 +340,13 @@
       }
     },
     {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 3280,
-        "y": 2668,
-        "w": 204,
-        "h": 200,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "b1078f0f4ded.png"
-    },
-    {
       "name": "Shape 36",
       "type": "shape",
       "rect": {
-        "x": 3302,
-        "y": 2693,
-        "w": 161,
-        "h": 144,
+        "x": 3296,
+        "y": 2677,
+        "w": 172,
+        "h": 174,
         "r": 0
       },
       "opacity": 1,
@@ -517,9 +501,9 @@
       "name": "(ДОПОМОГА ПІД ВОГНЕМ, CUF..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 1456,
-        "w": 3000,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 218,
         "r": 0
       },
@@ -585,9 +569,9 @@
       "name": "Накладання турнікета з зу..",
       "type": "text",
       "rect": {
-        "x": 240,
-        "y": 871,
-        "w": 4457,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -595,7 +579,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Накладання турнікета з зубчастим механізмом двома руками ",
+      "content": "НАКЛАДАННЯ ТУРНІКЕТА З ЗУБЧАСТИМ МЕХАНІЗМОМ ДВОМА РУКАМИ",
       "format": {
         "size": 200,
         "align": "left",
@@ -775,7 +759,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:03Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:47Z",
       "format": {
         "size": 64,
         "align": "right",

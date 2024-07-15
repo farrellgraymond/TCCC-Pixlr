@@ -129,9 +129,9 @@
       "type": "text",
       "rect": {
         "x": 3412,
-        "y": 6316,
-        "w": 1444,
-        "h": 110,
+        "y": 6303,
+        "w": 1440,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -140,7 +140,7 @@
       "link": "",
       "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1147,7 +1147,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1492,9 +1492,9 @@
       "name": "ЗУПИНКА ВУЗЛОВОЇ КРОВОТЕЧ..",
       "type": "text",
       "rect": {
-        "x": 284,
-        "y": 784,
-        "w": 4252,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -1647,7 +1647,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:00Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:42Z",
       "format": {
         "size": 64,
         "align": "right",

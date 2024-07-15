@@ -550,7 +550,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -558,7 +558,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -576,7 +576,7 @@
       "rect": {
         "x": 592,
         "y": 1238,
-        "w": 2336,
+        "w": 3200,
         "h": 188,
         "r": 0
       },
@@ -592,7 +592,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -626,7 +626,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -643,9 +643,9 @@
       "name": "ЖОРСТКИЙ ЩИТОК ДЛЯ ОКА..",
       "type": "text",
       "rect": {
-        "x": 264,
-        "y": 777,
-        "w": 3228,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -814,7 +814,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:05Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:49Z",
       "format": {
         "size": 64,
         "align": "right",

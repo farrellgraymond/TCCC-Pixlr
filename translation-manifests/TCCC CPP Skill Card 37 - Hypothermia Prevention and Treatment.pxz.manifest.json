@@ -1094,7 +1094,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1144,7 +1144,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1178,7 +1178,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1264,9 +1264,9 @@
       "name": "ПРОФІЛАКТИКА ТА ЛІКУВАННЯ..",
       "type": "text",
       "rect": {
-        "x": 252,
-        "y": 808,
-        "w": 5048,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -1419,7 +1419,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:05Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:49Z",
       "format": {
         "size": 64,
         "align": "right",

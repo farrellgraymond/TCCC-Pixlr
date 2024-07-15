@@ -592,17 +592,17 @@
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 352,
-        "y": 1480,
-        "w": 3036,
-        "h": 220,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження…",
+      "content": "...продовження",
       "format": {
         "size": 160,
         "align": "left",
@@ -626,9 +626,9 @@
       "name": "ІНСТРУКЦІЯ З ВИЗНАЧЕННЯ Г..",
       "type": "text",
       "rect": {
-        "x": 240,
-        "y": 768,
-        "w": 4380,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 760,
         "r": 0
       },
@@ -781,7 +781,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:04Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:48Z",
       "format": {
         "size": 64,
         "align": "right",

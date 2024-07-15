@@ -735,7 +735,7 @@
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1064,
+        "y": 1130,
         "w": 2228,
         "h": 112,
         "r": 0
@@ -744,7 +744,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -752,7 +752,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -769,8 +769,8 @@
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1156,
-        "w": 2228,
+        "y": 1230,
+        "w": 3200,
         "h": 200,
         "r": 0
       },
@@ -786,7 +786,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -803,7 +803,7 @@
       "type": "text",
       "rect": {
         "x": 596,
-        "y": 1156,
+        "y": 1230,
         "w": 2228,
         "h": 112,
         "r": 0
@@ -820,7 +820,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -837,9 +837,9 @@
       "name": "СТОРОННЄ ТІЛО В РАНІ..",
       "type": "text",
       "rect": {
-        "x": 216,
-        "y": 760,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 280,
         "r": 0
       },
@@ -992,7 +992,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:07Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:52Z",
       "format": {
         "size": 64,
         "align": "right",

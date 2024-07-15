@@ -411,29 +411,13 @@
       }
     },
     {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 1892,
-        "y": 3688,
-        "w": 196,
-        "h": 196,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "4b7ab1da4003.png"
-    },
-    {
       "name": "Shape 24 Copy",
       "type": "shape",
       "rect": {
-        "x": 1911,
-        "y": 3712,
-        "w": 161,
-        "h": 149,
+        "x": 1904,
+        "y": 3699,
+        "w": 172,
+        "h": 172,
         "r": 0
       },
       "opacity": 1,
@@ -622,9 +606,9 @@
       "name": "НАКЛАДАННЯ ТУРНІКЕТА З ВО..",
       "type": "text",
       "rect": {
-        "x": 264,
-        "y": 788,
-        "w": 4572,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -656,9 +640,9 @@
       "name": "(ДОПОМОГА ПІД ВОГНЕМ, CUF..",
       "type": "text",
       "rect": {
-        "x": 332,
-        "y": 1368,
-        "w": 2724,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 218,
         "r": 0
       },
@@ -862,7 +846,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:02Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:43Z",
       "format": {
         "size": 64,
         "align": "right",

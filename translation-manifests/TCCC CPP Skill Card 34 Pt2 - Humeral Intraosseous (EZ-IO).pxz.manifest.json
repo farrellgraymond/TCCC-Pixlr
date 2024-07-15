@@ -618,19 +618,19 @@
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 384,
-        "y": 1108,
-        "w": 2024,
-        "h": 187,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження…",
+      "content": "...продовження",
       "format": {
-        "size": 140,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -652,10 +652,10 @@
       "name": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІ..",
       "type": "text",
       "rect": {
-        "x": 272,
-        "y": 734,
-        "w": 4795,
-        "h": 405,
+        "x": 100,
+        "y": 650,
+        "w": 4900,
+        "h": 455,
         "r": 0
       },
       "opacity": 1,
@@ -664,7 +664,7 @@
       "link": "",
       "content": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІШНЬОКІСТКОВОГО ВВЕДЕННЯ В ПЛЕЧОВУ КІСТКУ",
       "format": {
-        "size": 160,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -807,7 +807,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:04Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:48Z",
       "format": {
         "size": 64,
         "align": "right",

@@ -506,9 +506,9 @@
       "name": "ПЕРЕНЕСЕННЯ НА СПИНІ (ЯК ..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 1235,
-        "w": 1681,
+        "x": 250,
+        "y": 1120,
+        "w": 2400,
         "h": 308,
         "r": 0
       },
@@ -518,7 +518,7 @@
       "link": "",
       "content": "ПЕРЕНЕСЕННЯ НА СПИНІ (ЯК РЮКЗАК)",
       "format": {
-        "size": 120,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -540,9 +540,9 @@
       "name": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ..",
       "type": "text",
       "rect": {
-        "x": 282,
-        "y": 780,
-        "w": 4537,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 455,
         "r": 0
       },
@@ -552,7 +552,7 @@
       "link": "",
       "content": "ПЕРЕТЯГУВАННЯ/ПЕРЕНЕСЕННЯ ПОРАНЕНОГО ОДНІЄЮ ОСОБОЮ",
       "format": {
-        "size": 180,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -695,7 +695,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-13T23:00:06Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:50Z",
       "format": {
         "size": 64,
         "align": "right",
