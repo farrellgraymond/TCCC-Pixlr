@@ -1,6 +1,6 @@
 {
   "id": "3b679621-51cc-4879-b662-aa6cc74db958",
-  "name": "42 Pt2 Junctional Tourniquet (CRoC)",
+  "name": "42 Pt2 UKR Junctional Tourniquet (CRoC)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -241,15 +241,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -284,15 +276,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЗАСТОСУЙТЕ ТИСК на пов’яз..",
@@ -497,15 +481,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "РОЗТАШУЙТЕ опорну пластин..",
@@ -545,21 +521,21 @@
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 424,
-        "y": 1291,
-        "w": 4252,
-        "h": 212,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження…",
+      "content": "...продовження",
       "format": {
         "size": 160,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -579,9 +555,9 @@
       "name": "ВУЗЛОВИЙ ТУРНІКЕТ COMBAT ..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 796,
-        "w": 3984,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -606,40 +582,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
         }
       }
     },
@@ -721,6 +663,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -734,7 +710,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:26Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:51Z",
       "format": {
         "size": 64,
         "align": "right",

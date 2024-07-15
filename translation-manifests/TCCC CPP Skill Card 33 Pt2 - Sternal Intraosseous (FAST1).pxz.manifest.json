@@ -1,6 +1,6 @@
 {
   "id": "d94b2ac9-ec0b-4090-9a11-eee7c3c65a30",
-  "name": "33 Pt2 Sternal Intraosseous (FAST1)",
+  "name": "33 Pt2 UKR Sternal Intraosseous (FAST1)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -225,15 +225,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПІД’ЄДНАЙТЕ шприц, викона..",
@@ -273,17 +265,17 @@
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 368,
-        "y": 1204,
-        "w": 3048,
-        "h": 212,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження…",
+      "content": "...продовження",
       "format": {
         "size": 160,
         "align": "left",
@@ -307,10 +299,10 @@
       "name": "СИСТЕМА FAST1®IO ДЛЯ ВНУТ..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 749,
-        "w": 4716,
-        "h": 455,
+        "x": 0,
+        "y": 650,
+        "w": 5100,
+        "h": 417,
         "r": 0
       },
       "opacity": 1,
@@ -319,7 +311,7 @@
       "link": "",
       "content": "СИСТЕМА FAST1®IO ДЛЯ ВНУТРІШНЬОКІСТКОВОГО ВВЕДЕННЯ В ГРУДНИНУ",
       "format": {
-        "size": 180,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -334,40 +326,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
         }
       }
     },
@@ -449,6 +407,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -462,7 +454,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:23Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:48Z",
       "format": {
         "size": 64,
         "align": "right",

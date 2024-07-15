@@ -1,6 +1,6 @@
 {
   "id": "e814dbdb-8034-4aae-bdec-404de0fd2eff",
-  "name": "35 Pt1 Tibia Intraosseous (EZ-IO)",
+  "name": "35 Pt1 UKR Tibia Intraosseous (EZ-IO)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -26,10 +26,10 @@
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 4057,
-        "y": 6245,
-        "w": 947,
-        "h": 195,
+        "x": 3570,
+        "y": 6303,
+        "w": 1440,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -157,15 +157,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Докладаючи рівномірного п..",
@@ -408,15 +400,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПІДГОТУЙТЕ голку EZ-IO дл..",
@@ -519,15 +503,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ВІЗЬМІТЬ відповідний карт..",
@@ -847,7 +823,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -881,7 +857,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -915,7 +891,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -926,23 +902,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІ..",
       "type": "text",
       "rect": {
-        "x": 236,
-        "y": 734,
-        "w": 4920,
+        "x": 100,
+        "y": 650,
+        "w": 4900,
         "h": 417,
         "r": 0
       },
@@ -952,41 +920,7 @@
       "link": "",
       "content": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІШНЬОКІСТКОВОГО ВВЕДЕННЯ У ВЕЛИКОГОМІЛКОВУ КІСТКУ",
       "format": {
-        "size": 180,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1000,7 +934,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#777777"
+          "value": "#000000"
         }
       }
     },
@@ -1082,6 +1016,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1095,7 +1063,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:23Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:48Z",
       "format": {
         "size": 64,
         "align": "right",

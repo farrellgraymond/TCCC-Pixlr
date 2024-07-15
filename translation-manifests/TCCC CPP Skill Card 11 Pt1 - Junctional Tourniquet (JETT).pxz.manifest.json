@@ -1,6 +1,6 @@
 {
   "id": "d1028929-5019-428d-9ef5-c2b05bc4e12b",
-  "name": "11 Pt1 Junctional Tourniquet (JETT)",
+  "name": "11 Pt1 UKR Junctional Tourniquet (JETT)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -391,15 +391,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ВІДКРИЙТЕ та РОЗКРУТІТЬ п..",
@@ -688,15 +680,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПОДБАЙТЕ про засоби індив..",
@@ -799,15 +783,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА: Вузлові турнік..",
@@ -876,23 +852,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ВУЗЛОВИЙ ТУРНІКЕТ JETT (J..",
       "type": "text",
       "rect": {
-        "x": 220,
-        "y": 800,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 465,
         "r": 0
       },
@@ -908,7 +876,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1097,40 +1065,6 @@
       "content": "3cadacce48cf.png"
     },
     {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
-    },
-    {
       "name": "VERSION LABEL",
       "type": "text",
       "rect": {
@@ -1208,6 +1142,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1221,7 +1189,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:19Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:41Z",
       "format": {
         "size": 64,
         "align": "right",

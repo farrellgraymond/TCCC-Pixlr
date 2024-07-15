@@ -1,6 +1,6 @@
 {
   "id": "dc764c20-df95-4b43-a821-5cc084d16d42",
-  "name": "23 One-Person Bag Valve Mask",
+  "name": "23 UKR One-Person Bag Valve Mask",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -225,15 +225,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "УТРИМУЙТЕ маску, щільно п..",
@@ -404,15 +396,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЗАСТОСУЙТЕ техніку «ЕС», ..",
@@ -555,7 +539,7 @@
       "type": "text",
       "rect": {
         "x": 576,
-        "y": 1141,
+        "y": 1180,
         "w": 1888,
         "h": 105,
         "r": 0
@@ -564,7 +548,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -572,7 +556,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -589,8 +573,8 @@
       "type": "text",
       "rect": {
         "x": 576,
-        "y": 1240,
-        "w": 1888,
+        "y": 1280,
+        "w": 3200,
         "h": 188,
         "r": 0
       },
@@ -606,7 +590,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -623,7 +607,7 @@
       "type": "text",
       "rect": {
         "x": 576,
-        "y": 1240,
+        "y": 1280,
         "w": 1888,
         "h": 105,
         "r": 0
@@ -640,7 +624,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -651,23 +635,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "(однією особою)..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 950,
-        "w": 1476,
+        "x": 250,
+        "y": 870,
+        "w": 4600,
         "h": 166,
         "r": 0
       },
@@ -675,9 +651,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "(однією особою)",
+      "content": "(ОДНІЄЮ ОСОБОЮ)",
       "format": {
-        "size": 120,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -699,9 +675,9 @@
       "name": "ВЕНТИЛЯЦІЯ МІШКОМ ТИПУ АМ..",
       "type": "text",
       "rect": {
-        "x": 256,
-        "y": 756,
-        "w": 4280,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 245,
         "r": 0
       },
@@ -711,41 +687,7 @@
       "link": "",
       "content": "ВЕНТИЛЯЦІЯ МІШКОМ ТИПУ АМБУ З МАСКОЮ",
       "format": {
-        "size": 180,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": -0.05,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -759,7 +701,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#777777"
+          "value": "#000000"
         }
       }
     },
@@ -841,6 +783,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -854,7 +830,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:21Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:45Z",
       "format": {
         "size": 64,
         "align": "right",

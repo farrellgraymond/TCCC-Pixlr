@@ -1,6 +1,6 @@
 {
   "id": "b3a12de1-cd62-42b6-8ff2-e473b82a45a0",
-  "name": "35 Pt2 Tibia Intraosseous (EZ-IO)",
+  "name": "35 Pt2 UKR Tibia Intraosseous (EZ-IO)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -297,15 +297,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЗАФІКСУЙТЕ ВК катетер за ..",
@@ -379,17 +371,17 @@
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 284,
-        "y": 1232,
-        "w": 2068,
-        "h": 212,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження…",
+      "content": "...продовження",
       "format": {
         "size": 160,
         "align": "left",
@@ -413,9 +405,9 @@
       "name": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІ..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 768,
-        "w": 4676,
+        "x": 100,
+        "y": 650,
+        "w": 4900,
         "h": 455,
         "r": 0
       },
@@ -425,7 +417,7 @@
       "link": "",
       "content": "СИСТЕМА EZ-IO® ДЛЯ ВНУТРІШНЬОКІСТКОВОГО ВВЕДЕННЯ У ВЕЛИКОГОМІЛКОВУ КІСТКУ",
       "format": {
-        "size": 180,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -440,40 +432,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
         }
       }
     },
@@ -555,6 +513,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -568,7 +560,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:23Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:48Z",
       "format": {
         "size": 64,
         "align": "right",

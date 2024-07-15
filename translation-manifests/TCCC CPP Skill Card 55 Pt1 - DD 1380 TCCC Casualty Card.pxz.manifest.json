@@ -1,6 +1,6 @@
 {
   "id": "c8a7b6cd-87ae-4285-b14b-6bbcbfe05328",
-  "name": "55 Pt1 DD 1380 TCCC Casualty Card",
+  "name": "55 Pt1 UKR DD 1380 TCCC Casualty Card",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -26,9 +26,9 @@
       "name": "КАРТКА ПОРАНЕНОГО ФОРМА D..",
       "type": "text",
       "rect": {
-        "x": 1107,
-        "y": 624,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -36,7 +36,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "КАРТКА ПОРАНЕНОГО ФОРМА DD 1380 ",
+      "content": "КАРТКА ПОРАНЕНОГО ФОРМА DD 1380",
       "format": {
         "size": 200,
         "align": "left",
@@ -55,22 +55,6 @@
           "value": "#000000"
         }
       }
-    },
-    {
-      "name": "TCCC Form DD1380 UKR Front PNG.png",
-      "type": "image",
-      "rect": {
-        "x": 1717,
-        "y": 990,
-        "w": 3255,
-        "h": 4588,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": false,
-      "link": "",
-      "content": "8ebab34d48db.png"
     },
     {
       "name": "DD1380 Front Skills Card AUMF PNG.png",
@@ -724,10 +708,10 @@
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3863,
-        "y": 6331,
-        "w": 1420,
-        "h": 83,
+        "x": 3412,
+        "y": 6303,
+        "w": 1440,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -736,7 +720,7 @@
       "link": "",
       "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 60,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1093,40 +1077,6 @@
       }
     },
     {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
-    },
-    {
       "name": "VERSION LABEL",
       "type": "text",
       "rect": {
@@ -1204,6 +1154,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1217,7 +1201,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:30Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:54Z",
       "format": {
         "size": 64,
         "align": "right",

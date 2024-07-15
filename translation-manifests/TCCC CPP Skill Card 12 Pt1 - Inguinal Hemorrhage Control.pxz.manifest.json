@@ -1,6 +1,6 @@
 {
   "id": "f077839b-7bae-443c-b152-692fc6bc949a",
-  "name": "12 Pt1 Inguinal Hemorrhage Control",
+  "name": "12 Pt1 UKR Inguinal Hemorrhage Control",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -189,23 +189,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3492,
-        "y": 6283,
-        "w": 1428,
+        "x": 3412,
+        "y": 6303,
+        "w": 1440,
         "h": 105,
         "r": 0
       },
@@ -350,15 +342,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА ДО КРОКУ 7: Пер..",
@@ -427,15 +411,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПОВТОРНО ОЦІНІТЬ, чи зупи..",
@@ -572,15 +548,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПЕРЕКОНАЙТЕСЯ, що гемоста..",
@@ -683,15 +651,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА: Для зупинки кр..",
@@ -760,15 +720,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Заберіть кулак, якщо ви в..",
@@ -871,15 +823,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": " Використовуючи тактичну ..",
@@ -998,15 +942,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЗАСТОСУЙТЕ ПРЯМИЙ ТИСК на..",
@@ -1227,15 +1163,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПОДБАЙТЕ про засоби індив..",
@@ -1251,7 +1179,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1338,23 +1266,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЗУПИНКА ВУЗЛОВОЇ КРОВОТЕЧ..",
       "type": "text",
       "rect": {
-        "x": 254,
-        "y": 752,
-        "w": 4594,
+        "x": 50,
+        "y": 650,
+        "w": 5000,
         "h": 649,
         "r": 0
       },
@@ -1364,13 +1284,13 @@
       "link": "",
       "content": "ЗУПИНКА ВУЗЛОВОЇ КРОВОТЕЧІ ЗА ДОПОМОГОЮ ІМПРОВІЗОВАНОГО ПРИСТРОЮ ДЛЯ СТВОРЕННЯ ТИСКУ (ПСТ)",
       "format": {
-        "size": 180,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.05,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1719,40 +1639,6 @@
       }
     },
     {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
-    },
-    {
       "name": "VERSION LABEL",
       "type": "text",
       "rect": {
@@ -1830,6 +1716,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1843,7 +1763,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:19Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:41Z",
       "format": {
         "size": 64,
         "align": "right",

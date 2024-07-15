@@ -1,6 +1,6 @@
 {
   "id": "d78e7b6a-1e9c-4861-83cf-a27c23519cc4",
-  "name": "13 Pt1 Neck Junctional Hemorrhage Control",
+  "name": "13 Pt1 UKR Neck Junctional Hemorrhage Control",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -100,15 +100,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Shape 57",
@@ -137,9 +129,9 @@
       "type": "text",
       "rect": {
         "x": 3412,
-        "y": 6316,
-        "w": 1444,
-        "h": 110,
+        "y": 6303,
+        "w": 1440,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -148,7 +140,7 @@
       "link": "",
       "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 80,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -369,15 +361,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "08.1..",
@@ -650,15 +634,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПЕРЕКОНАЙТЕСЯ, що гемоста..",
@@ -761,15 +737,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Проведіть щільне ТАМПОНУВ..",
@@ -872,15 +840,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -915,15 +875,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -958,15 +910,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ВИТЯГНІТЬ гемостатичну по..",
@@ -1171,15 +1115,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Screen Shot 2023-10-02 at 12.58.46 AM.png",
@@ -1211,7 +1147,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1414,15 +1350,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "УТРИМУЙТЕ ТИСК..",
@@ -1564,9 +1492,9 @@
       "name": "ЗУПИНКА ВУЗЛОВОЇ КРОВОТЕЧ..",
       "type": "text",
       "rect": {
-        "x": 284,
-        "y": 784,
-        "w": 4252,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -1591,40 +1519,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
         }
       }
     },
@@ -1706,6 +1600,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1719,7 +1647,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:20Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:42Z",
       "format": {
         "size": 64,
         "align": "right",

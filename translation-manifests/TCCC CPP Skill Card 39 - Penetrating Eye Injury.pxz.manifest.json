@@ -1,6 +1,6 @@
 {
   "id": "e672dd96-c601-484e-b163-0744680161cd",
-  "name": "39 Penetrating Eye Injury",
+  "name": "39 UKR Penetrating Eye Injury",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -191,15 +191,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА: Не закривайте ..",
@@ -268,15 +260,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "НАКРИЙТЕ ушкоджене око жо..",
@@ -413,15 +397,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ОГЛЯНЬТЕ очі на наявність..",
@@ -524,15 +500,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "НАДАЙТЕ пораненому зручно..",
@@ -582,7 +550,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -590,7 +558,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -608,7 +576,7 @@
       "rect": {
         "x": 592,
         "y": 1238,
-        "w": 2336,
+        "w": 3200,
         "h": 188,
         "r": 0
       },
@@ -624,7 +592,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -658,7 +626,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -669,23 +637,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЖОРСТКИЙ ЩИТОК ДЛЯ ОКА..",
       "type": "text",
       "rect": {
-        "x": 264,
-        "y": 777,
-        "w": 3228,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -728,40 +688,6 @@
       "visible": true,
       "link": "",
       "content": "66c2a65441e1.png"
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
     },
     {
       "name": "VERSION LABEL",
@@ -841,6 +767,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -854,7 +814,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:24Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:49Z",
       "format": {
         "size": 64,
         "align": "right",

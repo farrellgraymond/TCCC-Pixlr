@@ -1,6 +1,6 @@
 {
   "id": "e31e6ebe-c544-4521-8ca6-96d59cd661b9",
-  "name": "53 Pt2 Pulse Assessment",
+  "name": "53 Pt2 UKR Pulse Assessment",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -123,15 +123,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА ДО КРОКУ 4: У т..",
@@ -200,15 +192,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА ДО КРОКУ 4: Якщ..",
@@ -277,15 +261,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПОМНОЖТЕ це число на чоти..",
@@ -490,15 +466,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПОМІСТІТЬ свої зведені па..",
@@ -669,15 +637,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПОДБАЙТЕ про засоби індив..",
@@ -701,7 +661,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -719,7 +679,7 @@
       "rect": {
         "x": 600,
         "y": 1261,
-        "w": 2348,
+        "w": 3200,
         "h": 188,
         "r": 0
       },
@@ -735,7 +695,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -769,7 +729,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -780,23 +740,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ОЦІНКА ПУЛЬСУ НА ПРОМЕНЕВ..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 769,
-        "w": 4252,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -821,40 +773,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
         }
       }
     },
@@ -936,6 +854,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -949,7 +901,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:29Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:53Z",
       "format": {
         "size": 64,
         "align": "right",

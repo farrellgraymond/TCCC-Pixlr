@@ -1,6 +1,6 @@
 {
   "id": "b4d6ebb8-d454-4101-9b9e-db15cfeeb7cc",
-  "name": "15 XSTAT Instruction",
+  "name": "15 UKR XSTAT Instruction",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -345,15 +345,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЗАСТОСУЙТЕ прямий тиск на..",
@@ -528,15 +520,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЗАТАМПОНУЙТЕ рану міні-сп..",
@@ -673,15 +657,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -716,15 +692,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "СИЛЬНО НАТИСНІТЬ на ручку..",
@@ -997,15 +965,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Screen Shot 2023-10-02 at 12.58.46 AM.png",
@@ -1037,7 +997,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1124,22 +1084,14 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЗАСТЕРЕЖЕННЯ: XSTAT не..",
       "type": "text",
       "rect": {
         "x": 580,
-        "y": 1076,
+        "y": 1110,
         "w": 4216,
         "h": 188,
         "r": 0
@@ -1173,7 +1125,7 @@
       "type": "text",
       "rect": {
         "x": 580,
-        "y": 1076,
+        "y": 1110,
         "w": 4216,
         "h": 105,
         "r": 0
@@ -1201,23 +1153,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Інструкція до гемостатичн..",
       "type": "text",
       "rect": {
-        "x": 212,
-        "y": 724,
-        "w": 5108,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -1225,7 +1169,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Інструкція до гемостатичного засобу XSTAT®",
+      "content": "ІНСТРУКЦІЯ ДО ГЕМОСТАТИЧНОГО ЗАСОБУ XSTAT®",
       "format": {
         "size": 200,
         "align": "left",
@@ -1260,40 +1204,6 @@
       "visible": true,
       "link": "",
       "content": "0b54a1514857.png"
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
     },
     {
       "name": "VERSION LABEL",
@@ -1373,6 +1283,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1386,7 +1330,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:20Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:42Z",
       "format": {
         "size": 64,
         "align": "right",

@@ -1,6 +1,6 @@
 {
   "id": "3f2a28b7-5e65-4be9-ae99-8375830f4c95",
-  "name": "10 Pt2 Wound Packing and Pressure Bandage",
+  "name": "10 Pt2 UKR Wound Packing and Pressure Bandage",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -139,15 +139,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПЕРЕВІРТЕ збереження кров..",
@@ -221,17 +213,17 @@
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 349,
-        "y": 1400,
-        "w": 3288,
-        "h": 212,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
+        "h": 218,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Продовження…",
+      "content": "...продовження",
       "format": {
         "size": 160,
         "align": "left",
@@ -255,9 +247,9 @@
       "name": "ТАМПОНУВАННЯ РАНИ ТА НАКЛ..",
       "type": "text",
       "rect": {
-        "x": 260,
-        "y": 764,
-        "w": 4244,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -282,40 +274,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
         }
       }
     },
@@ -397,6 +355,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -410,7 +402,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:19Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:41Z",
       "format": {
         "size": 64,
         "align": "right",

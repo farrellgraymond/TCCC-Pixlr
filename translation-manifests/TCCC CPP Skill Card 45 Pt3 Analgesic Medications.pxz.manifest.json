@@ -1,6 +1,6 @@
 {
   "id": "10bb467e-0aa1-4497-8b62-4714728adfce",
-  "name": "45 Pt3 Analgesic Medications",
+  "name": "45 Pt3 UKR Analgesic Medications",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -427,10 +427,10 @@
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3200,
-        "y": 6054,
-        "w": 1698,
-        "h": 126,
+        "x": 3412,
+        "y": 6303,
+        "w": 1440,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
@@ -439,7 +439,7 @@
       "link": "",
       "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 92,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -796,9 +796,9 @@
       "name": "Знеболювальні препарати (..",
       "type": "text",
       "rect": {
-        "x": 220,
-        "y": 800,
-        "w": 4120,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 280,
         "r": 0
       },
@@ -806,7 +806,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Знеболювальні препарати (довідка)",
+      "content": "ЗНЕБОЛЮВАЛЬНІ ПРЕПАРАТИ (ДОВІДКА)",
       "format": {
         "size": 200,
         "align": "left",
@@ -823,40 +823,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
         }
       }
     },
@@ -938,6 +904,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -951,7 +951,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:26Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:51Z",
       "format": {
         "size": 64,
         "align": "right",

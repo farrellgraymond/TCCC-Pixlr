@@ -50,10 +50,46 @@ LASTMOD_JSON="{
       }
     }"
 
+# Create our watermark/translated-by label
+PEREKLAD_JSON="{
+      \"name\": \"Переклад tccc.org.ua...\",
+      \"type\": \"text\",
+      \"rect\": {
+        \"x\": 4145,
+        \"y\": 95,
+        \"w\": 680,
+        \"h\": 90,
+        \"r\": 0
+      },
+      \"opacity\": 1,
+      \"locked\": false,
+      \"visible\": true,
+      \"link\": \"\",
+      \"content\": \"Переклад tccc.org.ua\",
+      \"format\": {
+        \"size\": 66,
+        \"align\": \"left\",
+        \"bold\": true,
+        \"italic\": false,
+        \"underline\": false,
+        \"uppercase\": false,
+        \"linespace\": 0,
+        \"letterspace\": 0,
+        \"font\": {
+          \"name\": \"Arial\",
+          \"content\": \"arial.woff\"
+        },
+        \"fill\": {
+          \"type\": \"color\",
+          \"value\": \"#777777\"
+        }
+      }
+    }"
+
 echo "------ Extracting old manifest and updating with detected last-modified time..."
 # Extract the manifest file we plan to update from the source file, and pump it straight through jq
 # to insert or update our last-modified time before echoing it out as a file
-unzip -p "${PXZ_FILENAME}" ${MANIFEST_FILENAME} | jq "del(.stack[] | select(.type==\"text\") | select(.content | contains(\"LAST UPDATED:\"))) | .stack += [${LASTMOD_JSON}]" > ${MANIFEST_FILENAME}
+unzip -p "${PXZ_FILENAME}" ${MANIFEST_FILENAME} | jq "del(.stack[] | select(.type==\"text\") | select(.content | contains(\"LAST UPDATED:\"))) | del(.stack[] | select(.type==\"text\") | select(.content | contains(\"Переклад tccc.org.ua\"))) | .stack += [${PEREKLAD_JSON}] | .stack += [${LASTMOD_JSON}]" > ${MANIFEST_FILENAME}
 
 # Well this is strange - why do we do this? Why explicitly set the time on the manifest
 # to a fixed time?

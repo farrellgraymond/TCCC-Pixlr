@@ -1,6 +1,6 @@
 {
   "id": "d4c91a24-7bfd-4f61-a216-d337f69c9bae",
-  "name": "22 Pt7 Direct Laryngoscopy Endotracheal Intubation",
+  "name": "22 Pt7 UKR Direct Laryngoscopy Endotracheal Intubation",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -23,12 +23,12 @@
       "content": "415a8478449b.png"
     },
     {
-      "name": "ЕНДОТРАХЕАЛЬНА ІНТУБАЦІЯ ..",
+      "name": "ПРЯМА ЛАРИНГОСКОПІЧНА\nЕНД..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 663,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 465,
         "r": 0
       },
@@ -44,7 +44,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -60,9 +60,9 @@
       "name": "(Ендотрахеальна трубка зі..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 1100,
-        "w": 4248,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 273,
         "r": 0
       },
@@ -70,15 +70,15 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "(Ендотрахеальна трубка зі стилетом)",
+      "content": "(ЕНДОТРАХЕАЛЬНА ТРУБКА ЗІ СТИЛЕТОМ)",
       "format": {
-        "size": 200,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -635,22 +635,22 @@
       }
     },
     {
-      "name": "Переклад tccc.org.ua...",
+      "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
+        "x": 3412,
+        "y": 6303,
+        "w": 1440,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Переклад tccc.org.ua",
+      "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 66,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -664,7 +664,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#777777"
+          "value": "#000000"
         }
       }
     },
@@ -746,6 +746,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -759,7 +793,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-07T04:32:13Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:45Z",
       "format": {
         "size": 64,
         "align": "right",

@@ -1,6 +1,6 @@
 {
   "id": "76ea53b3-a66b-4d1e-ae5e-10354f4a4921",
-  "name": "7 Two-Handed Windlass Tourniquet (TFC)",
+  "name": "7 UKR Two-Handed Windlass Tourniquet (TFC)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -731,15 +731,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРОСУНЬТЕ поранену кінців..",
@@ -983,7 +975,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1017,7 +1009,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -1159,15 +1151,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -1202,15 +1186,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА ДО 9 КРОКУ:..",
@@ -1245,15 +1221,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -1288,15 +1256,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "АБО..",
@@ -1331,15 +1291,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "clipboard",
@@ -1358,12 +1310,12 @@
       "content": "91d7aa994373.png"
     },
     {
-      "name": "(Допомога в польових умов..",
+      "name": "(ДОПОМОГА В ПОЛЬОВИХ УМОВ..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 1150,
-        "w": 4252,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 212,
         "r": 0
       },
@@ -1371,7 +1323,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "(Допомога в польових умовах, TFC)",
+      "content": "(ДОПОМОГА В ПОЛЬОВИХ УМОВАХ, TFC)",
       "format": {
         "size": 160,
         "align": "left",
@@ -1392,22 +1344,22 @@
       }
     },
     {
-      "name": "Накладання турнікета з во..",
+      "name": "НАКЛАДАННЯ ТУРНІКЕТА З ВО..",
       "type": "text",
       "rect": {
-        "x": 210,
-        "y": 695,
-        "w": 4680,
-        "h": 455,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
+        "h": 507,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Накладання турнікета з воротком і пряжкою двома руками під час надання допомоги в польових умовах.",
+      "content": "НАКЛАДАННЯ ТУРНІКЕТА З ВОРОТКОМ І ПРЯЖКОЮ ДВОМА РУКАМИ ",
       "format": {
-        "size": 180,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1440,40 +1392,6 @@
       "visible": true,
       "link": "",
       "content": "998486a742bf.png"
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
     },
     {
       "name": "VERSION LABEL",
@@ -1553,6 +1471,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1566,7 +1518,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:31Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:55Z",
       "format": {
         "size": 64,
         "align": "right",

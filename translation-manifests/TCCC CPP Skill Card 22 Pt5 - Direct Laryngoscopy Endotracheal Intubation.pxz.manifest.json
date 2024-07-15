@@ -1,6 +1,6 @@
 {
   "id": "3314c658-31fe-45eb-bfdc-9c78f68f987d",
-  "name": "22 Pt5 Direct Laryngoscopy Endotracheal Intubation",
+  "name": "22 Pt5 UKR Direct Laryngoscopy Endotracheal Intubation",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -261,12 +261,12 @@
       }
     },
     {
-      "name": "(з використанням бужа)..",
+      "name": "(З ВИКОРИСТАННЯМ БУЖА)..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 1100,
-        "w": 4248,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 273,
         "r": 0
       },
@@ -274,15 +274,15 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "(з використанням бужа)",
+      "content": "(З ВИКОРИСТАННЯМ БУЖА)",
       "format": {
-        "size": 200,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -332,9 +332,9 @@
       "name": "ЕНДОТРАХЕАЛЬНА ІНТУБАЦІЯ ..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 663,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 465,
         "r": 0
       },
@@ -350,40 +350,6 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
         "linespace": 0,
         "letterspace": 0,
         "font": {
@@ -392,7 +358,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#777777"
+          "value": "#000000"
         }
       }
     },
@@ -474,6 +440,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -487,7 +487,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-07T04:32:13Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:44Z",
       "format": {
         "size": 64,
         "align": "right",

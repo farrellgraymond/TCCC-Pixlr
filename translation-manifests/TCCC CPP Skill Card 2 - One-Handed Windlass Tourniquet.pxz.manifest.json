@@ -1,6 +1,6 @@
 {
   "id": "2f08e77b-ff6c-45d3-b2d3-b82d8d792b18",
-  "name": "2 One-Handed Windlass Tourniquet",
+  "name": "2 UKR One-Handed Windlass Tourniquet",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -411,29 +411,13 @@
       }
     },
     {
-      "name": "clipboard",
-      "type": "image",
-      "rect": {
-        "x": 1892,
-        "y": 3688,
-        "w": 196,
-        "h": 196,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "4b7ab1da4003.png"
-    },
-    {
       "name": "Shape 24 Copy",
       "type": "shape",
       "rect": {
-        "x": 1911,
-        "y": 3712,
-        "w": 161,
-        "h": 149,
+        "x": 1904,
+        "y": 3699,
+        "w": 172,
+        "h": 172,
         "r": 0
       },
       "opacity": 1,
@@ -622,9 +606,9 @@
       "name": "НАКЛАДАННЯ ТУРНІКЕТА З ВО..",
       "type": "text",
       "rect": {
-        "x": 264,
-        "y": 788,
-        "w": 4572,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -656,9 +640,9 @@
       "name": "(ДОПОМОГА ПІД ВОГНЕМ, CUF..",
       "type": "text",
       "rect": {
-        "x": 332,
-        "y": 1368,
-        "w": 2724,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 218,
         "r": 0
       },
@@ -735,49 +719,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
-        }
-      }
+      "style": {}
     },
     {
       "name": "VERSION LABEL",
@@ -857,6 +799,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -870,7 +846,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:21Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:43Z",
       "format": {
         "size": 64,
         "align": "right",

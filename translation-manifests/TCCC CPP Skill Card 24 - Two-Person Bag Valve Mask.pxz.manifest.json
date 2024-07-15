@@ -1,6 +1,6 @@
 {
   "id": "22e1ae95-d91e-473a-b64f-5609d08fc655",
-  "name": "24 Two-Person Bag Valve Mask",
+  "name": "24 UKR Two-Person Bag Valve Mask",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -575,12 +575,12 @@
       }
     },
     {
-      "name": "( двома особами)..",
+      "name": "(двома особами)..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 944,
-        "w": 3430,
+        "x": 250,
+        "y": 870,
+        "w": 4600,
         "h": 160,
         "r": 0
       },
@@ -588,9 +588,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "( двома особами)",
+      "content": "(ДВОМА ОСОБАМИ)",
       "format": {
-        "size": 120,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -680,8 +680,8 @@
       "name": "ПОДБАЙТЕ про засоби індив..",
       "type": "text",
       "rect": {
-        "x": 592,
-        "y": 1129,
+        "x": 576,
+        "y": 1160,
         "w": 2388,
         "h": 105,
         "r": 0
@@ -690,7 +690,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -698,7 +698,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -714,9 +714,9 @@
       "name": "ПРИМІТКА: Якщо доступний..",
       "type": "text",
       "rect": {
-        "x": 592,
-        "y": 1234,
-        "w": 2388,
+        "x": 576,
+        "y": 1270,
+        "w": 3200,
         "h": 179,
         "r": 0
       },
@@ -732,7 +732,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -748,8 +748,8 @@
       "name": "ПРИМІТКА:..",
       "type": "text",
       "rect": {
-        "x": 592,
-        "y": 1234,
+        "x": 576,
+        "y": 1270,
         "w": 2388,
         "h": 105,
         "r": 0
@@ -777,23 +777,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ВЕНТИЛЯЦІЯ МІШКОМ ТИПУ АМ..",
       "type": "text",
       "rect": {
-        "x": 240,
-        "y": 744,
-        "w": 4252,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 245,
         "r": 0
       },
@@ -803,7 +795,7 @@
       "link": "",
       "content": "ВЕНТИЛЯЦІЯ МІШКОМ ТИПУ АМБУ З МАСКОЮ",
       "format": {
-        "size": 180,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -818,40 +810,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
         }
       }
     },
@@ -933,6 +891,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -946,7 +938,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:21Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:45Z",
       "format": {
         "size": 64,
         "align": "right",

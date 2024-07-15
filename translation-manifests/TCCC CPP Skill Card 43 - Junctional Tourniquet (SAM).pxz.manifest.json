@@ -1,6 +1,6 @@
 {
   "id": "3b971216-9ed0-43cc-88c8-2bde944a94c3",
-  "name": "43 Junctional Tourniquet (SAM)",
+  "name": "43 UKR Junctional Tourniquet (SAM)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -296,15 +296,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -339,15 +331,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Використайте ручний насос..",
@@ -450,15 +434,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Закріпіть вільний кінець ..",
@@ -561,15 +537,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Сильно ПОТЯГНІТЬ коричнев..",
@@ -706,15 +674,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "2. Трохи нижче середини у..",
@@ -1071,15 +1031,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Screen Shot 2023-10-02 at 12.58.46 AM.png",
@@ -1287,7 +1239,7 @@
       "type": "text",
       "rect": {
         "x": 325,
-        "y": 1056,
+        "y": 1100,
         "w": 3468,
         "h": 110,
         "r": 0
@@ -1321,7 +1273,7 @@
       "type": "text",
       "rect": {
         "x": 325,
-        "y": 1056,
+        "y": 1100,
         "w": 2491,
         "h": 110,
         "r": 0
@@ -1349,15 +1301,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -1392,23 +1336,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "SAM Junctional Tourniquet..",
       "type": "text",
       "rect": {
-        "x": 3652,
-        "y": 639,
-        "w": 1224,
+        "x": 250,
+        "y": 870,
+        "w": 3000,
         "h": 394,
         "r": 0
       },
@@ -1416,11 +1352,11 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "SAM Junctional Tourniquet",
+      "content": "(SAM JUNCTIONAL TOURNIQUET)",
       "format": {
         "size": 160,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -1456,9 +1392,9 @@
       "name": "ВУЗЛОВИЙ ТУРНІКЕТ SAM..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 783,
-        "w": 4244,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -1483,40 +1419,6 @@
         "fill": {
           "type": "color",
           "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "Переклад tccc.org.ua...",
-      "type": "text",
-      "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "Переклад tccc.org.ua",
-      "format": {
-        "size": 66,
-        "align": "left",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#777777"
         }
       }
     },
@@ -1598,6 +1500,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -1611,7 +1547,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-02T21:23:26Z",
+      "content": "LAST UPDATED: 2024-07-15T02:51:51Z",
       "format": {
         "size": 64,
         "align": "right",
