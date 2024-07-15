@@ -9,4 +9,3 @@ TEMPLATE_IN=`realpath "$1"`
 pushd header-resources
 ./do-template-header-apply.sh CMC "${TEMPLATE_IN}"
 popd
-
