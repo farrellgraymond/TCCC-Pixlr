@@ -1,6 +1,6 @@
 {
-  "id": "56ed8c64-ec6e-4479-89d1-41759f264975",
-  "name": "10 Two-Handed Ratchet Tourniquet (TFC) PNG",
+  "id": "56ed8c64-ec6e-4479-89d1-51759f264975",
+  "name": "10 UKR Two-Handed Ratchet Tourniquet (TFC)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -180,7 +180,7 @@
       }
     },
     {
-      "name": "хвилини..",
+      "name": "хвилина..",
       "type": "text",
       "rect": {
         "x": 420,
@@ -193,7 +193,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "хвилини",
+      "content": "хвилина",
       "format": {
         "size": 55,
         "align": "center",
@@ -610,15 +610,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРОСУНЬТЕ поранену кінців..",
@@ -710,7 +702,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.22,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -835,7 +827,7 @@
         "italic": false,
         "underline": false,
         "uppercase": false,
-        "linespace": -0.1,
+        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -870,40 +862,6 @@
         "underline": false,
         "uppercase": false,
         "linespace": -0.22,
-        "letterspace": 0,
-        "font": {
-          "name": "Arial",
-          "content": "arial.woff"
-        },
-        "fill": {
-          "type": "color",
-          "value": "#000000"
-        }
-      }
-    },
-    {
-      "name": "ТИСК..",
-      "type": "text",
-      "rect": {
-        "x": 425,
-        "y": 2659,
-        "w": 220,
-        "h": 83,
-        "r": 0
-      },
-      "opacity": 1,
-      "locked": false,
-      "visible": true,
-      "link": "",
-      "content": "ТИСК",
-      "format": {
-        "size": 60,
-        "align": "center",
-        "bold": true,
-        "italic": false,
-        "underline": false,
-        "uppercase": false,
-        "linespace": 0,
         "letterspace": 0,
         "font": {
           "name": "Arial",
@@ -982,15 +940,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА: Можливо, вам п..",
@@ -1077,12 +1027,12 @@
       }
     },
     {
-      "name": "(Допомога в польових умов..",
+      "name": "(ДОПОМОГА В ПОЛЬОВИХ УМОВ..",
       "type": "text",
       "rect": {
-        "x": 292,
-        "y": 1156,
-        "w": 4228,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 212,
         "r": 0
       },
@@ -1090,7 +1040,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "(Допомога в польових умовах, TFC)",
+      "content": "(ДОПОМОГА В ПОЛЬОВИХ УМОВАХ, TFC)",
       "format": {
         "size": 160,
         "align": "left",
@@ -1114,9 +1064,9 @@
       "name": "Накладання турнікета з зу..",
       "type": "text",
       "rect": {
-        "x": 208,
-        "y": 701,
-        "w": 4156,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 455,
         "r": 0
       },
@@ -1124,9 +1074,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Накладання турнікета з зубчастим механізмом двома руками ",
+      "content": "НАКЛАДАННЯ ТУРНІКЕТА З ЗУБЧАСТИМ МЕХАНІЗМОМ ДВОМА РУКАМИ",
       "format": {
-        "size": 180,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -1148,9 +1098,9 @@
       "name": "Shape 55",
       "type": "shape",
       "rect": {
-        "x": 861,
-        "y": 2032,
-        "w": 841,
+        "x": 312,
+        "y": 2631,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -1174,12 +1124,12 @@
       }
     },
     {
-      "name": "ПРОДОВЖУЙТЕ ТИСНУТИ..",
+      "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 861,
-        "y": 2055,
-        "w": 842,
+        "x": 312,
+        "y": 2659,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1187,7 +1137,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРОДОВЖУЙТЕ ТИСНУТИ",
+      "content": "УТРИМУЙТЕ ТИСК",
       "format": {
         "size": 60,
         "align": "center",
@@ -1240,15 +1190,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -1283,15 +1225,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -1326,13 +1260,116 @@
           "value": "#f00505"
         }
       },
+      "style": {}
+    },
+    {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CMC-SC-08",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#f00505",
+          "size": 0.15,
+          "color": "#85242B",
           "punch": false,
           "distance": 0,
           "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "10 MAY 2021",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
         }
       }
     },
@@ -1342,7 +1379,7 @@
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -1350,10 +1387,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:43Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:06Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,

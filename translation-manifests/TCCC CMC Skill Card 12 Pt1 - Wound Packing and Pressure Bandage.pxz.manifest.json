@@ -1,6 +1,6 @@
 {
   "id": "68e872a1-e5cf-44f2-9f18-1339f09646d2",
-  "name": "12 Pt1 Wound Packing and Pressure Bandage PNG",
+  "name": "12 Pt1 UKR Wound Packing and Pressure Bandage",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -124,15 +124,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Продовження на наступній ..",
@@ -235,15 +227,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Щільно ОБЕРНІТЬ еластични..",
@@ -414,15 +398,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Shape 83",
@@ -616,15 +592,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Переконайтесь, що гемоста..",
@@ -795,15 +763,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА ДО КРОКУ 4:..",
@@ -838,15 +798,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ЗАСТЕРЕЖЕННЯ ЩОДО КРОКУ 4..",
@@ -881,15 +833,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Проведіть щільне ТАМПОНУВ..",
@@ -1060,15 +1004,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Screen Shot 2023-10-02 at 12.58.46 AM.png",
@@ -1134,7 +1070,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПОДБАЙТЕ про засоби індивідуального захисту. ",
+      "content": "ПОДБАЙТЕ про засоби індивідуального захисту.",
       "format": {
         "size": 76,
         "align": "left",
@@ -1221,23 +1157,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ТАМПОНУВАННЯ РАНИ ТА НАКЛ..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 752,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 507,
         "r": 0
       },
@@ -1371,9 +1299,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 851,
-        "y": 1694,
-        "w": 841,
+        "x": 314,
+        "y": 2176,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -1400,9 +1328,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 1880,
-        "y": 1683,
-        "w": 841,
+        "x": 1852,
+        "y": 2176,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -1429,9 +1357,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 3428,
-        "y": 1693,
-        "w": 841,
+        "x": 3392,
+        "y": 2176,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -1458,9 +1386,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 3400,
-        "y": 3179,
-        "w": 841,
+        "x": 3385,
+        "y": 3747,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -1487,9 +1415,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 1864,
-        "y": 5653,
-        "w": 841,
+        "x": 1849,
+        "y": 5526,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -1516,9 +1444,9 @@
       "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 851,
-        "y": 1720,
-        "w": 842,
+        "x": 314,
+        "y": 2204,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1550,9 +1478,9 @@
       "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 1863,
-        "y": 1711,
-        "w": 842,
+        "x": 1852,
+        "y": 2204,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1584,9 +1512,9 @@
       "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 3428,
-        "y": 1720,
-        "w": 842,
+        "x": 3392,
+        "y": 2204,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1618,9 +1546,9 @@
       "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 3361,
-        "y": 3207,
-        "w": 842,
+        "x": 3385,
+        "y": 3775,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1652,9 +1580,9 @@
       "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 1880,
-        "y": 5684,
-        "w": 842,
+        "x": 1849,
+        "y": 5554,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1699,12 +1627,123 @@
       "content": "a450a89a4fa0.png"
     },
     {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CMC-SC-09",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.15,
+          "color": "#85242B",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "10 MAY 2021",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -1712,10 +1751,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:44Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:06Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,

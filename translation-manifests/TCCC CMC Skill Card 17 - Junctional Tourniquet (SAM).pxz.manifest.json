@@ -1,6 +1,6 @@
 {
-  "id": "3b971216-9ed0-43cc-88c8-1bde944a94c3",
-  "name": "17 Junctional Tourniquet (SAM) PNG",
+  "id": "3b971216-9ed0-43cc-88c8-2bde944a94c3",
+  "name": "17 UKR Junctional Tourniquet (SAM)",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -296,15 +296,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -339,15 +331,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Використайте ручний насос..",
@@ -450,15 +434,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Закріпіть вільний кінець ..",
@@ -561,15 +537,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Сильно ПОТЯГНІТЬ коричнев..",
@@ -706,15 +674,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "2. Трохи нижче середини у..",
@@ -1071,15 +1031,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "Screen Shot 2023-10-02 at 12.58.46 AM.png",
@@ -1207,9 +1159,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 3903,
-        "y": 1556,
-        "w": 841,
+        "x": 3390,
+        "y": 2113,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -1236,9 +1188,9 @@
       "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 3903,
-        "y": 1584,
-        "w": 842,
+        "x": 3390,
+        "y": 2141,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -1287,7 +1239,7 @@
       "type": "text",
       "rect": {
         "x": 325,
-        "y": 1056,
+        "y": 1100,
         "w": 3468,
         "h": 110,
         "r": 0
@@ -1321,7 +1273,7 @@
       "type": "text",
       "rect": {
         "x": 325,
-        "y": 1056,
+        "y": 1100,
         "w": 2491,
         "h": 110,
         "r": 0
@@ -1349,15 +1301,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -1392,23 +1336,15 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "SAM Junctional Tourniquet..",
       "type": "text",
       "rect": {
-        "x": 3652,
-        "y": 639,
-        "w": 1224,
+        "x": 250,
+        "y": 870,
+        "w": 3000,
         "h": 394,
         "r": 0
       },
@@ -1416,11 +1352,11 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "SAM Junctional Tourniquet",
+      "content": "(SAM JUNCTIONAL TOURNIQUET)",
       "format": {
         "size": 160,
         "align": "left",
-        "bold": false,
+        "bold": true,
         "italic": false,
         "underline": false,
         "uppercase": false,
@@ -1456,9 +1392,9 @@
       "name": "ВУЗЛОВИЙ ТУРНІКЕТ SAM..",
       "type": "text",
       "rect": {
-        "x": 248,
-        "y": 783,
-        "w": 4244,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -1487,12 +1423,123 @@
       }
     },
     {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CMC-SC-14",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.15,
+          "color": "#85242B",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "7 JUN 2021",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -1500,10 +1547,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:45Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:07Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,

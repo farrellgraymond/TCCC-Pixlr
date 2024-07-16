@@ -1,6 +1,6 @@
 {
   "id": "36a64d22-6937-4562-832f-6ef6214f927b",
-  "name": "54 Pt2 Open Surgical Cricothyroidotomy",
+  "name": "54 Pt2 UKR Open Surgical Cricothyroidotomy",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -740,8 +740,8 @@
       "name": "Продовження…..",
       "type": "text",
       "rect": {
-        "x": 352,
-        "y": 1295,
+        "x": 424,
+        "y": 1330,
         "w": 4252,
         "h": 218,
         "r": 0
@@ -774,9 +774,9 @@
       "name": "КРІКОТИРЕОТОМІЯ..",
       "type": "text",
       "rect": {
-        "x": 252,
-        "y": 788,
-        "w": 4248,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 273,
         "r": 0
       },
@@ -808,9 +808,9 @@
       "name": "(Відкрита хірургічна техн..",
       "type": "text",
       "rect": {
-        "x": 252,
-        "y": 1016,
-        "w": 4248,
+        "x": 250,
+        "y": 1120,
+        "w": 4600,
         "h": 273,
         "r": 0
       },
@@ -818,9 +818,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "(Відкрита хірургічна техніка)",
+      "content": "(ВІДКРИТА ХІРУРГІЧНА ТЕХНІКА)",
       "format": {
-        "size": 200,
+        "size": 160,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -839,22 +839,22 @@
       }
     },
     {
-      "name": "Переклад tccc.org.ua...",
+      "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 4145,
-        "y": 95,
-        "w": 680,
-        "h": 90,
+        "x": 3412,
+        "y": 6303,
+        "w": 1440,
+        "h": 105,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Переклад tccc.org.ua",
+      "content": "Продовження на наступній сторінці…",
       "format": {
-        "size": 66,
+        "size": 76,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -868,7 +868,7 @@
         },
         "fill": {
           "type": "color",
-          "value": "#777777"
+          "value": "#000000"
         }
       }
     },
@@ -950,6 +950,40 @@
       }
     },
     {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
+        }
+      }
+    },
+    {
       "name": "LAST UPDATED",
       "type": "text",
       "rect": {
@@ -963,7 +997,7 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "LAST UPDATED: 2024-07-12T14:42:21Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:18Z",
       "format": {
         "size": 64,
         "align": "right",

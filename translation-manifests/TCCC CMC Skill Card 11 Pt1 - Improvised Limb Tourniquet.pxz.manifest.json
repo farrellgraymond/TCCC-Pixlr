@@ -1,6 +1,6 @@
 {
-  "id": "09fe1485-c4cc-40c0-ac8a-9c8901f604a0",
-  "name": "11 Pt1 Improvised Limb Tourniquet PNG",
+  "id": "09fe1485-c4cc-40c0-ac8a-ac8901f604a0",
+  "name": "11 Pt1 UKR Improvised Limb Tourniquet",
   "type": "document",
   "unit": "pixel",
   "width": 5100,
@@ -26,9 +26,9 @@
       "name": "Продовження на наступній ..",
       "type": "text",
       "rect": {
-        "x": 3388,
-        "y": 6273,
-        "w": 1412,
+        "x": 3412,
+        "y": 6303,
+        "w": 1440,
         "h": 105,
         "r": 0
       },
@@ -366,9 +366,9 @@
       "name": "Shape 55 Copy",
       "type": "shape",
       "rect": {
-        "x": 3320,
-        "y": 2269,
-        "w": 841,
+        "x": 3441,
+        "y": 2184,
+        "w": 600,
         "h": 120,
         "r": 0
       },
@@ -392,12 +392,12 @@
       }
     },
     {
-      "name": "ПРОДОВЖУЙТЕ ТИСНУТИ..",
+      "name": "УТРИМУЙТЕ ТИСК..",
       "type": "text",
       "rect": {
-        "x": 3320,
-        "y": 2294,
-        "w": 842,
+        "x": 3441,
+        "y": 2212,
+        "w": 600,
         "h": 83,
         "r": 0
       },
@@ -405,7 +405,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ПРОДОВЖУЙТЕ ТИСНУТИ",
+      "content": "УТРИМУЙТЕ ТИСК",
       "format": {
         "size": 60,
         "align": "center",
@@ -599,9 +599,9 @@
       "name": "НАКЛАДАННЯ ІМПРОВІЗОВАНОГ..",
       "type": "text",
       "rect": {
-        "x": 267,
-        "y": 729,
-        "w": 4147,
+        "x": 200,
+        "y": 650,
+        "w": 4700,
         "h": 455,
         "r": 0
       },
@@ -611,7 +611,7 @@
       "link": "",
       "content": "НАКЛАДАННЯ ІМПРОВІЗОВАНОГО ТУРНІКЕТА НА КІНЦІВКУ",
       "format": {
-        "size": 180,
+        "size": 200,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -662,15 +662,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "ПРИМІТКА:..",
@@ -705,15 +697,7 @@
           "value": "#f00505"
         }
       },
-      "style": {
-        "outline": {
-          "size": 0.3,
-          "color": "#f00505",
-          "punch": false,
-          "distance": 0,
-          "direction": 305
-        }
-      }
+      "style": {}
     },
     {
       "name": "УВАГА:..",
@@ -748,13 +732,116 @@
           "value": "#f00505"
         }
       },
+      "style": {}
+    },
+    {
+      "name": "VERSION LABEL",
+      "type": "text",
+      "rect": {
+        "x": 3850,
+        "y": 6440,
+        "w": 650,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "#TCCC-CMC-SC-13",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      },
       "style": {
         "outline": {
-          "size": 0.3,
-          "color": "#f00505",
+          "size": 0.15,
+          "color": "#85242B",
           "punch": false,
           "distance": 0,
           "direction": 305
+        }
+      }
+    },
+    {
+      "name": "VERSION DATE",
+      "type": "text",
+      "rect": {
+        "x": 4500,
+        "y": 6440,
+        "w": 450,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "8 MAR 2021",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#85242B"
+        }
+      }
+    },
+    {
+      "name": "Переклад tccc.org.ua...",
+      "type": "text",
+      "rect": {
+        "x": 4145,
+        "y": 95,
+        "w": 680,
+        "h": 90,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Переклад tccc.org.ua",
+      "format": {
+        "size": 66,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Arial",
+          "content": "arial.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#777777"
         }
       }
     },
@@ -764,7 +851,7 @@
       "rect": {
         "x": 292,
         "y": 6440,
-        "w": 3200,
+        "w": 2900,
         "h": 92,
         "r": 0
       },
@@ -772,10 +859,10 @@
       "locked": true,
       "visible": true,
       "link": "",
-      "content": "https://github.com/farrellgraymond/TCCC-Pixlr                     LAST UPDATED: 2024-05-25T03:52:43Z",
+      "content": "LAST UPDATED: 2024-07-15T22:12:06Z",
       "format": {
         "size": 64,
-        "align": "left",
+        "align": "right",
         "bold": true,
         "italic": false,
         "underline": false,
