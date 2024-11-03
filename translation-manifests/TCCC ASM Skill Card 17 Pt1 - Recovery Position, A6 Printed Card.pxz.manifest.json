@@ -1,0 +1,590 @@
+{
+  "id": "0f133ae1-ae92-46fd-b268-7a9b522ef45d",
+  "name": "17 UKR Recovery Position, Pt 1 Voodoo",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-blank.png"
+    },
+    {
+      "name": "step 1",
+      "type": "image",
+      "rect": {
+        "x": 1458,
+        "y": 1100,
+        "w": 2185,
+        "h": 5300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step1.png"
+    },
+    {
+      "name": "Recovery Position QR 1.png",
+      "type": "image",
+      "rect": {
+        "x": 2560,
+        "y": 40,
+        "w": 900,
+        "h": 900,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "asm-card-17-qr-1.png"
+    },
+    {
+      "name": "Video icon 1.png",
+      "type": "image",
+      "rect": {
+        "x": 2300,
+        "y": 100,
+        "w": 300,
+        "h": 300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "video-icon.png"
+    },
+    {
+      "name": "Video icon 2.png",
+      "type": "image",
+      "rect": {
+        "x": 1770,
+        "y": 600,
+        "w": 300,
+        "h": 300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "video-icon.png"
+    },
+    {
+      "name": "Recovery Position QR 2.png",
+      "type": "image",
+      "rect": {
+        "x": 860,
+        "y": 40,
+        "w": 900,
+        "h": 900,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "asm-card-17-qr-2.png"
+    },
+    {
+      "name": "Shape 1",
+      "type": "shape",
+      "rect": {
+        "x": 4400,
+        "y": 1100,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 2",
+      "type": "shape",
+      "rect": {
+        "x": 1180,
+        "y": 6000,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 3",
+      "type": "shape",
+      "rect": {
+        "x": 2250,
+        "y": 5540,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 4",
+      "type": "shape",
+      "rect": {
+        "x": 3120,
+        "y": 5350,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 5",
+      "type": "shape",
+      "rect": {
+        "x": 3120,
+        "y": 2420,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "1..",
+      "type": "text",
+      "rect": {
+        "x": 4400,
+        "y": 1145,
+        "w": 400,
+        "h": 328,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "2..",
+      "type": "text",
+      "rect": {
+        "x": 1180,
+        "y": 6045,
+        "w": 400,
+        "h": 328,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "3..",
+      "type": "text",
+      "rect": {
+        "x": 2250,
+        "y": 5585,
+        "w": 400,
+        "h": 328,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "4..",
+      "type": "text",
+      "rect": {
+        "x": 3120,
+        "y": 5395,
+        "w": 400,
+        "h": 328,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "4",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "5..",
+      "type": "text",
+      "rect": {
+        "x": 3120,
+        "y": 2465,
+        "w": 400,
+        "h": 328,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "5",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "5: Іншою рукою ВІЗЬМІТЬ колі..",
+      "type": "text",
+      "rect": {
+        "x": -450,
+        "y": 4421,
+        "w": 2400,
+        "h": 521,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "5: Іншою рукою ВІЗЬМІТЬ коліно пораненого, яке знаходяться далі від вас, та ПІДТЯГНІТЬ його, щоб зігнути ногу та покласти стопу на підлогу. ",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "4: ПІДТРИМУЙТЕ та НАПРАВЛЯЙТ..",
+      "type": "text",
+      "rect": {
+        "x": -50,
+        "y": 2039,
+        "w": 1600,
+        "h": 521,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "4: ПІДТРИМУЙТЕ та НАПРАВЛЯЙТЕ своєю рукою голову пораненого під час перевертання.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "3: Своєю рукою, ближчою до г..",
+      "type": "text",
+      "rect": {
+        "x": 3456,
+        "y": 5056,
+        "w": 1800,
+        "h": 520,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3: Своєю рукою, ближчою до голови пораненого, ВІЗЬМІТЬ другу руку пораненого та ПРИТУЛІТЬ тильною стороною кисті до протилежної щоки (наприклад, права рука – ліва щока).",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "2: Ближчу до себе руку поран..",
+      "type": "text",
+      "rect": {
+        "x": 3679,
+        "y": 3195,
+        "w": 1600,
+        "h": 354,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2: Ближчу до себе руку пораненого обережно РОЗТАШУЙТЕ під прямим кутом до тіла, зігнуту в лікті, долонею догори.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "1: Обережно ПОКЛАДІТЬ поране..",
+      "type": "text",
+      "rect": {
+        "x": 4159,
+        "y": 1706,
+        "w": 800,
+        "h": 179,
+        "r": 90
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1: Обережно ПОКЛАДІТЬ пораненого на спину.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СТАБІЛЬНЕ БОКОВЕ ПОЛОЖЕНН..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 910,
+        "w": 4700,
+        "h": 273,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СТАБІЛЬНЕ БОКОВЕ ПОЛОЖЕННЯ",
+      "format": {
+        "size": 160,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

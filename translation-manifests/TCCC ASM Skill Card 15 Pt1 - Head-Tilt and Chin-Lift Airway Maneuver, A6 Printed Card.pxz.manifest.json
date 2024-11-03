@@ -1,0 +1,930 @@
+{
+  "id": "cd1eb874-c2b3-4db3-a4a9-1eb14fb2aa63",
+  "name": "15 UKR Head-Tilt Chin-Lift Airway Maneuver, Pt 1 Voodoo",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-blank.png"
+    },
+    {
+      "name": "step 1",
+      "type": "image",
+      "rect": {
+        "x": 200,
+        "y": 1300,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step1.png"
+    },
+    {
+      "name": "step 2",
+      "type": "image",
+      "rect": {
+        "x": 2650,
+        "y": 1300,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step2.png"
+    },
+    {
+      "name": "step 3",
+      "type": "image",
+      "rect": {
+        "x": 200,
+        "y": 3000,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step3.png"
+    },
+    {
+      "name": "step 4",
+      "type": "image",
+      "rect": {
+        "x": 2650,
+        "y": 2870,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step4.png"
+    },
+    {
+      "name": "step 5",
+      "type": "image",
+      "rect": {
+        "x": 2650,
+        "y": 4670,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step5.png"
+    },
+    {
+      "name": "Shape 1",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 1300,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 2",
+      "type": "shape",
+      "rect": {
+        "x": 2650,
+        "y": 1300,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 3",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 3000,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 4",
+      "type": "shape",
+      "rect": {
+        "x": 2650,
+        "y": 2870,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 5",
+      "type": "shape",
+      "rect": {
+        "x": 2650,
+        "y": 4670,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Head Tilt QR 1.png",
+      "type": "image",
+      "rect": {
+        "x": 2560,
+        "y": 40,
+        "w": 900,
+        "h": 900,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "asm-card-15-qr-1.png"
+    },
+    {
+      "name": "Video icon 1.png",
+      "type": "image",
+      "rect": {
+        "x": 2300,
+        "y": 100,
+        "w": 300,
+        "h": 300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "video-icon.png"
+    },
+    {
+      "name": "Video icon 2.png",
+      "type": "image",
+      "rect": {
+        "x": 1770,
+        "y": 600,
+        "w": 300,
+        "h": 300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "video-icon.png"
+    },
+    {
+      "name": "Head Tilt QR 2.png",
+      "type": "image",
+      "rect": {
+        "x": 860,
+        "y": 40,
+        "w": 900,
+        "h": 900,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "asm-card-15-qr-2.png"
+    },
+    {
+      "name": "1..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 1340,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "2..",
+      "type": "text",
+      "rect": {
+        "x": 2650,
+        "y": 1340,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "3..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 3046,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "3",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "4..",
+      "type": "text",
+      "rect": {
+        "x": 2650,
+        "y": 2916,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "4",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "5..",
+      "type": "text",
+      "rect": {
+        "x": 2650,
+        "y": 4716,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "5",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Не використовуй..",
+      "type": "text",
+      "rect": {
+        "x": 750,
+        "y": 6350,
+        "w": 4300,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Не використовуйте великий палець, щоб вивести підборіддя.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 750,
+        "y": 6350,
+        "w": 4300,
+        "h": 100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {}
+    },
+    {
+      "name": "ПОКЛАДІТЬ кінчики пальців..",
+      "type": "text",
+      "rect": {
+        "x": 2450,
+        "y": 5970,
+        "w": 2590,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОКЛАДІТЬ кінчики пальців іншої руки під кісткову частину підборіддя та підніміть його, виводячи підборіддя доверху.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОКЛАДІТЬ одну руку на чо..",
+      "type": "text",
+      "rect": {
+        "x": 2630,
+        "y": 4170,
+        "w": 2290,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОКЛАДІТЬ одну руку на чоло пораненого. НАТИСНІТЬ долонею в напрямку донизу, щоб розігнути голову.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: НЕ шукайте сто..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 5350,
+        "w": 2290,
+        "h": 188,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: НЕ шукайте сторонні тіла в ротовій порожнині пальцем наосліп.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 5350,
+        "w": 2290,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {}
+    },
+    {
+      "name": "ПРИМІТКА: Якщо в ротовій..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 4950,
+        "w": 2290,
+        "h": 271,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Якщо в ротовій порожнині наявні сторонні тіла чи блювота, видаліть їх якомога швидше. ",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 4950,
+        "w": 2290,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {}
+    },
+    {
+      "name": "ВІДКРИЙТЕ рот пораненого ..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 4300,
+        "w": 2350,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВІДКРИЙТЕ рот пораненого та ОГЛЯНЬТЕ, чи немає видимої обструкції дихальних шляхів (напр., рвані рани, зламані зуби, опіки, набряк або інші залишки, наприклад блювота). ",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "СТАНЬТЕ на коліна на рівн..",
+      "type": "text",
+      "rect": {
+        "x": 2630,
+        "y": 2600,
+        "w": 2370,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "СТАНЬТЕ на коліна на рівні плечей пораненого, збоку від нього.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕВЕРНІТЬ пораненого на..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 2600,
+        "w": 2290,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВЕРНІТЬ пораненого на спину, якщо необхідно, і ПОКЛАДІТЬ його на тверду рівну поверхню.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: НЕ застосовуйт..",
+      "type": "text",
+      "rect": {
+        "x": 120,
+        "y": 1100,
+        "w": 4830,
+        "h": 197,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: НЕ застосовуйте цей прийом, якщо є підозра на травму хребта або шиї",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 120,
+        "y": 1100,
+        "w": 4830,
+        "h": 110,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {}
+    },
+    {
+      "name": "РОЗГИНАННЯ ГОЛОВИ / ВИВЕД..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 910,
+        "w": 4700,
+        "h": 507,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РОЗГИНАННЯ ГОЛОВИ / ВИВЕДЕННЯ ПІДБОРІДДЯ",
+      "format": {
+        "size": 160,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    }
+  ]
+}

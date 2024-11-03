@@ -1,0 +1,723 @@
+{
+  "id": "b63fc5d2-dcf9-4583-b6b9-12027982885f",
+  "name": "11 UKR Two-Handed Windlass Tourniquet, Pt 2 Voodoo",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-blank.png"
+    },
+    {
+      "name": "step 5",
+      "type": "image",
+      "rect": {
+        "x": 200,
+        "y": 200,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step5.png"
+    },
+    {
+      "name": "step 6",
+      "type": "image",
+      "rect": {
+        "x": 2650,
+        "y": 200,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step6.png"
+    },
+    {
+      "name": "step 7",
+      "type": "image",
+      "rect": {
+        "x": 200,
+        "y": 1900,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step7.png"
+    },
+    {
+      "name": "step 8",
+      "type": "image",
+      "rect": {
+        "x": 2650,
+        "y": 1900,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step8.png"
+    },
+    {
+      "name": "step 9",
+      "type": "image",
+      "rect": {
+        "x": 200,
+        "y": 3600,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step9.png"
+    },
+    {
+      "name": "Shape 5",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 200,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 6",
+      "type": "shape",
+      "rect": {
+        "x": 2650,
+        "y": 200,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 7",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 1900,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 8",
+      "type": "shape",
+      "rect": {
+        "x": 2650,
+        "y": 1900,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 9",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 3600,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Якщо відсутні ознаки інши..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 4900,
+        "w": 2290,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Якщо відсутні ознаки інших масивних кровотеч, перемістіть пораненого в укриття.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА: Не документуйт..",
+      "type": "text",
+      "rect": {
+        "x": 2630,
+        "y": 3400,
+        "w": 2290,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА: Не документуйте час накладання турнікета до переходу в фазу Допомоги в польових умовах.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА:..",
+      "type": "text",
+      "rect": {
+        "x": 2630,
+        "y": 3400,
+        "w": 2290,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      },
+      "style": {}
+    },
+    {
+      "name": "Закріпіть усе фіксуючою с..",
+      "type": "text",
+      "rect": {
+        "x": 2630,
+        "y": 3200,
+        "w": 2290,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Закріпіть усе фіксуючою стрічкою.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Проведіть самоклеючу стрі..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 3200,
+        "w": 2290,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Проведіть самоклеючу стрічку навколо воротка та між фіксуючими скобами.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Закріпіть вороток за допо..",
+      "type": "text",
+      "rect": {
+        "x": 2630,
+        "y": 1500,
+        "w": 2370,
+        "h": 179,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Закріпіть вороток за допомогою фіксатора.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "хвилина..",
+      "type": "text",
+      "rect": {
+        "x": 361,
+        "y": 1144,
+        "w": 500,
+        "h": 134,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "хвилина",
+      "format": {
+        "size": 95,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Закручуйте вороток до тих..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 1500,
+        "w": 2290,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Закручуйте вороток до тих пір, поки кровотеча не зупиниться (кроки 1-5 слід виконати менш, ніж за 1 хв).",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "5..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 240,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "5",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "6..",
+      "type": "text",
+      "rect": {
+        "x": 2650,
+        "y": 240,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "6",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "7..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 1946,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "7",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "8..",
+      "type": "text",
+      "rect": {
+        "x": 2650,
+        "y": 1946,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "8",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "9..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 3646,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Two-Handed Windlass QR 1.png",
+      "type": "image",
+      "rect": {
+        "x": 3500,
+        "y": 3800,
+        "w": 1200,
+        "h": 1200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "asm-card-11-qr-1.png"
+    },
+    {
+      "name": "Video icon 1.png",
+      "type": "image",
+      "rect": {
+        "x": 2950,
+        "y": 3900,
+        "w": 512,
+        "h": 512,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "video-icon.png"
+    },
+    {
+      "name": "Video icon 2.png",
+      "type": "image",
+      "rect": {
+        "x": 1400,
+        "y": 5360,
+        "w": 512,
+        "h": 512,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "video-icon.png"
+    },
+    {
+      "name": "Two-Handed Windlass QR 2.png",
+      "type": "image",
+      "rect": {
+        "x": 180,
+        "y": 5250,
+        "w": 1200,
+        "h": 1200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "asm-card-11-qr-2.png"
+    }
+  ]
+}
