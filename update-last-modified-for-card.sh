@@ -20,7 +20,7 @@ LASTMOD_JSON="{
       \"type\": \"text\",
       \"rect\": {
         \"x\": 292,
-        \"y\": 6440,
+        \"y\": 7053,
         \"w\": 2900,
         \"h\": 92,
         \"r\": 0
@@ -40,8 +40,8 @@ LASTMOD_JSON="{
         \"linespace\": 0,
         \"letterspace\": 0,
         \"font\": {
-          \"name\": \"Arial\",
-          \"content\": \"arial.woff\"
+          \"name\": \"Verdana\",
+          \"content\": \"verdana.woff\"
         },
         \"fill\": {
           \"type\": \"color\",
@@ -57,7 +57,7 @@ PEREKLAD_JSON="{
       \"rect\": {
         \"x\": 4145,
         \"y\": 95,
-        \"w\": 680,
+        \"w\": 750,
         \"h\": 90,
         \"r\": 0
       },
@@ -76,8 +76,8 @@ PEREKLAD_JSON="{
         \"linespace\": 0,
         \"letterspace\": 0,
         \"font\": {
-          \"name\": \"Arial\",
-          \"content\": \"arial.woff\"
+          \"name\": \"Verdana\",
+          \"content\": \"verdana.woff\"
         },
         \"fill\": {
           \"type\": \"color\",
