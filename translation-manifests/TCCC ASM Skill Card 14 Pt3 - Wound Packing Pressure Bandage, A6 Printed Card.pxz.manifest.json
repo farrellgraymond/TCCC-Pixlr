@@ -1,0 +1,718 @@
+{
+  "id": "a51c73a5-cf4d-4cf5-9c7a-5aaa47ca95f7",
+  "name": "14 UKR Wound Packing Pressure Bandage, Pt 3 Voodoo",
+  "type": "document",
+  "unit": "pixel",
+  "width": 5100,
+  "height": 6600,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "image",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 5100,
+        "h": 6600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": true,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-blank.png"
+    },
+    {
+      "name": "step 10",
+      "type": "image",
+      "rect": {
+        "x": 200,
+        "y": 1300,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step10.png"
+    },
+    {
+      "name": "step 11",
+      "type": "image",
+      "rect": {
+        "x": 2650,
+        "y": 1300,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step11.png"
+    },
+    {
+      "name": "step 12",
+      "type": "image",
+      "rect": {
+        "x": 200,
+        "y": 3100,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step12.png"
+    },
+    {
+      "name": "step 13",
+      "type": "image",
+      "rect": {
+        "x": 200,
+        "y": 4700,
+        "w": 2250,
+        "h": 1300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "9f04a9254172-step13.png"
+    },
+    {
+      "name": "Shape 10",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 1300,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 11",
+      "type": "shape",
+      "rect": {
+        "x": 2650,
+        "y": 1300,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 12",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 3100,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "Shape 13",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 4700,
+        "w": 400,
+        "h": 400,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#423e3b"
+        }
+      }
+    },
+    {
+      "name": "10..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 1340,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "10",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "11..",
+      "type": "text",
+      "rect": {
+        "x": 2650,
+        "y": 1340,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "11",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "12..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 3146,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "12",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "13..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 4746,
+        "w": 400,
+        "h": 328,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "13",
+      "format": {
+        "size": 220,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Wound Packing Pressure Bandage QR 1.png",
+      "type": "image",
+      "rect": {
+        "x": 2560,
+        "y": 40,
+        "w": 900,
+        "h": 900,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "asm-card-14-qr-1.png"
+    },
+    {
+      "name": "Video icon 1.png",
+      "type": "image",
+      "rect": {
+        "x": 2300,
+        "y": 100,
+        "w": 300,
+        "h": 300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "video-icon.png"
+    },
+    {
+      "name": "Video icon 2.png",
+      "type": "image",
+      "rect": {
+        "x": 1770,
+        "y": 600,
+        "w": 300,
+        "h": 300,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "video-icon.png"
+    },
+    {
+      "name": "Wound Packing Pressure Bandage QR 2.png",
+      "type": "image",
+      "rect": {
+        "x": 860,
+        "y": 40,
+        "w": 900,
+        "h": 900,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "asm-card-14-qr-2.png"
+    },
+    {
+      "name": "ТАМПОНУВАННЯ РАНИ ТА НАКЛ..",
+      "type": "text",
+      "rect": {
+        "x": 0,
+        "y": 910,
+        "w": 5100,
+        "h": 507,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ТАМПОНУВАННЯ РАНИ ТА НАКЛАДАННЯ КОМПРЕСІЙНОГО БАНДАЖА",
+      "format": {
+        "size": 135,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Продовження…..",
+      "type": "text",
+      "rect": {
+        "x": 0,
+        "y": 1080,
+        "w": 5100,
+        "h": 218,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Продовження…",
+      "format": {
+        "size": 135,
+        "align": "center",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "РОЗМІСТІТЬ подушечку банд..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 2600,
+        "w": 2300,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "РОЗМІСТІТЬ подушечку бандажа над раною або поверх накладеної пов’язки, продовжуючи застосовувати прямий тиск.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ЗАКРІПІТЬ липучкою або за..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 4400,
+        "w": 2300,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАКРІПІТЬ липучкою або застібкою останній оберт бандажа.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПЕРЕВІРТЕ стан кровообігу..",
+      "type": "text",
+      "rect": {
+        "x": 180,
+        "y": 6000,
+        "w": 2550,
+        "h": 327,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПЕРЕВІРТЕ стан кровообігу нижче місця накладання компресійного бандажа, визначивши наявність дистального пульсу. ",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 13: Якщ..",
+      "type": "text",
+      "rect": {
+        "x": 2530,
+        "y": 4700,
+        "w": 2300,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 13: Якщо шкіра в ділянці нижче компресійного бандажа стала холодною на дотик, синюшною або втратила чутливість, або якщо дистальний пульс більше не визначається, можливо, бандаж накладено занадто туго, і його слід послабити та накласти знову; якщо виникла кровотеча, можливо, потрібно буде накласти турнікет на кінцівку або вузловий турнікет.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 13: ..",
+      "type": "text",
+      "rect": {
+        "x": 2530,
+        "y": 4700,
+        "w": 2300,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 13: ",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    },
+    {
+      "name": "Щільно ОБЕРНІТЬ еластични..",
+      "type": "text",
+      "rect": {
+        "x": 2630,
+        "y": 2600,
+        "w": 2300,
+        "h": 401,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Щільно ОБЕРНІТЬ еластичний бинт бандажа навколо кінцівки, переконавшись, що краї подушечки повністю покриті ним (див. примітку нижче).",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 11: Якщ..",
+      "type": "text",
+      "rect": {
+        "x": 2630,
+        "y": 3200,
+        "w": 2300,
+        "h": 253,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 11: Якщо бандаж має пластиковий елемент для тиску, проведіть еластичний бинт крізь отвір елемента та розверніть еластичний бинт у зворотному напрямку над пластиковим елементом для тиску, таким чином притиснувши його до подушечки. ",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПРИМІТКА ДО КРОКУ 11:..",
+      "type": "text",
+      "rect": {
+        "x": 2630,
+        "y": 3200,
+        "w": 2300,
+        "h": 105,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРИМІТКА ДО КРОКУ 11:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#f00505"
+        }
+      }
+    }
+  ]
+}
